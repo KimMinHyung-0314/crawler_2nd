@@ -1,0 +1,227 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>오늘의 해커뉴스 카드</title>
+<style>
+  :root {
+    --bg:#f4f1ea; --card:#fffdf8; --ink:#1d1b18; --muted:#8a8378;
+    --accent:#ff5a1f; --line:#e6e0d4;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root { --bg:#141311; --card:#1f1d1a; --ink:#f2eee6; --muted:#8f887c; --line:#2e2b27; }
+  }
+  * { box-sizing:border-box; }
+  body { margin:0; background:var(--bg); color:var(--ink);
+         font-family:-apple-system, "Apple SD Gothic Neo", "Noto Sans KR", sans-serif;
+         padding: env(safe-area-inset-top) 0 env(safe-area-inset-bottom); }
+  header { padding:28px 18px 8px; max-width:960px; margin:0 auto; }
+  header h1 { margin:0; font-size:26px; letter-spacing:-0.5px; }
+  .time { color:var(--muted); font-size:13px; margin-top:4px; }
+  .summary { margin:16px 0 8px; padding:14px 16px; border-radius:14px;
+             background:var(--ink); color:var(--bg); font-size:15px; }
+  .summary b { color:var(--accent); font-size:18px; }
+  .summary small { display:block; opacity:.6; font-size:12px; margin-top:2px; }
+  .filters { display:flex; gap:8px; margin:12px 0 4px; }
+  .filters button { border:1px solid var(--line); background:var(--card); color:var(--ink);
+                    padding:8px 14px; border-radius:999px; font-size:14px; }
+  .filters button.on { background:var(--accent); border-color:var(--accent); color:#fff; }
+  main { max-width:960px; margin:0 auto; padding:8px 18px 24px;
+         display:grid; gap:12px; grid-template-columns:1fr; }
+  @media (min-width:640px) { main { grid-template-columns:1fr 1fr; } }
+  .card { display:flex; flex-direction:column; gap:10px; min-height:150px;
+          background:var(--card); border:1px solid var(--line); border-radius:18px;
+          padding:18px; color:inherit; text-decoration:none;
+          transition:transform .15s; }
+  .card:active { transform:scale(.98); }
+  .card.new { border-color:var(--accent); box-shadow:0 0 0 1px var(--accent) inset; }
+  .top { display:flex; justify-content:space-between; align-items:center; }
+  .rank { font-size:28px; font-weight:800; color:var(--line); }
+  .card.new .rank { color:var(--accent); }
+  .badge { background:var(--accent); color:#fff; font-size:11px; font-weight:700;
+           padding:4px 8px; border-radius:6px; letter-spacing:.5px; }
+  .card h2 { margin:0; font-size:18px; line-height:1.4; flex:1; word-break:keep-all; }
+  .domain { color:var(--muted); font-size:13px; }
+  body.only-new .card:not(.new) { display:none; }
+  details { max-width:960px; margin:0 auto 40px; padding:0 18px; color:var(--muted); }
+  details summary { cursor:pointer; padding:10px 0; }
+  details a { color:var(--muted); }
+  details li { margin:6px 0; text-decoration:line-through; }
+</style>
+</head>
+<body>
+<header>
+  <h1>Hacker News 카드</h1>
+  <div class="time">마지막 수집 2026-09-23 08:00 (KST)</div>
+  <div class="summary"><b>1</b>개 새 글 · <b>1</b>개 사라짐<small>2026-09-23 07:50 대비</small></div>
+  <div class="filters">
+    <button class="on" onclick="setFilter(false, this)">전체 30</button>
+    <button onclick="setFilter(true, this)">NEW만 1</button>
+  </div>
+</header>
+<main>
+    <a class="card" href="https://openai.com/index/introducing-gpt-6-sol-and-luna/" target="_blank" rel="noopener">
+      <div class="top"><span class="rank">01</span></div>
+      <h2>GPT-6 Sol and Luna</h2>
+      <div class="domain">openai.com</div>
+    </a>
+    <a class="card" href="https://www.anthropic.com/claude-opus-5-5" target="_blank" rel="noopener">
+      <div class="top"><span class="rank">02</span></div>
+      <h2>Claude Opus 5.5</h2>
+      <div class="domain">anthropic.com</div>
+    </a>
+    <a class="card" href="https://foxscript.org/" target="_blank" rel="noopener">
+      <div class="top"><span class="rank">03</span></div>
+      <h2>Microsoft killed FoxPro in 2007. Anyway, here&#x27;s FoxPro revived</h2>
+      <div class="domain">foxscript.org</div>
+    </a>
+    <a class="card" href="https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/" target="_blank" rel="noopener">
+      <div class="top"><span class="rank">04</span></div>
+      <h2>&#x27;We hacked the FBI:&#x27; Hackers say they have data on all FBI employees</h2>
+      <div class="domain">404media.co</div>
+    </a>
+    <a class="card" href="https://www.cryptocellar.org/bgac/the-mvueh-break.html" target="_blank" rel="noopener">
+      <div class="top"><span class="rank">05</span></div>
+      <h2>OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005</h2>
+      <div class="domain">cryptocellar.org</div>
+    </a>
+    <a class="card" href="https://github.com/xCuri0/ReBarUEFI" target="_blank" rel="noopener">
+      <div class="top"><span class="rank">06</span></div>
+      <h2>ReBarUEFI: Resizable BAR for almost any UEFI system</h2>
+      <div class="domain">github.com</div>
+    </a>
+    <a class="card" href="https://blog.trailofbits.com/2026/09/21/saml-a-fractal-of-bad-design/" target="_blank" rel="noopener">
+      <div class="top"><span class="rank">07</span></div>
+      <h2>SAML: A fractal of bad design</h2>
+      <div class="domain">blog.trailofbits.com</div>
+    </a>
+    <a class="card" href="https://artificialanalysis.ai/models/claude-opus-5-5" target="_blank" rel="noopener">
+      <div class="top"><span class="rank">08</span></div>
+      <h2>Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)</h2>
+      <div class="domain">artificialanalysis.ai</div>
+    </a>
+    <a class="card" href="https://unreallabs.ai/blog/unreal-agent/" target="_blank" rel="noopener">
+      <div class="top"><span class="rank">09</span></div>
+      <h2>Unreal Agent</h2>
+      <div class="domain">unreallabs.ai</div>
+    </a>
+    <a class="card" href="https://github.com/WordPress/wordpress-develop/security/advisories/GHSA-7hp8-65ch-5whp" target="_blank" rel="noopener">
+      <div class="top"><span class="rank">10</span></div>
+      <h2>WordPress: Unauthenticated path traversal leading to conditional RCE</h2>
+      <div class="domain">github.com</div>
+    </a>
+    <a class="card" href="https://discord.com/blog/safer-for-teens-same-discord-for-adults" target="_blank" rel="noopener">
+      <div class="top"><span class="rank">11</span></div>
+      <h2>An update on how we confirm your age group on Discord</h2>
+      <div class="domain">discord.com</div>
+    </a>
+    <a class="card" href="https://lemire.me/blog/2026/09/18/how-did-amd-ryzen-get-50-faster-in-two-years/" target="_blank" rel="noopener">
+      <div class="top"><span class="rank">12</span></div>
+      <h2>How did AMD Ryzen get 50% faster in two years?</h2>
+      <div class="domain">lemire.me</div>
+    </a>
+    <a class="card" href="https://github.com/geastack/examples" target="_blank" rel="noopener">
+      <div class="top"><span class="rank">13</span></div>
+      <h2>Native apps written in TypeScript and CSS</h2>
+      <div class="domain">github.com</div>
+    </a>
+    <a class="card" href="https://www.scientificamerican.com/article/did-openai-solve-the-wrong-navier-stokes-problem/" target="_blank" rel="noopener">
+      <div class="top"><span class="rank">14</span></div>
+      <h2>Did OpenAI solve the wrong Navier-Stokes problem?</h2>
+      <div class="domain">scientificamerican.com</div>
+    </a>
+    <a class="card" href="https://daniel.lawrence.lu/blog/2026-09-20-muni-heritage-weekend/" target="_blank" rel="noopener">
+      <div class="top"><span class="rank">15</span></div>
+      <h2>MUNI Heritage Weekend in San Francisco</h2>
+      <div class="domain">daniel.lawrence.lu</div>
+    </a>
+    <a class="card" href="https://htmx.org/essays/markdown-in-src/" target="_blank" rel="noopener">
+      <div class="top"><span class="rank">16</span></div>
+      <h2>Markdown in /src</h2>
+      <div class="domain">htmx.org</div>
+    </a>
+    <a class="card" href="https://blog.asciitweezers.com/the-uv-index-is-not-the-warm-sensation-of-sunlight-on-bare-skin/" target="_blank" rel="noopener">
+      <div class="top"><span class="rank">17</span></div>
+      <h2>The UV index is not the warm sensation of sunlight on bare skin</h2>
+      <div class="domain">blog.asciitweezers.com</div>
+    </a>
+    <a class="card" href="https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/" target="_blank" rel="noopener">
+      <div class="top"><span class="rank">18</span></div>
+      <h2>OpenAI is well positioned to fast-follow Jev</h2>
+      <div class="domain">arcturus-labs.com</div>
+    </a>
+    <a class="card" href="https://benchmarkheaven.com/jev-models" target="_blank" rel="noopener">
+      <div class="top"><span class="rank">19</span></div>
+      <h2>Show HN: JevBench, a reproducible benchmark for typed decision models</h2>
+      <div class="domain">benchmarkheaven.com</div>
+    </a>
+    <a class="card" href="https://commonedge.org/george-lucas-returns-to-earth-bearing-gifts/" target="_blank" rel="noopener">
+      <div class="top"><span class="rank">20</span></div>
+      <h2>George Lucas Returns to Earth, Bearing Gifts</h2>
+      <div class="domain">commonedge.org</div>
+    </a>
+    <a class="card" href="https://blog.djnavarro.net/posts/2026-09-20_the-trouble-with-ntile/" target="_blank" rel="noopener">
+      <div class="top"><span class="rank">21</span></div>
+      <h2>The trouble with &#x27;ntile()&#x27;</h2>
+      <div class="domain">blog.djnavarro.net</div>
+    </a>
+    <a class="card" href="https://arxiv.org/abs/2609.15369" target="_blank" rel="noopener">
+      <div class="top"><span class="rank">22</span></div>
+      <h2>Show HN: Training a model to identify AI web content from structure alone</h2>
+      <div class="domain">arxiv.org</div>
+    </a>
+    <a class="card" href="https://www.interconnects.ai/p/the-current-balance-of-power-in-open" target="_blank" rel="noopener">
+      <div class="top"><span class="rank">23</span></div>
+      <h2>The current balance of power in open models</h2>
+      <div class="domain">interconnects.ai</div>
+    </a>
+    <a class="card" href="https://allpoetry.com/16-bit-Intel-8088-chip" target="_blank" rel="noopener">
+      <div class="top"><span class="rank">24</span></div>
+      <h2>16-bit Intel 8088 chip (c. 1985)</h2>
+      <div class="domain">allpoetry.com</div>
+    </a>
+    <a class="card" href="https://www.coveragecat.com/" target="_blank" rel="noopener">
+      <div class="top"><span class="rank">25</span></div>
+      <h2>Launch HN: Coverage Cat (YC S22) – Umbrella insurance via your personal agent</h2>
+      <div class="domain">coveragecat.com</div>
+    </a>
+    <a class="card" href="https://www.bloomberg.com/news/articles/2026-09-18/to-quit-vaping-some-are-starting-to-smoke" target="_blank" rel="noopener">
+      <div class="top"><span class="rank">26</span></div>
+      <h2>People hooked on vapes try a new way to quit: cigarettes</h2>
+      <div class="domain">bloomberg.com</div>
+    </a>
+    <a class="card" href="https://www.fractalkitty.com/rabbit-hole-minimum-l-seams/" target="_blank" rel="noopener">
+      <div class="top"><span class="rank">27</span></div>
+      <h2>Rabbit Hole: Minimum L-seams</h2>
+      <div class="domain">fractalkitty.com</div>
+    </a>
+    <a class="card new" href="https://maroun-baydoun.com/blog/javascript-midlife-crisis/" target="_blank" rel="noopener">
+      <div class="top"><span class="rank">28</span><span class="badge">NEW</span></div>
+      <h2>The JavaScript Midlife Crisis</h2>
+      <div class="domain">maroun-baydoun.com</div>
+    </a>
+    <a class="card" href="https://www.bloomberg.com/graphics/2026-iran-school-attack/" target="_blank" rel="noopener">
+      <div class="top"><span class="rank">29</span></div>
+      <h2>Pentagon says overreliance on AI contributed to missile strike on Iran school</h2>
+      <div class="domain">bloomberg.com</div>
+    </a>
+    <a class="card" href="https://www.techradar.com/phones/iphone/i-wish-apple-would-just-stop-that-crap-apple-has-added-persistent-ads-to-ios-and-its-driving-users-crazy" target="_blank" rel="noopener">
+      <div class="top"><span class="rank">30</span></div>
+      <h2>Apple has added persistent &#x27;ads&#x27; to iOS, and it&#x27;s driving users crazy</h2>
+      <div class="domain">techradar.com</div>
+    </a>
+</main>
+<details>
+  <summary>사라진 글 1개 보기</summary>
+  <ul><li><a href="https://grapheneos.social/@GrapheneOS/117299954135808210" target="_blank">There&#x27;s a high chance of devices being sold with GrapheneOS preinstalled in 2027</a></li></ul>
+</details>
+<script>
+  function setFilter(onlyNew, btn) {
+    document.body.classList.toggle("only-new", onlyNew);
+    document.querySelectorAll(".filters button").forEach(b => b.classList.remove("on"));
+    btn.classList.add("on");
+  }
+</script>
+</body>
+</html>
