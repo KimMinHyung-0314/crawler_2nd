@@ -1,6 +1,6 @@
 {
-  "crawled_at": "2026-09-23 08:00",
-  "prev_crawled_at": "2026-09-23 07:50",
+  "crawled_at": "2026-09-23 09:03",
+  "prev_crawled_at": "2026-09-23 08:00",
   "items": [
     {
       "title": "GPT-6 Sol and Luna",
@@ -13,13 +13,13 @@
       "is_new": false
     },
     {
-      "title": "Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived",
-      "link": "https://foxscript.org/",
+      "title": "'We hacked the FBI:' Hackers say they have data on all FBI employees",
+      "link": "https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/",
       "is_new": false
     },
     {
-      "title": "'We hacked the FBI:' Hackers say they have data on all FBI employees",
-      "link": "https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/",
+      "title": "Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived",
+      "link": "https://foxscript.org/",
       "is_new": false
     },
     {
@@ -53,8 +53,8 @@
       "is_new": false
     },
     {
-      "title": "An update on how we confirm your age group on Discord",
-      "link": "https://discord.com/blog/safer-for-teens-same-discord-for-adults",
+      "title": "Native apps written in TypeScript and CSS",
+      "link": "https://github.com/geastack/examples",
       "is_new": false
     },
     {
@@ -63,13 +63,8 @@
       "is_new": false
     },
     {
-      "title": "Native apps written in TypeScript and CSS",
-      "link": "https://github.com/geastack/examples",
-      "is_new": false
-    },
-    {
-      "title": "Did OpenAI solve the wrong Navier-Stokes problem?",
-      "link": "https://www.scientificamerican.com/article/did-openai-solve-the-wrong-navier-stokes-problem/",
+      "title": "The current balance of power in open models",
+      "link": "https://www.interconnects.ai/p/the-current-balance-of-power-in-open",
       "is_new": false
     },
     {
@@ -83,8 +78,8 @@
       "is_new": false
     },
     {
-      "title": "The UV index is not the warm sensation of sunlight on bare skin",
-      "link": "https://blog.asciitweezers.com/the-uv-index-is-not-the-warm-sensation-of-sunlight-on-bare-skin/",
+      "title": "Show HN: JevBench, a reproducible benchmark for typed decision models",
+      "link": "https://benchmarkheaven.com/jev-models",
       "is_new": false
     },
     {
@@ -93,8 +88,8 @@
       "is_new": false
     },
     {
-      "title": "Show HN: JevBench, a reproducible benchmark for typed decision models",
-      "link": "https://benchmarkheaven.com/jev-models",
+      "title": "Show HN: Training a model to identify AI web content from structure alone",
+      "link": "https://arxiv.org/abs/2609.15369",
       "is_new": false
     },
     {
@@ -103,28 +98,8 @@
       "is_new": false
     },
     {
-      "title": "The trouble with 'ntile()'",
-      "link": "https://blog.djnavarro.net/posts/2026-09-20_the-trouble-with-ntile/",
-      "is_new": false
-    },
-    {
-      "title": "Show HN: Training a model to identify AI web content from structure alone",
-      "link": "https://arxiv.org/abs/2609.15369",
-      "is_new": false
-    },
-    {
-      "title": "The current balance of power in open models",
-      "link": "https://www.interconnects.ai/p/the-current-balance-of-power-in-open",
-      "is_new": false
-    },
-    {
       "title": "16-bit Intel 8088 chip (c. 1985)",
       "link": "https://allpoetry.com/16-bit-Intel-8088-chip",
-      "is_new": false
-    },
-    {
-      "title": "Launch HN: Coverage Cat (YC S22) – Umbrella insurance via your personal agent",
-      "link": "https://www.coveragecat.com/",
       "is_new": false
     },
     {
@@ -133,14 +108,9 @@
       "is_new": false
     },
     {
-      "title": "Rabbit Hole: Minimum L-seams",
-      "link": "https://www.fractalkitty.com/rabbit-hole-minimum-l-seams/",
+      "title": "Launch HN: Coverage Cat (YC S22) – Umbrella insurance via your personal agent",
+      "link": "https://www.coveragecat.com/",
       "is_new": false
-    },
-    {
-      "title": "The JavaScript Midlife Crisis",
-      "link": "https://maroun-baydoun.com/blog/javascript-midlife-crisis/",
-      "is_new": true
     },
     {
       "title": "Pentagon says overreliance on AI contributed to missile strike on Iran school",
@@ -151,12 +121,48 @@
       "title": "Apple has added persistent 'ads' to iOS, and it's driving users crazy",
       "link": "https://www.techradar.com/phones/iphone/i-wish-apple-would-just-stop-that-crap-apple-has-added-persistent-ads-to-ios-and-its-driving-users-crazy",
       "is_new": false
+    },
+    {
+      "title": "The JavaScript Midlife Crisis",
+      "link": "https://maroun-baydoun.com/blog/javascript-midlife-crisis/",
+      "is_new": false
+    },
+    {
+      "title": "The trouble with 'ntile()'",
+      "link": "https://blog.djnavarro.net/posts/2026-09-20_the-trouble-with-ntile/",
+      "is_new": false
+    },
+    {
+      "title": "There's a high chance of devices being sold with GrapheneOS preinstalled in 2027",
+      "link": "https://grapheneos.social/@GrapheneOS/117299954135808210",
+      "is_new": true
+    },
+    {
+      "title": "Did OpenAI solve the wrong Navier-Stokes problem?",
+      "link": "https://www.scientificamerican.com/article/did-openai-solve-the-wrong-navier-stokes-problem/",
+      "is_new": false
+    },
+    {
+      "title": "Can gzip be a language model?",
+      "link": "https://nathan.rs/posts/gzip-lm/",
+      "is_new": true
+    },
+    {
+      "title": "Rabbit Hole: Minimum L-seams",
+      "link": "https://www.fractalkitty.com/rabbit-hole-minimum-l-seams/",
+      "is_new": false
     }
   ],
   "removed": [
     {
-      "title": "There's a high chance of devices being sold with GrapheneOS preinstalled in 2027",
-      "link": "https://grapheneos.social/@GrapheneOS/117299954135808210"
+      "title": "An update on how we confirm your age group on Discord",
+      "link": "https://discord.com/blog/safer-for-teens-same-discord-for-adults",
+      "is_new": false
+    },
+    {
+      "title": "The UV index is not the warm sensation of sunlight on bare skin",
+      "link": "https://blog.asciitweezers.com/the-uv-index-is-not-the-warm-sensation-of-sunlight-on-bare-skin/",
+      "is_new": false
     }
   ]
 }
