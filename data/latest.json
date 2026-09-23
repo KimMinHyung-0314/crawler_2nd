@@ -1,15 +1,30 @@
 {
-  "crawled_at": "2026-09-23 18:42",
-  "prev_crawled_at": "2026-09-23 13:23",
+  "crawled_at": "2026-09-23 23:41",
+  "prev_crawled_at": "2026-09-23 18:42",
   "items": [
     {
-      "title": "Jev in 25 Lines of Python",
-      "link": "https://www.nobodywho.ai/posts/jev-in-25-lines/",
+      "title": "Claude Code reads AGENTS.md only when telemetry is on",
+      "link": "https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/",
       "is_new": true
     },
     {
-      "title": "Abandoning Scientific Linux Was a Mistake",
-      "link": "https://blog.melashri.net/posts/scientific-linux-mistake/",
+      "title": "The GitHub wiki is an anti-pattern",
+      "link": "https://michaelheap.com/github-wiki-is-an-antipattern/",
+      "is_new": true
+    },
+    {
+      "title": "I Don't Want the Details",
+      "link": "https://michaelheap.com/i-dont-want-the-details/",
+      "is_new": true
+    },
+    {
+      "title": "Jev in 25 Lines of Python",
+      "link": "https://www.nobodywho.ai/posts/jev-in-25-lines/",
+      "is_new": false
+    },
+    {
+      "title": "Z80 REPL",
+      "link": "https://abagames.github.io/z80-repl/index.html",
       "is_new": true
     },
     {
@@ -18,9 +33,49 @@
       "is_new": false
     },
     {
+      "title": "Stripe built its internal AI platform",
+      "link": "https://stripe.dev/blog/meet-stripes-knowledge-ai-platform",
+      "is_new": true
+    },
+    {
+      "title": "OpenAI is enlisting an influencer army to make it look 'good for the world'",
+      "link": "https://www.businessinsider.com/inside-open-ai-influencer-marketing-strategy-chatgpt-ads-sponsorships-instagram-2026-9",
+      "is_new": true
+    },
+    {
+      "title": "Jev in practice: typed decisions, scoped authority",
+      "link": "https://tenuo.ai/blog/jev-scoped-authority",
+      "is_new": true
+    },
+    {
       "title": "Claude Opus 5.5",
       "link": "https://www.anthropic.com/claude-opus-5-5",
       "is_new": false
+    },
+    {
+      "title": "QuestDB (YC S20) Is Hiring a Sales Engineer",
+      "link": "https://questdb.com/careers/pre-sales-engineer-north-america/",
+      "is_new": true
+    },
+    {
+      "title": "Samsung accidentally freezes its smart fridges with a software update",
+      "link": "https://www.androidauthority.com/samsung-accidentally-freezes-its-smart-fridges-with-a-software-update-3714472/",
+      "is_new": true
+    },
+    {
+      "title": "Web-based IBM 1620 emulator and IPL-V from 1963",
+      "link": "https://github.com/pkimpel/retro-1620",
+      "is_new": true
+    },
+    {
+      "title": "Tokens Too Cheap to Meter",
+      "link": "https://jyn.dev/tokens-too-cheap-to-meter/",
+      "is_new": true
+    },
+    {
+      "title": "Two Git ignore files nobody told me about",
+      "link": "https://mihai.dinculescu.dev/posts/two-git-ignore-files-nobody-told-me-about/",
+      "is_new": true
     },
     {
       "title": "Transit rewards",
@@ -33,18 +88,33 @@
       "is_new": false
     },
     {
-      "title": "Netherlands bracing for potentially devastating US sanctions against the ICC",
-      "link": "https://apnews.com/article/icc-trump-sanctions-eu-israel-netherlands-2c1cc314732f920c2de59396d3b556f6",
+      "title": "The Price of Intelligence Is Falling Rapidly",
+      "link": "https://marginalrevolution.com/marginalrevolution/2026/09/the-price-of-intelligence-is-falling.html",
       "is_new": true
     },
     {
-      "title": "Data-only attacks are easier than you think (2024)",
-      "link": "https://www.usenix.org/publications/loginonline/data-only-attacks-are-easier-you-think",
-      "is_new": false
+      "title": "Comma's hands-off driving tech under investigation after 2 fatal crashes",
+      "link": "https://techcrunch.com/2026/09/23/commas-hands-off-driving-tech-under-investigation-after-2-fatal-crashes/",
+      "is_new": true
     },
     {
       "title": "Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived",
       "link": "https://foxscript.org/",
+      "is_new": false
+    },
+    {
+      "title": "Show HN: Ive Sent It – online courier for files, with signed proof of delivery",
+      "link": "https://ivesentit.com",
+      "is_new": true
+    },
+    {
+      "title": "Montreal adopts bylaw banning insults against police, municipal employees",
+      "link": "https://www.cbc.ca/news/canada/montreal/montreal-city-council-police-9.7352920",
+      "is_new": true
+    },
+    {
+      "title": "What California is learning from solar panels built over irrigation canals",
+      "link": "https://www.kqed.org/science/2002033/heres-what-california-is-learning-from-solar-panels-built-over-irrigation-canals",
       "is_new": false
     },
     {
@@ -53,23 +123,13 @@
       "is_new": false
     },
     {
-      "title": "Show HN: Npunlock – Run custom C kernels for Intel NPUs",
-      "link": "https://github.com/hsfzxjy/npunlock",
-      "is_new": true
-    },
-    {
-      "title": "'We hacked the FBI:' Hackers say they have data on all FBI employees",
-      "link": "https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/",
-      "is_new": false
-    },
-    {
       "title": "How did AMD Ryzen get 50% faster in two years?",
       "link": "https://lemire.me/blog/2026/09/18/how-did-amd-ryzen-get-50-faster-in-two-years/",
       "is_new": false
     },
     {
-      "title": "What California is learning from solar panels built over irrigation canals",
-      "link": "https://www.kqed.org/science/2002033/heres-what-california-is-learning-from-solar-panels-built-over-irrigation-canals",
+      "title": "'We hacked the FBI:' Hackers say they have data on all FBI employees",
+      "link": "https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/",
       "is_new": false
     },
     {
@@ -78,9 +138,36 @@
       "is_new": false
     },
     {
+      "title": "Data-only attacks are easier than you think (2024)",
+      "link": "https://www.usenix.org/publications/loginonline/data-only-attacks-are-easier-you-think",
+      "is_new": false
+    },
+    {
+      "title": "Show HN: RxFilm Studio–Create and edit your product videos with AI agent",
+      "link": "https://filmstudio.rxlab.app",
+      "is_new": true
+    },
+    {
       "title": "WordPress: Unauthenticated path traversal leading to conditional RCE",
       "link": "https://github.com/WordPress/wordpress-develop/security/advisories/GHSA-7hp8-65ch-5whp",
       "is_new": false
+    }
+  ],
+  "removed": [
+    {
+      "title": "Abandoning Scientific Linux Was a Mistake",
+      "link": "https://blog.melashri.net/posts/scientific-linux-mistake/",
+      "is_new": true
+    },
+    {
+      "title": "Netherlands bracing for potentially devastating US sanctions against the ICC",
+      "link": "https://apnews.com/article/icc-trump-sanctions-eu-israel-netherlands-2c1cc314732f920c2de59396d3b556f6",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: Npunlock – Run custom C kernels for Intel NPUs",
+      "link": "https://github.com/hsfzxjy/npunlock",
+      "is_new": true
     },
     {
       "title": "Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)",
@@ -151,48 +238,6 @@
       "title": "Side-stepping the Secretary Problem, unwittingly",
       "link": "https://www.evalapply.org/posts/side-step-secretary-problem-hiring/index.html",
       "is_new": true
-    }
-  ],
-  "removed": [
-    {
-      "title": "US criticises Australia's proposed algorithm opt-out laws as 'censorship'",
-      "link": "https://www.bbc.com/news/articles/cqj3dgy8x3vro",
-      "is_new": true
-    },
-    {
-      "title": "Delta: Highly available, strongly consistent storage using chain replication (2022)",
-      "link": "https://engineering.fb.com/2022/05/04/data-infrastructure/delta/",
-      "is_new": true
-    },
-    {
-      "title": "MUNI Heritage Weekend in San Francisco",
-      "link": "https://daniel.lawrence.lu/blog/2026-09-20-muni-heritage-weekend/",
-      "is_new": false
-    },
-    {
-      "title": "Native apps written in TypeScript and CSS",
-      "link": "https://github.com/geastack/examples",
-      "is_new": false
-    },
-    {
-      "title": "George Lucas Returns to Earth, Bearing Gifts",
-      "link": "https://commonedge.org/george-lucas-returns-to-earth-bearing-gifts/",
-      "is_new": false
-    },
-    {
-      "title": "Apple has added persistent 'ads' to iOS, and it's driving users crazy",
-      "link": "https://www.techradar.com/phones/iphone/i-wish-apple-would-just-stop-that-crap-apple-has-added-persistent-ads-to-ios-and-its-driving-users-crazy",
-      "is_new": false
-    },
-    {
-      "title": "Show HN: Training a model to identify AI web content from structure alone",
-      "link": "https://arxiv.org/abs/2609.15369",
-      "is_new": false
-    },
-    {
-      "title": "16-bit Intel 8088 chip (c. 1985)",
-      "link": "https://allpoetry.com/16-bit-Intel-8088-chip",
-      "is_new": false
     }
   ]
 }
