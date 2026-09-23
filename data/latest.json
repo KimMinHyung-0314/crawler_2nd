@@ -1,20 +1,35 @@
 {
-  "crawled_at": "2026-09-23 23:41",
-  "prev_crawled_at": "2026-09-23 18:42",
+  "crawled_at": "2026-09-24 03:48",
+  "prev_crawled_at": "2026-09-23 23:41",
   "items": [
     {
-      "title": "Claude Code reads AGENTS.md only when telemetry is on",
-      "link": "https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/",
+      "title": "Fixing the Portobello Police Station Clock",
+      "link": "https://pointinthecloud.com/2026-04-11-211700.html",
       "is_new": true
     },
     {
-      "title": "The GitHub wiki is an anti-pattern",
-      "link": "https://michaelheap.com/github-wiki-is-an-antipattern/",
+      "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+      "link": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
       "is_new": true
     },
     {
-      "title": "I Don't Want the Details",
-      "link": "https://michaelheap.com/i-dont-want-the-details/",
+      "title": "A brief history of Windows scroll bar shortcuts",
+      "link": "https://devblogs.microsoft.com/oldnewthing/20260922-00/?p=112719/",
+      "is_new": true
+    },
+    {
+      "title": "Italian parliament votes for return to nuclear energy",
+      "link": "https://apnews.com/article/italy-nuclear-chernobyl-4891b6b7c7791ae84db6b0bf0f7cf567",
+      "is_new": true
+    },
+    {
+      "title": "Gemini 3.8 text-to-speech",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/",
+      "is_new": true
+    },
+    {
+      "title": "Radicle: Disclosure of Vulnerability in the Network Protocol",
+      "link": "https://radicle.dev/2026/09/23/disclosure-of-vulnerability-in-network-protocol",
       "is_new": true
     },
     {
@@ -23,8 +38,8 @@
       "is_new": false
     },
     {
-      "title": "Z80 REPL",
-      "link": "https://abagames.github.io/z80-repl/index.html",
+      "title": "UK military jamming other nations' satellites to defend itself, BBC told",
+      "link": "https://www.bbc.com/news/articles/c32l8y8kygdvo",
       "is_new": true
     },
     {
@@ -33,10 +48,112 @@
       "is_new": false
     },
     {
-      "title": "Stripe built its internal AI platform",
-      "link": "https://stripe.dev/blog/meet-stripes-knowledge-ai-platform",
+      "title": "Claude Code reads AGENTS.md only when telemetry is on [fixed]",
+      "link": "https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/",
+      "is_new": false
+    },
+    {
+      "title": "Claude Opus 5.5",
+      "link": "https://www.anthropic.com/claude-opus-5-5",
+      "is_new": false
+    },
+    {
+      "title": "Z80 REPL (2018)",
+      "link": "https://abagames.github.io/z80-repl/index.html",
+      "is_new": false
+    },
+    {
+      "title": "28% of job postings on company career sites have been open over 90 days",
+      "link": "https://unlisted.careers/ghost-jobs/report/2026-09",
       "is_new": true
     },
+    {
+      "title": "Stripe's Knowledge AI Platform",
+      "link": "https://stripe.dev/blog/meet-stripes-knowledge-ai-platform",
+      "is_new": false
+    },
+    {
+      "title": "Strands Harness",
+      "link": "https://strandsagents.com/blog/introducing-strands-harness/",
+      "is_new": true
+    },
+    {
+      "title": "I don't want the details",
+      "link": "https://michaelheap.com/i-dont-want-the-details/",
+      "is_new": false
+    },
+    {
+      "title": "Seattle City Council votes to ban surveillance pricing in sale of groceries",
+      "link": "https://advocacy.consumerreports.org/press_release/seattle-city-council-votes-to-ban-surveillance-pricing-in-sale-of-groceries/",
+      "is_new": true
+    },
+    {
+      "title": "Web-based IBM 1620 emulator and IPL-V from 1963",
+      "link": "https://github.com/pkimpel/retro-1620",
+      "is_new": false
+    },
+    {
+      "title": "QuestDB (YC S20) Is Hiring a Sales Engineer",
+      "link": "https://questdb.com/careers/pre-sales-engineer-north-america/",
+      "is_new": false
+    },
+    {
+      "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
+      "link": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
+      "is_new": false
+    },
+    {
+      "title": "GPT-6 Astra has gained the ability to drive a car",
+      "link": "https://drivingbench.com/",
+      "is_new": true
+    },
+    {
+      "title": "Tokens Too Cheap to Meter",
+      "link": "https://jyn.dev/tokens-too-cheap-to-meter/",
+      "is_new": false
+    },
+    {
+      "title": "Transit rewards",
+      "link": "https://waymo.com/blog/2026/09/transit-rewards/",
+      "is_new": false
+    },
+    {
+      "title": "The GitHub wiki is an anti-pattern (2022)",
+      "link": "https://michaelheap.com/github-wiki-is-an-antipattern/",
+      "is_new": false
+    },
+    {
+      "title": "What California is learning from solar panels built over irrigation canals",
+      "link": "https://www.kqed.org/science/2002033/heres-what-california-is-learning-from-solar-panels-built-over-irrigation-canals",
+      "is_new": false
+    },
+    {
+      "title": "How did AMD Ryzen get 50% faster in two years?",
+      "link": "https://lemire.me/blog/2026/09/18/how-did-amd-ryzen-get-50-faster-in-two-years/",
+      "is_new": false
+    },
+    {
+      "title": "Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived",
+      "link": "https://foxscript.org/",
+      "is_new": false
+    },
+    {
+      "title": "What to Know About JavaScript in 2026",
+      "link": "https://blog.master.dev/what-to-know-in-javascript-2026-edition/",
+      "is_new": true
+    },
+    {
+      "title": "'We hacked the FBI:' Hackers say they have data on all FBI employees",
+      "link": "https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/",
+      "is_new": false
+    },
+    {
+      "title": "SAML: A fractal of bad design",
+      "link": "https://blog.trailofbits.com/2026/09/21/saml-a-fractal-of-bad-design/",
+      "is_new": false
+    }
+  ],
+  "removed": [
     {
       "title": "OpenAI is enlisting an influencer army to make it look 'good for the world'",
       "link": "https://www.businessinsider.com/inside-open-ai-influencer-marketing-strategy-chatgpt-ads-sponsorships-instagram-2026-9",
@@ -48,44 +165,14 @@
       "is_new": true
     },
     {
-      "title": "Claude Opus 5.5",
-      "link": "https://www.anthropic.com/claude-opus-5-5",
-      "is_new": false
-    },
-    {
-      "title": "QuestDB (YC S20) Is Hiring a Sales Engineer",
-      "link": "https://questdb.com/careers/pre-sales-engineer-north-america/",
-      "is_new": true
-    },
-    {
       "title": "Samsung accidentally freezes its smart fridges with a software update",
       "link": "https://www.androidauthority.com/samsung-accidentally-freezes-its-smart-fridges-with-a-software-update-3714472/",
-      "is_new": true
-    },
-    {
-      "title": "Web-based IBM 1620 emulator and IPL-V from 1963",
-      "link": "https://github.com/pkimpel/retro-1620",
-      "is_new": true
-    },
-    {
-      "title": "Tokens Too Cheap to Meter",
-      "link": "https://jyn.dev/tokens-too-cheap-to-meter/",
       "is_new": true
     },
     {
       "title": "Two Git ignore files nobody told me about",
       "link": "https://mihai.dinculescu.dev/posts/two-git-ignore-files-nobody-told-me-about/",
       "is_new": true
-    },
-    {
-      "title": "Transit rewards",
-      "link": "https://waymo.com/blog/2026/09/transit-rewards/",
-      "is_new": false
-    },
-    {
-      "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
-      "link": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
-      "is_new": false
     },
     {
       "title": "The Price of Intelligence Is Falling Rapidly",
@@ -98,11 +185,6 @@
       "is_new": true
     },
     {
-      "title": "Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived",
-      "link": "https://foxscript.org/",
-      "is_new": false
-    },
-    {
       "title": "Show HN: Ive Sent It – online courier for files, with signed proof of delivery",
       "link": "https://ivesentit.com",
       "is_new": true
@@ -113,28 +195,8 @@
       "is_new": true
     },
     {
-      "title": "What California is learning from solar panels built over irrigation canals",
-      "link": "https://www.kqed.org/science/2002033/heres-what-california-is-learning-from-solar-panels-built-over-irrigation-canals",
-      "is_new": false
-    },
-    {
       "title": "ReBarUEFI: Resizable BAR for almost any UEFI system",
       "link": "https://github.com/xCuri0/ReBarUEFI",
-      "is_new": false
-    },
-    {
-      "title": "How did AMD Ryzen get 50% faster in two years?",
-      "link": "https://lemire.me/blog/2026/09/18/how-did-amd-ryzen-get-50-faster-in-two-years/",
-      "is_new": false
-    },
-    {
-      "title": "'We hacked the FBI:' Hackers say they have data on all FBI employees",
-      "link": "https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/",
-      "is_new": false
-    },
-    {
-      "title": "SAML: A fractal of bad design",
-      "link": "https://blog.trailofbits.com/2026/09/21/saml-a-fractal-of-bad-design/",
       "is_new": false
     },
     {
@@ -151,93 +213,6 @@
       "title": "WordPress: Unauthenticated path traversal leading to conditional RCE",
       "link": "https://github.com/WordPress/wordpress-develop/security/advisories/GHSA-7hp8-65ch-5whp",
       "is_new": false
-    }
-  ],
-  "removed": [
-    {
-      "title": "Abandoning Scientific Linux Was a Mistake",
-      "link": "https://blog.melashri.net/posts/scientific-linux-mistake/",
-      "is_new": true
-    },
-    {
-      "title": "Netherlands bracing for potentially devastating US sanctions against the ICC",
-      "link": "https://apnews.com/article/icc-trump-sanctions-eu-israel-netherlands-2c1cc314732f920c2de59396d3b556f6",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: Npunlock – Run custom C kernels for Intel NPUs",
-      "link": "https://github.com/hsfzxjy/npunlock",
-      "is_new": true
-    },
-    {
-      "title": "Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)",
-      "link": "https://artificialanalysis.ai/models/claude-opus-5-5",
-      "is_new": false
-    },
-    {
-      "title": "Pentagon says overreliance on AI contributed to missile strike on Iran school",
-      "link": "https://www.bloomberg.com/graphics/2026-iran-school-attack/",
-      "is_new": false
-    },
-    {
-      "title": "No Easy Fix for Bogus Respondents in Online Opt-In Polls",
-      "link": "https://www.pewresearch.org/methods/2026/08/27/no-easy-fix-for-bogus-respondents-in-online-opt-in-polls/",
-      "is_new": true
-    },
-    {
-      "title": "Unreal Agent",
-      "link": "https://unreallabs.ai/blog/unreal-agent/",
-      "is_new": false
-    },
-    {
-      "title": "People hooked on vapes try a new way to quit: cigarettes",
-      "link": "https://www.bloomberg.com/news/articles/2026-09-18/to-quit-vaping-some-are-starting-to-smoke",
-      "is_new": false
-    },
-    {
-      "title": "The softness of metal",
-      "link": "https://psyche.co/turning-points/his-frailty-made-ozzys-final-gig-true-heavy-metal",
-      "is_new": false
-    },
-    {
-      "title": "How often do you think about the 1893 World's Fair?",
-      "link": "https://www.thebirthofacapital.info/chicago-worlds-fair-tataria-ware-larsen/",
-      "is_new": true
-    },
-    {
-      "title": "The current balance of power in open models",
-      "link": "https://www.interconnects.ai/p/the-current-balance-of-power-in-open",
-      "is_new": false
-    },
-    {
-      "title": "Obscura: VPN that can't log your activity",
-      "link": "https://obscura.com/#faq-technical",
-      "is_new": false
-    },
-    {
-      "title": "OpenAI is well positioned to fast-follow Jev",
-      "link": "https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/",
-      "is_new": false
-    },
-    {
-      "title": "Grammarly will send unhinged messages to all your users if you try to cancel",
-      "link": "https://www.reddit.com/r/sysadmin/comments/1wjdpgx/psa_grammarly_will_send_unhinged_messages_to_all/",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: JevBench, a reproducible benchmark for typed decision models",
-      "link": "https://benchmarkheaven.com/jev-models",
-      "is_new": false
-    },
-    {
-      "title": "Markdown in /src",
-      "link": "https://htmx.org/essays/markdown-in-src/",
-      "is_new": false
-    },
-    {
-      "title": "Side-stepping the Secretary Problem, unwittingly",
-      "link": "https://www.evalapply.org/posts/side-step-secretary-problem-hiring/index.html",
-      "is_new": true
     }
   ]
 }
