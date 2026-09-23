@@ -1,36 +1,46 @@
 {
-  "crawled_at": "2026-09-24 03:48",
-  "prev_crawled_at": "2026-09-23 23:41",
+  "crawled_at": "2026-09-24 07:00",
+  "prev_crawled_at": "2026-09-24 03:48",
   "items": [
-    {
-      "title": "Fixing the Portobello Police Station Clock",
-      "link": "https://pointinthecloud.com/2026-04-11-211700.html",
-      "is_new": true
-    },
     {
       "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
       "link": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+      "is_new": false
+    },
+    {
+      "title": "VSCode's SSH Agent Is Bananas",
+      "link": "https://fly.io/blog/vscode-ssh-wtf/",
       "is_new": true
+    },
+    {
+      "title": "Fixing the Portobello Police Station Clock",
+      "link": "https://pointinthecloud.com/2026-04-11-211700.html",
+      "is_new": false
     },
     {
       "title": "A brief history of Windows scroll bar shortcuts",
       "link": "https://devblogs.microsoft.com/oldnewthing/20260922-00/?p=112719/",
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Italian parliament votes for return to nuclear energy",
       "link": "https://apnews.com/article/italy-nuclear-chernobyl-4891b6b7c7791ae84db6b0bf0f7cf567",
+      "is_new": false
+    },
+    {
+      "title": "LensVLM: Compressing long context as images, expanding only relevant pages",
+      "link": "https://huggingface.co/apple/LensVLM-9B",
+      "is_new": true
+    },
+    {
+      "title": "OpenAI breaches Medicare, Albanese reveals",
+      "link": "https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html",
       "is_new": true
     },
     {
       "title": "Gemini 3.8 text-to-speech",
       "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/",
-      "is_new": true
-    },
-    {
-      "title": "Radicle: Disclosure of Vulnerability in the Network Protocol",
-      "link": "https://radicle.dev/2026/09/23/disclosure-of-vulnerability-in-network-protocol",
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Jev in 25 Lines of Python",
@@ -38,43 +48,33 @@
       "is_new": false
     },
     {
-      "title": "UK military jamming other nations' satellites to defend itself, BBC told",
-      "link": "https://www.bbc.com/news/articles/c32l8y8kygdvo",
+      "title": "Show HN: An atlas of system designs with interactive architecture diagrams",
+      "link": "https://atlas-sysdes.vercel.app/",
       "is_new": true
     },
     {
-      "title": "GPT-6 Sol and Luna",
-      "link": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
+      "title": "Radicle: Disclosure of Vulnerability in the Network Protocol",
+      "link": "https://radicle.dev/2026/09/23/disclosure-of-vulnerability-in-network-protocol",
       "is_new": false
     },
     {
-      "title": "Claude Code reads AGENTS.md only when telemetry is on [fixed]",
-      "link": "https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/",
-      "is_new": false
-    },
-    {
-      "title": "Claude Opus 5.5",
-      "link": "https://www.anthropic.com/claude-opus-5-5",
-      "is_new": false
-    },
-    {
-      "title": "Z80 REPL (2018)",
-      "link": "https://abagames.github.io/z80-repl/index.html",
-      "is_new": false
-    },
-    {
-      "title": "28% of job postings on company career sites have been open over 90 days",
-      "link": "https://unlisted.careers/ghost-jobs/report/2026-09",
+      "title": "A refined phylochronology of the second plague pandemic in Western Eurasia",
+      "link": "https://www.pnas.org/doi/10.1073/pnas.2534899123",
       "is_new": true
     },
     {
-      "title": "Stripe's Knowledge AI Platform",
-      "link": "https://stripe.dev/blog/meet-stripes-knowledge-ai-platform",
+      "title": "The Curious Power of Punctuation",
+      "link": "https://www.newyorker.com/magazine/2026/09/28/on-the-mark-louis-menand-book-review",
+      "is_new": true
+    },
+    {
+      "title": "Tokens too cheap to meter",
+      "link": "https://jyn.dev/tokens-too-cheap-to-meter/",
       "is_new": false
     },
     {
-      "title": "Strands Harness",
-      "link": "https://strandsagents.com/blog/introducing-strands-harness/",
+      "title": "DoorDash Spent $1.4M Trying to Stop Mamdani from Becoming Mayor. Now We Know Why",
+      "link": "https://theintercept.com/2026/09/23/doordash-delivery-nyc-mamdani-wage-theft-settlement/",
       "is_new": true
     },
     {
@@ -83,18 +83,95 @@
       "is_new": false
     },
     {
+      "title": "Swap, ZRAM, Zswap and Hibernate on NixOS",
+      "link": "https://blog.matthewbrunelle.com/swap-zram-zswap-and-hibernate-on-nixos/",
+      "is_new": true
+    },
+    {
+      "title": "Z80 REPL (2018)",
+      "link": "https://abagames.github.io/z80-repl/index.html",
+      "is_new": false
+    },
+    {
+      "title": "Claude Code reads AGENTS.md only when telemetry is on [fixed]",
+      "link": "https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/",
+      "is_new": false
+    },
+    {
+      "title": "Show HN: I built a post-mortem debugger for native Windows x64/x86 crashes",
+      "link": "https://www.forensicdbg.com",
+      "is_new": true
+    },
+    {
+      "title": "Stripe's Knowledge AI Platform",
+      "link": "https://stripe.dev/blog/meet-stripes-knowledge-ai-platform",
+      "is_new": false
+    },
+    {
+      "title": "Show HN: Conway's Game of Life in boot sector",
+      "link": "https://github.com/0xAX/BootLife",
+      "is_new": true
+    },
+    {
+      "title": "QuestDB (YC S20) Is Hiring a Sales Engineer",
+      "link": "https://questdb.com/careers/pre-sales-engineer-north-america/",
+      "is_new": false
+    },
+    {
+      "title": "Once Claude can measure something, it can make it faster",
+      "link": "https://claude.dev/blog/how-we-made-claude-ai-faster/",
+      "is_new": true
+    },
+    {
+      "title": "UK military jamming other nations' satellites to defend itself, BBC told",
+      "link": "https://www.bbc.com/news/articles/c32l8y8kygdvo",
+      "is_new": false
+    },
+    {
+      "title": "Making Tailscale Faster",
+      "link": "https://tailscale.com/blog/making-tailscale-faster",
+      "is_new": true
+    },
+    {
+      "title": "The mystery animal on an ancient god's head",
+      "link": "https://signoregalilei.com/2026/09/13/the-mystery-animal-on-an-ancient-gods-head/",
+      "is_new": true
+    },
+    {
       "title": "Seattle City Council votes to ban surveillance pricing in sale of groceries",
       "link": "https://advocacy.consumerreports.org/press_release/seattle-city-council-votes-to-ban-surveillance-pricing-in-sale-of-groceries/",
+      "is_new": false
+    },
+    {
+      "title": "Strands Harness",
+      "link": "https://strandsagents.com/blog/introducing-strands-harness/",
+      "is_new": false
+    },
+    {
+      "title": "Transit rewards",
+      "link": "https://waymo.com/blog/2026/09/transit-rewards/",
+      "is_new": false
+    }
+  ],
+  "removed": [
+    {
+      "title": "GPT-6 Sol and Luna",
+      "link": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
+      "is_new": false
+    },
+    {
+      "title": "Claude Opus 5.5",
+      "link": "https://www.anthropic.com/claude-opus-5-5",
+      "is_new": false
+    },
+    {
+      "title": "28% of job postings on company career sites have been open over 90 days",
+      "link": "https://unlisted.careers/ghost-jobs/report/2026-09",
       "is_new": true
     },
     {
       "title": "Web-based IBM 1620 emulator and IPL-V from 1963",
       "link": "https://github.com/pkimpel/retro-1620",
-      "is_new": false
-    },
-    {
-      "title": "QuestDB (YC S20) Is Hiring a Sales Engineer",
-      "link": "https://questdb.com/careers/pre-sales-engineer-north-america/",
       "is_new": false
     },
     {
@@ -106,16 +183,6 @@
       "title": "GPT-6 Astra has gained the ability to drive a car",
       "link": "https://drivingbench.com/",
       "is_new": true
-    },
-    {
-      "title": "Tokens Too Cheap to Meter",
-      "link": "https://jyn.dev/tokens-too-cheap-to-meter/",
-      "is_new": false
-    },
-    {
-      "title": "Transit rewards",
-      "link": "https://waymo.com/blog/2026/09/transit-rewards/",
-      "is_new": false
     },
     {
       "title": "The GitHub wiki is an anti-pattern (2022)",
@@ -150,68 +217,6 @@
     {
       "title": "SAML: A fractal of bad design",
       "link": "https://blog.trailofbits.com/2026/09/21/saml-a-fractal-of-bad-design/",
-      "is_new": false
-    }
-  ],
-  "removed": [
-    {
-      "title": "OpenAI is enlisting an influencer army to make it look 'good for the world'",
-      "link": "https://www.businessinsider.com/inside-open-ai-influencer-marketing-strategy-chatgpt-ads-sponsorships-instagram-2026-9",
-      "is_new": true
-    },
-    {
-      "title": "Jev in practice: typed decisions, scoped authority",
-      "link": "https://tenuo.ai/blog/jev-scoped-authority",
-      "is_new": true
-    },
-    {
-      "title": "Samsung accidentally freezes its smart fridges with a software update",
-      "link": "https://www.androidauthority.com/samsung-accidentally-freezes-its-smart-fridges-with-a-software-update-3714472/",
-      "is_new": true
-    },
-    {
-      "title": "Two Git ignore files nobody told me about",
-      "link": "https://mihai.dinculescu.dev/posts/two-git-ignore-files-nobody-told-me-about/",
-      "is_new": true
-    },
-    {
-      "title": "The Price of Intelligence Is Falling Rapidly",
-      "link": "https://marginalrevolution.com/marginalrevolution/2026/09/the-price-of-intelligence-is-falling.html",
-      "is_new": true
-    },
-    {
-      "title": "Comma's hands-off driving tech under investigation after 2 fatal crashes",
-      "link": "https://techcrunch.com/2026/09/23/commas-hands-off-driving-tech-under-investigation-after-2-fatal-crashes/",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: Ive Sent It – online courier for files, with signed proof of delivery",
-      "link": "https://ivesentit.com",
-      "is_new": true
-    },
-    {
-      "title": "Montreal adopts bylaw banning insults against police, municipal employees",
-      "link": "https://www.cbc.ca/news/canada/montreal/montreal-city-council-police-9.7352920",
-      "is_new": true
-    },
-    {
-      "title": "ReBarUEFI: Resizable BAR for almost any UEFI system",
-      "link": "https://github.com/xCuri0/ReBarUEFI",
-      "is_new": false
-    },
-    {
-      "title": "Data-only attacks are easier than you think (2024)",
-      "link": "https://www.usenix.org/publications/loginonline/data-only-attacks-are-easier-you-think",
-      "is_new": false
-    },
-    {
-      "title": "Show HN: RxFilm Studio–Create and edit your product videos with AI agent",
-      "link": "https://filmstudio.rxlab.app",
-      "is_new": true
-    },
-    {
-      "title": "WordPress: Unauthenticated path traversal leading to conditional RCE",
-      "link": "https://github.com/WordPress/wordpress-develop/security/advisories/GHSA-7hp8-65ch-5whp",
       "is_new": false
     }
   ]
