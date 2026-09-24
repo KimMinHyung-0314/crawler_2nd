@@ -1,16 +1,106 @@
 {
-  "crawled_at": "2026-09-25 03:07",
-  "prev_crawled_at": "2026-09-24 22:08",
+  "crawled_at": "2026-09-25 06:55",
+  "prev_crawled_at": "2026-09-25 03:07",
   "items": [
     {
       "title": "F-Droid 2.0",
       "link": "https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html",
+      "is_new": false
+    },
+    {
+      "title": "Show HN: Make cursed fonts like Times New Bastard",
+      "link": "https://bastardica.mitpit.com",
+      "is_new": true
+    },
+    {
+      "title": "Opus 5.5 is good at explainer videos",
+      "link": "https://launchvideo.io",
       "is_new": true
     },
     {
       "title": "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
       "link": "https://github.com/devdotfast/whiteboard",
+      "is_new": false
+    },
+    {
+      "title": "Show HN: Koi.rest – watch some fish and regain your balance",
+      "link": "https://koi.rest",
       "is_new": true
+    },
+    {
+      "title": "Why is the liver so weirdly regenerative?",
+      "link": "https://dynomight.substack.com/p/liver",
+      "is_new": true
+    },
+    {
+      "title": "Rails World 2026 Opening Keynote [video]",
+      "link": "https://www.youtube.com/watch?v=vDjW_dRyKXY",
+      "is_new": true
+    },
+    {
+      "title": "Fearless SIMD v1.0",
+      "link": "https://linebender.org/blog/fearless-simd-1-0/",
+      "is_new": false
+    },
+    {
+      "title": "My weird new hobby: Wandering around Tokyo on Google Maps",
+      "link": "https://ahmedhossamdev.com/writing/my-weird-new-hobby-wandering-around-tokyo/",
+      "is_new": false
+    },
+    {
+      "title": "The Board Game of the Alpha Nerds (2014)",
+      "link": "https://grantland.com/features/diplomacy-the-board-game-of-the-alpha-nerds/",
+      "is_new": true
+    },
+    {
+      "title": "Sourcehut account takeover via build logs (XSS in ansi2html)",
+      "link": "https://blog.arusekk.pl/posts/srht-account-takeover/",
+      "is_new": true
+    },
+    {
+      "title": "Using LLMs to trace alchemical knowledge and decode 17th century letters",
+      "link": "https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical",
+      "is_new": true
+    },
+    {
+      "title": "Stable (YC W20) Is Hiring Product Engineers",
+      "link": "https://www.usestable.com/careers/product-engineer",
+      "is_new": true
+    },
+    {
+      "title": "Security headers on 4,688 small-business websites: 49.7% met none of 7 criteria",
+      "link": "https://rackcrunch.com/security-headers-2026",
+      "is_new": true
+    },
+    {
+      "title": "2DWillNeverDie",
+      "link": "https://2dwillneverdie.com/",
+      "is_new": true
+    },
+    {
+      "title": "Google’s Project Suncatcher to put ML infrastructure in space",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts/",
+      "is_new": false
+    },
+    {
+      "title": "Book review: Is parallel programming hard, and, if so, what can you do about it?",
+      "link": "https://ahelwer.ca/post/2026-09-21-concurrency-textbook/",
+      "is_new": false
+    },
+    {
+      "title": "Toyota is taking the Corolla electric",
+      "link": "https://electrek.co/2026/09/23/toyota-best-selling-corolla-electric/",
+      "is_new": false
+    },
+    {
+      "title": "California is chasing wealth that has feet",
+      "link": "https://blog.landeconomics.org/p/california-is-chasing-wealth-that",
+      "is_new": true
+    },
+    {
+      "title": "The forgotten battle of East Lansing",
+      "link": "https://eastlansinginfo.news/the-forgotten-battle-of-east-lansing/",
+      "is_new": false
     },
     {
       "title": "Two-tier encryption in the UK",
@@ -18,25 +108,52 @@
       "is_new": false
     },
     {
-      "title": "Fearless SIMD v1.0",
-      "link": "https://linebender.org/blog/fearless-simd-1-0/",
+      "title": "Forging 1024-bit RSA signatures in nearly SNFS time [pdf]",
+      "link": "https://eprint.iacr.org/2026/2131.pdf",
       "is_new": true
+    },
+    {
+      "title": "Geothermal heat map of US hot springs",
+      "link": "https://www.soakingsprings.com/hot-springs/geothermal-map",
+      "is_new": false
+    },
+    {
+      "title": "Tutoring company tells parents to save their money and 'use AI instead'",
+      "link": "https://www.afr.com/policy/health-and-education/tutoring-company-tell-parents-to-save-their-money-and-use-ai-instead-20260923-p60z0r",
+      "is_new": true
+    },
+    {
+      "title": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
+      "link": "https://transluce.org/agent-activity",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: AgentRun: DSL to turn agents into workflows",
+      "link": "https://github.com/Parcha-ai/agentrun",
+      "is_new": false
     },
     {
       "title": "WaveDigger: Dig into wireless signals to discover their physical locations",
       "link": "https://github.com/christianrowlands/wavedigger",
+      "is_new": false
+    },
+    {
+      "title": "Web-based IBM 1620 emulator and IPL-V from 1963",
+      "link": "https://github.com/pkimpel/retro-1620",
       "is_new": true
     },
     {
-      "title": "Toyota is taking the Corolla electric",
-      "link": "https://electrek.co/2026/09/23/toyota-best-selling-corolla-electric/",
-      "is_new": true
+      "title": "Show HN: Treepeat – Code similarity detection using Tree-sitter",
+      "link": "https://github.com/dsummersl/treepeat",
+      "is_new": false
     },
     {
-      "title": "The forgotten battle of East Lansing",
-      "link": "https://eastlansinginfo.news/the-forgotten-battle-of-east-lansing/",
+      "title": "August 27 TCRF DDoS Attack Postmortem",
+      "link": "https://blog.xkeeper.net/the-cutting-room-floor/tcrf-2026-ddos-postmortem/",
       "is_new": true
-    },
+    }
+  ],
+  "removed": [
     {
       "title": "Nokia Design Archive (2025)",
       "link": "https://repo.aalto.fi/index.php?name=SO_b66a9391-dcf8-4399-8e87-611f84c3fc4c",
@@ -48,18 +165,8 @@
       "is_new": true
     },
     {
-      "title": "Book review: Is parallel programming hard, and, if so, what can you do about it?",
-      "link": "https://ahelwer.ca/post/2026-09-21-concurrency-textbook/",
-      "is_new": true
-    },
-    {
       "title": "B5-BJ2 – Ice Cream Barges – Concrete Ship Constructors (2023)",
       "link": "https://thecretefleet.com/blog/f/b5-bj2---ice-cream-barges---concrete-ship-constructors",
-      "is_new": true
-    },
-    {
-      "title": "Google’s Project Suncatcher to put ML infrastructure in space",
-      "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts/",
       "is_new": true
     },
     {
@@ -83,28 +190,8 @@
       "is_new": true
     },
     {
-      "title": "Show HN: AgentRun: DSL to turn agents into workflows",
-      "link": "https://github.com/Parcha-ai/agentrun",
-      "is_new": true
-    },
-    {
       "title": "Motor Characterization for Small Running Robots (2016)",
       "link": "https://robot-daycare.com/posts/2016-01-06-motor-characterization-for-small-running-robots/",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: Treepeat – Code similarity detection using Tree-sitter",
-      "link": "https://github.com/dsummersl/treepeat",
-      "is_new": true
-    },
-    {
-      "title": "My Weird New Hobby: Wandering Around Tokyo on Google Maps",
-      "link": "https://ahmedhossamdev.com/writing/my-weird-new-hobby-wandering-around-tokyo/",
-      "is_new": true
-    },
-    {
-      "title": "Geothermal heat map of US hot springs",
-      "link": "https://www.soakingsprings.com/hot-springs/geothermal-map",
       "is_new": true
     },
     {
@@ -151,118 +238,6 @@
       "title": "VSCode's SSH Agent Is Bananas (2025)",
       "link": "https://fly.io/blog/vscode-ssh-wtf/",
       "is_new": false
-    }
-  ],
-  "removed": [
-    {
-      "title": "Nokia Design Archive (2025)",
-      "link": "https://nokiadesignarchive.aalto.fi/index.html",
-      "is_new": true
-    },
-    {
-      "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
-      "link": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
-      "is_new": false
-    },
-    {
-      "title": "Meta takes down a critical video about meta AI Glasses after filming at Meta",
-      "link": "https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/",
-      "is_new": true
-    },
-    {
-      "title": "'That's so AI ' What gen Alpha's biggest insult tells us",
-      "link": "https://www.theguardian.com/society/2026/sep/24/thats-so-ai-what-gen-alphas-biggest-insult-tells-us",
-      "is_new": true
-    },
-    {
-      "title": "OpenAI agent hacked Australian government website, PM says",
-      "link": "https://www.bbc.com/news/live/cvgl73pxgndwt",
-      "is_new": true
-    },
-    {
-      "title": "Contrastive Language Models",
-      "link": "https://contrastive-lm.notion.site/",
-      "is_new": false
-    },
-    {
-      "title": "The \"Windows XP Box\" (2003)",
-      "link": "https://www.mini-itx.com/projects/windowsxpbox/",
-      "is_new": false
-    },
-    {
-      "title": "Virtio-nvgpu: Near-native Nvidia GPU access inside a KVM guest",
-      "link": "https://github.com/nestrilabs/virtio-nvgpu",
-      "is_new": false
-    },
-    {
-      "title": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
-      "link": "https://transluce.org/agent-activity",
-      "is_new": false
-    },
-    {
-      "title": "Fixing the Portobello Police Station Clock",
-      "link": "https://pointinthecloud.com/2026-04-11-211700.html",
-      "is_new": false
-    },
-    {
-      "title": "Why 'What's Opera, Doc?' looks like that",
-      "link": "https://animationobsessive.substack.com/p/why-whats-opera-doc-looks-like-that",
-      "is_new": false
-    },
-    {
-      "title": "Do Food Trucks Need a Commissary Kitchen? Yes – Here's Why That's a Good Thing",
-      "link": "https://www.thefoodcorridor.com/blog/do-food-trucks-need-a-commissary-kitchen/",
-      "is_new": true
-    },
-    {
-      "title": "Mercury 2.5 LLM hits 770 tokens per second",
-      "link": "https://artificialanalysis.ai/models/mercury-2-5",
-      "is_new": false
-    },
-    {
-      "title": "Making portable my unportable transputer C compiler",
-      "link": "https://nanochess.org/transputer_c_compiler.html",
-      "is_new": false
-    },
-    {
-      "title": "Women Who Sold Books Door to Door",
-      "link": "https://daily.jstor.org/the-women-who-sold-books-door-to-door/",
-      "is_new": false
-    },
-    {
-      "title": "Meta VR Glasses",
-      "link": "https://www.meta.com/vr-glasses/",
-      "is_new": false
-    },
-    {
-      "title": "Making Tailscale Faster",
-      "link": "https://tailscale.com/blog/making-tailscale-faster",
-      "is_new": false
-    },
-    {
-      "title": "Automated optimization of a molecular simulation program",
-      "link": "https://shishir-iyer.medium.com/automated-optimization-of-a-molecular-simulation-program-4a28a2bc05ad",
-      "is_new": true
-    },
-    {
-      "title": "Hackers influence ChatGPT and Gemini to direct users to scam centers",
-      "link": "https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073",
-      "is_new": true
-    },
-    {
-      "title": "Starlink ground station in Poland hit by fire in suspected arson attack",
-      "link": "https://notesfrompoland.com/2026/09/24/starlink-ground-station-in-poland-hit-by-fire-in-suspected-arson-attack/",
-      "is_new": true
-    },
-    {
-      "title": "The mystery animal on an ancient god's head",
-      "link": "https://signoregalilei.com/2026/09/13/the-mystery-animal-on-an-ancient-gods-head/",
-      "is_new": false
-    },
-    {
-      "title": "The Year of Internal Tools",
-      "link": "https://www.geocod.io/code-and-coordinates/2026-09-23-the-year-of-internal-tools",
-      "is_new": true
     }
   ]
 }
