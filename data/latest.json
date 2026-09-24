@@ -1,16 +1,11 @@
 {
-  "crawled_at": "2026-09-24 10:01",
-  "prev_crawled_at": "2026-09-24 07:00",
+  "crawled_at": "2026-09-24 16:06",
+  "prev_crawled_at": "2026-09-24 10:01",
   "items": [
-    {
-      "title": "Meta VR Glasses",
-      "link": "https://www.meta.com/vr-glasses/",
-      "is_new": true
-    },
     {
       "title": "Linux support is coming to Snapdragon X2 Series",
       "link": "https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux",
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
@@ -18,23 +13,58 @@
       "is_new": false
     },
     {
+      "title": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
+      "link": "https://transluce.org/agent-activity",
+      "is_new": true
+    },
+    {
+      "title": "Ideas on modernizing the open-source desktop",
+      "link": "https://lwn.net/SubscriberLink/1095425/2d9f411252325784/",
+      "is_new": true
+    },
+    {
+      "title": "ArXiv receives multiyear commitments to support it as an independent nonprofit",
+      "link": "https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/",
+      "is_new": false
+    },
+    {
+      "title": "Contrastive Language Models",
+      "link": "https://contrastive-lm.notion.site/",
+      "is_new": true
+    },
+    {
       "title": "VSCode's SSH Agent Is Bananas (2025)",
       "link": "https://fly.io/blog/vscode-ssh-wtf/",
       "is_new": false
     },
     {
-      "title": "ArXiv receives multiyear commitments to support it as an independent nonprofit",
-      "link": "https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/",
+      "title": "Making portable my unportable transputer C compiler",
+      "link": "https://nanochess.org/transputer_c_compiler.html",
       "is_new": true
     },
     {
-      "title": "We just shipped support for the ugliest part of HTTP: Vary",
-      "link": "https://blog.cloudflare.com/vary-support/",
+      "title": "Meta VR Glasses",
+      "link": "https://www.meta.com/vr-glasses/",
+      "is_new": false
+    },
+    {
+      "title": "Virtio-nvgpu: Near-native Nvidia GPU access inside a KVM guest",
+      "link": "https://github.com/nestrilabs/virtio-nvgpu",
+      "is_new": true
+    },
+    {
+      "title": "Feds Target AI Critics as \"Foreign Agents\"",
+      "link": "https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign",
       "is_new": true
     },
     {
       "title": "The \"Windows XP Box\" (2003)",
       "link": "https://www.mini-itx.com/projects/windowsxpbox/",
+      "is_new": false
+    },
+    {
+      "title": "Lazydraw: Terminal ASCII editor for drawing diagrams and sketches",
+      "link": "https://github.com/mpospirit/lazydraw",
       "is_new": true
     },
     {
@@ -43,14 +73,34 @@
       "is_new": false
     },
     {
-      "title": "Mercury 2.5 LLM hits 770 tokens per second",
-      "link": "https://artificialanalysis.ai/models/mercury-2-5",
+      "title": "OpenAI breaches Medicare, Albanese reveals",
+      "link": "https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html",
       "is_new": true
     },
     {
-      "title": "LensVLM: Compressing long context as images, expanding only relevant pages",
-      "link": "https://huggingface.co/apple/LensVLM-9B",
+      "title": "Why 'What's Opera, Doc?' looks like that",
+      "link": "https://animationobsessive.substack.com/p/why-whats-opera-doc-looks-like-that",
+      "is_new": true
+    },
+    {
+      "title": "Mercury 2.5 LLM hits 770 tokens per second",
+      "link": "https://artificialanalysis.ai/models/mercury-2-5",
       "is_new": false
+    },
+    {
+      "title": "Women Who Sold Books Door to Door",
+      "link": "https://daily.jstor.org/the-women-who-sold-books-door-to-door/",
+      "is_new": true
+    },
+    {
+      "title": "Making Tailscale Faster",
+      "link": "https://tailscale.com/blog/making-tailscale-faster",
+      "is_new": false
+    },
+    {
+      "title": "Six-year-old breaks women's world Rubik's Cube record [video]",
+      "link": "https://www.youtube.com/watch?v=UCMRgvyTm08",
+      "is_new": true
     },
     {
       "title": "Italian parliament votes for return to nuclear energy",
@@ -63,9 +113,29 @@
       "is_new": false
     },
     {
+      "title": "Lambda MicroEgg",
+      "link": "https://www.philipzucker.com/lambda_miller_egg/",
+      "is_new": true
+    },
+    {
       "title": "A brief history of Windows scroll bar shortcuts",
       "link": "https://devblogs.microsoft.com/oldnewthing/20260922-00/?p=112719/",
       "is_new": false
+    },
+    {
+      "title": "Data liberation: Apache Kafka's native cluster mirroring",
+      "link": "https://developers.redhat.com/articles/2026/09/22/data-liberation-apache-kafka-native-cluster-mirroring",
+      "is_new": true
+    },
+    {
+      "title": "Tokens too cheap to meter",
+      "link": "https://jyn.dev/tokens-too-cheap-to-meter/",
+      "is_new": false
+    },
+    {
+      "title": "Solving for faster SHA-1 collision detection",
+      "link": "https://sam.dev/blog/faster-sha1-collision-detection",
+      "is_new": true
     },
     {
       "title": "Gemini 3.8 text-to-speech",
@@ -73,9 +143,21 @@
       "is_new": false
     },
     {
-      "title": "Making Tailscale Faster",
-      "link": "https://tailscale.com/blog/making-tailscale-faster",
+      "title": "Show HN: An open-source manufacturing ERP/MES/QMS",
+      "link": "https://carbon.ms/self-hosted",
+      "is_new": true
+    },
+    {
+      "title": "LensVLM: Compressing long context as images, expanding only relevant pages",
+      "link": "https://huggingface.co/apple/LensVLM-9B",
       "is_new": false
+    }
+  ],
+  "removed": [
+    {
+      "title": "We just shipped support for the ugliest part of HTTP: Vary",
+      "link": "https://blog.cloudflare.com/vary-support/",
+      "is_new": true
     },
     {
       "title": "Radicle: Disclosure of Vulnerability in the Network Protocol",
@@ -85,11 +167,6 @@
     {
       "title": "The Curious Power of Punctuation",
       "link": "https://www.newyorker.com/magazine/2026/09/28/on-the-mark-louis-menand-book-review",
-      "is_new": false
-    },
-    {
-      "title": "Tokens too cheap to meter",
-      "link": "https://jyn.dev/tokens-too-cheap-to-meter/",
       "is_new": false
     },
     {
@@ -150,53 +227,6 @@
     {
       "title": "QuestDB (YC S20) Is Hiring a Sales Engineer",
       "link": "https://questdb.com/careers/pre-sales-engineer-north-america/",
-      "is_new": false
-    }
-  ],
-  "removed": [
-    {
-      "title": "OpenAI breaches Medicare, Albanese reveals",
-      "link": "https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html",
-      "is_new": true
-    },
-    {
-      "title": "Jev in 25 Lines of Python",
-      "link": "https://www.nobodywho.ai/posts/jev-in-25-lines/",
-      "is_new": false
-    },
-    {
-      "title": "Show HN: An atlas of system designs with interactive architecture diagrams",
-      "link": "https://atlas-sysdes.vercel.app/",
-      "is_new": true
-    },
-    {
-      "title": "DoorDash Spent $1.4M Trying to Stop Mamdani from Becoming Mayor. Now We Know Why",
-      "link": "https://theintercept.com/2026/09/23/doordash-delivery-nyc-mamdani-wage-theft-settlement/",
-      "is_new": true
-    },
-    {
-      "title": "Stripe's Knowledge AI Platform",
-      "link": "https://stripe.dev/blog/meet-stripes-knowledge-ai-platform",
-      "is_new": false
-    },
-    {
-      "title": "Show HN: Conway's Game of Life in boot sector",
-      "link": "https://github.com/0xAX/BootLife",
-      "is_new": true
-    },
-    {
-      "title": "UK military jamming other nations' satellites to defend itself, BBC told",
-      "link": "https://www.bbc.com/news/articles/c32l8y8kygdvo",
-      "is_new": false
-    },
-    {
-      "title": "Strands Harness",
-      "link": "https://strandsagents.com/blog/introducing-strands-harness/",
-      "is_new": false
-    },
-    {
-      "title": "Transit rewards",
-      "link": "https://waymo.com/blog/2026/09/transit-rewards/",
       "is_new": false
     }
   ]
