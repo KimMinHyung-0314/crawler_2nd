@@ -1,26 +1,111 @@
 {
-  "crawled_at": "2026-09-24 22:08",
-  "prev_crawled_at": "2026-09-24 16:06",
+  "crawled_at": "2026-09-25 03:07",
+  "prev_crawled_at": "2026-09-24 22:08",
   "items": [
     {
-      "title": "Nokia Design Archive (2025)",
-      "link": "https://nokiadesignarchive.aalto.fi/index.html",
+      "title": "F-Droid 2.0",
+      "link": "https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html",
       "is_new": true
     },
     {
-      "title": "Two-Tier Encryption in the UK – Identical Apple Devices, Different Protection",
+      "title": "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
+      "link": "https://github.com/devdotfast/whiteboard",
+      "is_new": true
+    },
+    {
+      "title": "Two-tier encryption in the UK",
       "link": "https://macanorak.com/two-tier-encryption-in-the-uk/",
+      "is_new": false
+    },
+    {
+      "title": "Fearless SIMD v1.0",
+      "link": "https://linebender.org/blog/fearless-simd-1-0/",
       "is_new": true
     },
     {
-      "title": "Linux support is coming to Snapdragon X2 Series",
+      "title": "WaveDigger: Dig into wireless signals to discover their physical locations",
+      "link": "https://github.com/christianrowlands/wavedigger",
+      "is_new": true
+    },
+    {
+      "title": "Toyota is taking the Corolla electric",
+      "link": "https://electrek.co/2026/09/23/toyota-best-selling-corolla-electric/",
+      "is_new": true
+    },
+    {
+      "title": "The forgotten battle of East Lansing",
+      "link": "https://eastlansinginfo.news/the-forgotten-battle-of-east-lansing/",
+      "is_new": true
+    },
+    {
+      "title": "Nokia Design Archive (2025)",
+      "link": "https://repo.aalto.fi/index.php?name=SO_b66a9391-dcf8-4399-8e87-611f84c3fc4c",
+      "is_new": true
+    },
+    {
+      "title": "GitHub has not removed malicious imitation software after 3 weeks",
+      "link": "https://successfulsoftware.net/2026/09/24/github-has-not-removed-malicious-imitation-software-after-3-weeks/",
+      "is_new": true
+    },
+    {
+      "title": "Book review: Is parallel programming hard, and, if so, what can you do about it?",
+      "link": "https://ahelwer.ca/post/2026-09-21-concurrency-textbook/",
+      "is_new": true
+    },
+    {
+      "title": "B5-BJ2 – Ice Cream Barges – Concrete Ship Constructors (2023)",
+      "link": "https://thecretefleet.com/blog/f/b5-bj2---ice-cream-barges---concrete-ship-constructors",
+      "is_new": true
+    },
+    {
+      "title": "Google’s Project Suncatcher to put ML infrastructure in space",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts/",
+      "is_new": true
+    },
+    {
+      "title": "Experiencing writing at our recent Chinese calligraphy workshop",
+      "link": "https://viewsproject.wordpress.com/2026/09/06/chinese-calligraphy-workshop/",
+      "is_new": true
+    },
+    {
+      "title": "Linux support is coming to Snapdragon X2 series",
       "link": "https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux",
       "is_new": false
     },
     {
-      "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
-      "link": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
-      "is_new": false
+      "title": "Apple iPhone 4 “Antennagate” Q&A (2010) [video]",
+      "link": "https://www.youtube.com/watch?v=BiN5ERktXz0",
+      "is_new": true
+    },
+    {
+      "title": "Search – A small, fast WebKit browser for macOS",
+      "link": "https://github.com/driceroland/Search",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: AgentRun: DSL to turn agents into workflows",
+      "link": "https://github.com/Parcha-ai/agentrun",
+      "is_new": true
+    },
+    {
+      "title": "Motor Characterization for Small Running Robots (2016)",
+      "link": "https://robot-daycare.com/posts/2016-01-06-motor-characterization-for-small-running-robots/",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: Treepeat – Code similarity detection using Tree-sitter",
+      "link": "https://github.com/dsummersl/treepeat",
+      "is_new": true
+    },
+    {
+      "title": "My Weird New Hobby: Wandering Around Tokyo on Google Maps",
+      "link": "https://ahmedhossamdev.com/writing/my-weird-new-hobby-wandering-around-tokyo/",
+      "is_new": true
+    },
+    {
+      "title": "Geothermal heat map of US hot springs",
+      "link": "https://www.soakingsprings.com/hot-springs/geothermal-map",
+      "is_new": true
     },
     {
       "title": "Ideas on modernizing the open-source desktop",
@@ -28,14 +113,14 @@
       "is_new": false
     },
     {
-      "title": "RAM: the forgotten history (2024)",
-      "link": "https://blog.coredump.cx/p/memory-the-forgotten-history",
+      "title": "The science of Monkey Island: can grog dissolve a metal mug that fast?",
+      "link": "https://jgeekstudies.org/2026/09/23/the-science-of-monkey-island-can-grog-actually-dissolve-a-metal-mug-that-fast/",
       "is_new": true
     },
     {
-      "title": "Meta takes down a critical video about meta AI Glasses after filming at Meta",
-      "link": "https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/",
-      "is_new": true
+      "title": "RAM: the forgotten history (2024)",
+      "link": "https://blog.coredump.cx/p/memory-the-forgotten-history",
+      "is_new": false
     },
     {
       "title": "ArXiv receives multiyear commitments to support it as an independent nonprofit",
@@ -43,8 +128,45 @@
       "is_new": false
     },
     {
+      "title": "When the Debugger Lies",
+      "link": "https://danielmangum.com/posts/when-the-debugger-lies/",
+      "is_new": false
+    },
+    {
+      "title": "Enjoy Every Sandwich",
+      "link": "https://bradmontague.substack.com/p/enjoy-every-sandwich",
+      "is_new": true
+    },
+    {
+      "title": "Coulomb's law remains tricky to test at home",
+      "link": "https://chillphysicsenjoyer.substack.com/p/coulombs-law-remains-tricky-to-test",
+      "is_new": true
+    },
+    {
       "title": "The newest ESP32 can run Linux and it's getting close to a Raspberry Pi",
       "link": "https://www.xda-developers.com/newest-esp32-run-linux-close-to-raspberry-pi/",
+      "is_new": false
+    },
+    {
+      "title": "VSCode's SSH Agent Is Bananas (2025)",
+      "link": "https://fly.io/blog/vscode-ssh-wtf/",
+      "is_new": false
+    }
+  ],
+  "removed": [
+    {
+      "title": "Nokia Design Archive (2025)",
+      "link": "https://nokiadesignarchive.aalto.fi/index.html",
+      "is_new": true
+    },
+    {
+      "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+      "link": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+      "is_new": false
+    },
+    {
+      "title": "Meta takes down a critical video about meta AI Glasses after filming at Meta",
+      "link": "https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/",
       "is_new": true
     },
     {
@@ -55,16 +177,6 @@
     {
       "title": "OpenAI agent hacked Australian government website, PM says",
       "link": "https://www.bbc.com/news/live/cvgl73pxgndwt",
-      "is_new": true
-    },
-    {
-      "title": "VSCode's SSH Agent Is Bananas (2025)",
-      "link": "https://fly.io/blog/vscode-ssh-wtf/",
-      "is_new": false
-    },
-    {
-      "title": "When the Debugger Lies",
-      "link": "https://danielmangum.com/posts/when-the-debugger-lies/",
       "is_new": true
     },
     {
@@ -151,73 +263,6 @@
       "title": "The Year of Internal Tools",
       "link": "https://www.geocod.io/code-and-coordinates/2026-09-23-the-year-of-internal-tools",
       "is_new": true
-    }
-  ],
-  "removed": [
-    {
-      "title": "Feds Target AI Critics as \"Foreign Agents\"",
-      "link": "https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign",
-      "is_new": true
-    },
-    {
-      "title": "Lazydraw: Terminal ASCII editor for drawing diagrams and sketches",
-      "link": "https://github.com/mpospirit/lazydraw",
-      "is_new": true
-    },
-    {
-      "title": "OpenAI breaches Medicare, Albanese reveals",
-      "link": "https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html",
-      "is_new": true
-    },
-    {
-      "title": "Six-year-old breaks women's world Rubik's Cube record [video]",
-      "link": "https://www.youtube.com/watch?v=UCMRgvyTm08",
-      "is_new": true
-    },
-    {
-      "title": "Italian parliament votes for return to nuclear energy",
-      "link": "https://apnews.com/article/italy-nuclear-chernobyl-4891b6b7c7791ae84db6b0bf0f7cf567",
-      "is_new": false
-    },
-    {
-      "title": "Lambda MicroEgg",
-      "link": "https://www.philipzucker.com/lambda_miller_egg/",
-      "is_new": true
-    },
-    {
-      "title": "A brief history of Windows scroll bar shortcuts",
-      "link": "https://devblogs.microsoft.com/oldnewthing/20260922-00/?p=112719/",
-      "is_new": false
-    },
-    {
-      "title": "Data liberation: Apache Kafka's native cluster mirroring",
-      "link": "https://developers.redhat.com/articles/2026/09/22/data-liberation-apache-kafka-native-cluster-mirroring",
-      "is_new": true
-    },
-    {
-      "title": "Tokens too cheap to meter",
-      "link": "https://jyn.dev/tokens-too-cheap-to-meter/",
-      "is_new": false
-    },
-    {
-      "title": "Solving for faster SHA-1 collision detection",
-      "link": "https://sam.dev/blog/faster-sha1-collision-detection",
-      "is_new": true
-    },
-    {
-      "title": "Gemini 3.8 text-to-speech",
-      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/",
-      "is_new": false
-    },
-    {
-      "title": "Show HN: An open-source manufacturing ERP/MES/QMS",
-      "link": "https://carbon.ms/self-hosted",
-      "is_new": true
-    },
-    {
-      "title": "LensVLM: Compressing long context as images, expanding only relevant pages",
-      "link": "https://huggingface.co/apple/LensVLM-9B",
-      "is_new": false
     }
   ]
 }
