@@ -1,15 +1,40 @@
 {
-  "crawled_at": "2026-09-24 07:00",
-  "prev_crawled_at": "2026-09-24 03:48",
+  "crawled_at": "2026-09-24 10:01",
+  "prev_crawled_at": "2026-09-24 07:00",
   "items": [
+    {
+      "title": "Meta VR Glasses",
+      "link": "https://www.meta.com/vr-glasses/",
+      "is_new": true
+    },
+    {
+      "title": "Linux support is coming to Snapdragon X2 Series",
+      "link": "https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux",
+      "is_new": true
+    },
     {
       "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
       "link": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
       "is_new": false
     },
     {
-      "title": "VSCode's SSH Agent Is Bananas",
+      "title": "VSCode's SSH Agent Is Bananas (2025)",
       "link": "https://fly.io/blog/vscode-ssh-wtf/",
+      "is_new": false
+    },
+    {
+      "title": "ArXiv receives multiyear commitments to support it as an independent nonprofit",
+      "link": "https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/",
+      "is_new": true
+    },
+    {
+      "title": "We just shipped support for the ugliest part of HTTP: Vary",
+      "link": "https://blog.cloudflare.com/vary-support/",
+      "is_new": true
+    },
+    {
+      "title": "The \"Windows XP Box\" (2003)",
+      "link": "https://www.mini-itx.com/projects/windowsxpbox/",
       "is_new": true
     },
     {
@@ -18,8 +43,13 @@
       "is_new": false
     },
     {
-      "title": "A brief history of Windows scroll bar shortcuts",
-      "link": "https://devblogs.microsoft.com/oldnewthing/20260922-00/?p=112719/",
+      "title": "Mercury 2.5 LLM hits 770 tokens per second",
+      "link": "https://artificialanalysis.ai/models/mercury-2-5",
+      "is_new": true
+    },
+    {
+      "title": "LensVLM: Compressing long context as images, expanding only relevant pages",
+      "link": "https://huggingface.co/apple/LensVLM-9B",
       "is_new": false
     },
     {
@@ -28,19 +58,106 @@
       "is_new": false
     },
     {
-      "title": "LensVLM: Compressing long context as images, expanding only relevant pages",
-      "link": "https://huggingface.co/apple/LensVLM-9B",
-      "is_new": true
+      "title": "The mystery animal on an ancient god's head",
+      "link": "https://signoregalilei.com/2026/09/13/the-mystery-animal-on-an-ancient-gods-head/",
+      "is_new": false
     },
     {
-      "title": "OpenAI breaches Medicare, Albanese reveals",
-      "link": "https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html",
-      "is_new": true
+      "title": "A brief history of Windows scroll bar shortcuts",
+      "link": "https://devblogs.microsoft.com/oldnewthing/20260922-00/?p=112719/",
+      "is_new": false
     },
     {
       "title": "Gemini 3.8 text-to-speech",
       "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/",
       "is_new": false
+    },
+    {
+      "title": "Making Tailscale Faster",
+      "link": "https://tailscale.com/blog/making-tailscale-faster",
+      "is_new": false
+    },
+    {
+      "title": "Radicle: Disclosure of Vulnerability in the Network Protocol",
+      "link": "https://radicle.dev/2026/09/23/disclosure-of-vulnerability-in-network-protocol",
+      "is_new": false
+    },
+    {
+      "title": "The Curious Power of Punctuation",
+      "link": "https://www.newyorker.com/magazine/2026/09/28/on-the-mark-louis-menand-book-review",
+      "is_new": false
+    },
+    {
+      "title": "Tokens too cheap to meter",
+      "link": "https://jyn.dev/tokens-too-cheap-to-meter/",
+      "is_new": false
+    },
+    {
+      "title": "Augustofaces: Pareidolia Fine Art",
+      "link": "https://augusto.at/augustosfaces/",
+      "is_new": true
+    },
+    {
+      "title": "A refined phylochronology of the second plague pandemic in Western Eurasia",
+      "link": "https://www.pnas.org/doi/10.1073/pnas.2534899123",
+      "is_new": false
+    },
+    {
+      "title": "I don't want the details",
+      "link": "https://michaelheap.com/i-dont-want-the-details/",
+      "is_new": false
+    },
+    {
+      "title": "Z80 REPL (2018)",
+      "link": "https://abagames.github.io/z80-repl/index.html",
+      "is_new": false
+    },
+    {
+      "title": "Swap, ZRAM, Zswap and Hibernate on NixOS",
+      "link": "https://blog.matthewbrunelle.com/swap-zram-zswap-and-hibernate-on-nixos/",
+      "is_new": false
+    },
+    {
+      "title": "Claude Code reads AGENTS.md only when telemetry is on [fixed]",
+      "link": "https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/",
+      "is_new": false
+    },
+    {
+      "title": "Show HN: I built a post-mortem debugger for native Windows x64/x86 crashes",
+      "link": "https://www.forensicdbg.com",
+      "is_new": false
+    },
+    {
+      "title": "28% of job postings on company career sites have been open over 90 days",
+      "link": "https://unlisted.careers/ghost-jobs/report/2026-09",
+      "is_new": true
+    },
+    {
+      "title": "Once Claude can measure something, it can make it faster",
+      "link": "https://claude.dev/blog/how-we-made-claude-ai-faster/",
+      "is_new": false
+    },
+    {
+      "title": "Seattle City Council votes to ban surveillance pricing in sale of groceries",
+      "link": "https://advocacy.consumerreports.org/press_release/seattle-city-council-votes-to-ban-surveillance-pricing-in-sale-of-groceries/",
+      "is_new": false
+    },
+    {
+      "title": "GPT-6 Sol and Luna",
+      "link": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
+      "is_new": true
+    },
+    {
+      "title": "QuestDB (YC S20) Is Hiring a Sales Engineer",
+      "link": "https://questdb.com/careers/pre-sales-engineer-north-america/",
+      "is_new": false
+    }
+  ],
+  "removed": [
+    {
+      "title": "OpenAI breaches Medicare, Albanese reveals",
+      "link": "https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html",
+      "is_new": true
     },
     {
       "title": "Jev in 25 Lines of Python",
@@ -53,53 +170,8 @@
       "is_new": true
     },
     {
-      "title": "Radicle: Disclosure of Vulnerability in the Network Protocol",
-      "link": "https://radicle.dev/2026/09/23/disclosure-of-vulnerability-in-network-protocol",
-      "is_new": false
-    },
-    {
-      "title": "A refined phylochronology of the second plague pandemic in Western Eurasia",
-      "link": "https://www.pnas.org/doi/10.1073/pnas.2534899123",
-      "is_new": true
-    },
-    {
-      "title": "The Curious Power of Punctuation",
-      "link": "https://www.newyorker.com/magazine/2026/09/28/on-the-mark-louis-menand-book-review",
-      "is_new": true
-    },
-    {
-      "title": "Tokens too cheap to meter",
-      "link": "https://jyn.dev/tokens-too-cheap-to-meter/",
-      "is_new": false
-    },
-    {
       "title": "DoorDash Spent $1.4M Trying to Stop Mamdani from Becoming Mayor. Now We Know Why",
       "link": "https://theintercept.com/2026/09/23/doordash-delivery-nyc-mamdani-wage-theft-settlement/",
-      "is_new": true
-    },
-    {
-      "title": "I don't want the details",
-      "link": "https://michaelheap.com/i-dont-want-the-details/",
-      "is_new": false
-    },
-    {
-      "title": "Swap, ZRAM, Zswap and Hibernate on NixOS",
-      "link": "https://blog.matthewbrunelle.com/swap-zram-zswap-and-hibernate-on-nixos/",
-      "is_new": true
-    },
-    {
-      "title": "Z80 REPL (2018)",
-      "link": "https://abagames.github.io/z80-repl/index.html",
-      "is_new": false
-    },
-    {
-      "title": "Claude Code reads AGENTS.md only when telemetry is on [fixed]",
-      "link": "https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/",
-      "is_new": false
-    },
-    {
-      "title": "Show HN: I built a post-mortem debugger for native Windows x64/x86 crashes",
-      "link": "https://www.forensicdbg.com",
       "is_new": true
     },
     {
@@ -113,33 +185,8 @@
       "is_new": true
     },
     {
-      "title": "QuestDB (YC S20) Is Hiring a Sales Engineer",
-      "link": "https://questdb.com/careers/pre-sales-engineer-north-america/",
-      "is_new": false
-    },
-    {
-      "title": "Once Claude can measure something, it can make it faster",
-      "link": "https://claude.dev/blog/how-we-made-claude-ai-faster/",
-      "is_new": true
-    },
-    {
       "title": "UK military jamming other nations' satellites to defend itself, BBC told",
       "link": "https://www.bbc.com/news/articles/c32l8y8kygdvo",
-      "is_new": false
-    },
-    {
-      "title": "Making Tailscale Faster",
-      "link": "https://tailscale.com/blog/making-tailscale-faster",
-      "is_new": true
-    },
-    {
-      "title": "The mystery animal on an ancient god's head",
-      "link": "https://signoregalilei.com/2026/09/13/the-mystery-animal-on-an-ancient-gods-head/",
-      "is_new": true
-    },
-    {
-      "title": "Seattle City Council votes to ban surveillance pricing in sale of groceries",
-      "link": "https://advocacy.consumerreports.org/press_release/seattle-city-council-votes-to-ban-surveillance-pricing-in-sale-of-groceries/",
       "is_new": false
     },
     {
@@ -150,73 +197,6 @@
     {
       "title": "Transit rewards",
       "link": "https://waymo.com/blog/2026/09/transit-rewards/",
-      "is_new": false
-    }
-  ],
-  "removed": [
-    {
-      "title": "GPT-6 Sol and Luna",
-      "link": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
-      "is_new": false
-    },
-    {
-      "title": "Claude Opus 5.5",
-      "link": "https://www.anthropic.com/claude-opus-5-5",
-      "is_new": false
-    },
-    {
-      "title": "28% of job postings on company career sites have been open over 90 days",
-      "link": "https://unlisted.careers/ghost-jobs/report/2026-09",
-      "is_new": true
-    },
-    {
-      "title": "Web-based IBM 1620 emulator and IPL-V from 1963",
-      "link": "https://github.com/pkimpel/retro-1620",
-      "is_new": false
-    },
-    {
-      "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
-      "link": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
-      "is_new": false
-    },
-    {
-      "title": "GPT-6 Astra has gained the ability to drive a car",
-      "link": "https://drivingbench.com/",
-      "is_new": true
-    },
-    {
-      "title": "The GitHub wiki is an anti-pattern (2022)",
-      "link": "https://michaelheap.com/github-wiki-is-an-antipattern/",
-      "is_new": false
-    },
-    {
-      "title": "What California is learning from solar panels built over irrigation canals",
-      "link": "https://www.kqed.org/science/2002033/heres-what-california-is-learning-from-solar-panels-built-over-irrigation-canals",
-      "is_new": false
-    },
-    {
-      "title": "How did AMD Ryzen get 50% faster in two years?",
-      "link": "https://lemire.me/blog/2026/09/18/how-did-amd-ryzen-get-50-faster-in-two-years/",
-      "is_new": false
-    },
-    {
-      "title": "Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived",
-      "link": "https://foxscript.org/",
-      "is_new": false
-    },
-    {
-      "title": "What to Know About JavaScript in 2026",
-      "link": "https://blog.master.dev/what-to-know-in-javascript-2026-edition/",
-      "is_new": true
-    },
-    {
-      "title": "'We hacked the FBI:' Hackers say they have data on all FBI employees",
-      "link": "https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/",
-      "is_new": false
-    },
-    {
-      "title": "SAML: A fractal of bad design",
-      "link": "https://blog.trailofbits.com/2026/09/21/saml-a-fractal-of-bad-design/",
       "is_new": false
     }
   ]
