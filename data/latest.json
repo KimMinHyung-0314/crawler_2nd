@@ -1,26 +1,46 @@
 {
-  "crawled_at": "2026-09-25 20:02",
-  "prev_crawled_at": "2026-09-25 14:44",
+  "crawled_at": "2026-09-26 01:25",
+  "prev_crawled_at": "2026-09-25 20:02",
   "items": [
     {
-      "title": "Dutch governments builds alternative for Microsoft based on NixOS",
-      "link": "https://www.dawo.community/en/",
+      "title": "Platform-Independent SIMD in Go",
+      "link": "https://go.dev/blog/simd-experiment",
       "is_new": true
     },
     {
-      "title": "Ink and Switch Interactive Homepage",
-      "link": "https://www.inkandswitch.com/",
+      "title": "Git-bug: Distributed, offline-first bug tracker embedded in Git",
+      "link": "https://github.com/git-bug/git-bug",
+      "is_new": true
+    },
+    {
+      "title": "Jevmem – automatic project memory for Claude Code, built on Jev",
+      "link": "https://github.com/Avinash-jetwani/jevmem",
+      "is_new": true
+    },
+    {
+      "title": "First Principles Thinking",
+      "link": "https://sunilsadasivan.com/writing/first-principles-thinking/",
+      "is_new": true
+    },
+    {
+      "title": "Classified Estimates Show the NSA Is Paying Billions to Test AI Models",
+      "link": "https://www.washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models",
+      "is_new": true
+    },
+    {
+      "title": "Allow Carriers on Planes",
+      "link": "https://www.jefftk.com/p/allow-carriers-on-planes",
       "is_new": true
     },
     {
       "title": "Pentium II at 600Mhz with Voodoo 3 Emulated on 86Box with M6 Mac Mini",
       "link": "https://nyaa.sh/reviews/mac-mini-m6-emulation",
-      "is_new": true
+      "is_new": false
     },
     {
-      "title": "The Mafia may be keeping fentanyl out of Italy",
-      "link": "https://economist.com/europe/2026/09/24/the-mafia-may-be-keeping-fentanyl-out-of-italy",
-      "is_new": true
+      "title": "Ink and Switch Interactive Homepage",
+      "link": "https://www.inkandswitch.com/",
+      "is_new": false
     },
     {
       "title": "F-Droid 2.0",
@@ -28,13 +48,28 @@
       "is_new": false
     },
     {
-      "title": "CVE-2025-13032: Entering and Breaking the Avast Antivirus Sandbox Part 2",
-      "link": "https://www.safateam.com/intelligence-hub/research/technical-articles/cve-2025-13032-entering-and-breaking-the-avast-antivirus-sandbox-part-2",
+      "title": "Dutch governments builds alternative for Microsoft based on NixOS",
+      "link": "https://www.dawo.community/en/",
+      "is_new": false
+    },
+    {
+      "title": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
+      "link": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
       "is_new": true
     },
     {
-      "title": "Special Projects (2016)",
-      "link": "https://openai.com/index/special-projects/",
+      "title": "Gravity Seems Holographic. What Does That Mean for Reality?",
+      "link": "https://www.quantamagazine.org/gravity-seems-holographic-what-does-that-mean-for-reality-20260925/",
+      "is_new": true
+    },
+    {
+      "title": "Factorio that you can touch",
+      "link": "https://factorio.com/blog/post/fff-447",
+      "is_new": true
+    },
+    {
+      "title": "Boards of Casio",
+      "link": "https://www.ambionix.com/blog/boards-of-casio/",
       "is_new": true
     },
     {
@@ -43,9 +78,29 @@
       "is_new": false
     },
     {
+      "title": "Amiga Screens: A Primer",
+      "link": "https://www.datagubbe.se/amscr/",
+      "is_new": false
+    },
+    {
+      "title": "CVE-2025-13032: Entering and Breaking the Avast Antivirus Sandbox Part 2",
+      "link": "https://www.safateam.com/intelligence-hub/research/technical-articles/cve-2025-13032-entering-and-breaking-the-avast-antivirus-sandbox-part-2",
+      "is_new": false
+    },
+    {
       "title": "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
       "link": "https://github.com/devdotfast/whiteboard",
       "is_new": false
+    },
+    {
+      "title": "Special Projects (2016)",
+      "link": "https://openai.com/index/special-projects/",
+      "is_new": false
+    },
+    {
+      "title": "The Test",
+      "link": "https://tante.cc/2026/09/24/the-test/",
+      "is_new": true
     },
     {
       "title": "Why is the liver so weirdly regenerative?",
@@ -58,23 +113,13 @@
       "is_new": false
     },
     {
-      "title": "Oracle on the hook to pay data centre investors even if site has no electricity",
-      "link": "https://www.ft.com/content/a96bf05a-a299-4d6a-a753-b298dd0f4016",
-      "is_new": true
-    },
-    {
-      "title": "Fearless SIMD v1.0",
-      "link": "https://linebender.org/blog/fearless-simd-1-0/",
-      "is_new": false
-    },
-    {
       "title": "Rails World 2026 Opening Keynote [video]",
       "link": "https://www.youtube.com/watch?v=vDjW_dRyKXY",
       "is_new": false
     },
     {
-      "title": "What About Rails?",
-      "link": "https://jardo.dev/what-about-rails",
+      "title": "Microsoft Abandons Personal AI Chatbot Race with Copilot Reboot",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-25/microsoft-abandons-personal-ai-chatbot-race-with-copilot-reboot",
       "is_new": true
     },
     {
@@ -83,34 +128,51 @@
       "is_new": false
     },
     {
-      "title": "My weird new hobby: Wandering around Tokyo on Google Maps",
-      "link": "https://ahmedhossamdev.com/writing/my-weird-new-hobby-wandering-around-tokyo/",
-      "is_new": false
-    },
-    {
-      "title": "Uproar in France over award-winning author accused of using AI",
-      "link": "https://www.bbc.com/news/articles/ck7v4y45893go",
-      "is_new": true
-    },
-    {
-      "title": "Amiga Screens: A Primer",
-      "link": "https://www.datagubbe.se/amscr/",
-      "is_new": true
-    },
-    {
       "title": "Opus 5.5 is good at explainer videos",
       "link": "https://launchvideo.io",
       "is_new": false
     },
     {
-      "title": "Using LLMs to trace alchemical knowledge and decode 17th century letters",
-      "link": "https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical",
+      "title": "Fearless SIMD v1.0",
+      "link": "https://linebender.org/blog/fearless-simd-1-0/",
+      "is_new": false
+    },
+    {
+      "title": "My weird new hobby: Wandering around Tokyo on Google Maps",
+      "link": "https://ahmedhossamdev.com/writing/my-weird-new-hobby-wandering-around-tokyo/",
       "is_new": false
     },
     {
       "title": "Two-tier encryption in the UK",
       "link": "https://macanorak.com/two-tier-encryption-in-the-uk/",
       "is_new": false
+    },
+    {
+      "title": "Using LLMs to trace alchemical knowledge and decode 17th century letters",
+      "link": "https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical",
+      "is_new": false
+    }
+  ],
+  "removed": [
+    {
+      "title": "The Mafia may be keeping fentanyl out of Italy",
+      "link": "https://economist.com/europe/2026/09/24/the-mafia-may-be-keeping-fentanyl-out-of-italy",
+      "is_new": true
+    },
+    {
+      "title": "Oracle on the hook to pay data centre investors even if site has no electricity",
+      "link": "https://www.ft.com/content/a96bf05a-a299-4d6a-a753-b298dd0f4016",
+      "is_new": true
+    },
+    {
+      "title": "What About Rails?",
+      "link": "https://jardo.dev/what-about-rails",
+      "is_new": true
+    },
+    {
+      "title": "Uproar in France over award-winning author accused of using AI",
+      "link": "https://www.bbc.com/news/articles/ck7v4y45893go",
+      "is_new": true
     },
     {
       "title": "Google’s Project Suncatcher to put ML infrastructure in space",
@@ -151,68 +213,6 @@
       "title": "Netanyahu calls Israel's war in Gaza 'opposite of genocide' in UN speech",
       "link": "https://www.theguardian.com/us-news/2026/sep/24/netanyahu-un-speech-mahmoud-abbas",
       "is_new": true
-    }
-  ],
-  "removed": [
-    {
-      "title": "Goodbye Google",
-      "link": "https://robert.ocallahan.org/2026/09/goodbye-google.html",
-      "is_new": true
-    },
-    {
-      "title": "California is chasing wealth that has feet",
-      "link": "https://blog.landeconomics.org/p/california-is-chasing-wealth-that",
-      "is_new": false
-    },
-    {
-      "title": "Show HN: Air-gapped file encryption as self-decrypting HTML page",
-      "link": "https://cms-sfx-demo.apeleg.com/",
-      "is_new": true
-    },
-    {
-      "title": "Security auditing in the age of (good enough) AI",
-      "link": "https://blog.trailofbits.com/2026/09/18/auditing-in-the-age-of-good-enough-ai/",
-      "is_new": false
-    },
-    {
-      "title": "Show HN: Koi.rest – watch some fish and regain your balance",
-      "link": "https://koi.rest",
-      "is_new": false
-    },
-    {
-      "title": "The forgotten battle of East Lansing",
-      "link": "https://eastlansinginfo.news/the-forgotten-battle-of-east-lansing/",
-      "is_new": false
-    },
-    {
-      "title": "WaveDigger: Dig into wireless signals to discover their physical locations",
-      "link": "https://github.com/christianrowlands/wavedigger",
-      "is_new": false
-    },
-    {
-      "title": "Forging 1024-bit RSA signatures in nearly SNFS time [pdf]",
-      "link": "https://eprint.iacr.org/2026/2131.pdf",
-      "is_new": false
-    },
-    {
-      "title": "Stable (YC W20) Is Hiring Product Engineers",
-      "link": "https://www.usestable.com/careers/product-engineer",
-      "is_new": false
-    },
-    {
-      "title": "Geothermal heat map of US hot springs",
-      "link": "https://www.soakingsprings.com/hot-springs/geothermal-map",
-      "is_new": false
-    },
-    {
-      "title": "Nokia Design Archive (2025)",
-      "link": "https://repo.aalto.fi/index.php?name=SO_b66a9391-dcf8-4399-8e87-611f84c3fc4c",
-      "is_new": false
-    },
-    {
-      "title": "Tutoring company tells parents to save their money and 'use AI instead'",
-      "link": "https://www.afr.com/policy/health-and-education/tutoring-company-tell-parents-to-save-their-money-and-use-ai-instead-20260923-p60z0r",
-      "is_new": false
     }
   ]
 }
