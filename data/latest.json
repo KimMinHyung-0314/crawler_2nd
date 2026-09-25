@@ -1,6 +1,6 @@
 {
-  "crawled_at": "2026-09-25 06:55",
-  "prev_crawled_at": "2026-09-25 03:07",
+  "crawled_at": "2026-09-25 09:16",
+  "prev_crawled_at": "2026-09-25 06:55",
   "items": [
     {
       "title": "F-Droid 2.0",
@@ -10,12 +10,7 @@
     {
       "title": "Show HN: Make cursed fonts like Times New Bastard",
       "link": "https://bastardica.mitpit.com",
-      "is_new": true
-    },
-    {
-      "title": "Opus 5.5 is good at explainer videos",
-      "link": "https://launchvideo.io",
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
@@ -23,23 +18,23 @@
       "is_new": false
     },
     {
-      "title": "Show HN: Koi.rest – watch some fish and regain your balance",
-      "link": "https://koi.rest",
-      "is_new": true
-    },
-    {
       "title": "Why is the liver so weirdly regenerative?",
       "link": "https://dynomight.substack.com/p/liver",
-      "is_new": true
-    },
-    {
-      "title": "Rails World 2026 Opening Keynote [video]",
-      "link": "https://www.youtube.com/watch?v=vDjW_dRyKXY",
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Fearless SIMD v1.0",
       "link": "https://linebender.org/blog/fearless-simd-1-0/",
+      "is_new": false
+    },
+    {
+      "title": "2DWillNeverDie",
+      "link": "https://2dwillneverdie.com/",
+      "is_new": false
+    },
+    {
+      "title": "Rails World 2026 Opening Keynote [video]",
+      "link": "https://www.youtube.com/watch?v=vDjW_dRyKXY",
       "is_new": false
     },
     {
@@ -48,43 +43,8 @@
       "is_new": false
     },
     {
-      "title": "The Board Game of the Alpha Nerds (2014)",
-      "link": "https://grantland.com/features/diplomacy-the-board-game-of-the-alpha-nerds/",
-      "is_new": true
-    },
-    {
-      "title": "Sourcehut account takeover via build logs (XSS in ansi2html)",
-      "link": "https://blog.arusekk.pl/posts/srht-account-takeover/",
-      "is_new": true
-    },
-    {
-      "title": "Using LLMs to trace alchemical knowledge and decode 17th century letters",
-      "link": "https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical",
-      "is_new": true
-    },
-    {
-      "title": "Stable (YC W20) Is Hiring Product Engineers",
-      "link": "https://www.usestable.com/careers/product-engineer",
-      "is_new": true
-    },
-    {
-      "title": "Security headers on 4,688 small-business websites: 49.7% met none of 7 criteria",
-      "link": "https://rackcrunch.com/security-headers-2026",
-      "is_new": true
-    },
-    {
-      "title": "2DWillNeverDie",
-      "link": "https://2dwillneverdie.com/",
-      "is_new": true
-    },
-    {
-      "title": "Google’s Project Suncatcher to put ML infrastructure in space",
-      "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts/",
-      "is_new": false
-    },
-    {
-      "title": "Book review: Is parallel programming hard, and, if so, what can you do about it?",
-      "link": "https://ahelwer.ca/post/2026-09-21-concurrency-textbook/",
+      "title": "Show HN: Koi.rest – watch some fish and regain your balance",
+      "link": "https://koi.rest",
       "is_new": false
     },
     {
@@ -93,13 +53,53 @@
       "is_new": false
     },
     {
-      "title": "California is chasing wealth that has feet",
-      "link": "https://blog.landeconomics.org/p/california-is-chasing-wealth-that",
+      "title": "Using LLMs to trace alchemical knowledge and decode 17th century letters",
+      "link": "https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical",
+      "is_new": false
+    },
+    {
+      "title": "Back and shoulder surgery is often worse than useless",
+      "link": "https://www.economist.com/leaders/2026/09/24/back-and-shoulder-surgery-is-often-worse-than-useless",
       "is_new": true
     },
     {
-      "title": "The forgotten battle of East Lansing",
-      "link": "https://eastlansinginfo.news/the-forgotten-battle-of-east-lansing/",
+      "title": "GitLab Outage",
+      "link": "https://status.gitlab.com/",
+      "is_new": true
+    },
+    {
+      "title": "California is chasing wealth that has feet",
+      "link": "https://blog.landeconomics.org/p/california-is-chasing-wealth-that",
+      "is_new": false
+    },
+    {
+      "title": "Google’s Project Suncatcher to put ML infrastructure in space",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts/",
+      "is_new": false
+    },
+    {
+      "title": "Sourcehut account takeover via build logs (XSS in ansi2html)",
+      "link": "https://blog.arusekk.pl/posts/srht-account-takeover/",
+      "is_new": false
+    },
+    {
+      "title": "Book review: Is parallel programming hard, and, if so, what can you do about it?",
+      "link": "https://ahelwer.ca/post/2026-09-21-concurrency-textbook/",
+      "is_new": false
+    },
+    {
+      "title": "Stable (YC W20) Is Hiring Product Engineers",
+      "link": "https://www.usestable.com/careers/product-engineer",
+      "is_new": false
+    },
+    {
+      "title": "Motor Characterization for Small Running Robots (2016)",
+      "link": "https://robot-daycare.com/posts/2016-01-06-motor-characterization-for-small-running-robots/",
+      "is_new": true
+    },
+    {
+      "title": "The Board Game of the Alpha Nerds (2014)",
+      "link": "https://grantland.com/features/diplomacy-the-board-game-of-the-alpha-nerds/",
       "is_new": false
     },
     {
@@ -108,9 +108,14 @@
       "is_new": false
     },
     {
-      "title": "Forging 1024-bit RSA signatures in nearly SNFS time [pdf]",
-      "link": "https://eprint.iacr.org/2026/2131.pdf",
+      "title": "Security auditing in the age of (good enough) AI",
+      "link": "https://blog.trailofbits.com/2026/09/18/auditing-in-the-age-of-good-enough-ai/",
       "is_new": true
+    },
+    {
+      "title": "The forgotten battle of East Lansing",
+      "link": "https://eastlansinginfo.news/the-forgotten-battle-of-east-lansing/",
+      "is_new": false
     },
     {
       "title": "Geothermal heat map of US hot springs",
@@ -118,23 +123,45 @@
       "is_new": false
     },
     {
-      "title": "Tutoring company tells parents to save their money and 'use AI instead'",
-      "link": "https://www.afr.com/policy/health-and-education/tutoring-company-tell-parents-to-save-their-money-and-use-ai-instead-20260923-p60z0r",
-      "is_new": true
+      "title": "Forging 1024-bit RSA signatures in nearly SNFS time [pdf]",
+      "link": "https://eprint.iacr.org/2026/2131.pdf",
+      "is_new": false
     },
     {
       "title": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
       "link": "https://transluce.org/agent-activity",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: AgentRun: DSL to turn agents into workflows",
-      "link": "https://github.com/Parcha-ai/agentrun",
       "is_new": false
     },
     {
       "title": "WaveDigger: Dig into wireless signals to discover their physical locations",
       "link": "https://github.com/christianrowlands/wavedigger",
+      "is_new": false
+    },
+    {
+      "title": "Tutoring company tells parents to save their money and 'use AI instead'",
+      "link": "https://www.afr.com/policy/health-and-education/tutoring-company-tell-parents-to-save-their-money-and-use-ai-instead-20260923-p60z0r",
+      "is_new": false
+    },
+    {
+      "title": "Opus 5.5 is good at explainer videos",
+      "link": "https://launchvideo.io",
+      "is_new": false
+    },
+    {
+      "title": "Nokia Design Archive (2025)",
+      "link": "https://repo.aalto.fi/index.php?name=SO_b66a9391-dcf8-4399-8e87-611f84c3fc4c",
+      "is_new": true
+    }
+  ],
+  "removed": [
+    {
+      "title": "Security headers on 4,688 small-business websites: 49.7% met none of 7 criteria",
+      "link": "https://rackcrunch.com/security-headers-2026",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: AgentRun: DSL to turn agents into workflows",
+      "link": "https://github.com/Parcha-ai/agentrun",
       "is_new": false
     },
     {
@@ -151,93 +178,6 @@
       "title": "August 27 TCRF DDoS Attack Postmortem",
       "link": "https://blog.xkeeper.net/the-cutting-room-floor/tcrf-2026-ddos-postmortem/",
       "is_new": true
-    }
-  ],
-  "removed": [
-    {
-      "title": "Nokia Design Archive (2025)",
-      "link": "https://repo.aalto.fi/index.php?name=SO_b66a9391-dcf8-4399-8e87-611f84c3fc4c",
-      "is_new": true
-    },
-    {
-      "title": "GitHub has not removed malicious imitation software after 3 weeks",
-      "link": "https://successfulsoftware.net/2026/09/24/github-has-not-removed-malicious-imitation-software-after-3-weeks/",
-      "is_new": true
-    },
-    {
-      "title": "B5-BJ2 – Ice Cream Barges – Concrete Ship Constructors (2023)",
-      "link": "https://thecretefleet.com/blog/f/b5-bj2---ice-cream-barges---concrete-ship-constructors",
-      "is_new": true
-    },
-    {
-      "title": "Experiencing writing at our recent Chinese calligraphy workshop",
-      "link": "https://viewsproject.wordpress.com/2026/09/06/chinese-calligraphy-workshop/",
-      "is_new": true
-    },
-    {
-      "title": "Linux support is coming to Snapdragon X2 series",
-      "link": "https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux",
-      "is_new": false
-    },
-    {
-      "title": "Apple iPhone 4 “Antennagate” Q&A (2010) [video]",
-      "link": "https://www.youtube.com/watch?v=BiN5ERktXz0",
-      "is_new": true
-    },
-    {
-      "title": "Search – A small, fast WebKit browser for macOS",
-      "link": "https://github.com/driceroland/Search",
-      "is_new": true
-    },
-    {
-      "title": "Motor Characterization for Small Running Robots (2016)",
-      "link": "https://robot-daycare.com/posts/2016-01-06-motor-characterization-for-small-running-robots/",
-      "is_new": true
-    },
-    {
-      "title": "Ideas on modernizing the open-source desktop",
-      "link": "https://lwn.net/SubscriberLink/1095425/2d9f411252325784/",
-      "is_new": false
-    },
-    {
-      "title": "The science of Monkey Island: can grog dissolve a metal mug that fast?",
-      "link": "https://jgeekstudies.org/2026/09/23/the-science-of-monkey-island-can-grog-actually-dissolve-a-metal-mug-that-fast/",
-      "is_new": true
-    },
-    {
-      "title": "RAM: the forgotten history (2024)",
-      "link": "https://blog.coredump.cx/p/memory-the-forgotten-history",
-      "is_new": false
-    },
-    {
-      "title": "ArXiv receives multiyear commitments to support it as an independent nonprofit",
-      "link": "https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/",
-      "is_new": false
-    },
-    {
-      "title": "When the Debugger Lies",
-      "link": "https://danielmangum.com/posts/when-the-debugger-lies/",
-      "is_new": false
-    },
-    {
-      "title": "Enjoy Every Sandwich",
-      "link": "https://bradmontague.substack.com/p/enjoy-every-sandwich",
-      "is_new": true
-    },
-    {
-      "title": "Coulomb's law remains tricky to test at home",
-      "link": "https://chillphysicsenjoyer.substack.com/p/coulombs-law-remains-tricky-to-test",
-      "is_new": true
-    },
-    {
-      "title": "The newest ESP32 can run Linux and it's getting close to a Raspberry Pi",
-      "link": "https://www.xda-developers.com/newest-esp32-run-linux-close-to-raspberry-pi/",
-      "is_new": false
-    },
-    {
-      "title": "VSCode's SSH Agent Is Bananas (2025)",
-      "link": "https://fly.io/blog/vscode-ssh-wtf/",
-      "is_new": false
     }
   ]
 }
