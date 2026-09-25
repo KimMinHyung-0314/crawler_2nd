@@ -1,6 +1,6 @@
 {
-  "crawled_at": "2026-09-25 09:16",
-  "prev_crawled_at": "2026-09-25 06:55",
+  "crawled_at": "2026-09-25 14:44",
+  "prev_crawled_at": "2026-09-25 09:16",
   "items": [
     {
       "title": "F-Droid 2.0",
@@ -13,6 +13,11 @@
       "is_new": false
     },
     {
+      "title": "Goodbye Google",
+      "link": "https://robert.ocallahan.org/2026/09/goodbye-google.html",
+      "is_new": true
+    },
+    {
       "title": "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
       "link": "https://github.com/devdotfast/whiteboard",
       "is_new": false
@@ -23,13 +28,13 @@
       "is_new": false
     },
     {
-      "title": "Fearless SIMD v1.0",
-      "link": "https://linebender.org/blog/fearless-simd-1-0/",
+      "title": "2DWillNeverDie",
+      "link": "https://2dwillneverdie.com/",
       "is_new": false
     },
     {
-      "title": "2DWillNeverDie",
-      "link": "https://2dwillneverdie.com/",
+      "title": "Fearless SIMD v1.0",
+      "link": "https://linebender.org/blog/fearless-simd-1-0/",
       "is_new": false
     },
     {
@@ -38,8 +43,63 @@
       "is_new": false
     },
     {
+      "title": "Toyota is taking the Corolla electric",
+      "link": "https://electrek.co/2026/09/23/toyota-best-selling-corolla-electric/",
+      "is_new": false
+    },
+    {
       "title": "My weird new hobby: Wandering around Tokyo on Google Maps",
       "link": "https://ahmedhossamdev.com/writing/my-weird-new-hobby-wandering-around-tokyo/",
+      "is_new": false
+    },
+    {
+      "title": "Using LLMs to trace alchemical knowledge and decode 17th century letters",
+      "link": "https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical",
+      "is_new": false
+    },
+    {
+      "title": "Google’s Project Suncatcher to put ML infrastructure in space",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts/",
+      "is_new": false
+    },
+    {
+      "title": "Two-tier encryption in the UK",
+      "link": "https://macanorak.com/two-tier-encryption-in-the-uk/",
+      "is_new": false
+    },
+    {
+      "title": "Writing Parquet files using Haskell",
+      "link": "https://www.datahaskell.org/blog/2026/09/18/writing-parquet-files-using-haskell.html",
+      "is_new": true
+    },
+    {
+      "title": "Book review: Is parallel programming hard, and, if so, what can you do about it?",
+      "link": "https://ahelwer.ca/post/2026-09-21-concurrency-textbook/",
+      "is_new": false
+    },
+    {
+      "title": "The Board Game of the Alpha Nerds (2014)",
+      "link": "https://grantland.com/features/diplomacy-the-board-game-of-the-alpha-nerds/",
+      "is_new": false
+    },
+    {
+      "title": "California is chasing wealth that has feet",
+      "link": "https://blog.landeconomics.org/p/california-is-chasing-wealth-that",
+      "is_new": false
+    },
+    {
+      "title": "Show HN: Air-gapped file encryption as self-decrypting HTML page",
+      "link": "https://cms-sfx-demo.apeleg.com/",
+      "is_new": true
+    },
+    {
+      "title": "Security auditing in the age of (good enough) AI",
+      "link": "https://blog.trailofbits.com/2026/09/18/auditing-in-the-age-of-good-enough-ai/",
+      "is_new": false
+    },
+    {
+      "title": "Sourcehut account takeover via build logs (XSS in ansi2html)",
+      "link": "https://blog.arusekk.pl/posts/srht-account-takeover/",
       "is_new": false
     },
     {
@@ -48,15 +108,52 @@
       "is_new": false
     },
     {
-      "title": "Toyota is taking the Corolla electric",
-      "link": "https://electrek.co/2026/09/23/toyota-best-selling-corolla-electric/",
+      "title": "The forgotten battle of East Lansing",
+      "link": "https://eastlansinginfo.news/the-forgotten-battle-of-east-lansing/",
       "is_new": false
     },
     {
-      "title": "Using LLMs to trace alchemical knowledge and decode 17th century letters",
-      "link": "https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical",
+      "title": "Opus 5.5 is good at explainer videos",
+      "link": "https://launchvideo.io",
       "is_new": false
     },
+    {
+      "title": "WaveDigger: Dig into wireless signals to discover their physical locations",
+      "link": "https://github.com/christianrowlands/wavedigger",
+      "is_new": false
+    },
+    {
+      "title": "Forging 1024-bit RSA signatures in nearly SNFS time [pdf]",
+      "link": "https://eprint.iacr.org/2026/2131.pdf",
+      "is_new": false
+    },
+    {
+      "title": "Stable (YC W20) Is Hiring Product Engineers",
+      "link": "https://www.usestable.com/careers/product-engineer",
+      "is_new": false
+    },
+    {
+      "title": "Geothermal heat map of US hot springs",
+      "link": "https://www.soakingsprings.com/hot-springs/geothermal-map",
+      "is_new": false
+    },
+    {
+      "title": "The Bayeux Tapestry: Woven by the Victors",
+      "link": "https://www.historytoday.com/archive/out-margins/bayeux-tapestry-woven-victors",
+      "is_new": true
+    },
+    {
+      "title": "Nokia Design Archive (2025)",
+      "link": "https://repo.aalto.fi/index.php?name=SO_b66a9391-dcf8-4399-8e87-611f84c3fc4c",
+      "is_new": false
+    },
+    {
+      "title": "Tutoring company tells parents to save their money and 'use AI instead'",
+      "link": "https://www.afr.com/policy/health-and-education/tutoring-company-tell-parents-to-save-their-money-and-use-ai-instead-20260923-p60z0r",
+      "is_new": false
+    }
+  ],
+  "removed": [
     {
       "title": "Back and shoulder surgery is often worse than useless",
       "link": "https://www.economist.com/leaders/2026/09/24/back-and-shoulder-surgery-is-often-worse-than-useless",
@@ -68,116 +165,14 @@
       "is_new": true
     },
     {
-      "title": "California is chasing wealth that has feet",
-      "link": "https://blog.landeconomics.org/p/california-is-chasing-wealth-that",
-      "is_new": false
-    },
-    {
-      "title": "Google’s Project Suncatcher to put ML infrastructure in space",
-      "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts/",
-      "is_new": false
-    },
-    {
-      "title": "Sourcehut account takeover via build logs (XSS in ansi2html)",
-      "link": "https://blog.arusekk.pl/posts/srht-account-takeover/",
-      "is_new": false
-    },
-    {
-      "title": "Book review: Is parallel programming hard, and, if so, what can you do about it?",
-      "link": "https://ahelwer.ca/post/2026-09-21-concurrency-textbook/",
-      "is_new": false
-    },
-    {
-      "title": "Stable (YC W20) Is Hiring Product Engineers",
-      "link": "https://www.usestable.com/careers/product-engineer",
-      "is_new": false
-    },
-    {
       "title": "Motor Characterization for Small Running Robots (2016)",
       "link": "https://robot-daycare.com/posts/2016-01-06-motor-characterization-for-small-running-robots/",
       "is_new": true
     },
     {
-      "title": "The Board Game of the Alpha Nerds (2014)",
-      "link": "https://grantland.com/features/diplomacy-the-board-game-of-the-alpha-nerds/",
-      "is_new": false
-    },
-    {
-      "title": "Two-tier encryption in the UK",
-      "link": "https://macanorak.com/two-tier-encryption-in-the-uk/",
-      "is_new": false
-    },
-    {
-      "title": "Security auditing in the age of (good enough) AI",
-      "link": "https://blog.trailofbits.com/2026/09/18/auditing-in-the-age-of-good-enough-ai/",
-      "is_new": true
-    },
-    {
-      "title": "The forgotten battle of East Lansing",
-      "link": "https://eastlansinginfo.news/the-forgotten-battle-of-east-lansing/",
-      "is_new": false
-    },
-    {
-      "title": "Geothermal heat map of US hot springs",
-      "link": "https://www.soakingsprings.com/hot-springs/geothermal-map",
-      "is_new": false
-    },
-    {
-      "title": "Forging 1024-bit RSA signatures in nearly SNFS time [pdf]",
-      "link": "https://eprint.iacr.org/2026/2131.pdf",
-      "is_new": false
-    },
-    {
       "title": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
       "link": "https://transluce.org/agent-activity",
       "is_new": false
-    },
-    {
-      "title": "WaveDigger: Dig into wireless signals to discover their physical locations",
-      "link": "https://github.com/christianrowlands/wavedigger",
-      "is_new": false
-    },
-    {
-      "title": "Tutoring company tells parents to save their money and 'use AI instead'",
-      "link": "https://www.afr.com/policy/health-and-education/tutoring-company-tell-parents-to-save-their-money-and-use-ai-instead-20260923-p60z0r",
-      "is_new": false
-    },
-    {
-      "title": "Opus 5.5 is good at explainer videos",
-      "link": "https://launchvideo.io",
-      "is_new": false
-    },
-    {
-      "title": "Nokia Design Archive (2025)",
-      "link": "https://repo.aalto.fi/index.php?name=SO_b66a9391-dcf8-4399-8e87-611f84c3fc4c",
-      "is_new": true
-    }
-  ],
-  "removed": [
-    {
-      "title": "Security headers on 4,688 small-business websites: 49.7% met none of 7 criteria",
-      "link": "https://rackcrunch.com/security-headers-2026",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: AgentRun: DSL to turn agents into workflows",
-      "link": "https://github.com/Parcha-ai/agentrun",
-      "is_new": false
-    },
-    {
-      "title": "Web-based IBM 1620 emulator and IPL-V from 1963",
-      "link": "https://github.com/pkimpel/retro-1620",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: Treepeat – Code similarity detection using Tree-sitter",
-      "link": "https://github.com/dsummersl/treepeat",
-      "is_new": false
-    },
-    {
-      "title": "August 27 TCRF DDoS Attack Postmortem",
-      "link": "https://blog.xkeeper.net/the-cutting-room-floor/tcrf-2026-ddos-postmortem/",
-      "is_new": true
     }
   ]
 }
