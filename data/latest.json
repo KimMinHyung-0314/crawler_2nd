@@ -1,21 +1,46 @@
 {
-  "crawled_at": "2026-09-25 14:44",
-  "prev_crawled_at": "2026-09-25 09:16",
+  "crawled_at": "2026-09-25 20:02",
+  "prev_crawled_at": "2026-09-25 14:44",
   "items": [
+    {
+      "title": "Dutch governments builds alternative for Microsoft based on NixOS",
+      "link": "https://www.dawo.community/en/",
+      "is_new": true
+    },
+    {
+      "title": "Ink and Switch Interactive Homepage",
+      "link": "https://www.inkandswitch.com/",
+      "is_new": true
+    },
+    {
+      "title": "Pentium II at 600Mhz with Voodoo 3 Emulated on 86Box with M6 Mac Mini",
+      "link": "https://nyaa.sh/reviews/mac-mini-m6-emulation",
+      "is_new": true
+    },
+    {
+      "title": "The Mafia may be keeping fentanyl out of Italy",
+      "link": "https://economist.com/europe/2026/09/24/the-mafia-may-be-keeping-fentanyl-out-of-italy",
+      "is_new": true
+    },
     {
       "title": "F-Droid 2.0",
       "link": "https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html",
       "is_new": false
     },
     {
+      "title": "CVE-2025-13032: Entering and Breaking the Avast Antivirus Sandbox Part 2",
+      "link": "https://www.safateam.com/intelligence-hub/research/technical-articles/cve-2025-13032-entering-and-breaking-the-avast-antivirus-sandbox-part-2",
+      "is_new": true
+    },
+    {
+      "title": "Special Projects (2016)",
+      "link": "https://openai.com/index/special-projects/",
+      "is_new": true
+    },
+    {
       "title": "Show HN: Make cursed fonts like Times New Bastard",
       "link": "https://bastardica.mitpit.com",
       "is_new": false
-    },
-    {
-      "title": "Goodbye Google",
-      "link": "https://robert.ocallahan.org/2026/09/goodbye-google.html",
-      "is_new": true
     },
     {
       "title": "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
@@ -33,6 +58,11 @@
       "is_new": false
     },
     {
+      "title": "Oracle on the hook to pay data centre investors even if site has no electricity",
+      "link": "https://www.ft.com/content/a96bf05a-a299-4d6a-a753-b298dd0f4016",
+      "is_new": true
+    },
+    {
       "title": "Fearless SIMD v1.0",
       "link": "https://linebender.org/blog/fearless-simd-1-0/",
       "is_new": false
@@ -41,6 +71,11 @@
       "title": "Rails World 2026 Opening Keynote [video]",
       "link": "https://www.youtube.com/watch?v=vDjW_dRyKXY",
       "is_new": false
+    },
+    {
+      "title": "What About Rails?",
+      "link": "https://jardo.dev/what-about-rails",
+      "is_new": true
     },
     {
       "title": "Toyota is taking the Corolla electric",
@@ -53,13 +88,23 @@
       "is_new": false
     },
     {
-      "title": "Using LLMs to trace alchemical knowledge and decode 17th century letters",
-      "link": "https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical",
+      "title": "Uproar in France over award-winning author accused of using AI",
+      "link": "https://www.bbc.com/news/articles/ck7v4y45893go",
+      "is_new": true
+    },
+    {
+      "title": "Amiga Screens: A Primer",
+      "link": "https://www.datagubbe.se/amscr/",
+      "is_new": true
+    },
+    {
+      "title": "Opus 5.5 is good at explainer videos",
+      "link": "https://launchvideo.io",
       "is_new": false
     },
     {
-      "title": "Google’s Project Suncatcher to put ML infrastructure in space",
-      "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts/",
+      "title": "Using LLMs to trace alchemical knowledge and decode 17th century letters",
+      "link": "https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical",
       "is_new": false
     },
     {
@@ -68,8 +113,18 @@
       "is_new": false
     },
     {
+      "title": "Google’s Project Suncatcher to put ML infrastructure in space",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts/",
+      "is_new": false
+    },
+    {
       "title": "Writing Parquet files using Haskell",
       "link": "https://www.datahaskell.org/blog/2026/09/18/writing-parquet-files-using-haskell.html",
+      "is_new": false
+    },
+    {
+      "title": "Tech Needs Humanists More",
+      "link": "https://passo.uno/tech-needs-humanists-more-than-ever/",
       "is_new": true
     },
     {
@@ -78,9 +133,31 @@
       "is_new": false
     },
     {
+      "title": "Sourcehut account takeover via build logs (XSS in ansi2html)",
+      "link": "https://blog.arusekk.pl/posts/srht-account-takeover/",
+      "is_new": false
+    },
+    {
+      "title": "The Bayeux Tapestry: Woven by the Victors",
+      "link": "https://www.historytoday.com/archive/out-margins/bayeux-tapestry-woven-victors",
+      "is_new": false
+    },
+    {
       "title": "The Board Game of the Alpha Nerds (2014)",
       "link": "https://grantland.com/features/diplomacy-the-board-game-of-the-alpha-nerds/",
       "is_new": false
+    },
+    {
+      "title": "Netanyahu calls Israel's war in Gaza 'opposite of genocide' in UN speech",
+      "link": "https://www.theguardian.com/us-news/2026/sep/24/netanyahu-un-speech-mahmoud-abbas",
+      "is_new": true
+    }
+  ],
+  "removed": [
+    {
+      "title": "Goodbye Google",
+      "link": "https://robert.ocallahan.org/2026/09/goodbye-google.html",
+      "is_new": true
     },
     {
       "title": "California is chasing wealth that has feet",
@@ -98,11 +175,6 @@
       "is_new": false
     },
     {
-      "title": "Sourcehut account takeover via build logs (XSS in ansi2html)",
-      "link": "https://blog.arusekk.pl/posts/srht-account-takeover/",
-      "is_new": false
-    },
-    {
       "title": "Show HN: Koi.rest – watch some fish and regain your balance",
       "link": "https://koi.rest",
       "is_new": false
@@ -110,11 +182,6 @@
     {
       "title": "The forgotten battle of East Lansing",
       "link": "https://eastlansinginfo.news/the-forgotten-battle-of-east-lansing/",
-      "is_new": false
-    },
-    {
-      "title": "Opus 5.5 is good at explainer videos",
-      "link": "https://launchvideo.io",
       "is_new": false
     },
     {
@@ -138,11 +205,6 @@
       "is_new": false
     },
     {
-      "title": "The Bayeux Tapestry: Woven by the Victors",
-      "link": "https://www.historytoday.com/archive/out-margins/bayeux-tapestry-woven-victors",
-      "is_new": true
-    },
-    {
       "title": "Nokia Design Archive (2025)",
       "link": "https://repo.aalto.fi/index.php?name=SO_b66a9391-dcf8-4399-8e87-611f84c3fc4c",
       "is_new": false
@@ -150,28 +212,6 @@
     {
       "title": "Tutoring company tells parents to save their money and 'use AI instead'",
       "link": "https://www.afr.com/policy/health-and-education/tutoring-company-tell-parents-to-save-their-money-and-use-ai-instead-20260923-p60z0r",
-      "is_new": false
-    }
-  ],
-  "removed": [
-    {
-      "title": "Back and shoulder surgery is often worse than useless",
-      "link": "https://www.economist.com/leaders/2026/09/24/back-and-shoulder-surgery-is-often-worse-than-useless",
-      "is_new": true
-    },
-    {
-      "title": "GitLab Outage",
-      "link": "https://status.gitlab.com/",
-      "is_new": true
-    },
-    {
-      "title": "Motor Characterization for Small Running Robots (2016)",
-      "link": "https://robot-daycare.com/posts/2016-01-06-motor-characterization-for-small-running-robots/",
-      "is_new": true
-    },
-    {
-      "title": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
-      "link": "https://transluce.org/agent-activity",
       "is_new": false
     }
   ]
