@@ -1,21 +1,36 @@
 {
-  "crawled_at": "2026-09-26 12:19",
-  "prev_crawled_at": "2026-09-26 08:46",
+  "crawled_at": "2026-09-26 18:03",
+  "prev_crawled_at": "2026-09-26 12:19",
   "items": [
+    {
+      "title": "CAPTCHAs don't prove you're human – they prove you're American",
+      "link": "https://shkspr.mobi/blog/2017/11/captchas-dont-prove-youre-human-they-prove-youre-american/",
+      "is_new": true
+    },
     {
       "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
       "link": "https://swarmtraces.org/",
       "is_new": false
     },
     {
-      "title": "Ollaya – Ollama for open-source, Jev-style decision models",
-      "link": "https://ollaya.dev/",
-      "is_new": false
+      "title": "A single function Jev-like wrapper for LLMs, including vision models",
+      "link": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
+      "is_new": true
+    },
+    {
+      "title": "We're gonna need a lot more mathematicians",
+      "link": "https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/",
+      "is_new": true
     },
     {
       "title": "Plan mode is dead",
       "link": "https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html",
-      "is_new": true
+      "is_new": false
+    },
+    {
+      "title": "Ollaya – Ollama for open-source, Jev-style decision models",
+      "link": "https://ollaya.dev/",
+      "is_new": false
     },
     {
       "title": "Show HN: Jev Plays Pokémon Red",
@@ -28,33 +43,33 @@
       "is_new": false
     },
     {
-      "title": "Jury finds Facebook liable for deceiving users in Cambridge Analytica case",
-      "link": "https://www.cbsnews.com/news/facebook-liable-deceiving-users-cambridge-analytica/",
+      "title": "The Murky History of Soviet-Born Tetris",
+      "link": "https://thereader.mitpress.mit.edu/the-bizarre-murky-history-of-soviet-born-tetris/",
       "is_new": true
     },
     {
-      "title": "Platform-independent SIMD in Go",
-      "link": "https://go.dev/blog/simd-experiment",
+      "title": "How I changed teaching after AI managed to do all my homework assignments",
+      "link": "https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed",
+      "is_new": true
+    },
+    {
+      "title": "Is your Postgres migration safe or not safe?",
+      "link": "https://safenotsafe.dev/",
+      "is_new": true
+    },
+    {
+      "title": "Jury finds Facebook liable for deceiving users in Cambridge Analytica case",
+      "link": "https://www.cbsnews.com/news/facebook-liable-deceiving-users-cambridge-analytica/",
       "is_new": false
     },
     {
       "title": "Postgres SELECT DISTINCT Does Not Scale",
       "link": "https://www.dbos.dev/blog/postgres-select-distinct-does-not-scale",
-      "is_new": true
-    },
-    {
-      "title": "Git-bug: Distributed, offline-first bug tracker embedded in Git",
-      "link": "https://github.com/git-bug/git-bug",
       "is_new": false
     },
     {
-      "title": "One Piece of Flock Camera Data Put This Innocent Woman in Jail for 13 Days",
-      "link": "https://www.jezebel.com/flock-cameras-data-innocent-woman-arrested-lindsey-isaacs-palm-beach-florida-lawsuit-vehicular-homicide",
-      "is_new": true
-    },
-    {
-      "title": "Excel now supports multiple values in a single cell",
-      "link": "https://techcommunity.microsoft.com/blog/microsoft365insiderblog/put-multiple-values-in-one-cell-with-lists-and-arrays-in-excel/4559395",
+      "title": "Scientists build most accurate atomic clock",
+      "link": "https://phys.org/news/2026-09-scientists-world-accurate-atomic-clock.html",
       "is_new": true
     },
     {
@@ -63,23 +78,68 @@
       "is_new": false
     },
     {
-      "title": "Remembering Johannes Doerfert",
-      "link": "https://blog.llvm.org/posts/2026-09-24-rememberingjohannesdoerfert/",
+      "title": "Ask HN: Who's still keeping a DOS machine up because the business depends on it?",
+      "link": "https://news.ycombinator.com/item?id=49848955",
+      "is_new": true
+    },
+    {
+      "title": "Fourier Analysis: Drawing Llamas with Circles",
+      "link": "https://adekau.github.io/posts/2020/llamas.html",
+      "is_new": false
+    },
+    {
+      "title": "A new world airport and its baggage",
+      "link": "https://computer.rip/2026-09-20-denver-baggage.html",
+      "is_new": true
+    },
+    {
+      "title": "Excel now supports multiple values in a single cell",
+      "link": "https://techcommunity.microsoft.com/blog/microsoft365insiderblog/put-multiple-values-in-one-cell-with-lists-and-arrays-in-excel/4559395",
+      "is_new": false
+    },
+    {
+      "title": "One Piece of Flock Camera Data Put This Innocent Woman in Jail for 13 Days",
+      "link": "https://www.jezebel.com/flock-cameras-data-innocent-woman-arrested-lindsey-isaacs-palm-beach-florida-lawsuit-vehicular-homicide",
+      "is_new": false
+    },
+    {
+      "title": "HomelabFest will be in St. Louis in September 2027",
+      "link": "https://www.homelabfest.org",
+      "is_new": true
+    },
+    {
+      "title": "Lab on a Contact Lens Can Measure Stress Through Serotonin",
+      "link": "https://spectrum.ieee.org/serotonin-stress-smart-contact-lens",
+      "is_new": false
+    },
+    {
+      "title": "First Principles Thinking",
+      "link": "https://sunilsadasivan.com/writing/first-principles-thinking/",
+      "is_new": false
+    },
+    {
+      "title": "I wrote a ray tracer in Brainfuck",
+      "link": "https://epestr.com/blog/writing-a-ray-tracer-in-brainfuck/",
       "is_new": false
     },
     {
       "title": "Show HN: Hacker Atlas - A map of what Hacker News talks about",
       "link": "https://hackeratlas.com/",
+      "is_new": false
+    },
+    {
+      "title": "From Thin Air to Bootable Images: The Tine Build System",
+      "link": "https://amutable.com/blog/tine-build-system",
       "is_new": true
     },
     {
-      "title": "I wrote a ray tracer in Brainfuck",
-      "link": "https://epestr.com/blog/writing-a-ray-tracer-in-brainfuck/",
+      "title": "Alberta's image as world's only rat-free region shattered by discovery of rat",
+      "link": "https://www.theguardian.com/world/2026/sep/25/alberta-canada-rat-patrol",
       "is_new": true
     },
     {
-      "title": "First Principles Thinking",
-      "link": "https://sunilsadasivan.com/writing/first-principles-thinking/",
+      "title": "Remembering Johannes Doerfert",
+      "link": "https://blog.llvm.org/posts/2026-09-24-rememberingjohannesdoerfert/",
       "is_new": false
     },
     {
@@ -88,14 +148,21 @@
       "is_new": false
     },
     {
-      "title": "Lab on a Contact Lens Can Measure Stress Through Serotonin",
-      "link": "https://spectrum.ieee.org/serotonin-stress-smart-contact-lens",
-      "is_new": true
+      "title": "Microsoft abandons personal AI chatbot race with Copilot reboot",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-25/microsoft-abandons-personal-ai-chatbot-race-with-copilot-reboot",
+      "is_new": false
+    }
+  ],
+  "removed": [
+    {
+      "title": "Platform-independent SIMD in Go",
+      "link": "https://go.dev/blog/simd-experiment",
+      "is_new": false
     },
     {
-      "title": "Fourier Analysis: Drawing Llamas with Circles",
-      "link": "https://adekau.github.io/posts/2020/llamas.html",
-      "is_new": true
+      "title": "Git-bug: Distributed, offline-first bug tracker embedded in Git",
+      "link": "https://github.com/git-bug/git-bug",
+      "is_new": false
     },
     {
       "title": "Show HN: A game about fake news and memes",
@@ -143,85 +210,8 @@
       "is_new": false
     },
     {
-      "title": "Microsoft abandons personal AI chatbot race with Copilot reboot",
-      "link": "https://www.bloomberg.com/news/articles/2026-09-25/microsoft-abandons-personal-ai-chatbot-race-with-copilot-reboot",
-      "is_new": true
-    },
-    {
       "title": "Alan Kay: Shannon gave us a way of dealing with noisy channels [video]",
       "link": "https://www.youtube.com/watch?v=Cjntrqhn8pk",
-      "is_new": false
-    }
-  ],
-  "removed": [
-    {
-      "title": "Excel now supports multiple values in a single cell",
-      "link": "https://techcommunity.microsoft.com/blog/excelblog/excel-now-supports-multiple-values-in-a-single-cell/4549756",
-      "is_new": true
-    },
-    {
-      "title": "Tell HN: Codex Is Down",
-      "link": "https://news.ycombinator.com/item?id=49851032",
-      "is_new": true
-    },
-    {
-      "title": "Initial DIY Cleanroom Experimentation",
-      "link": "https://www.jefftk.com/p/initial-diy-cleanroom-experimentation",
-      "is_new": true
-    },
-    {
-      "title": "Teaching a World Model to Play Pokemon",
-      "link": "https://nostalgia.dev/posts/teaching-a-world-model-to-play-pokemon/",
-      "is_new": true
-    },
-    {
-      "title": "Pentium II at 600Mhz with Voodoo 3 Emulated on 86Box with M6 Mac Mini",
-      "link": "https://nyaa.sh/reviews/mac-mini-m6-emulation",
-      "is_new": false
-    },
-    {
-      "title": "Ink and Switch interactive homepage",
-      "link": "https://www.inkandswitch.com/",
-      "is_new": false
-    },
-    {
-      "title": "Loopjacking in A2A Implementations: Hijacking Human-in-the-Loop Approvals",
-      "link": "https://adithyanak.com/loopjacking-in-a2a-implementations/",
-      "is_new": true
-    },
-    {
-      "title": "Issues with Codex – Identified – Full Outage",
-      "link": "https://status.openai.com/incidents/01M3DCNWMW57HYK8FJ5FBFPA39",
-      "is_new": true
-    },
-    {
-      "title": "Ask HN: Who's still keeping a DOS machine up because the business depends on it?",
-      "link": "https://news.ycombinator.com/item?id=49848955",
-      "is_new": true
-    },
-    {
-      "title": "Bwbach, My Guardian Goblin",
-      "link": "https://robertmay.photography/journal/bwbach-my-guardian-goblin",
-      "is_new": true
-    },
-    {
-      "title": "Amiga Screens: A Primer",
-      "link": "https://www.datagubbe.se/amscr/",
-      "is_new": false
-    },
-    {
-      "title": "Meta's Muse appears to use an OpenAI model labeled muse-special",
-      "link": "https://mouse.dev/blog/muse-special/",
-      "is_new": false
-    },
-    {
-      "title": "Show HN: I discovered roads in the US across > 1000 themes",
-      "link": "https://road-about-a-theme.pinedesk.biz/",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
-      "link": "https://github.com/devdotfast/whiteboard",
       "is_new": false
     }
   ]
