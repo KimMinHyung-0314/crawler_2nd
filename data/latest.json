@@ -1,25 +1,45 @@
 {
-  "crawled_at": "2026-09-27 03:16",
-  "prev_crawled_at": "2026-09-26 23:02",
+  "crawled_at": "2026-09-27 06:47",
+  "prev_crawled_at": "2026-09-27 03:16",
   "items": [
-    {
-      "title": "Breaking Up with Google Play: Why Conversations Is Now Free",
-      "link": "https://gultsch.de/posts/breaking-up-with-google-play/",
-      "is_new": false
-    },
     {
       "title": "PipePipe: NewPipe hard fork implementing SponsorBlock",
       "link": "https://github.com/InfinityLoop1308/PipePipe",
+      "is_new": false
+    },
+    {
+      "title": "DeepSeek Elastic Compute (DSec)",
+      "link": "https://arxiv.org/abs/2609.22978",
       "is_new": true
     },
     {
-      "title": "Show HN: A Claude Code skill to analyze your chess games",
-      "link": "https://github.com/brumar/chess-postmortem-skills",
+      "title": "Show HN: Reladraw – A diagram language where you decide where to place things",
+      "link": "https://github.com/reladraw/reladraw",
       "is_new": true
     },
     {
-      "title": "Make Claude your assistant in excalidraw",
+      "title": "Welcome to the Medical Clinic at the Interplanetary Relay Station",
+      "link": "https://www.lightspeedmagazine.com/fiction/welcome-to-the-medical-clinic-at-the-interplanetary-relay-station/",
+      "is_new": true
+    },
+    {
+      "title": "Stop Sending Pictures of Your Palm",
+      "link": "https://www.bbc.com/news/technology-30623611",
+      "is_new": true
+    },
+    {
+      "title": "A searchable library of forgotten public-domain film clips from 1915 onward",
+      "link": "https://www.movingimagearchive.com/",
+      "is_new": false
+    },
+    {
+      "title": "Drawgent: Coding agent on a live Excalidraw canvas",
       "link": "https://tangled.org/yanndegat.tngl.sh/drawgent",
+      "is_new": false
+    },
+    {
+      "title": "LA Metro has some of the slowest escalators on Earth",
+      "link": "https://basin.la/articles/ninety-feet-a-minute.html",
       "is_new": true
     },
     {
@@ -30,15 +50,10 @@
     {
       "title": "The Lost Atomic Update on Loongson CPU",
       "link": "https://jia.je/hardware/2026/09/24/loongson-cpu-erratum-en/",
-      "is_new": true
+      "is_new": false
     },
     {
-      "title": "OpenAI bots meddled with multiple US Government agency sites",
-      "link": "https://www.bbc.com/news/articles/cw62jje658dlo",
-      "is_new": true
-    },
-    {
-      "title": "Modern Object Pascal Introduction for Programmers – Castle Game Engine",
+      "title": "Modern Object Pascal Introduction for Programmers",
       "link": "https://castle-engine.io/modern_pascal",
       "is_new": false
     },
@@ -48,18 +63,100 @@
       "is_new": false
     },
     {
-      "title": "Reflections on 1,000 Days of Math",
-      "link": "https://gmays.com/reflections-on-1000-days-of-math/",
-      "is_new": true
-    },
-    {
       "title": "We're gonna need a lot more mathematicians",
       "link": "https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/",
       "is_new": false
     },
     {
-      "title": "A searchable library of forgotten public-domain film clips from 1915 onward",
-      "link": "https://www.movingimagearchive.com/",
+      "title": "The Rise of Audio AR",
+      "link": "https://www.dbreunig.com/2024/04/10/the_rise_of_audio_ar.html",
+      "is_new": true
+    },
+    {
+      "title": "ASML says it sold 'absolutely nothing' in Europe in 2026",
+      "link": "https://www.tomshardware.com/tech-industry/semiconductors/asml-says-its-sells-absolutely-nothing-in-europe-calls-on-eu-to-help-create-demand",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: Ekselio – Loveable for finance workflows (local first)",
+      "link": "https://www.gptbeyond.com/try?home=1",
+      "is_new": true
+    },
+    {
+      "title": "Analyzing Frontier Model Progress with My Favourite Game: Prince of Persia",
+      "link": "https://blog.priyan.in/2026/09/analyzing-frontier-model-progress-with.html",
+      "is_new": false
+    },
+    {
+      "title": "Plan mode is dead",
+      "link": "https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html",
+      "is_new": false
+    },
+    {
+      "title": "Breaking Up with Google Play: Why Conversations Is Now Free",
+      "link": "https://gultsch.de/posts/breaking-up-with-google-play/",
+      "is_new": false
+    },
+    {
+      "title": "How to keep enjoying programming in a world of LLMs",
+      "link": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
+      "is_new": true
+    },
+    {
+      "title": "Plunging test scores are a slow-moving catastrophe",
+      "link": "https://www.economist.com/leaders/2026/09/10/plunging-test-scores-are-a-slow-moving-catastrophe",
+      "is_new": true
+    },
+    {
+      "title": "Ollaya – Ollama for open-source, Jev-style decision models",
+      "link": "https://ollaya.dev/",
+      "is_new": false
+    },
+    {
+      "title": "Probing picosecond depairing currents in type-II superconductors",
+      "link": "https://www.nature.com/articles/s41567-026-03469-z",
+      "is_new": true
+    },
+    {
+      "title": "Reflections on 1,000 Days of Math",
+      "link": "https://gmays.com/reflections-on-1000-days-of-math/",
+      "is_new": false
+    },
+    {
+      "title": "The Murky History of Soviet-Born Tetris",
+      "link": "https://thereader.mitpress.mit.edu/the-bizarre-murky-history-of-soviet-born-tetris/",
+      "is_new": false
+    },
+    {
+      "title": "OpenAI bots meddled with multiple US Government agency sites",
+      "link": "https://www.bbc.com/news/articles/cw62jje658dlo",
+      "is_new": false
+    },
+    {
+      "title": "Automattic has a new board after failed attempt to put CEO on leave",
+      "link": "https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/",
+      "is_new": true
+    },
+    {
+      "title": "Floci: Locally emulating any cloud service",
+      "link": "https://floci.io",
+      "is_new": false
+    },
+    {
+      "title": "Show HN: Jev Plays Pokémon Red",
+      "link": "https://jev-pokemon.vercel.app/",
+      "is_new": false
+    },
+    {
+      "title": "Experiencing writing at our recent Chinese calligraphy workshop",
+      "link": "https://viewsproject.wordpress.com/2026/09/06/chinese-calligraphy-workshop/",
+      "is_new": true
+    }
+  ],
+  "removed": [
+    {
+      "title": "Show HN: A Claude Code skill to analyze your chess games",
+      "link": "https://github.com/brumar/chess-postmortem-skills",
       "is_new": true
     },
     {
@@ -71,21 +168,6 @@
       "title": "Banks and Credit Unions to Team Up Against Apple Pay Fees",
       "link": "https://www.macrumors.com/2026/09/25/apple-pay-antitrust-lawsuit-advances/",
       "is_new": true
-    },
-    {
-      "title": "Plan mode is dead",
-      "link": "https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html",
-      "is_new": false
-    },
-    {
-      "title": "Analyzing Frontier Model Progress with My Favourite Game: Prince of Persia",
-      "link": "https://blog.priyan.in/2026/09/analyzing-frontier-model-progress-with.html",
-      "is_new": true
-    },
-    {
-      "title": "Ollaya – Ollama for open-source, Jev-style decision models",
-      "link": "https://ollaya.dev/",
-      "is_new": false
     },
     {
       "title": "US jury says Apple owes record $5.7B in haptic technology patent case",
@@ -100,16 +182,6 @@
     {
       "title": "Is your Postgres migration safe or not safe?",
       "link": "https://safenotsafe.dev/",
-      "is_new": false
-    },
-    {
-      "title": "Show HN: Jev Plays Pokémon Red",
-      "link": "https://jev-pokemon.vercel.app/",
-      "is_new": false
-    },
-    {
-      "title": "Floci: Locally emulating any cloud service",
-      "link": "https://floci.io",
       "is_new": false
     },
     {
@@ -145,73 +217,6 @@
     {
       "title": "Gravity seems holographic. What does that mean for reality?",
       "link": "https://www.quantamagazine.org/gravity-seems-holographic-what-does-that-mean-for-reality-20260925/",
-      "is_new": false
-    },
-    {
-      "title": "The Murky History of Soviet-Born Tetris",
-      "link": "https://thereader.mitpress.mit.edu/the-bizarre-murky-history-of-soviet-born-tetris/",
-      "is_new": false
-    }
-  ],
-  "removed": [
-    {
-      "title": "Understanding the Impact of LLM Watermarking on AI Agent Behavior",
-      "link": "https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior",
-      "is_new": true
-    },
-    {
-      "title": "ASML currently sells no chipmaking machines in Europe, executive says",
-      "link": "https://nltimes.nl/2026/09/22/asml-currently-sells-chipmaking-machines-europe-executive-says",
-      "is_new": true
-    },
-    {
-      "title": "CEO of Mistral: AI is software. It can be controlled",
-      "link": "https://www.lemonde.fr/en/economy/article/2026/09/24/arthur-mensch-ceo-of-french-start-up-mistral-ai-ai-is-software-it-can-be-controlled_6757890_19.html",
-      "is_new": true
-    },
-    {
-      "title": "Jury finds Facebook liable for deceiving users in Cambridge Analytica case",
-      "link": "https://www.cbsnews.com/news/facebook-liable-deceiving-users-cambridge-analytica/",
-      "is_new": false
-    },
-    {
-      "title": "Scientists build most accurate atomic clock",
-      "link": "https://phys.org/news/2026-09-scientists-world-accurate-atomic-clock.html",
-      "is_new": false
-    },
-    {
-      "title": "The Copilot+ PC brand is dead",
-      "link": "https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding",
-      "is_new": true
-    },
-    {
-      "title": "HomelabFest will be in St. Louis in September 2027",
-      "link": "https://www.homelabfest.org",
-      "is_new": false
-    },
-    {
-      "title": "Fourier Analysis: Drawing Llamas with Circles",
-      "link": "https://adekau.github.io/posts/2020/llamas.html",
-      "is_new": false
-    },
-    {
-      "title": "One Month Without AI",
-      "link": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
-      "is_new": true
-    },
-    {
-      "title": "Excel now supports multiple values in a single cell",
-      "link": "https://techcommunity.microsoft.com/blog/microsoft365insiderblog/put-multiple-values-in-one-cell-with-lists-and-arrays-in-excel/4559395",
-      "is_new": false
-    },
-    {
-      "title": "The far side of the Moon provides clues to a previous magnetic field",
-      "link": "https://ethz.ch/en/news-and-events/eth-news/news/2026/09/the-far-side-of-the-moon-provides-clues-to-a-previous-magnetic-field.html",
-      "is_new": true
-    },
-    {
-      "title": "Lab on a Contact Lens Can Measure Stress Through Serotonin",
-      "link": "https://spectrum.ieee.org/serotonin-stress-smart-contact-lens",
       "is_new": false
     }
   ]
