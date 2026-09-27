@@ -1,35 +1,162 @@
 {
-  "crawled_at": "2026-09-28 02:26",
-  "prev_crawled_at": "2026-09-27 21:41",
+  "crawled_at": "2026-09-28 05:48",
+  "prev_crawled_at": "2026-09-28 02:26",
   "items": [
     {
-      "title": "The Normalization of Inexplicable Failures",
-      "link": "https://www.ihatethefuture.com/2026/09/the-normalization-of-inexplicable.html",
+      "title": "When did Google get so weird?",
+      "link": "https://sancho.bearblog.dev/google-weird/",
       "is_new": true
     },
     {
-      "title": "In an $80 Motel Room, a Discovery to Shed Light on the Origins of Life",
-      "link": "https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html",
+      "title": "Ember-1",
+      "link": "https://fireworks.ai/blog/ember-1",
       "is_new": true
+    },
+    {
+      "title": "Alan Kay's answer to \"Did the ENIAC have a BIOS\"?",
+      "link": "https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11",
+      "is_new": true
+    },
+    {
+      "title": "The state of SIMD in Rust in 2026",
+      "link": "https://shnatsel.github.io/state-of-simd-rust-2026/",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: Lofi Cities – Pixel-art city nights with browser-generated lofi",
+      "link": "https://loficities.com/",
+      "is_new": true
+    },
+    {
+      "title": "In an $80 motel room, a discovery to shed light on the origins of life",
+      "link": "https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html",
+      "is_new": false
+    },
+    {
+      "title": "Imp is a full port of DSPy to the BEAM",
+      "link": "https://github.com/deepfates/imp",
+      "is_new": true
+    },
+    {
+      "title": "Oral history of John Chowning, inventor of FM synthesis [video]",
+      "link": "https://www.youtube.com/watch?v=e1Xn3030IvM",
+      "is_new": true
+    },
+    {
+      "title": "Don't couple your Go code to GitHub",
+      "link": "https://iain.rocks/blog/dont-couple-your-go-code-to-github",
+      "is_new": true
+    },
+    {
+      "title": "Writing Efficient C++ Code (2013)",
+      "link": "https://asawicki.info/articles/writing_efficient_cpp_code.php",
+      "is_new": false
     },
     {
       "title": "Replacing the old battery on rechargeable bike lights",
       "link": "https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/",
-      "is_new": true
-    },
-    {
-      "title": "Writing Efficient C++ Code",
-      "link": "https://asawicki.info/articles/writing_efficient_cpp_code.php",
-      "is_new": true
-    },
-    {
-      "title": "Ten Lines of Code That Changed My World",
-      "link": "https://pixelambacht.nl/2026/ten-lines-of-code/",
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Show HN: TinyAIArena watch AI agents battle it out",
       "link": "https://tinyaiarena.com/",
+      "is_new": false
+    },
+    {
+      "title": "What I did at Recurse Center",
+      "link": "https://thill.me/2026/09/11/what-i-did-at-rc.html",
+      "is_new": true
+    },
+    {
+      "title": "Fragment of oldest known peace treaty found in Turkey",
+      "link": "https://www.livescience.com/archaeology/ancient-egyptians/we-have-found-traces-of-peace-thousands-of-years-old-fragment-of-worlds-oldest-known-peace-treaty-found-in-turkey",
+      "is_new": true
+    },
+    {
+      "title": "The Cartesian Hand: In-Hand Manipulation with All-Linear Fingers",
+      "link": "https://generalroboticslab.com/cartesian_handv1",
+      "is_new": false
+    },
+    {
+      "title": "The Normalization of Inexplicable Failures",
+      "link": "https://www.ihatethefuture.com/2026/09/the-normalization-of-inexplicable.html",
+      "is_new": false
+    },
+    {
+      "title": "John Coltrane Centenary's – Impulse Records Release the Legendary Tiberi Tapes",
+      "link": "https://www.jazzwise.com/content/news/john-coltrane-centenary-celebrations-see-impulse-records-release-the-legendary-tiberi-tapes",
+      "is_new": true
+    },
+    {
+      "title": "Flip Fluid on Flip Dots",
+      "link": "https://mitxela.com/projects/flipflip",
+      "is_new": false
+    },
+    {
+      "title": "On caring for user data: NeoVim caused Vim undo files to be deleted",
+      "link": "https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/",
+      "is_new": false
+    },
+    {
+      "title": "Fakecloud: Local AWS cloud emulator for integration tests",
+      "link": "https://fakecloud.dev/",
+      "is_new": false
+    },
+    {
+      "title": "Kicki: A DECsystem1060 – Interim Computer Museum",
+      "link": "https://icm.museum/blog/?p=207",
+      "is_new": true
+    },
+    {
+      "title": "Allegations of US interference in Quebec election",
+      "link": "https://globalnews.ca/news/12073854/quebec-election-u-s-interference/",
+      "is_new": true
+    },
+    {
+      "title": "Video CDs Break Windows Explorer",
+      "link": "https://clydesnotes.blogspot.com/2026/08/video-cds-break-windows-explorer.html",
+      "is_new": true
+    },
+    {
+      "title": "Faster prompt lookup drafting in llama.cpp",
+      "link": "https://jadidbourbaki.github.io/blog/prompt-lookup-llama-cpp/",
+      "is_new": true
+    },
+    {
+      "title": "Wiki Deep dive into Standard diving dress",
+      "link": "https://en.wikipedia.org/wiki/Standard_diving_dress",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: Building a Markdown editor for Mac, iOS and web",
+      "link": "https://www.markdown.beauty/",
+      "is_new": false
+    },
+    {
+      "title": "Improving site performance by shipping more CSS",
+      "link": "https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css/",
+      "is_new": true
+    },
+    {
+      "title": "C's Flexible Integer Sizes Were Not a Design Mistake",
+      "link": "https://pikuma.com/blog/c-integer-sizes-not-a-mistake",
+      "is_new": true
+    },
+    {
+      "title": "PostmarketOS is rebranding as Nura",
+      "link": "https://nura.eco/blog/2026/09/27/nura-rename/",
+      "is_new": false
+    },
+    {
+      "title": "Go Concurrency Distilled",
+      "link": "https://antonz.org/go-concurrency-distilled/",
+      "is_new": false
+    }
+  ],
+  "removed": [
+    {
+      "title": "Ten Lines of Code That Changed My World",
+      "link": "https://pixelambacht.nl/2026/ten-lines-of-code/",
       "is_new": true
     },
     {
@@ -43,26 +170,6 @@
       "is_new": true
     },
     {
-      "title": "Flip Fluid on Flip Dots",
-      "link": "https://mitxela.com/projects/flipflip",
-      "is_new": false
-    },
-    {
-      "title": "Fakecloud: Local AWS cloud emulator for integration tests",
-      "link": "https://fakecloud.dev/",
-      "is_new": true
-    },
-    {
-      "title": "postmarketOS Rebrand: Nura",
-      "link": "https://nura.eco/blog/2026/09/27/nura-rename/",
-      "is_new": true
-    },
-    {
-      "title": "The Cartesian Hand: In-Hand Manipulation with All-Linear Fingers",
-      "link": "https://generalroboticslab.com/cartesian_handv1",
-      "is_new": true
-    },
-    {
       "title": "Walgit: A Git server that is one binary in front of an object store",
       "link": "https://github.com/rgodha24/walgithub",
       "is_new": true
@@ -70,11 +177,6 @@
     {
       "title": "Does Georgism work? Five years later",
       "link": "https://www.astralcodexten.com/p/does-georgism-work-five-years-later",
-      "is_new": false
-    },
-    {
-      "title": "Go Concurrency Distilled",
-      "link": "https://antonz.org/go-concurrency-distilled/",
       "is_new": false
     },
     {
@@ -88,11 +190,6 @@
       "is_new": false
     },
     {
-      "title": "Installing NeoVim caused original Vim undo files to be deleted",
-      "link": "https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/",
-      "is_new": true
-    },
-    {
       "title": "PipePipe: NewPipe hard fork implementing SponsorBlock",
       "link": "https://github.com/InfinityLoop1308/PipePipe",
       "is_new": false
@@ -101,11 +198,6 @@
       "title": "Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI",
       "link": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/",
       "is_new": false
-    },
-    {
-      "title": "Show HN: I spent 10 months building a Markdown editor for Mac, iOS and web",
-      "link": "https://www.markdown.beauty/",
-      "is_new": true
     },
     {
       "title": "The internet discovers TLA+. Now what?",
@@ -150,93 +242,6 @@
     {
       "title": "An agent used DNS to reach an external chatbot",
       "link": "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot/",
-      "is_new": false
-    }
-  ],
-  "removed": [
-    {
-      "title": "Improving site performance by shipping more CSS",
-      "link": "https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css/",
-      "is_new": false
-    },
-    {
-      "title": "Meta Blocks President Lula's Facebook Page, Campaign Ads 2 Weeks from Election",
-      "link": "https://www.reddit.com/r/worldnews/comments/1wr3id3/meta_blocks_president_lulas_facebook_page_and/",
-      "is_new": true
-    },
-    {
-      "title": "Accelerated Out of Core Shuffling",
-      "link": "https://quasiben.github.io/blog/ooc-shuffling-rapidsmpf/",
-      "is_new": true
-    },
-    {
-      "title": "Teaching a World Model to Play Pokemon",
-      "link": "https://nostalgia.dev/posts/teaching-a-world-model-to-play-pokemon/",
-      "is_new": true
-    },
-    {
-      "title": "ASML says it sold 'absolutely nothing' in Europe in 2026",
-      "link": "https://www.tomshardware.com/tech-industry/semiconductors/asml-says-its-sells-absolutely-nothing-in-europe-calls-on-eu-to-help-create-demand",
-      "is_new": false
-    },
-    {
-      "title": "Evolving programming languages in the AI era",
-      "link": "https://dashbit.co/blog/evolving-ai-era",
-      "is_new": false
-    },
-    {
-      "title": "Fifteen years later, the Apple Cards origin story",
-      "link": "https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story",
-      "is_new": false
-    },
-    {
-      "title": "Show HN: LightCloud – A cloud console organised like file system",
-      "link": "https://www.light-cloud.com/",
-      "is_new": true
-    },
-    {
-      "title": "How I changed teaching after AI managed to do all my homework assignments",
-      "link": "https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed",
-      "is_new": false
-    },
-    {
-      "title": "Drawgent: Coding agent on a live Excalidraw canvas",
-      "link": "https://tangled.org/yanndegat.tngl.sh/drawgent",
-      "is_new": false
-    },
-    {
-      "title": "Promising discoveries about the potential for life on one of Saturn’s icy moons",
-      "link": "https://www.fu-berlin.de/en/presse/informationen/fup/2026/fup_26_116-enceladus-cassini-mikroben-science-postberg/index.html",
-      "is_new": false
-    },
-    {
-      "title": "Exploding variance of means of exponentials: least-squares to the rescue",
-      "link": "https://francisbach.com/spectral_log_density_estimation/",
-      "is_new": false
-    },
-    {
-      "title": "What is the size of Yemen? (2024)",
-      "link": "https://theborys.substack.com/p/what-is-the-size-of-yemen",
-      "is_new": false
-    },
-    {
-      "title": "How to keep enjoying programming in a world of LLMs",
-      "link": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
-      "is_new": false
-    },
-    {
-      "title": "Turning GLM-5.3-Flash into a Jev-like decision model",
-      "link": "https://www.privatemode.ai/blog/system-one-from-glm-flash",
-      "is_new": false
-    },
-    {
-      "title": "Reverse-engineering the Intel 8087's tangent algorithm: more than CORDIC",
-      "link": "https://www.righto.com/2026/09/8087-tangent-cordic.html",
-      "is_new": false
-    },
-    {
-      "title": "Generate fonts where every LLM token is the same width",
-      "link": "https://ampdot.mesh.host/token-space-fonts.html",
       "is_new": false
     }
   ]
