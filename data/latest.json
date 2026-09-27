@@ -1,15 +1,70 @@
 {
-  "crawled_at": "2026-09-27 21:41",
-  "prev_crawled_at": "2026-09-27 15:08",
+  "crawled_at": "2026-09-28 02:26",
+  "prev_crawled_at": "2026-09-27 21:41",
   "items": [
     {
-      "title": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
-      "link": "https://arxiv.org/abs/2609.25021",
+      "title": "The Normalization of Inexplicable Failures",
+      "link": "https://www.ihatethefuture.com/2026/09/the-normalization-of-inexplicable.html",
+      "is_new": true
+    },
+    {
+      "title": "In an $80 Motel Room, a Discovery to Shed Light on the Origins of Life",
+      "link": "https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html",
+      "is_new": true
+    },
+    {
+      "title": "Replacing the old battery on rechargeable bike lights",
+      "link": "https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/",
+      "is_new": true
+    },
+    {
+      "title": "Writing Efficient C++ Code",
+      "link": "https://asawicki.info/articles/writing_efficient_cpp_code.php",
+      "is_new": true
+    },
+    {
+      "title": "Ten Lines of Code That Changed My World",
+      "link": "https://pixelambacht.nl/2026/ten-lines-of-code/",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: TinyAIArena watch AI agents battle it out",
+      "link": "https://tinyaiarena.com/",
+      "is_new": true
+    },
+    {
+      "title": "There are no \"rogue\" AI agents",
+      "link": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
+      "is_new": true
+    },
+    {
+      "title": "OpenAI halts training of latest models as reports mount of AI agents going rogue",
+      "link": "https://www.theguardian.com/technology/2026/sep/27/openai-halts-training-of-latest-models-as-reports-mount-of-ai-agents-going-rogue",
       "is_new": true
     },
     {
       "title": "Flip Fluid on Flip Dots",
       "link": "https://mitxela.com/projects/flipflip",
+      "is_new": false
+    },
+    {
+      "title": "Fakecloud: Local AWS cloud emulator for integration tests",
+      "link": "https://fakecloud.dev/",
+      "is_new": true
+    },
+    {
+      "title": "postmarketOS Rebrand: Nura",
+      "link": "https://nura.eco/blog/2026/09/27/nura-rename/",
+      "is_new": true
+    },
+    {
+      "title": "The Cartesian Hand: In-Hand Manipulation with All-Linear Fingers",
+      "link": "https://generalroboticslab.com/cartesian_handv1",
+      "is_new": true
+    },
+    {
+      "title": "Walgit: A Git server that is one binary in front of an object store",
+      "link": "https://github.com/rgodha24/walgithub",
       "is_new": true
     },
     {
@@ -18,18 +73,23 @@
       "is_new": false
     },
     {
-      "title": "OpenAI Feared \"Optics\" of what might appear on Hacker News",
-      "link": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/",
-      "is_new": true
-    },
-    {
       "title": "Go Concurrency Distilled",
       "link": "https://antonz.org/go-concurrency-distilled/",
       "is_new": false
     },
     {
+      "title": "Show HN: A CC0 museum of retro 3D tricks you can paste into a page",
+      "link": "https://3d-retro.com/",
+      "is_new": true
+    },
+    {
       "title": "Finally, A True Blue Rose Exists",
       "link": "https://www.sciencenews.org/article/true-blue-rose-pigment-copigment",
+      "is_new": false
+    },
+    {
+      "title": "Installing NeoVim caused original Vim undo files to be deleted",
+      "link": "https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/",
       "is_new": true
     },
     {
@@ -38,9 +98,24 @@
       "is_new": false
     },
     {
-      "title": "DeepSeek Elastic Compute (DSec)",
-      "link": "https://arxiv.org/abs/2609.22978",
+      "title": "Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI",
+      "link": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/",
       "is_new": false
+    },
+    {
+      "title": "Show HN: I spent 10 months building a Markdown editor for Mac, iOS and web",
+      "link": "https://www.markdown.beauty/",
+      "is_new": true
+    },
+    {
+      "title": "The internet discovers TLA+. Now what?",
+      "link": "https://reasonable.io/blog/tla-tutorial/",
+      "is_new": false
+    },
+    {
+      "title": "Rusty thoughts on \"Parse, don't validate\"",
+      "link": "https://eli.thegreenplace.net/2026/rusty-thoughts-on-parse-dont-validate/",
+      "is_new": true
     },
     {
       "title": "Show HN: Reladraw – A diagram language where you decide where to place things",
@@ -48,14 +123,41 @@
       "is_new": false
     },
     {
-      "title": "Improving site performance by shipping more CSS",
-      "link": "https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css/",
+      "title": "DeepSeek Elastic Compute (DSec)",
+      "link": "https://arxiv.org/abs/2609.22978",
       "is_new": false
     },
     {
-      "title": "The internet discovers TLA+. Now what?",
-      "link": "https://reasonable.io/blog/tla-tutorial/",
+      "title": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
+      "link": "https://arxiv.org/abs/2609.25021",
+      "is_new": false
+    },
+    {
+      "title": "Biology might not be quantum, but its math is quantumlike",
+      "link": "https://www.quantamagazine.org/biology-might-not-be-quantum-but-its-math-is-quantumlike-20260923/",
+      "is_new": false
+    },
+    {
+      "title": "A searchable library of forgotten public-domain film clips from 1915 onward",
+      "link": "https://www.movingimagearchive.com/",
+      "is_new": false
+    },
+    {
+      "title": "10 Tells of a Slop UI",
+      "link": "https://hereticpleb.vercel.app/blog/10-tells-of-slop",
       "is_new": true
+    },
+    {
+      "title": "An agent used DNS to reach an external chatbot",
+      "link": "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot/",
+      "is_new": false
+    }
+  ],
+  "removed": [
+    {
+      "title": "Improving site performance by shipping more CSS",
+      "link": "https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css/",
+      "is_new": false
     },
     {
       "title": "Meta Blocks President Lula's Facebook Page, Campaign Ads 2 Weeks from Election",
@@ -73,18 +175,8 @@
       "is_new": true
     },
     {
-      "title": "A searchable library of forgotten public-domain film clips from 1915 onward",
-      "link": "https://www.movingimagearchive.com/",
-      "is_new": false
-    },
-    {
       "title": "ASML says it sold 'absolutely nothing' in Europe in 2026",
       "link": "https://www.tomshardware.com/tech-industry/semiconductors/asml-says-its-sells-absolutely-nothing-in-europe-calls-on-eu-to-help-create-demand",
-      "is_new": false
-    },
-    {
-      "title": "Biology might not be quantum, but its math is quantumlike",
-      "link": "https://www.quantamagazine.org/biology-might-not-be-quantum-but-its-math-is-quantumlike-20260923/",
       "is_new": false
     },
     {
@@ -95,11 +187,6 @@
     {
       "title": "Fifteen years later, the Apple Cards origin story",
       "link": "https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story",
-      "is_new": false
-    },
-    {
-      "title": "An agent used DNS to reach an external chatbot",
-      "link": "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot/",
       "is_new": false
     },
     {
@@ -150,53 +237,6 @@
     {
       "title": "Generate fonts where every LLM token is the same width",
       "link": "https://ampdot.mesh.host/token-space-fonts.html",
-      "is_new": false
-    }
-  ],
-  "removed": [
-    {
-      "title": "OpenAI agents tried to bruteforce a UN website's API fields",
-      "link": "https://swarmcha.se/posts/openai-unctad",
-      "is_new": true
-    },
-    {
-      "title": "If we do not stop to help each other, what do we become?",
-      "link": "https://blog.codinghorror.com/if-we-do-not-stop-to-help-each-other-what-do-we-become/",
-      "is_new": true
-    },
-    {
-      "title": "Snap Wants to be a State Actor??–Kansas v. Snap",
-      "link": "https://blog.ericgoldman.org/archives/2026/09/snap-wants-to-be-a-state-actor-kansas-v-snap.htm",
-      "is_new": true
-    },
-    {
-      "title": "We Should Be Able to Change Our Languages",
-      "link": "http://jimmyhmiller.com/change-our-languages",
-      "is_new": true
-    },
-    {
-      "title": "Modern Object Pascal Introduction for Programmers",
-      "link": "https://castle-engine.io/modern_pascal",
-      "is_new": false
-    },
-    {
-      "title": "Real-time feedback: My closing move in every interview",
-      "link": "https://mgrebler.substack.com/p/real-time-feedback-my-closing-move",
-      "is_new": true
-    },
-    {
-      "title": "The Evolution of Vending Machines",
-      "link": "https://www.saturdayeveningpost.com/2026/09/from-holy-water-to-frozen-meals-the-evolution-of-vending-machines/",
-      "is_new": false
-    },
-    {
-      "title": "Welcome to the Medical Clinic at the Interplanetary Relay Station",
-      "link": "https://www.lightspeedmagazine.com/fiction/welcome-to-the-medical-clinic-at-the-interplanetary-relay-station/",
-      "is_new": false
-    },
-    {
-      "title": "LA Metro has some of the slowest escalators",
-      "link": "https://basin.la/articles/ninety-feet-a-minute.html",
       "is_new": false
     }
   ]
