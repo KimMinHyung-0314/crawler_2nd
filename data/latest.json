@@ -1,16 +1,36 @@
 {
-  "crawled_at": "2026-09-27 15:08",
-  "prev_crawled_at": "2026-09-27 09:10",
+  "crawled_at": "2026-09-27 21:41",
+  "prev_crawled_at": "2026-09-27 15:08",
   "items": [
     {
-      "title": "OpenAI agents tried to bruteforce a UN website's API fields",
-      "link": "https://swarmcha.se/posts/openai-unctad",
+      "title": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
+      "link": "https://arxiv.org/abs/2609.25021",
+      "is_new": true
+    },
+    {
+      "title": "Flip Fluid on Flip Dots",
+      "link": "https://mitxela.com/projects/flipflip",
+      "is_new": true
+    },
+    {
+      "title": "Does Georgism work? Five years later",
+      "link": "https://www.astralcodexten.com/p/does-georgism-work-five-years-later",
+      "is_new": false
+    },
+    {
+      "title": "OpenAI Feared \"Optics\" of what might appear on Hacker News",
+      "link": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/",
       "is_new": true
     },
     {
       "title": "Go Concurrency Distilled",
       "link": "https://antonz.org/go-concurrency-distilled/",
       "is_new": false
+    },
+    {
+      "title": "Finally, A True Blue Rose Exists",
+      "link": "https://www.sciencenews.org/article/true-blue-rose-pigment-copigment",
+      "is_new": true
     },
     {
       "title": "PipePipe: NewPipe hard fork implementing SponsorBlock",
@@ -28,63 +48,33 @@
       "is_new": false
     },
     {
-      "title": "If we do not stop to help each other, what do we become?",
-      "link": "https://blog.codinghorror.com/if-we-do-not-stop-to-help-each-other-what-do-we-become/",
-      "is_new": true
-    },
-    {
-      "title": "What is the size of Yemen? (2024)",
-      "link": "https://theborys.substack.com/p/what-is-the-size-of-yemen",
-      "is_new": true
-    },
-    {
-      "title": "Evolving programming languages in the AI era",
-      "link": "https://dashbit.co/blog/evolving-ai-era",
+      "title": "Improving site performance by shipping more CSS",
+      "link": "https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css/",
       "is_new": false
+    },
+    {
+      "title": "The internet discovers TLA+. Now what?",
+      "link": "https://reasonable.io/blog/tla-tutorial/",
+      "is_new": true
+    },
+    {
+      "title": "Meta Blocks President Lula's Facebook Page, Campaign Ads 2 Weeks from Election",
+      "link": "https://www.reddit.com/r/worldnews/comments/1wr3id3/meta_blocks_president_lulas_facebook_page_and/",
+      "is_new": true
+    },
+    {
+      "title": "Accelerated Out of Core Shuffling",
+      "link": "https://quasiben.github.io/blog/ooc-shuffling-rapidsmpf/",
+      "is_new": true
+    },
+    {
+      "title": "Teaching a World Model to Play Pokemon",
+      "link": "https://nostalgia.dev/posts/teaching-a-world-model-to-play-pokemon/",
+      "is_new": true
     },
     {
       "title": "A searchable library of forgotten public-domain film clips from 1915 onward",
       "link": "https://www.movingimagearchive.com/",
-      "is_new": false
-    },
-    {
-      "title": "Snap Wants to be a State Actor??–Kansas v. Snap",
-      "link": "https://blog.ericgoldman.org/archives/2026/09/snap-wants-to-be-a-state-actor-kansas-v-snap.htm",
-      "is_new": true
-    },
-    {
-      "title": "Does Georgism work? Five years later",
-      "link": "https://www.astralcodexten.com/p/does-georgism-work-five-years-later",
-      "is_new": false
-    },
-    {
-      "title": "Reverse-engineering the Intel 8087's tangent algorithm: more than CORDIC",
-      "link": "https://www.righto.com/2026/09/8087-tangent-cordic.html",
-      "is_new": false
-    },
-    {
-      "title": "Drawgent: Coding agent on a live Excalidraw canvas",
-      "link": "https://tangled.org/yanndegat.tngl.sh/drawgent",
-      "is_new": false
-    },
-    {
-      "title": "Improving site performance by shipping more CSS",
-      "link": "https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css/",
-      "is_new": true
-    },
-    {
-      "title": "An agent used DNS to reach an external chatbot",
-      "link": "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot/",
-      "is_new": false
-    },
-    {
-      "title": "We Should Be Able to Change Our Languages",
-      "link": "http://jimmyhmiller.com/change-our-languages",
-      "is_new": true
-    },
-    {
-      "title": "Fifteen years later, the Apple Cards origin story",
-      "link": "https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story",
       "is_new": false
     },
     {
@@ -95,17 +85,27 @@
     {
       "title": "Biology might not be quantum, but its math is quantumlike",
       "link": "https://www.quantamagazine.org/biology-might-not-be-quantum-but-its-math-is-quantumlike-20260923/",
-      "is_new": true
-    },
-    {
-      "title": "Exploding variance of means of exponentials: least-squares to the rescue",
-      "link": "https://francisbach.com/spectral_log_density_estimation/",
-      "is_new": true
-    },
-    {
-      "title": "Promising discoveries about the potential for life on one of Saturn’s icy moons",
-      "link": "https://www.fu-berlin.de/en/presse/informationen/fup/2026/fup_26_116-enceladus-cassini-mikroben-science-postberg/index.html",
       "is_new": false
+    },
+    {
+      "title": "Evolving programming languages in the AI era",
+      "link": "https://dashbit.co/blog/evolving-ai-era",
+      "is_new": false
+    },
+    {
+      "title": "Fifteen years later, the Apple Cards origin story",
+      "link": "https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story",
+      "is_new": false
+    },
+    {
+      "title": "An agent used DNS to reach an external chatbot",
+      "link": "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot/",
+      "is_new": false
+    },
+    {
+      "title": "Show HN: LightCloud – A cloud console organised like file system",
+      "link": "https://www.light-cloud.com/",
+      "is_new": true
     },
     {
       "title": "How I changed teaching after AI managed to do all my homework assignments",
@@ -113,8 +113,28 @@
       "is_new": false
     },
     {
-      "title": "Modern Object Pascal Introduction for Programmers",
-      "link": "https://castle-engine.io/modern_pascal",
+      "title": "Drawgent: Coding agent on a live Excalidraw canvas",
+      "link": "https://tangled.org/yanndegat.tngl.sh/drawgent",
+      "is_new": false
+    },
+    {
+      "title": "Promising discoveries about the potential for life on one of Saturn’s icy moons",
+      "link": "https://www.fu-berlin.de/en/presse/informationen/fup/2026/fup_26_116-enceladus-cassini-mikroben-science-postberg/index.html",
+      "is_new": false
+    },
+    {
+      "title": "Exploding variance of means of exponentials: least-squares to the rescue",
+      "link": "https://francisbach.com/spectral_log_density_estimation/",
+      "is_new": false
+    },
+    {
+      "title": "What is the size of Yemen? (2024)",
+      "link": "https://theborys.substack.com/p/what-is-the-size-of-yemen",
+      "is_new": false
+    },
+    {
+      "title": "How to keep enjoying programming in a world of LLMs",
+      "link": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
       "is_new": false
     },
     {
@@ -123,8 +143,40 @@
       "is_new": false
     },
     {
-      "title": "How to keep enjoying programming in a world of LLMs",
-      "link": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
+      "title": "Reverse-engineering the Intel 8087's tangent algorithm: more than CORDIC",
+      "link": "https://www.righto.com/2026/09/8087-tangent-cordic.html",
+      "is_new": false
+    },
+    {
+      "title": "Generate fonts where every LLM token is the same width",
+      "link": "https://ampdot.mesh.host/token-space-fonts.html",
+      "is_new": false
+    }
+  ],
+  "removed": [
+    {
+      "title": "OpenAI agents tried to bruteforce a UN website's API fields",
+      "link": "https://swarmcha.se/posts/openai-unctad",
+      "is_new": true
+    },
+    {
+      "title": "If we do not stop to help each other, what do we become?",
+      "link": "https://blog.codinghorror.com/if-we-do-not-stop-to-help-each-other-what-do-we-become/",
+      "is_new": true
+    },
+    {
+      "title": "Snap Wants to be a State Actor??–Kansas v. Snap",
+      "link": "https://blog.ericgoldman.org/archives/2026/09/snap-wants-to-be-a-state-actor-kansas-v-snap.htm",
+      "is_new": true
+    },
+    {
+      "title": "We Should Be Able to Change Our Languages",
+      "link": "http://jimmyhmiller.com/change-our-languages",
+      "is_new": true
+    },
+    {
+      "title": "Modern Object Pascal Introduction for Programmers",
+      "link": "https://castle-engine.io/modern_pascal",
       "is_new": false
     },
     {
@@ -138,11 +190,6 @@
       "is_new": false
     },
     {
-      "title": "Generate fonts where every LLM token is the same width",
-      "link": "https://ampdot.mesh.host/token-space-fonts.html",
-      "is_new": false
-    },
-    {
       "title": "Welcome to the Medical Clinic at the Interplanetary Relay Station",
       "link": "https://www.lightspeedmagazine.com/fiction/welcome-to-the-medical-clinic-at-the-interplanetary-relay-station/",
       "is_new": false
@@ -150,53 +197,6 @@
     {
       "title": "LA Metro has some of the slowest escalators",
       "link": "https://basin.la/articles/ninety-feet-a-minute.html",
-      "is_new": false
-    }
-  ],
-  "removed": [
-    {
-      "title": "The Lost Atomic Update on Loongson CPU",
-      "link": "https://jia.je/hardware/2026/09/24/loongson-cpu-erratum-en/",
-      "is_new": false
-    },
-    {
-      "title": "How one Twitch chat message became code execution on a streamer’s PC",
-      "link": "https://blog.scrt.ch/2026/09/22/how-one-twitch-chat-message-became-code-execution-on-a-streamers-pc/",
-      "is_new": true
-    },
-    {
-      "title": "Advice to a Beginning Graduate Student (2001)",
-      "link": "https://www.cs.cmu.edu/~mblum/research/pdf/grad.html",
-      "is_new": true
-    },
-    {
-      "title": "HomeBody: A humanoid that explores, remembers, and acts on its own",
-      "link": "https://tml.stanford.edu/homebody/",
-      "is_new": true
-    },
-    {
-      "title": "Reading’s Bayeux Tapestry",
-      "link": "https://diamondgeezer.blogspot.com/2026/09/readings-bayeux-tapestry.html",
-      "is_new": true
-    },
-    {
-      "title": "Japan moves to tighten rules for foreigners",
-      "link": "https://www.aljazeera.com/economy/2026/9/25/japan-moves-to-tighten-rules-for-foreigners-throwing-futures-into-doubt",
-      "is_new": true
-    },
-    {
-      "title": "Dutch designer made DE9: Closer to the Edit into a playable web-based instrument",
-      "link": "https://www.creativeboom.com/work/why-merijn-straathof-turned-a-landmark-techno-album-into-a-playable-web-based-instrument/",
-      "is_new": true
-    },
-    {
-      "title": "Analyzing Frontier Model Progress with My Favourite Game: Prince of Persia",
-      "link": "https://blog.priyan.in/2026/09/analyzing-frontier-model-progress-with.html",
-      "is_new": false
-    },
-    {
-      "title": "The Rise of Audio AR",
-      "link": "https://www.dbreunig.com/2024/04/10/the_rise_of_audio_ar.html",
       "is_new": false
     }
   ]
