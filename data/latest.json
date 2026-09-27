@@ -1,31 +1,51 @@
 {
-  "crawled_at": "2026-09-28 05:48",
-  "prev_crawled_at": "2026-09-28 02:26",
+  "crawled_at": "2026-09-28 08:35",
+  "prev_crawled_at": "2026-09-28 05:48",
   "items": [
     {
       "title": "When did Google get so weird?",
       "link": "https://sancho.bearblog.dev/google-weird/",
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Ember-1",
       "link": "https://fireworks.ai/blog/ember-1",
+      "is_new": false
+    },
+    {
+      "title": "Lunar Terminator Paradox",
+      "link": "https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html",
       "is_new": true
     },
     {
-      "title": "Alan Kay's answer to \"Did the ENIAC have a BIOS\"?",
+      "title": "Alan Kay's answer to “Did the ENIAC have a BIOS”?",
       "link": "https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11",
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "The state of SIMD in Rust in 2026",
       "link": "https://shnatsel.github.io/state-of-simd-rust-2026/",
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Show HN: Lofi Cities – Pixel-art city nights with browser-generated lofi",
       "link": "https://loficities.com/",
+      "is_new": false
+    },
+    {
+      "title": "There is more to code review than (automatable) detection",
+      "link": "https://www.adaptivecapacitylabs.com/2026/08/24/there-is-more-to-code-review-than-automatable-detection/",
       "is_new": true
+    },
+    {
+      "title": "Don't couple your Go code to GitHub",
+      "link": "https://iain.rocks/blog/dont-couple-your-go-code-to-github",
+      "is_new": false
+    },
+    {
+      "title": "Imp is a full port of DSPy to the BEAM",
+      "link": "https://github.com/deepfates/imp",
+      "is_new": false
     },
     {
       "title": "In an $80 motel room, a discovery to shed light on the origins of life",
@@ -33,23 +53,13 @@
       "is_new": false
     },
     {
-      "title": "Imp is a full port of DSPy to the BEAM",
-      "link": "https://github.com/deepfates/imp",
-      "is_new": true
+      "title": "What I did at Recurse Center",
+      "link": "https://thill.me/2026/09/11/what-i-did-at-rc.html",
+      "is_new": false
     },
     {
       "title": "Oral history of John Chowning, inventor of FM synthesis [video]",
       "link": "https://www.youtube.com/watch?v=e1Xn3030IvM",
-      "is_new": true
-    },
-    {
-      "title": "Don't couple your Go code to GitHub",
-      "link": "https://iain.rocks/blog/dont-couple-your-go-code-to-github",
-      "is_new": true
-    },
-    {
-      "title": "Writing Efficient C++ Code (2013)",
-      "link": "https://asawicki.info/articles/writing_efficient_cpp_code.php",
       "is_new": false
     },
     {
@@ -58,19 +68,19 @@
       "is_new": false
     },
     {
-      "title": "Show HN: TinyAIArena watch AI agents battle it out",
-      "link": "https://tinyaiarena.com/",
+      "title": "Writing Efficient C++ Code (2013)",
+      "link": "https://asawicki.info/articles/writing_efficient_cpp_code.php",
       "is_new": false
     },
     {
-      "title": "What I did at Recurse Center",
-      "link": "https://thill.me/2026/09/11/what-i-did-at-rc.html",
+      "title": "My Recent Woodworking Projects",
+      "link": "https://notoriousbfg.com/recent-woodworking-projects/",
       "is_new": true
     },
     {
-      "title": "Fragment of oldest known peace treaty found in Turkey",
-      "link": "https://www.livescience.com/archaeology/ancient-egyptians/we-have-found-traces-of-peace-thousands-of-years-old-fragment-of-worlds-oldest-known-peace-treaty-found-in-turkey",
-      "is_new": true
+      "title": "Previously unheard recordings of John Coltrane, captured by Frank Tiberi",
+      "link": "https://www.jazzwise.com/content/news/john-coltrane-centenary-celebrations-see-impulse-records-release-the-legendary-tiberi-tapes",
+      "is_new": false
     },
     {
       "title": "The Cartesian Hand: In-Hand Manipulation with All-Linear Fingers",
@@ -78,13 +88,13 @@
       "is_new": false
     },
     {
-      "title": "The Normalization of Inexplicable Failures",
-      "link": "https://www.ihatethefuture.com/2026/09/the-normalization-of-inexplicable.html",
-      "is_new": false
+      "title": "S3 Is the Future, S3 Is the Past",
+      "link": "https://btrblocks.com/blog/s3_is_the_future_and_the_past/",
+      "is_new": true
     },
     {
-      "title": "John Coltrane Centenary's – Impulse Records Release the Legendary Tiberi Tapes",
-      "link": "https://www.jazzwise.com/content/news/john-coltrane-centenary-celebrations-see-impulse-records-release-the-legendary-tiberi-tapes",
+      "title": "Self-Hosting on the Dark Web",
+      "link": "https://david.alvarezrosa.com/posts/self-hosting-on-the-dark-web/",
       "is_new": true
     },
     {
@@ -93,9 +103,19 @@
       "is_new": false
     },
     {
-      "title": "On caring for user data: NeoVim caused Vim undo files to be deleted",
-      "link": "https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/",
+      "title": "A New Experiment Meta-Strategy",
+      "link": "https://chillphysicsenjoyer.substack.com/p/a-new-experiment-meta-strategy",
+      "is_new": true
+    },
+    {
+      "title": "Fragment of oldest known peace treaty found in Turkey",
+      "link": "https://www.livescience.com/archaeology/ancient-egyptians/we-have-found-traces-of-peace-thousands-of-years-old-fragment-of-worlds-oldest-known-peace-treaty-found-in-turkey",
       "is_new": false
+    },
+    {
+      "title": "EV Sales Are Booming in Europe with Gasoline at $10 a Gallon",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-24/electric-car-sales-soar-52-in-europe-with-fuel-at-record-highs",
+      "is_new": true
     },
     {
       "title": "Fakecloud: Local AWS cloud emulator for integration tests",
@@ -103,23 +123,40 @@
       "is_new": false
     },
     {
-      "title": "Kicki: A DECsystem1060 – Interim Computer Museum",
-      "link": "https://icm.museum/blog/?p=207",
-      "is_new": true
-    },
-    {
-      "title": "Allegations of US interference in Quebec election",
-      "link": "https://globalnews.ca/news/12073854/quebec-election-u-s-interference/",
-      "is_new": true
-    },
-    {
-      "title": "Video CDs Break Windows Explorer",
-      "link": "https://clydesnotes.blogspot.com/2026/08/video-cds-break-windows-explorer.html",
-      "is_new": true
+      "title": "The Normalization of Inexplicable Failures",
+      "link": "https://www.ihatethefuture.com/2026/09/the-normalization-of-inexplicable.html",
+      "is_new": false
     },
     {
       "title": "Faster prompt lookup drafting in llama.cpp",
       "link": "https://jadidbourbaki.github.io/blog/prompt-lookup-llama-cpp/",
+      "is_new": false
+    },
+    {
+      "title": "Video CDs Break Windows Explorer",
+      "link": "https://clydesnotes.blogspot.com/2026/08/video-cds-break-windows-explorer.html",
+      "is_new": false
+    },
+    {
+      "title": "Show HN: TinyAIArena watch AI agents battle it out",
+      "link": "https://tinyaiarena.com/",
+      "is_new": false
+    },
+    {
+      "title": "KICKI: a DECsystem1060",
+      "link": "https://icm.museum/blog/?p=207",
+      "is_new": false
+    },
+    {
+      "title": "On caring for user data: NeoVim caused Vim undo files to be deleted",
+      "link": "https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/",
+      "is_new": false
+    }
+  ],
+  "removed": [
+    {
+      "title": "Allegations of US interference in Quebec election",
+      "link": "https://globalnews.ca/news/12073854/quebec-election-u-s-interference/",
       "is_new": true
     },
     {
@@ -150,98 +187,6 @@
     {
       "title": "Go Concurrency Distilled",
       "link": "https://antonz.org/go-concurrency-distilled/",
-      "is_new": false
-    }
-  ],
-  "removed": [
-    {
-      "title": "Ten Lines of Code That Changed My World",
-      "link": "https://pixelambacht.nl/2026/ten-lines-of-code/",
-      "is_new": true
-    },
-    {
-      "title": "There are no \"rogue\" AI agents",
-      "link": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
-      "is_new": true
-    },
-    {
-      "title": "OpenAI halts training of latest models as reports mount of AI agents going rogue",
-      "link": "https://www.theguardian.com/technology/2026/sep/27/openai-halts-training-of-latest-models-as-reports-mount-of-ai-agents-going-rogue",
-      "is_new": true
-    },
-    {
-      "title": "Walgit: A Git server that is one binary in front of an object store",
-      "link": "https://github.com/rgodha24/walgithub",
-      "is_new": true
-    },
-    {
-      "title": "Does Georgism work? Five years later",
-      "link": "https://www.astralcodexten.com/p/does-georgism-work-five-years-later",
-      "is_new": false
-    },
-    {
-      "title": "Show HN: A CC0 museum of retro 3D tricks you can paste into a page",
-      "link": "https://3d-retro.com/",
-      "is_new": true
-    },
-    {
-      "title": "Finally, A True Blue Rose Exists",
-      "link": "https://www.sciencenews.org/article/true-blue-rose-pigment-copigment",
-      "is_new": false
-    },
-    {
-      "title": "PipePipe: NewPipe hard fork implementing SponsorBlock",
-      "link": "https://github.com/InfinityLoop1308/PipePipe",
-      "is_new": false
-    },
-    {
-      "title": "Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI",
-      "link": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/",
-      "is_new": false
-    },
-    {
-      "title": "The internet discovers TLA+. Now what?",
-      "link": "https://reasonable.io/blog/tla-tutorial/",
-      "is_new": false
-    },
-    {
-      "title": "Rusty thoughts on \"Parse, don't validate\"",
-      "link": "https://eli.thegreenplace.net/2026/rusty-thoughts-on-parse-dont-validate/",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: Reladraw – A diagram language where you decide where to place things",
-      "link": "https://github.com/reladraw/reladraw",
-      "is_new": false
-    },
-    {
-      "title": "DeepSeek Elastic Compute (DSec)",
-      "link": "https://arxiv.org/abs/2609.22978",
-      "is_new": false
-    },
-    {
-      "title": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
-      "link": "https://arxiv.org/abs/2609.25021",
-      "is_new": false
-    },
-    {
-      "title": "Biology might not be quantum, but its math is quantumlike",
-      "link": "https://www.quantamagazine.org/biology-might-not-be-quantum-but-its-math-is-quantumlike-20260923/",
-      "is_new": false
-    },
-    {
-      "title": "A searchable library of forgotten public-domain film clips from 1915 onward",
-      "link": "https://www.movingimagearchive.com/",
-      "is_new": false
-    },
-    {
-      "title": "10 Tells of a Slop UI",
-      "link": "https://hereticpleb.vercel.app/blog/10-tells-of-slop",
-      "is_new": true
-    },
-    {
-      "title": "An agent used DNS to reach an external chatbot",
-      "link": "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot/",
       "is_new": false
     }
   ]
