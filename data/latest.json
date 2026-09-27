@@ -1,35 +1,45 @@
 {
-  "crawled_at": "2026-09-27 06:47",
-  "prev_crawled_at": "2026-09-27 03:16",
+  "crawled_at": "2026-09-27 09:10",
+  "prev_crawled_at": "2026-09-27 06:47",
   "items": [
+    {
+      "title": "DeepSeek Elastic Compute (DSec)",
+      "link": "https://arxiv.org/abs/2609.22978",
+      "is_new": false
+    },
     {
       "title": "PipePipe: NewPipe hard fork implementing SponsorBlock",
       "link": "https://github.com/InfinityLoop1308/PipePipe",
       "is_new": false
     },
     {
-      "title": "DeepSeek Elastic Compute (DSec)",
-      "link": "https://arxiv.org/abs/2609.22978",
+      "title": "Does Georgism work? Five years later",
+      "link": "https://www.astralcodexten.com/p/does-georgism-work-five-years-later",
+      "is_new": true
+    },
+    {
+      "title": "Evolving programming languages in the AI era",
+      "link": "https://dashbit.co/blog/evolving-ai-era",
       "is_new": true
     },
     {
       "title": "Show HN: Reladraw – A diagram language where you decide where to place things",
       "link": "https://github.com/reladraw/reladraw",
+      "is_new": false
+    },
+    {
+      "title": "A searchable library of forgotten public-domain film clips from 1915 onward",
+      "link": "https://www.movingimagearchive.com/",
+      "is_new": false
+    },
+    {
+      "title": "An agent used DNS to reach an external chatbot",
+      "link": "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot/",
       "is_new": true
     },
     {
       "title": "Welcome to the Medical Clinic at the Interplanetary Relay Station",
       "link": "https://www.lightspeedmagazine.com/fiction/welcome-to-the-medical-clinic-at-the-interplanetary-relay-station/",
-      "is_new": true
-    },
-    {
-      "title": "Stop Sending Pictures of Your Palm",
-      "link": "https://www.bbc.com/news/technology-30623611",
-      "is_new": true
-    },
-    {
-      "title": "A searchable library of forgotten public-domain film clips from 1915 onward",
-      "link": "https://www.movingimagearchive.com/",
       "is_new": false
     },
     {
@@ -40,11 +50,21 @@
     {
       "title": "LA Metro has some of the slowest escalators on Earth",
       "link": "https://basin.la/articles/ninety-feet-a-minute.html",
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Fifteen years later, the Apple Cards origin story",
       "link": "https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story",
+      "is_new": false
+    },
+    {
+      "title": "The Evolution of Vending Machines",
+      "link": "https://www.saturdayeveningpost.com/2026/09/from-holy-water-to-frozen-meals-the-evolution-of-vending-machines/",
+      "is_new": true
+    },
+    {
+      "title": "Modern Object Pascal Introduction for Programmers",
+      "link": "https://castle-engine.io/modern_pascal",
       "is_new": false
     },
     {
@@ -53,9 +73,91 @@
       "is_new": false
     },
     {
-      "title": "Modern Object Pascal Introduction for Programmers",
-      "link": "https://castle-engine.io/modern_pascal",
+      "title": "How one Twitch chat message became code execution on a streamer’s PC",
+      "link": "https://blog.scrt.ch/2026/09/22/how-one-twitch-chat-message-became-code-execution-on-a-streamers-pc/",
+      "is_new": true
+    },
+    {
+      "title": "Advice to a Beginning Graduate Student (2001)",
+      "link": "https://www.cs.cmu.edu/~mblum/research/pdf/grad.html",
+      "is_new": true
+    },
+    {
+      "title": "HomeBody: A humanoid that explores, remembers, and acts on its own",
+      "link": "https://tml.stanford.edu/homebody/",
+      "is_new": true
+    },
+    {
+      "title": "ASML says it sold 'absolutely nothing' in Europe in 2026",
+      "link": "https://www.tomshardware.com/tech-industry/semiconductors/asml-says-its-sells-absolutely-nothing-in-europe-calls-on-eu-to-help-create-demand",
       "is_new": false
+    },
+    {
+      "title": "Generate fonts where every LLM token is the same width",
+      "link": "https://ampdot.mesh.host/token-space-fonts.html",
+      "is_new": true
+    },
+    {
+      "title": "Turning GLM-5.3-Flash into a Jev-like decision model",
+      "link": "https://www.privatemode.ai/blog/system-one-from-glm-flash",
+      "is_new": true
+    },
+    {
+      "title": "How I changed teaching after AI managed to do all my homework assignments",
+      "link": "https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed",
+      "is_new": true
+    },
+    {
+      "title": "Promising discoveries about the potential for life on one of Saturn’s icy moons",
+      "link": "https://www.fu-berlin.de/en/presse/informationen/fup/2026/fup_26_116-enceladus-cassini-mikroben-science-postberg/index.html",
+      "is_new": true
+    },
+    {
+      "title": "Reading’s Bayeux Tapestry",
+      "link": "https://diamondgeezer.blogspot.com/2026/09/readings-bayeux-tapestry.html",
+      "is_new": true
+    },
+    {
+      "title": "Japan moves to tighten rules for foreigners",
+      "link": "https://www.aljazeera.com/economy/2026/9/25/japan-moves-to-tighten-rules-for-foreigners-throwing-futures-into-doubt",
+      "is_new": true
+    },
+    {
+      "title": "How to keep enjoying programming in a world of LLMs",
+      "link": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
+      "is_new": false
+    },
+    {
+      "title": "Go Concurrency Distilled",
+      "link": "https://antonz.org/go-concurrency-distilled/",
+      "is_new": true
+    },
+    {
+      "title": "Dutch designer made DE9: Closer to the Edit into a playable web-based instrument",
+      "link": "https://www.creativeboom.com/work/why-merijn-straathof-turned-a-landmark-techno-album-into-a-playable-web-based-instrument/",
+      "is_new": true
+    },
+    {
+      "title": "Reverse-engineering the Intel 8087's tangent algorithm: more than CORDIC",
+      "link": "https://www.righto.com/2026/09/8087-tangent-cordic.html",
+      "is_new": true
+    },
+    {
+      "title": "Analyzing Frontier Model Progress with My Favourite Game: Prince of Persia",
+      "link": "https://blog.priyan.in/2026/09/analyzing-frontier-model-progress-with.html",
+      "is_new": false
+    },
+    {
+      "title": "The Rise of Audio AR",
+      "link": "https://www.dbreunig.com/2024/04/10/the_rise_of_audio_ar.html",
+      "is_new": false
+    }
+  ],
+  "removed": [
+    {
+      "title": "Stop Sending Pictures of Your Palm",
+      "link": "https://www.bbc.com/news/technology-30623611",
+      "is_new": true
     },
     {
       "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
@@ -68,24 +170,9 @@
       "is_new": false
     },
     {
-      "title": "The Rise of Audio AR",
-      "link": "https://www.dbreunig.com/2024/04/10/the_rise_of_audio_ar.html",
-      "is_new": true
-    },
-    {
-      "title": "ASML says it sold 'absolutely nothing' in Europe in 2026",
-      "link": "https://www.tomshardware.com/tech-industry/semiconductors/asml-says-its-sells-absolutely-nothing-in-europe-calls-on-eu-to-help-create-demand",
-      "is_new": true
-    },
-    {
       "title": "Show HN: Ekselio – Loveable for finance workflows (local first)",
       "link": "https://www.gptbeyond.com/try?home=1",
       "is_new": true
-    },
-    {
-      "title": "Analyzing Frontier Model Progress with My Favourite Game: Prince of Persia",
-      "link": "https://blog.priyan.in/2026/09/analyzing-frontier-model-progress-with.html",
-      "is_new": false
     },
     {
       "title": "Plan mode is dead",
@@ -96,11 +183,6 @@
       "title": "Breaking Up with Google Play: Why Conversations Is Now Free",
       "link": "https://gultsch.de/posts/breaking-up-with-google-play/",
       "is_new": false
-    },
-    {
-      "title": "How to keep enjoying programming in a world of LLMs",
-      "link": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
-      "is_new": true
     },
     {
       "title": "Plunging test scores are a slow-moving catastrophe",
@@ -151,73 +233,6 @@
       "title": "Experiencing writing at our recent Chinese calligraphy workshop",
       "link": "https://viewsproject.wordpress.com/2026/09/06/chinese-calligraphy-workshop/",
       "is_new": true
-    }
-  ],
-  "removed": [
-    {
-      "title": "Show HN: A Claude Code skill to analyze your chess games",
-      "link": "https://github.com/brumar/chess-postmortem-skills",
-      "is_new": true
-    },
-    {
-      "title": "I'm the Mom in That Viral Giants Clip. Let Me Tell You About My Husband",
-      "link": "https://themomoftheyear.substack.com/p/im-the-mom-in-that-viral-giants-clip",
-      "is_new": true
-    },
-    {
-      "title": "Banks and Credit Unions to Team Up Against Apple Pay Fees",
-      "link": "https://www.macrumors.com/2026/09/25/apple-pay-antitrust-lawsuit-advances/",
-      "is_new": true
-    },
-    {
-      "title": "US jury says Apple owes record $5.7B in haptic technology patent case",
-      "link": "https://www.reuters.com/legal/litigation/us-jury-says-apple-owes-record-57-billion-haptic-technology-patent-case-2026-09-26/",
-      "is_new": true
-    },
-    {
-      "title": "16GB iPod Nano 3G Upgrade",
-      "link": "https://tuckerosman.com/projects/16gb-ipod-nano",
-      "is_new": false
-    },
-    {
-      "title": "Is your Postgres migration safe or not safe?",
-      "link": "https://safenotsafe.dev/",
-      "is_new": false
-    },
-    {
-      "title": "New Satellite Engine Could Use Earth's Atmosphere to Stay in Orbit Indefinitely",
-      "link": "https://scitechdaily.com/new-satellite-engine-could-use-earths-atmosphere-as-fuel-to-stay-in-orbit-indefinitely/",
-      "is_new": true
-    },
-    {
-      "title": "Parsing Expression Grammar vs. Regexes: Building Org Parser in Lisp, Export HTML",
-      "link": "https://jointhefreeworld.org/blog/articles/lisps/parsing-expression-grammar-lisp-org-convert-to-html/index.html",
-      "is_new": false
-    },
-    {
-      "title": "A single function Jev-like wrapper for LLMs, including vision models",
-      "link": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
-      "is_new": false
-    },
-    {
-      "title": "What even is an OS now?",
-      "link": "https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/",
-      "is_new": false
-    },
-    {
-      "title": "Ask HN: Who's still keeping a DOS machine up because the business depends on it?",
-      "link": "https://news.ycombinator.com/item?id=49848955",
-      "is_new": false
-    },
-    {
-      "title": "Calculating atmospheric drag on satellites for a Cubesat [pdf]",
-      "link": "https://www.osti.gov/servlets/purl/1124870",
-      "is_new": false
-    },
-    {
-      "title": "Gravity seems holographic. What does that mean for reality?",
-      "link": "https://www.quantamagazine.org/gravity-seems-holographic-what-does-that-mean-for-reality-20260925/",
-      "is_new": false
     }
   ]
 }
