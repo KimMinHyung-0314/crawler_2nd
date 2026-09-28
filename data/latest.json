@@ -1,25 +1,35 @@
 {
-  "crawled_at": "2026-09-28 19:29",
-  "prev_crawled_at": "2026-09-28 12:25",
+  "crawled_at": "2026-09-29 03:23",
+  "prev_crawled_at": "2026-09-28 19:29",
   "items": [
     {
-      "title": "Owed a billion dollars in Nvidia stock",
-      "link": "https://colo.to/nvidia-stock-narrative.html",
-      "is_new": false
-    },
-    {
-      "title": "Thinking fast and slow in AI: The role of metacognition (2021)",
-      "link": "https://arxiv.org/abs/2110.01834",
+      "title": "Claude Sonnet 5.5",
+      "link": "https://www.anthropic.com/claude-sonnet-5-5",
       "is_new": true
     },
     {
-      "title": "Ember-1",
-      "link": "https://fireworks.ai/blog/ember-1",
-      "is_new": false
+      "title": "Pirating the Pirates",
+      "link": "https://mubi.com/en/notebook/posts/pirating-the-pirates",
+      "is_new": true
     },
     {
-      "title": "Footguns with Postgres \"at time zone 'UTC'\"",
-      "link": "https://bookofrevenue.com/blog/6ab81e9a97a13f0001f7e4e1/postgres-at-time-zone-u-does-not-do-what-you-think-it-does",
+      "title": "Definitely not Windows (Win 11 parody)",
+      "link": "https://definitelynotwindows.com/",
+      "is_new": true
+    },
+    {
+      "title": "Hijacking the PS5's RTMP Stream",
+      "link": "https://yashgarg.dev/posts/hijacking-ps5-rtmp-stream/",
+      "is_new": true
+    },
+    {
+      "title": "Parley: Federated, decentralised chat that speaks plain IRC",
+      "link": "https://git.mills.io/prologic/parley",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: HN.watch – Videos of all Hacker News posts",
+      "link": "https://hn.watch/",
       "is_new": true
     },
     {
@@ -28,14 +38,126 @@
       "is_new": false
     },
     {
-      "title": "Prompting Claude Opus 5.5",
-      "link": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5",
+      "title": "The Teen Portraits That Captivated Sofia Coppola",
+      "link": "https://www.newyorker.com/culture/photo-booth/the-teen-portraits-that-captivated-sofia-coppola",
+      "is_new": true
+    },
+    {
+      "title": "Launch HN: Vespper (YC F24) – SOTA Docx MCP",
+      "link": "https://www.vespper.com/blog/launching-vespper-docx-mcp",
+      "is_new": true
+    },
+    {
+      "title": "What Heraldry and Mon Can Teach Us About Building Visual-Identity Generators",
+      "link": "https://benovermyer.com/blog/2026/09/japanese-vs-western-heraldry/",
+      "is_new": true
+    },
+    {
+      "title": "Who Wrote Elizabeth I's Most Scathing Letters?",
+      "link": "https://www.smithsonianmag.com/history/who-wrote-elizabeth-is-most-scathing-letters-new-research-suggests-the-tudor-queens-male-secretaries-revised-her-correspondence-to-emphasize-her-temper-180989565/",
+      "is_new": true
+    },
+    {
+      "title": "OpenAI still doesn't seem to have a handle on all of its rogue AI activity",
+      "link": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/",
+      "is_new": true
+    },
+    {
+      "title": "MongoDB CEO resigns to join Meta",
+      "link": "https://www.reuters.com/technology/mongodb-ceo-desai-steps-down-lead-metas-enterprise-platform-2026-09-28/",
+      "is_new": true
+    },
+    {
+      "title": "I made a visual workspace for AI Automations",
+      "link": "https://www.biom.dev/",
+      "is_new": true
+    },
+    {
+      "title": "Cf: The Agentic CLI for the Cloudflare API",
+      "link": "https://blog.cloudflare.com/cloudflare-cf-cli-launch/",
+      "is_new": true
+    },
+    {
+      "title": "Coding Is Not Solved",
+      "link": "https://blog.alexewerlof.com/p/coding-is-not-solved",
+      "is_new": true
+    },
+    {
+      "title": "37,500 border drawings: a map of the world as people remember it",
+      "link": "https://www.habibicode.org/thedrawnworld",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: PaperMono, e-ink fridge magnet shopping list with mobile web page",
+      "link": "https://github.com/seamusc/papermono-shopping-list",
+      "is_new": true
+    },
+    {
+      "title": "The problem is not AI code, but not knowing about system architecture or intent",
+      "link": "https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore/",
+      "is_new": true
+    },
+    {
+      "title": "Solving a corn puzzle with CP-SAT",
+      "link": "https://thill.me/2026/07/16/corn-puzzle-sat-solver.html",
+      "is_new": true
+    },
+    {
+      "title": "What Would a Serious AI Product Look Like?",
+      "link": "https://blog.glyph.im/2026/09/serious-ai-product.html",
+      "is_new": true
+    },
+    {
+      "title": "Footguns with Postgres “at time zone 'UTC'”",
+      "link": "https://bookofrevenue.com/blog/6ab81e9a97a13f0001f7e4e1/postgres-at-time-zone-u-does-not-do-what-you-think-it-does",
+      "is_new": false
+    },
+    {
+      "title": "Kids turned low-traffic NPR Spotify comments into a secret group chat",
+      "link": "https://www.thisamericanlife.org/897/transcript",
+      "is_new": true
+    },
+    {
+      "title": "Owed a billion dollars in Nvidia stock",
+      "link": "https://colo.to/nvidia-stock-narrative.html",
+      "is_new": false
+    },
+    {
+      "title": "Show HN: Free alternative to graphics design giants",
+      "link": "https://scissor.studio/",
+      "is_new": true
+    },
+    {
+      "title": "Ember-1",
+      "link": "https://fireworks.ai/blog/ember-1",
+      "is_new": false
+    },
+    {
+      "title": "Show HN: Destroy Any Website with Stickman",
+      "link": "https://destroy.spritefusion.com/",
+      "is_new": true
+    },
+    {
+      "title": "13 Months Sober (2025)",
+      "link": "https://www.bobbytables.io/p/13-months-sober",
       "is_new": true
     },
     {
       "title": "Nissan's third generation e-POWER powertrain",
       "link": "https://www.nissan-global.com/EN/INNOVATION/TECHNOLOGY/ARCHIVE/E_POWER_GEN3/",
       "is_new": false
+    },
+    {
+      "title": "Thinking fast and slow in AI: The role of metacognition (2021)",
+      "link": "https://arxiv.org/abs/2110.01834",
+      "is_new": false
+    }
+  ],
+  "removed": [
+    {
+      "title": "Prompting Claude Opus 5.5",
+      "link": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5",
+      "is_new": true
     },
     {
       "title": "Analysis: EVs are now nine times cheaper than petrol or diesel to drive in UK",
@@ -151,58 +273,6 @@
       "title": "Packing Binary Is Fun",
       "link": "https://hereticpleb.vercel.app/blog/packing-binary-is-fun-actually",
       "is_new": true
-    }
-  ],
-  "removed": [
-    {
-      "title": "Musk, the Movie",
-      "link": "https://bleeckerstreetmedia.com/musk",
-      "is_new": true
-    },
-    {
-      "title": "Self-parking car using genetic algorithm (2021)",
-      "link": "https://trekhleb.dev/blog/2021/self-parking-car-evolution/",
-      "is_new": true
-    },
-    {
-      "title": "As A.I. Makes Law Firms More Efficient, Clients Ask: 'Where's My Discount?'",
-      "link": "https://www.nytimes.com/2026/09/26/business/dealbook/ai-law-discount-billable-hour.html",
-      "is_new": true
-    },
-    {
-      "title": "Research finds 485 chemicals in US pesticide products linked to breast cancer",
-      "link": "https://www.theguardian.com/us-news/2026/sep/26/breast-cancer-us-pesticide-products",
-      "is_new": true
-    },
-    {
-      "title": "Golang: Crypto/fips140: do not bloat crypto code unnecessarily",
-      "link": "https://github.com/golang/go/issues/81639",
-      "is_new": true
-    },
-    {
-      "title": "Microsoft drops Copilot+ branding from its new laptops",
-      "link": "https://www.tomshardware.com/tablets/microsoft-surface/microsoft-quietly-drops-copilot-branding-from-its-new-laptops-surface-cvp-confirms-new-devices-meet-hardware-requirements-but-lack-controversial-branding",
-      "is_new": true
-    },
-    {
-      "title": "A New Experiment Meta-Strategy",
-      "link": "https://chillphysicsenjoyer.substack.com/p/a-new-experiment-meta-strategy",
-      "is_new": false
-    },
-    {
-      "title": "The Cartesian Hand: In-Hand Manipulation with All-Linear Fingers",
-      "link": "https://generalroboticslab.com/cartesian_handv1",
-      "is_new": false
-    },
-    {
-      "title": "Fragment of oldest known peace treaty found in Turkey",
-      "link": "https://www.livescience.com/archaeology/ancient-egyptians/we-have-found-traces-of-peace-thousands-of-years-old-fragment-of-worlds-oldest-known-peace-treaty-found-in-turkey",
-      "is_new": false
-    },
-    {
-      "title": "Fakecloud: Local AWS cloud emulator for integration tests",
-      "link": "https://fakecloud.dev/",
-      "is_new": false
     }
   ]
 }
