@@ -1,35 +1,140 @@
 {
-  "crawled_at": "2026-09-29 03:23",
-  "prev_crawled_at": "2026-09-28 19:29",
+  "crawled_at": "2026-09-29 08:39",
+  "prev_crawled_at": "2026-09-29 03:23",
   "items": [
     {
-      "title": "Claude Sonnet 5.5",
-      "link": "https://www.anthropic.com/claude-sonnet-5-5",
+      "title": "Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms",
+      "link": "https://github.com/firelex/jeff",
       "is_new": true
     },
     {
       "title": "Pirating the Pirates",
       "link": "https://mubi.com/en/notebook/posts/pirating-the-pirates",
+      "is_new": false
+    },
+    {
+      "title": "12,000-year-old Göbeklitepe burials explain scattered bones",
+      "link": "https://archaeologymag.com/2026/09/gobeklitepe-burials-hundreds-of-scattered-bones/",
       "is_new": true
     },
     {
-      "title": "Definitely not Windows (Win 11 parody)",
-      "link": "https://definitelynotwindows.com/",
+      "title": "MicroLLM Lab – Try 7 tiny LLM's in the browser",
+      "link": "https://stateofutopia.com/experiments/microllmlab/",
       "is_new": true
     },
     {
-      "title": "Hijacking the PS5's RTMP Stream",
+      "title": "World Labs Is Joining AMD",
+      "link": "https://www.worldlabs.ai/blog/amd-announcement",
+      "is_new": true
+    },
+    {
+      "title": "Scientists solve 1840s space weather mystery",
+      "link": "https://arstechnica.com/science/2026/09/scientists-solve-1840s-space-weather-mystery/",
+      "is_new": true
+    },
+    {
+      "title": "Hijacking the PS5's RTMP stream",
       "link": "https://yashgarg.dev/posts/hijacking-ps5-rtmp-stream/",
+      "is_new": false
+    },
+    {
+      "title": "Flock Wants the Most Detailed Map of Its Surveillance Cameras Taken Offline",
+      "link": "https://theintercept.com/2026/09/24/how-many-flock-devices-in-united-states-300000/",
       "is_new": true
+    },
+    {
+      "title": "Kids turned low-traffic NPR Spotify comments into a secret group chat",
+      "link": "https://www.thisamericanlife.org/897/transcript",
+      "is_new": false
     },
     {
       "title": "Parley: Federated, decentralised chat that speaks plain IRC",
       "link": "https://git.mills.io/prologic/parley",
+      "is_new": false
+    },
+    {
+      "title": "Joseph Szabo’s pictures of American adolescents",
+      "link": "https://www.newyorker.com/culture/photo-booth/the-teen-portraits-that-captivated-sofia-coppola",
+      "is_new": false
+    },
+    {
+      "title": "What reversing, modernising old games tells us about the economic impact of AI",
+      "link": "https://this.os.isfine.org/blog/posts/what-reverse-engineering-and-modernising-an-old-war-game-tells-us-about-the-econ/",
       "is_new": true
     },
     {
-      "title": "Show HN: HN.watch – Videos of all Hacker News posts",
-      "link": "https://hn.watch/",
+      "title": "It's Time to Investigate the AI Labs",
+      "link": "https://calnewport.com/its-time-to-investigate-the-ai-labs/",
+      "is_new": true
+    },
+    {
+      "title": "Sonnet 5.5",
+      "link": "https://www.anthropic.com/claude-sonnet-5-5",
+      "is_new": false
+    },
+    {
+      "title": "3D necroprinting: Leveraging biotic material as the nozzle for 3D printing",
+      "link": "https://www.science.org/doi/10.1126/sciadv.adw9953",
+      "is_new": true
+    },
+    {
+      "title": "Nvidia wants to put a watchdog chip next to every AI agent",
+      "link": "https://www.cnbc.com/2026/09/28/nvidia-releases.html",
+      "is_new": true
+    },
+    {
+      "title": "Cf: The Agentic CLI for the Cloudflare API",
+      "link": "https://blog.cloudflare.com/cloudflare-cf-cli-launch/",
+      "is_new": false
+    },
+    {
+      "title": "Does Reddit have an astroturfing problem? What the data suggests",
+      "link": "https://www.petervijeh.com/projects/reddit-astroturf",
+      "is_new": true
+    },
+    {
+      "title": "First Steps of the PLC Organization – Independent Public Ledger of Credentials",
+      "link": "https://blog.plcred.org/3mwlphq42d227",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: Destroy Any Website with Stickman",
+      "link": "https://destroy.spritefusion.com/",
+      "is_new": false
+    },
+    {
+      "title": "Launch HN: Vespper (YC F24) – SOTA Docx MCP",
+      "link": "https://www.vespper.com/blog/launching-vespper-docx-mcp",
+      "is_new": false
+    },
+    {
+      "title": "Updated Google Maps shows destruction of the city of Rafah",
+      "link": "https://twitter.com/AliAbunimah/status/2103890594137309425",
+      "is_new": true
+    },
+    {
+      "title": "What heraldry and Japanese mon can teach about visual-identity generators",
+      "link": "https://benovermyer.com/blog/2026/09/japanese-vs-western-heraldry/",
+      "is_new": false
+    },
+    {
+      "title": "Who wrote Elizabeth I's most scathing letters?",
+      "link": "https://www.smithsonianmag.com/history/who-wrote-elizabeth-is-most-scathing-letters-new-research-suggests-the-tudor-queens-male-secretaries-revised-her-correspondence-to-emphasize-her-temper-180989565/",
+      "is_new": false
+    },
+    {
+      "title": "ESP32S3 cluster running 1.58-bit (BitNet) Language model",
+      "link": "https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster",
+      "is_new": true
+    },
+    {
+      "title": "MongoDB CEO resigns to join Meta",
+      "link": "https://www.reuters.com/technology/mongodb-ceo-desai-steps-down-lead-metas-enterprise-platform-2026-09-28/",
+      "is_new": false
+    },
+    {
+      "title": "Best of British Design",
+      "link": "https://best-of-british-design.vercel.app/",
       "is_new": true
     },
     {
@@ -38,23 +143,25 @@
       "is_new": false
     },
     {
-      "title": "The Teen Portraits That Captivated Sofia Coppola",
-      "link": "https://www.newyorker.com/culture/photo-booth/the-teen-portraits-that-captivated-sofia-coppola",
+      "title": "GrapheneOS – When an app is slow",
+      "link": "https://blog.wirelessmoves.com/2026/09/grapheneos-when-an-app-is-slow.html",
       "is_new": true
     },
     {
-      "title": "Launch HN: Vespper (YC F24) – SOTA Docx MCP",
-      "link": "https://www.vespper.com/blog/launching-vespper-docx-mcp",
+      "title": "37,500 border drawings: a map of the world as people remember it",
+      "link": "https://www.habibicode.org/thedrawnworld",
+      "is_new": false
+    }
+  ],
+  "removed": [
+    {
+      "title": "Definitely not Windows (Win 11 parody)",
+      "link": "https://definitelynotwindows.com/",
       "is_new": true
     },
     {
-      "title": "What Heraldry and Mon Can Teach Us About Building Visual-Identity Generators",
-      "link": "https://benovermyer.com/blog/2026/09/japanese-vs-western-heraldry/",
-      "is_new": true
-    },
-    {
-      "title": "Who Wrote Elizabeth I's Most Scathing Letters?",
-      "link": "https://www.smithsonianmag.com/history/who-wrote-elizabeth-is-most-scathing-letters-new-research-suggests-the-tudor-queens-male-secretaries-revised-her-correspondence-to-emphasize-her-temper-180989565/",
+      "title": "Show HN: HN.watch – Videos of all Hacker News posts",
+      "link": "https://hn.watch/",
       "is_new": true
     },
     {
@@ -63,28 +170,13 @@
       "is_new": true
     },
     {
-      "title": "MongoDB CEO resigns to join Meta",
-      "link": "https://www.reuters.com/technology/mongodb-ceo-desai-steps-down-lead-metas-enterprise-platform-2026-09-28/",
-      "is_new": true
-    },
-    {
       "title": "I made a visual workspace for AI Automations",
       "link": "https://www.biom.dev/",
       "is_new": true
     },
     {
-      "title": "Cf: The Agentic CLI for the Cloudflare API",
-      "link": "https://blog.cloudflare.com/cloudflare-cf-cli-launch/",
-      "is_new": true
-    },
-    {
       "title": "Coding Is Not Solved",
       "link": "https://blog.alexewerlof.com/p/coding-is-not-solved",
-      "is_new": true
-    },
-    {
-      "title": "37,500 border drawings: a map of the world as people remember it",
-      "link": "https://www.habibicode.org/thedrawnworld",
       "is_new": true
     },
     {
@@ -113,11 +205,6 @@
       "is_new": false
     },
     {
-      "title": "Kids turned low-traffic NPR Spotify comments into a secret group chat",
-      "link": "https://www.thisamericanlife.org/897/transcript",
-      "is_new": true
-    },
-    {
       "title": "Owed a billion dollars in Nvidia stock",
       "link": "https://colo.to/nvidia-stock-narrative.html",
       "is_new": false
@@ -133,11 +220,6 @@
       "is_new": false
     },
     {
-      "title": "Show HN: Destroy Any Website with Stickman",
-      "link": "https://destroy.spritefusion.com/",
-      "is_new": true
-    },
-    {
       "title": "13 Months Sober (2025)",
       "link": "https://www.bobbytables.io/p/13-months-sober",
       "is_new": true
@@ -151,128 +233,6 @@
       "title": "Thinking fast and slow in AI: The role of metacognition (2021)",
       "link": "https://arxiv.org/abs/2110.01834",
       "is_new": false
-    }
-  ],
-  "removed": [
-    {
-      "title": "Prompting Claude Opus 5.5",
-      "link": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5",
-      "is_new": true
-    },
-    {
-      "title": "Analysis: EVs are now nine times cheaper than petrol or diesel to drive in UK",
-      "link": "https://www.carbonbrief.org/analysis-evs-are-now-nine-times-cheaper-than-petrol-or-diesel-to-drive-in-the-uk",
-      "is_new": true
-    },
-    {
-      "title": "Malleable software: Restoring user agency in a world of locked-down apps (2025)",
-      "link": "https://www.inkandswitch.com/essay/malleable-software/",
-      "is_new": false
-    },
-    {
-      "title": "Functional Mechanical Sympathy [video]",
-      "link": "https://www.youtube.com/watch?v=jSHmDnUZCm8",
-      "is_new": true
-    },
-    {
-      "title": "Made by Mechanical Means",
-      "link": "https://felixrieseberg.com/made-by-mechanical-means/",
-      "is_new": true
-    },
-    {
-      "title": "Alan Kay's answer to “Did the ENIAC have a BIOS”?",
-      "link": "https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11",
-      "is_new": false
-    },
-    {
-      "title": "Self-Hosting on the Dark Web",
-      "link": "https://david.alvarezrosa.com/posts/self-hosting-on-the-dark-web/",
-      "is_new": false
-    },
-    {
-      "title": "SpaceX's Starship launching to orbit for first time ever today",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacexs-starship-megarocket-launching-to-orbit-for-1st-time-ever-on-sept-28-watch-it-live",
-      "is_new": true
-    },
-    {
-      "title": "Guitar amp and effects pedal built on the Waveshare ESP32-S3-Touch-AMOLED-2.06",
-      "link": "https://github.com/dashersw/coyopedal",
-      "is_new": false
-    },
-    {
-      "title": "Lunar Terminator Paradox",
-      "link": "https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html",
-      "is_new": false
-    },
-    {
-      "title": "The state of SIMD in Rust in 2026",
-      "link": "https://shnatsel.github.io/state-of-simd-rust-2026/",
-      "is_new": false
-    },
-    {
-      "title": "Don't couple your Go code to GitHub",
-      "link": "https://iain.rocks/blog/dont-couple-your-go-code-to-github",
-      "is_new": false
-    },
-    {
-      "title": "Deterministic Concurrency [video]",
-      "link": "https://www.youtube.com/watch?v=25x0UuSCKuU",
-      "is_new": true
-    },
-    {
-      "title": "In an $80 motel room, a discovery to shed light on the origins of life",
-      "link": "https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html",
-      "is_new": false
-    },
-    {
-      "title": "Show HN: Lofi Cities – Pixel-art city nights with browser-generated lofi",
-      "link": "https://loficities.com/",
-      "is_new": false
-    },
-    {
-      "title": "There is more to code review than (automatable) detection",
-      "link": "https://www.adaptivecapacitylabs.com/2026/08/24/there-is-more-to-code-review-than-automatable-detection/",
-      "is_new": false
-    },
-    {
-      "title": "What I did at Recurse Center",
-      "link": "https://thill.me/2026/09/11/what-i-did-at-rc.html",
-      "is_new": false
-    },
-    {
-      "title": "Imp is a full port of DSPy to the BEAM",
-      "link": "https://github.com/deepfates/imp",
-      "is_new": false
-    },
-    {
-      "title": "Replacing the old battery on rechargeable bike lights",
-      "link": "https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/",
-      "is_new": false
-    },
-    {
-      "title": "Reading’s Bayeux Tapestry",
-      "link": "https://diamondgeezer.blogspot.com/2026/09/readings-bayeux-tapestry.html",
-      "is_new": true
-    },
-    {
-      "title": "Previously unheard recordings of John Coltrane, captured by Frank Tiberi",
-      "link": "https://www.jazzwise.com/content/news/john-coltrane-centenary-celebrations-see-impulse-records-release-the-legendary-tiberi-tapes",
-      "is_new": false
-    },
-    {
-      "title": "Writing Efficient C++ Code (2013)",
-      "link": "https://asawicki.info/articles/writing_efficient_cpp_code.php",
-      "is_new": false
-    },
-    {
-      "title": "Oral history of John Chowning, inventor of FM synthesis [video]",
-      "link": "https://www.youtube.com/watch?v=e1Xn3030IvM",
-      "is_new": false
-    },
-    {
-      "title": "Packing Binary Is Fun",
-      "link": "https://hereticpleb.vercel.app/blog/packing-binary-is-fun-actually",
-      "is_new": true
     }
   ]
 }
