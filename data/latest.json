@@ -1,12 +1,159 @@
 {
-  "crawled_at": "2026-09-28 12:25",
-  "prev_crawled_at": "2026-09-28 08:35",
+  "crawled_at": "2026-09-28 19:29",
+  "prev_crawled_at": "2026-09-28 12:25",
   "items": [
     {
       "title": "Owed a billion dollars in Nvidia stock",
       "link": "https://colo.to/nvidia-stock-narrative.html",
+      "is_new": false
+    },
+    {
+      "title": "Thinking fast and slow in AI: The role of metacognition (2021)",
+      "link": "https://arxiv.org/abs/2110.01834",
       "is_new": true
     },
+    {
+      "title": "Ember-1",
+      "link": "https://fireworks.ai/blog/ember-1",
+      "is_new": false
+    },
+    {
+      "title": "Footguns with Postgres \"at time zone 'UTC'\"",
+      "link": "https://bookofrevenue.com/blog/6ab81e9a97a13f0001f7e4e1/postgres-at-time-zone-u-does-not-do-what-you-think-it-does",
+      "is_new": true
+    },
+    {
+      "title": "When did Google get so weird?",
+      "link": "https://sancho.bearblog.dev/google-weird/",
+      "is_new": false
+    },
+    {
+      "title": "Prompting Claude Opus 5.5",
+      "link": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5",
+      "is_new": true
+    },
+    {
+      "title": "Nissan's third generation e-POWER powertrain",
+      "link": "https://www.nissan-global.com/EN/INNOVATION/TECHNOLOGY/ARCHIVE/E_POWER_GEN3/",
+      "is_new": false
+    },
+    {
+      "title": "Analysis: EVs are now nine times cheaper than petrol or diesel to drive in UK",
+      "link": "https://www.carbonbrief.org/analysis-evs-are-now-nine-times-cheaper-than-petrol-or-diesel-to-drive-in-the-uk",
+      "is_new": true
+    },
+    {
+      "title": "Malleable software: Restoring user agency in a world of locked-down apps (2025)",
+      "link": "https://www.inkandswitch.com/essay/malleable-software/",
+      "is_new": false
+    },
+    {
+      "title": "Functional Mechanical Sympathy [video]",
+      "link": "https://www.youtube.com/watch?v=jSHmDnUZCm8",
+      "is_new": true
+    },
+    {
+      "title": "Made by Mechanical Means",
+      "link": "https://felixrieseberg.com/made-by-mechanical-means/",
+      "is_new": true
+    },
+    {
+      "title": "Alan Kay's answer to “Did the ENIAC have a BIOS”?",
+      "link": "https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11",
+      "is_new": false
+    },
+    {
+      "title": "Self-Hosting on the Dark Web",
+      "link": "https://david.alvarezrosa.com/posts/self-hosting-on-the-dark-web/",
+      "is_new": false
+    },
+    {
+      "title": "SpaceX's Starship launching to orbit for first time ever today",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacexs-starship-megarocket-launching-to-orbit-for-1st-time-ever-on-sept-28-watch-it-live",
+      "is_new": true
+    },
+    {
+      "title": "Guitar amp and effects pedal built on the Waveshare ESP32-S3-Touch-AMOLED-2.06",
+      "link": "https://github.com/dashersw/coyopedal",
+      "is_new": false
+    },
+    {
+      "title": "Lunar Terminator Paradox",
+      "link": "https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html",
+      "is_new": false
+    },
+    {
+      "title": "The state of SIMD in Rust in 2026",
+      "link": "https://shnatsel.github.io/state-of-simd-rust-2026/",
+      "is_new": false
+    },
+    {
+      "title": "Don't couple your Go code to GitHub",
+      "link": "https://iain.rocks/blog/dont-couple-your-go-code-to-github",
+      "is_new": false
+    },
+    {
+      "title": "Deterministic Concurrency [video]",
+      "link": "https://www.youtube.com/watch?v=25x0UuSCKuU",
+      "is_new": true
+    },
+    {
+      "title": "In an $80 motel room, a discovery to shed light on the origins of life",
+      "link": "https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html",
+      "is_new": false
+    },
+    {
+      "title": "Show HN: Lofi Cities – Pixel-art city nights with browser-generated lofi",
+      "link": "https://loficities.com/",
+      "is_new": false
+    },
+    {
+      "title": "There is more to code review than (automatable) detection",
+      "link": "https://www.adaptivecapacitylabs.com/2026/08/24/there-is-more-to-code-review-than-automatable-detection/",
+      "is_new": false
+    },
+    {
+      "title": "What I did at Recurse Center",
+      "link": "https://thill.me/2026/09/11/what-i-did-at-rc.html",
+      "is_new": false
+    },
+    {
+      "title": "Imp is a full port of DSPy to the BEAM",
+      "link": "https://github.com/deepfates/imp",
+      "is_new": false
+    },
+    {
+      "title": "Replacing the old battery on rechargeable bike lights",
+      "link": "https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/",
+      "is_new": false
+    },
+    {
+      "title": "Reading’s Bayeux Tapestry",
+      "link": "https://diamondgeezer.blogspot.com/2026/09/readings-bayeux-tapestry.html",
+      "is_new": true
+    },
+    {
+      "title": "Previously unheard recordings of John Coltrane, captured by Frank Tiberi",
+      "link": "https://www.jazzwise.com/content/news/john-coltrane-centenary-celebrations-see-impulse-records-release-the-legendary-tiberi-tapes",
+      "is_new": false
+    },
+    {
+      "title": "Writing Efficient C++ Code (2013)",
+      "link": "https://asawicki.info/articles/writing_efficient_cpp_code.php",
+      "is_new": false
+    },
+    {
+      "title": "Oral history of John Chowning, inventor of FM synthesis [video]",
+      "link": "https://www.youtube.com/watch?v=e1Xn3030IvM",
+      "is_new": false
+    },
+    {
+      "title": "Packing Binary Is Fun",
+      "link": "https://hereticpleb.vercel.app/blog/packing-binary-is-fun-actually",
+      "is_new": true
+    }
+  ],
+  "removed": [
     {
       "title": "Musk, the Movie",
       "link": "https://bleeckerstreetmedia.com/musk",
@@ -18,74 +165,9 @@
       "is_new": true
     },
     {
-      "title": "Ember-1",
-      "link": "https://fireworks.ai/blog/ember-1",
-      "is_new": false
-    },
-    {
-      "title": "When did Google get so weird?",
-      "link": "https://sancho.bearblog.dev/google-weird/",
-      "is_new": false
-    },
-    {
-      "title": "Nissan's third generation e-POWER powertrain",
-      "link": "https://www.nissan-global.com/EN/INNOVATION/TECHNOLOGY/ARCHIVE/E_POWER_GEN3/",
-      "is_new": true
-    },
-    {
-      "title": "Guitar amp and effects pedal built on the Waveshare ESP32-S3-Touch-AMOLED-2.06",
-      "link": "https://github.com/dashersw/coyopedal",
-      "is_new": true
-    },
-    {
-      "title": "Alan Kay's answer to “Did the ENIAC have a BIOS”?",
-      "link": "https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11",
-      "is_new": false
-    },
-    {
-      "title": "There is more to code review than (automatable) detection",
-      "link": "https://www.adaptivecapacitylabs.com/2026/08/24/there-is-more-to-code-review-than-automatable-detection/",
-      "is_new": false
-    },
-    {
-      "title": "The state of SIMD in Rust in 2026",
-      "link": "https://shnatsel.github.io/state-of-simd-rust-2026/",
-      "is_new": false
-    },
-    {
-      "title": "Lunar Terminator Paradox",
-      "link": "https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html",
-      "is_new": false
-    },
-    {
-      "title": "Don't couple your Go code to GitHub",
-      "link": "https://iain.rocks/blog/dont-couple-your-go-code-to-github",
-      "is_new": false
-    },
-    {
-      "title": "Show HN: Lofi Cities – Pixel-art city nights with browser-generated lofi",
-      "link": "https://loficities.com/",
-      "is_new": false
-    },
-    {
-      "title": "Malleable software: Restoring user agency in a world of locked-down apps (2025)",
-      "link": "https://www.inkandswitch.com/essay/malleable-software/",
-      "is_new": true
-    },
-    {
-      "title": "Self-Hosting on the Dark Web",
-      "link": "https://david.alvarezrosa.com/posts/self-hosting-on-the-dark-web/",
-      "is_new": false
-    },
-    {
       "title": "As A.I. Makes Law Firms More Efficient, Clients Ask: 'Where's My Discount?'",
       "link": "https://www.nytimes.com/2026/09/26/business/dealbook/ai-law-discount-billable-hour.html",
       "is_new": true
-    },
-    {
-      "title": "What I did at Recurse Center",
-      "link": "https://thill.me/2026/09/11/what-i-did-at-rc.html",
-      "is_new": false
     },
     {
       "title": "Research finds 485 chemicals in US pesticide products linked to breast cancer",
@@ -93,39 +175,9 @@
       "is_new": true
     },
     {
-      "title": "Imp is a full port of DSPy to the BEAM",
-      "link": "https://github.com/deepfates/imp",
-      "is_new": false
-    },
-    {
       "title": "Golang: Crypto/fips140: do not bloat crypto code unnecessarily",
       "link": "https://github.com/golang/go/issues/81639",
       "is_new": true
-    },
-    {
-      "title": "In an $80 motel room, a discovery to shed light on the origins of life",
-      "link": "https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html",
-      "is_new": false
-    },
-    {
-      "title": "Replacing the old battery on rechargeable bike lights",
-      "link": "https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/",
-      "is_new": false
-    },
-    {
-      "title": "Oral history of John Chowning, inventor of FM synthesis [video]",
-      "link": "https://www.youtube.com/watch?v=e1Xn3030IvM",
-      "is_new": false
-    },
-    {
-      "title": "Previously unheard recordings of John Coltrane, captured by Frank Tiberi",
-      "link": "https://www.jazzwise.com/content/news/john-coltrane-centenary-celebrations-see-impulse-records-release-the-legendary-tiberi-tapes",
-      "is_new": false
-    },
-    {
-      "title": "Writing Efficient C++ Code (2013)",
-      "link": "https://asawicki.info/articles/writing_efficient_cpp_code.php",
-      "is_new": false
     },
     {
       "title": "Microsoft drops Copilot+ branding from its new laptops",
@@ -150,58 +202,6 @@
     {
       "title": "Fakecloud: Local AWS cloud emulator for integration tests",
       "link": "https://fakecloud.dev/",
-      "is_new": false
-    }
-  ],
-  "removed": [
-    {
-      "title": "My Recent Woodworking Projects",
-      "link": "https://notoriousbfg.com/recent-woodworking-projects/",
-      "is_new": true
-    },
-    {
-      "title": "S3 Is the Future, S3 Is the Past",
-      "link": "https://btrblocks.com/blog/s3_is_the_future_and_the_past/",
-      "is_new": true
-    },
-    {
-      "title": "Flip Fluid on Flip Dots",
-      "link": "https://mitxela.com/projects/flipflip",
-      "is_new": false
-    },
-    {
-      "title": "EV Sales Are Booming in Europe with Gasoline at $10 a Gallon",
-      "link": "https://www.bloomberg.com/news/articles/2026-09-24/electric-car-sales-soar-52-in-europe-with-fuel-at-record-highs",
-      "is_new": true
-    },
-    {
-      "title": "The Normalization of Inexplicable Failures",
-      "link": "https://www.ihatethefuture.com/2026/09/the-normalization-of-inexplicable.html",
-      "is_new": false
-    },
-    {
-      "title": "Faster prompt lookup drafting in llama.cpp",
-      "link": "https://jadidbourbaki.github.io/blog/prompt-lookup-llama-cpp/",
-      "is_new": false
-    },
-    {
-      "title": "Video CDs Break Windows Explorer",
-      "link": "https://clydesnotes.blogspot.com/2026/08/video-cds-break-windows-explorer.html",
-      "is_new": false
-    },
-    {
-      "title": "Show HN: TinyAIArena watch AI agents battle it out",
-      "link": "https://tinyaiarena.com/",
-      "is_new": false
-    },
-    {
-      "title": "KICKI: a DECsystem1060",
-      "link": "https://icm.museum/blog/?p=207",
-      "is_new": false
-    },
-    {
-      "title": "On caring for user data: NeoVim caused Vim undo files to be deleted",
-      "link": "https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/",
       "is_new": false
     }
   ]
