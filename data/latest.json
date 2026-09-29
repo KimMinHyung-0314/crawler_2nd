@@ -1,21 +1,41 @@
 {
-  "crawled_at": "2026-09-29 13:01",
-  "prev_crawled_at": "2026-09-29 08:39",
+  "crawled_at": "2026-09-29 20:02",
+  "prev_crawled_at": "2026-09-29 13:01",
   "items": [
     {
-      "title": "Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms",
-      "link": "https://github.com/firelex/jeff",
+      "title": "AI companies leak data to advertisers [pdf]",
+      "link": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
+      "is_new": true
+    },
+    {
+      "title": "Using any C++ library in Godot",
+      "link": "https://blog.conan.io/cpp/conan/gamedev/godot/cmake/2026/09/29/Using-Any-Cpp-Library-In-Godot.html",
+      "is_new": true
+    },
+    {
+      "title": "Phyllotaxis: An audio-reactive LED display",
+      "link": "https://jagi.studio/posts/phyllotaxis/",
+      "is_new": true
+    },
+    {
+      "title": "The systems that no one will test",
+      "link": "https://blog.christianperone.com/2026/09/the-systems-that-no-one-will-test/",
+      "is_new": true
+    },
+    {
+      "title": "Booted up in 1993, this server still runs – but not for much longer (2017)",
+      "link": "https://www.computerworld.com/article/1673071/booted-up-in-1993-this-server-still-runs-but-not-for-much-longer-2.html",
+      "is_new": true
+    },
+    {
+      "title": "Software occlusion culling in Block Game",
+      "link": "https://enikofox.com/posts/software-rendered-occlusion-culling-in-block-game/",
+      "is_new": true
+    },
+    {
+      "title": "California farmers are struggling to sell grapes as demand for wine drops",
+      "link": "https://www.kqed.org/news/12101534/california-farmers-are-struggling-to-sell-grapes-as-demand-for-wine-drops",
       "is_new": false
-    },
-    {
-      "title": "U.S. Strategic Petroleum Reserve Falls to Lowest Level Since 1982",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Strategic-Petroleum-Reserve-Falls-to-Lowest-Level-Since-1982.html",
-      "is_new": true
-    },
-    {
-      "title": "1996 chat room simulator connected to Win95 and System 7 web desktops",
-      "link": "https://lolchat.rip/",
-      "is_new": true
     },
     {
       "title": "Pirating the Pirates",
@@ -23,8 +43,8 @@
       "is_new": false
     },
     {
-      "title": "12,000-year-old Göbeklitepe burials explain scattered bones",
-      "link": "https://archaeologymag.com/2026/09/gobeklitepe-burials-hundreds-of-scattered-bones/",
+      "title": "Tank Body Problem",
+      "link": "http://www.jimsitu.com",
       "is_new": false
     },
     {
@@ -33,9 +53,14 @@
       "is_new": false
     },
     {
-      "title": "Tank Body Problem",
-      "link": "http://www.jimsitu.com",
-      "is_new": true
+      "title": "Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms",
+      "link": "https://github.com/firelex/jeff",
+      "is_new": false
+    },
+    {
+      "title": "12,000-year-old Göbeklitepe burials explain scattered bones",
+      "link": "https://archaeologymag.com/2026/09/gobeklitepe-burials-hundreds-of-scattered-bones/",
+      "is_new": false
     },
     {
       "title": "ESP32S3 cluster running 1.58-bit (BitNet) Language model",
@@ -43,13 +68,18 @@
       "is_new": false
     },
     {
-      "title": "California farmers are struggling to sell grapes as demand for wine drops",
-      "link": "https://www.kqed.org/news/12101534/california-farmers-are-struggling-to-sell-grapes-as-demand-for-wine-drops",
+      "title": "New Cyber-OSINT model released",
+      "link": "https://twitter.com/0x0SojalSec/status/2104736980768866439",
       "is_new": true
     },
     {
-      "title": "Scientists solve 1840s space weather mystery",
-      "link": "https://arstechnica.com/science/2026/09/scientists-solve-1840s-space-weather-mystery/",
+      "title": "Nvidia wants to put a watchdog chip next to every AI agent",
+      "link": "https://www.cnbc.com/2026/09/28/nvidia-releases.html",
+      "is_new": false
+    },
+    {
+      "title": "Hijacking the PS5's RTMP stream",
+      "link": "https://yashgarg.dev/posts/hijacking-ps5-rtmp-stream/",
       "is_new": false
     },
     {
@@ -58,24 +88,81 @@
       "is_new": false
     },
     {
-      "title": "Who Killed Paulina Borsook's Career?",
-      "link": "https://www.wired.com/story/paulina-borsook-profile/",
+      "title": "Startup Nights 2026 is comming up on 5-6 Nov. in Switzerland",
+      "link": "https://www.startup-nights.ch/event/",
       "is_new": true
     },
     {
-      "title": "Hijacking the PS5's RTMP stream",
-      "link": "https://yashgarg.dev/posts/hijacking-ps5-rtmp-stream/",
+      "title": "Simulating Airband AM Radios",
+      "link": "https://bitbashing.io/am-radio.html",
+      "is_new": true
+    },
+    {
+      "title": "Updated Google Maps shows destruction of the city of Rafah",
+      "link": "https://twitter.com/AliAbunimah/status/2103890594137309425",
       "is_new": false
     },
     {
-      "title": "World Labs Is Joining AMD",
-      "link": "https://www.worldlabs.ai/blog/amd-announcement",
+      "title": "Hermann Weyl – Frank Aydelotte memorandum (1945)",
+      "link": "https://albert.ias.edu/server/api/core/bitstreams/9feac6ca-38d1-4f5c-9876-75915f1a5762/content",
+      "is_new": true
+    },
+    {
+      "title": "Scientists solve 1840s space weather mystery",
+      "link": "https://arstechnica.com/science/2026/09/scientists-solve-1840s-space-weather-mystery/",
       "is_new": false
     },
     {
       "title": "Kids turned low-traffic NPR Spotify comments into a secret group chat",
       "link": "https://www.thisamericanlife.org/897/transcript",
       "is_new": false
+    },
+    {
+      "title": "Does Reddit have an astroturfing problem? What the data suggests",
+      "link": "https://www.petervijeh.com/projects/reddit-astroturf",
+      "is_new": false
+    },
+    {
+      "title": "World Labs is Joining AMD",
+      "link": "https://www.worldlabs.ai/blog/amd-announcement",
+      "is_new": false
+    },
+    {
+      "title": "Show HN: HN.watch – Videos of all Hacker News posts",
+      "link": "https://hn.watch/",
+      "is_new": false
+    },
+    {
+      "title": "1996 chat room simulator connected to Win95 and System 7 web desktops",
+      "link": "https://lolchat.rip/",
+      "is_new": false
+    },
+    {
+      "title": "It's Time to Investigate the AI Labs",
+      "link": "https://calnewport.com/its-time-to-investigate-the-ai-labs/",
+      "is_new": false
+    },
+    {
+      "title": "Firebase SDK is CRASHING ALLLL iOS Apps, since today morning",
+      "link": "https://twitter.com/GergelyOrosz/status/2104825886922911981",
+      "is_new": true
+    },
+    {
+      "title": "Four CHI '26 papers I wish I wrote",
+      "link": "https://countingfromzero.blog/2026/04/24/four-chi-26-papers-i-wish-i-wrote/",
+      "is_new": true
+    }
+  ],
+  "removed": [
+    {
+      "title": "U.S. Strategic Petroleum Reserve Falls to Lowest Level Since 1982",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Strategic-Petroleum-Reserve-Falls-to-Lowest-Level-Since-1982.html",
+      "is_new": true
+    },
+    {
+      "title": "Who Killed Paulina Borsook's Career?",
+      "link": "https://www.wired.com/story/paulina-borsook-profile/",
+      "is_new": true
     },
     {
       "title": "Bluegraph – Explore NOAA buoy data, rebuilt in 3D from measured spectra",
@@ -103,31 +190,6 @@
       "is_new": false
     },
     {
-      "title": "Updated Google Maps shows destruction of the city of Rafah",
-      "link": "https://twitter.com/AliAbunimah/status/2103890594137309425",
-      "is_new": false
-    },
-    {
-      "title": "Does Reddit have an astroturfing problem? What the data suggests",
-      "link": "https://www.petervijeh.com/projects/reddit-astroturf",
-      "is_new": false
-    },
-    {
-      "title": "Nvidia wants to put a watchdog chip next to every AI agent",
-      "link": "https://www.cnbc.com/2026/09/28/nvidia-releases.html",
-      "is_new": false
-    },
-    {
-      "title": "It's Time to Investigate the AI Labs",
-      "link": "https://calnewport.com/its-time-to-investigate-the-ai-labs/",
-      "is_new": false
-    },
-    {
-      "title": "Show HN: HN.watch – Videos of all Hacker News posts",
-      "link": "https://hn.watch/",
-      "is_new": true
-    },
-    {
       "title": "Cf: The Agentic CLI for the Cloudflare API",
       "link": "https://blog.cloudflare.com/cloudflare-cf-cli-launch/",
       "is_new": false
@@ -150,68 +212,6 @@
     {
       "title": "When did Google get so weird?",
       "link": "https://sancho.bearblog.dev/google-weird/",
-      "is_new": false
-    }
-  ],
-  "removed": [
-    {
-      "title": "Flock Wants the Most Detailed Map of Its Surveillance Cameras Taken Offline",
-      "link": "https://theintercept.com/2026/09/24/how-many-flock-devices-in-united-states-300000/",
-      "is_new": true
-    },
-    {
-      "title": "Parley: Federated, decentralised chat that speaks plain IRC",
-      "link": "https://git.mills.io/prologic/parley",
-      "is_new": false
-    },
-    {
-      "title": "Joseph Szabo’s pictures of American adolescents",
-      "link": "https://www.newyorker.com/culture/photo-booth/the-teen-portraits-that-captivated-sofia-coppola",
-      "is_new": false
-    },
-    {
-      "title": "3D necroprinting: Leveraging biotic material as the nozzle for 3D printing",
-      "link": "https://www.science.org/doi/10.1126/sciadv.adw9953",
-      "is_new": true
-    },
-    {
-      "title": "First Steps of the PLC Organization – Independent Public Ledger of Credentials",
-      "link": "https://blog.plcred.org/3mwlphq42d227",
-      "is_new": true
-    },
-    {
-      "title": "Launch HN: Vespper (YC F24) – SOTA Docx MCP",
-      "link": "https://www.vespper.com/blog/launching-vespper-docx-mcp",
-      "is_new": false
-    },
-    {
-      "title": "What heraldry and Japanese mon can teach about visual-identity generators",
-      "link": "https://benovermyer.com/blog/2026/09/japanese-vs-western-heraldry/",
-      "is_new": false
-    },
-    {
-      "title": "Who wrote Elizabeth I's most scathing letters?",
-      "link": "https://www.smithsonianmag.com/history/who-wrote-elizabeth-is-most-scathing-letters-new-research-suggests-the-tudor-queens-male-secretaries-revised-her-correspondence-to-emphasize-her-temper-180989565/",
-      "is_new": false
-    },
-    {
-      "title": "MongoDB CEO resigns to join Meta",
-      "link": "https://www.reuters.com/technology/mongodb-ceo-desai-steps-down-lead-metas-enterprise-platform-2026-09-28/",
-      "is_new": false
-    },
-    {
-      "title": "Best of British Design",
-      "link": "https://best-of-british-design.vercel.app/",
-      "is_new": true
-    },
-    {
-      "title": "GrapheneOS – When an app is slow",
-      "link": "https://blog.wirelessmoves.com/2026/09/grapheneos-when-an-app-is-slow.html",
-      "is_new": true
-    },
-    {
-      "title": "37,500 border drawings: a map of the world as people remember it",
-      "link": "https://www.habibicode.org/thedrawnworld",
       "is_new": false
     }
   ]
