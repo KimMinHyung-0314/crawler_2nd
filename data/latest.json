@@ -1,10 +1,110 @@
 {
-  "crawled_at": "2026-09-30 06:48",
-  "prev_crawled_at": "2026-09-30 02:33",
+  "crawled_at": "2026-09-30 10:00",
+  "prev_crawled_at": "2026-09-30 06:48",
   "items": [
+    {
+      "title": "Livenerf: Has Opus 5.5 been nerfed yet?",
+      "link": "https://github.com/ninjahawk/livenerf",
+      "is_new": true
+    },
+    {
+      "title": "NASA asked several former SR-71A staffers to help secret restart",
+      "link": "https://aviationweek.com/defense/aircraft-propulsion/nasa-asked-several-former-sr-71a-staffers-help-secret-restart",
+      "is_new": true
+    },
     {
       "title": "U.S. postal inspectors shut down website selling counterfeit postage labels",
       "link": "https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/",
+      "is_new": false
+    },
+    {
+      "title": "Vermont replacing power plants with home batteries",
+      "link": "https://www.bbc.com/future/article/20260928-a-virtual-power-plant-hidden-in-vermont-homes-is-keeping-the-lights-on-during-storms",
+      "is_new": true
+    },
+    {
+      "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
+      "link": "https://openai.com/index/introducing-gpt-6-1-sol/",
+      "is_new": false
+    },
+    {
+      "title": "Show HN: A working 3D model of an Enigma machine",
+      "link": "https://enigma.design",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: Real-time Solar System with 526k asteroids and all tracked satellites",
+      "link": "https://space.bl2.net/",
+      "is_new": false
+    },
+    {
+      "title": "How Delhi cut electricity loss from 50 to 5 percent",
+      "link": "https://spectrum.ieee.org/delhi-electricity-loss",
+      "is_new": false
+    },
+    {
+      "title": "America.gov",
+      "link": "https://america.gov/",
+      "is_new": false
+    },
+    {
+      "title": "We’re forgetting what darkness feels like",
+      "link": "https://www.theguardian.com/environment/2026/sep/29/night-sky-darkness-city-regulation",
+      "is_new": true
+    },
+    {
+      "title": "Needed 1+1, built a functional programming language",
+      "link": "https://hereticpleb.vercel.app/blog/needed-one-plus-one/",
+      "is_new": true
+    },
+    {
+      "title": "NAND-16: a computer built from 277,248 NAND gates",
+      "link": "https://somethingbig.ai/computer",
+      "is_new": false
+    },
+    {
+      "title": "Language models for text classification: From bag-of-words to Jev",
+      "link": "https://magazine.sebastianraschka.com/p/classifier-history-and-jev",
+      "is_new": true
+    },
+    {
+      "title": "PS5 Relapse Exploit",
+      "link": "https://github.com/ntfargo/Relapse-Exploit",
+      "is_new": false
+    },
+    {
+      "title": "When oil prices spike, where does the money go?",
+      "link": "https://theconversation.com/when-oil-prices-spike-where-does-the-money-go-280763",
+      "is_new": true
+    },
+    {
+      "title": "UnoDOS",
+      "link": "https://github.com/hmofet/unodos",
+      "is_new": true
+    },
+    {
+      "title": "A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf]",
+      "link": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
+      "is_new": false
+    },
+    {
+      "title": "Backblaze drive stats for Q2 2026",
+      "link": "https://www.backblaze.com/blog/backblaze-drive-stats-for-q2-2026/",
+      "is_new": true
+    },
+    {
+      "title": "Phyllotaxis: An audio-reactive LED display",
+      "link": "https://jagi.studio/posts/phyllotaxis/",
+      "is_new": false
+    },
+    {
+      "title": "Commodore 64: Mercenary",
+      "link": "https://gamesexplained.com/c64/mercenary/",
+      "is_new": false
+    },
+    {
+      "title": "Deser: Rethinking Rust Serialization",
+      "link": "https://lucumr.pocoo.org/2026/9/29/deser/",
       "is_new": true
     },
     {
@@ -13,24 +113,51 @@
       "is_new": false
     },
     {
-      "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
-      "link": "https://openai.com/index/introducing-gpt-6-1-sol/",
+      "title": "Ask HN: What are you reading?",
+      "link": "https://news.ycombinator.com/item?id=49893157",
       "is_new": false
     },
+    {
+      "title": "Show HN: NSL – WSL for Linux",
+      "link": "https://frostyard.github.io/nsl/",
+      "is_new": true
+    },
+    {
+      "title": "How our vibe coded website looks like a designer made it",
+      "link": "https://railcode.dev/blog/vibe-coded-website",
+      "is_new": true
+    },
+    {
+      "title": "Virus Stole a Human Gene and Won't Let Go of It",
+      "link": "https://www.nytimes.com/2026/09/28/science/virus-molluscum-human-gene.html",
+      "is_new": false
+    },
+    {
+      "title": "A Staff Engineer's Guide to Inventing Work",
+      "link": "https://sujithjay.com/inventing-work",
+      "is_new": false
+    },
+    {
+      "title": "Jeeves. Reasoning improves Jev-like decision models",
+      "link": "https://github.com/PostHog/jeeves",
+      "is_new": false
+    },
+    {
+      "title": "Dots: Always-on agents",
+      "link": "https://openai.com/index/introducing-dots/",
+      "is_new": false
+    },
+    {
+      "title": "Everybody’s home. No one’s coming over",
+      "link": "https://www.derekthompson.org/p/the-death-of-the-american-host",
+      "is_new": false
+    }
+  ],
+  "removed": [
     {
       "title": "Nicholas Polson has authored 258 academic papers in 2026 (so far)",
       "link": "https://statmodeling.stat.columbia.edu/2026/08/27/258/",
       "is_new": true
-    },
-    {
-      "title": "PS5 Relapse Exploit",
-      "link": "https://github.com/ntfargo/Relapse-Exploit",
-      "is_new": true
-    },
-    {
-      "title": "How Delhi cut electricity loss from 50 to 5 percent",
-      "link": "https://spectrum.ieee.org/delhi-electricity-loss",
-      "is_new": false
     },
     {
       "title": "DraftKings Is Using AI to Behaviorally Target Chronic Gamblers",
@@ -43,58 +170,13 @@
       "is_new": true
     },
     {
-      "title": "NAND-16: a computer built from 277,248 NAND gates",
-      "link": "https://somethingbig.ai/computer",
-      "is_new": true
-    },
-    {
-      "title": "A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf]",
-      "link": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
-      "is_new": false
-    },
-    {
-      "title": "Show HN: Real-time Solar System with 526k asteroids and all tracked satellites",
-      "link": "https://space.bl2.net/",
-      "is_new": true
-    },
-    {
       "title": "Stuck in the Suez Canal – the short version (2021)",
       "link": "https://cathsenker.co.uk/stuck-in-the-suez-canal-the-short-version/",
       "is_new": true
     },
     {
-      "title": "Dots: Always-on agents",
-      "link": "https://openai.com/index/introducing-dots/",
-      "is_new": false
-    },
-    {
-      "title": "America.gov",
-      "link": "https://america.gov/",
-      "is_new": true
-    },
-    {
-      "title": "Virus Stole a Human Gene and Won't Let Go of It",
-      "link": "https://www.nytimes.com/2026/09/28/science/virus-molluscum-human-gene.html",
-      "is_new": false
-    },
-    {
-      "title": "Phyllotaxis: An audio-reactive LED display",
-      "link": "https://jagi.studio/posts/phyllotaxis/",
-      "is_new": false
-    },
-    {
-      "title": "Ask HN: What are you reading?",
-      "link": "https://news.ycombinator.com/item?id=49893157",
-      "is_new": true
-    },
-    {
       "title": "GLM-5.3 and the spread of advanced cyber capabilities",
       "link": "https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities",
-      "is_new": true
-    },
-    {
-      "title": "C64 MERCENARY (1985): a novel exploit bug at the start of the game",
-      "link": "https://gamesexplained.com/c64/mercenary/",
       "is_new": true
     },
     {
@@ -108,16 +190,6 @@
       "is_new": true
     },
     {
-      "title": "Jeeves. Reasoning improves Jev-like decision models",
-      "link": "https://github.com/PostHog/jeeves",
-      "is_new": false
-    },
-    {
-      "title": "A Staff Engineer's Guide to Inventing Work",
-      "link": "https://sujithjay.com/inventing-work",
-      "is_new": false
-    },
-    {
       "title": "Walking Men",
       "link": "https://bookofjoe2.blogspot.com/2026/09/walking-men.html",
       "is_new": false
@@ -125,11 +197,6 @@
     {
       "title": "Using any C++ library in Godot",
       "link": "https://blog.conan.io/cpp/conan/gamedev/godot/cmake/2026/09/29/Using-Any-Cpp-Library-In-Godot.html",
-      "is_new": false
-    },
-    {
-      "title": "You are no longer invited to dinner",
-      "link": "https://www.derekthompson.org/p/the-death-of-the-american-host",
       "is_new": false
     },
     {
@@ -150,83 +217,6 @@
     {
       "title": "McDonald's push to have AI price your Big Mac",
       "link": "https://www.cnbc.com/2026/09/29/inside-mcdonalds-push-ai-price-big-mac.html",
-      "is_new": true
-    }
-  ],
-  "removed": [
-    {
-      "title": "ChatGPT Pro 500",
-      "link": "https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: NSL – WSL for Linux",
-      "link": "https://frostyard.github.io/nsl/",
-      "is_new": true
-    },
-    {
-      "title": "Google ending ChromeOS support two years early",
-      "link": "https://www.theregister.com/os-platforms/2026/09/29/google-ending-chromeos-support-two-years-early/5299674",
-      "is_new": true
-    },
-    {
-      "title": "1 in 8 cancer cases worldwide are caused by infections, study finds",
-      "link": "https://www.cbc.ca/lite/story/9.7361622",
-      "is_new": true
-    },
-    {
-      "title": "macOS Golden Gate Is a Buggy Mess",
-      "link": "https://www.squareorbits.com/blog/2026/09/macos-golden-gate-is-a-buggy-mess/",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: Jevstiller – Distill Jev into a local model, with a disagreement bound",
-      "link": "https://jevstiller.pages.dev/posts/the-guarantee/",
-      "is_new": true
-    },
-    {
-      "title": "Booted up in 1993, this server still runs – but not for much longer (2017)",
-      "link": "https://www.computerworld.com/article/1673071/booted-up-in-1993-this-server-still-runs-but-not-for-much-longer-2.html",
-      "is_new": false
-    },
-    {
-      "title": "California farmers are struggling to sell grapes as demand for wine drops",
-      "link": "https://www.kqed.org/news/12101534/california-farmers-are-struggling-to-sell-grapes-as-demand-for-wine-drops",
-      "is_new": false
-    },
-    {
-      "title": "500k facial scans at UK stations yield no arrests, 1 false positive",
-      "link": "https://www.theguardian.com/technology/2026/sep/29/trial-live-facial-recognition-cameras-london-stations-false-positive",
-      "is_new": true
-    },
-    {
-      "title": "Software occlusion culling in Block Game",
-      "link": "https://enikofox.com/posts/software-rendered-occlusion-culling-in-block-game/",
-      "is_new": false
-    },
-    {
-      "title": "Georeferencing Chernarus and visiting in real life (2021)",
-      "link": "https://longcreek.me/blog/2021/chernarus-irl",
-      "is_new": true
-    },
-    {
-      "title": "Pirating the Pirates",
-      "link": "https://mubi.com/en/notebook/posts/pirating-the-pirates",
-      "is_new": false
-    },
-    {
-      "title": "The systems that no one will test",
-      "link": "https://blog.christianperone.com/2026/09/the-systems-that-no-one-will-test/",
-      "is_new": false
-    },
-    {
-      "title": "Four CHI '26 papers I wish I wrote",
-      "link": "https://countingfromzero.blog/2026/04/24/four-chi-26-papers-i-wish-i-wrote/",
-      "is_new": false
-    },
-    {
-      "title": "Optimizing x264 settings and per-title ladders",
-      "link": "https://streaminglearningcenter.com/articles/optimizing-x264-settings-and-per-title-ladders.html",
       "is_new": true
     }
   ]
