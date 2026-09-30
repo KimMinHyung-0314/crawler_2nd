@@ -1,20 +1,80 @@
 {
-  "crawled_at": "2026-09-30 23:33",
-  "prev_crawled_at": "2026-09-30 16:53",
+  "crawled_at": "2026-10-01 04:47",
+  "prev_crawled_at": "2026-09-30 23:33",
   "items": [
     {
-      "title": "Pi.dev: You Said No MCP",
+      "title": "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
+      "link": "https://github.com/magnitudedev/magnitude",
+      "is_new": true
+    },
+    {
+      "title": "Commit description as a thinking tool",
+      "link": "https://yedhu.me/posts/commit-description-as-a-thinking-tool/",
+      "is_new": true
+    },
+    {
+      "title": "EDG C++ front-end goes public",
+      "link": "https://edgcpp.org/#transition",
+      "is_new": true
+    },
+    {
+      "title": "A brief history of the Bloomberg terminal",
+      "link": "https://spectrum.ieee.org/bloomberg-terminal",
+      "is_new": true
+    },
+    {
+      "title": "Surprisingly Complex Waves Reveal the Brain's Inner Workings",
+      "link": "https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/",
+      "is_new": true
+    },
+    {
+      "title": "You said no MCP",
       "link": "https://earendil.com/posts/you-said-no-mcp/",
+      "is_new": false
+    },
+    {
+      "title": "5x faster Edge Functions: V8 isolates to Firecracker MicroVMs",
+      "link": "https://www.netlify.com/blog/edge-functions-firecracker-microvms/",
+      "is_new": true
+    },
+    {
+      "title": "I Could've Accessed 17T Microsoft Records",
+      "link": "https://blog.faav.net/how-i-couldve-accessed-17-trillion-microsoft-records",
+      "is_new": true
+    },
+    {
+      "title": "Moist-Electric Wallpaper for Indoor Energy Harvesting and Humidity Management",
+      "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71603",
+      "is_new": true
+    },
+    {
+      "title": "What TLA+ can and can't check",
+      "link": "https://buttondown.com/hillelwayne/archive/what-tla-can-and-cant-check/",
+      "is_new": true
+    },
+    {
+      "title": "The last time my family was replaced by technology",
+      "link": "https://manuel.darcemont.fr/posts/the-last-time-my-family-was-replaced-by-technology/",
+      "is_new": true
+    },
+    {
+      "title": "Bild AI (YC W25) Is Hiring a Founding Product Engineer",
+      "link": "https://www.ycombinator.com/companies/bild-ai/jobs/dAbC3Gd-founding-product-engineer",
       "is_new": true
     },
     {
       "title": "SDF vs. MSDF vs. Slug: GPU Text Rendering",
       "link": "https://alphapixeldev.com/sdf-vs-msdf-vs-slug-vs-rive-gpu-text-rendering/",
+      "is_new": false
+    },
+    {
+      "title": "SDF Public Access Unix System ... est. 1987",
+      "link": "https://sdf.org/",
       "is_new": true
     },
     {
-      "title": "Show HN: JBR-001 – An open-source 3D printable desktop robot",
-      "link": "https://projecthub.arduino.cc/syntheticaidata/jbr-001-a-desktop-companion-robot-powered-by-arduino-uno-q-b11c96",
+      "title": "Reverse-engineering a $35 backup camera display (AMT630A)",
+      "link": "https://github.com/mogrinz/AMT630A",
       "is_new": true
     },
     {
@@ -23,13 +83,23 @@
       "is_new": false
     },
     {
-      "title": "Upgrade your desktop: Ubuntu 26.04.1 LTS is now available",
-      "link": "https://ubuntu.com/blog/upgrade-your-desktop-ubuntu-26-04-lts",
+      "title": "Burning Man death rates – A short lesson in statistics",
+      "link": "https://ihavenapkinthoughts.substack.com/p/burning-man-death-rates-a-short-lesson",
       "is_new": true
     },
     {
-      "title": "Mathematical Origami",
-      "link": "https://mathigon.org/origami",
+      "title": "Show HN: JBR-001 – An open-source 3D printable desktop robot",
+      "link": "https://projecthub.arduino.cc/syntheticaidata/jbr-001-a-desktop-companion-robot-powered-by-arduino-uno-q-b11c96",
+      "is_new": false
+    },
+    {
+      "title": "LinkedIn Larpmaxxing",
+      "link": "https://hereticpleb.vercel.app/blog/linkedin-larpmaxxing/",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: Corral – Kill every command your agent starts",
+      "link": "https://github.com/Cardinal44/corral",
       "is_new": true
     },
     {
@@ -38,8 +108,28 @@
       "is_new": false
     },
     {
+      "title": "Show HN: Ledge.sh – Runnable Markdown Notes",
+      "link": "https://ledge.sh",
+      "is_new": true
+    },
+    {
+      "title": "Energy Timelines Photovoltaic",
+      "link": "https://www.eia.gov/kids/history-of-energy/timelines/photovoltaic.php",
+      "is_new": true
+    },
+    {
+      "title": "Getting out of the way: my robotics crash course",
+      "link": "https://thisismypersonalblog.com/posts/2026-09-25-getting-out-of-the-way/",
+      "is_new": false
+    },
+    {
       "title": "Dots: Always-on agents",
       "link": "https://openai.com/index/introducing-dots/",
+      "is_new": false
+    },
+    {
+      "title": "Mathematical Origami",
+      "link": "https://mathigon.org/origami",
       "is_new": false
     },
     {
@@ -48,13 +138,30 @@
       "is_new": false
     },
     {
-      "title": "America.gov",
-      "link": "https://america.gov/",
+      "title": "NASA asked several former SR-71A staffers to help secret restart",
+      "link": "https://aviationweek.com/defense/aircraft-propulsion/nasa-asked-several-former-sr-71a-staffers-help-secret-restart",
       "is_new": false
     },
     {
-      "title": "NASA asked several former SR-71A staffers to help secret restart",
-      "link": "https://aviationweek.com/defense/aircraft-propulsion/nasa-asked-several-former-sr-71a-staffers-help-secret-restart",
+      "title": "Show HN: Strata – an expressive semantic layer that can say no to your LLM",
+      "link": "https://strata.do/",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: Dental Scope – Interactive 3D dental anatomy",
+      "link": "https://dental-scope.com/",
+      "is_new": true
+    }
+  ],
+  "removed": [
+    {
+      "title": "Upgrade your desktop: Ubuntu 26.04.1 LTS is now available",
+      "link": "https://ubuntu.com/blog/upgrade-your-desktop-ubuntu-26-04-lts",
+      "is_new": true
+    },
+    {
+      "title": "America.gov",
+      "link": "https://america.gov/",
       "is_new": false
     },
     {
@@ -96,11 +203,6 @@
       "title": "RSS Feeds for Last.fm",
       "link": "https://lfm.xiffy.nl/",
       "is_new": false
-    },
-    {
-      "title": "Getting out of the way: my robotics crash course",
-      "link": "https://thisismypersonalblog.com/posts/2026-09-25-getting-out-of-the-way/",
-      "is_new": true
     },
     {
       "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
@@ -150,53 +252,6 @@
     {
       "title": "Show HN: Using 2D DFT, dithering, etc. to maximize eInk manga image quality",
       "link": "https://github.com/ciromattia/kcc",
-      "is_new": false
-    }
-  ],
-  "removed": [
-    {
-      "title": "PS5 Relapse Exploit",
-      "link": "https://github.com/ntfargo/Relapse-Exploit",
-      "is_new": false
-    },
-    {
-      "title": "NAND-16: a computer built from 277,248 NAND gates",
-      "link": "https://somethingbig.ai/computer",
-      "is_new": false
-    },
-    {
-      "title": "We’re forgetting what darkness feels like",
-      "link": "https://www.theguardian.com/environment/2026/sep/29/night-sky-darkness-city-regulation",
-      "is_new": false
-    },
-    {
-      "title": "PSSA: A non-transformer language model written from scratch in Rust",
-      "link": "https://github.com/Sparticle62ops/pssa",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: NSL – WSL for Linux",
-      "link": "https://frostyard.github.io/nsl/",
-      "is_new": false
-    },
-    {
-      "title": "Responsible Release of AI-Generated Mathematics",
-      "link": "https://agmai.org/general-sep29/",
-      "is_new": true
-    },
-    {
-      "title": "Tcl/Tk 9.1",
-      "link": "https://www.tcl-lang.org/software/tcltk/9.1.html",
-      "is_new": false
-    },
-    {
-      "title": "Ballmer Peak",
-      "link": "https://en.wikipedia.org/wiki/Ballmer_Peak",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: A working 3D model of an Enigma machine",
-      "link": "https://enigma.design",
       "is_new": false
     }
   ]
