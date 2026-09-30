@@ -1,16 +1,41 @@
 {
-  "crawled_at": "2026-09-30 16:53",
-  "prev_crawled_at": "2026-09-30 10:00",
+  "crawled_at": "2026-09-30 23:33",
+  "prev_crawled_at": "2026-09-30 16:53",
   "items": [
+    {
+      "title": "Pi.dev: You Said No MCP",
+      "link": "https://earendil.com/posts/you-said-no-mcp/",
+      "is_new": true
+    },
+    {
+      "title": "SDF vs. MSDF vs. Slug: GPU Text Rendering",
+      "link": "https://alphapixeldev.com/sdf-vs-msdf-vs-slug-vs-rive-gpu-text-rendering/",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: JBR-001 – An open-source 3D printable desktop robot",
+      "link": "https://projecthub.arduino.cc/syntheticaidata/jbr-001-a-desktop-companion-robot-powered-by-arduino-uno-q-b11c96",
+      "is_new": true
+    },
     {
       "title": "Livenerf: Has Opus 5.5 been nerfed yet?",
       "link": "https://github.com/ninjahawk/livenerf",
       "is_new": false
     },
     {
+      "title": "Upgrade your desktop: Ubuntu 26.04.1 LTS is now available",
+      "link": "https://ubuntu.com/blog/upgrade-your-desktop-ubuntu-26-04-lts",
+      "is_new": true
+    },
+    {
+      "title": "Mathematical Origami",
+      "link": "https://mathigon.org/origami",
+      "is_new": true
+    },
+    {
       "title": "Solving Factorio Quality",
       "link": "https://exyr.org/2026/solving-factorio-quality/",
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Dots: Always-on agents",
@@ -18,18 +43,13 @@
       "is_new": false
     },
     {
-      "title": "U.S. postal inspectors shut down website selling counterfeit postage labels",
-      "link": "https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/",
+      "title": "Vermont replacing power plants with home batteries",
+      "link": "https://www.bbc.com/future/article/20260928-a-virtual-power-plant-hidden-in-vermont-homes-is-keeping-the-lights-on-during-storms",
       "is_new": false
     },
     {
-      "title": "RSS Feeds for Last.fm",
-      "link": "https://lfm.xiffy.nl/",
-      "is_new": true
-    },
-    {
-      "title": "Vermont replacing power plants with home batteries",
-      "link": "https://www.bbc.com/future/article/20260928-a-virtual-power-plant-hidden-in-vermont-homes-is-keeping-the-lights-on-during-storms",
+      "title": "America.gov",
+      "link": "https://america.gov/",
       "is_new": false
     },
     {
@@ -38,13 +58,8 @@
       "is_new": false
     },
     {
-      "title": "Testing WebGPU data layouts with Facet",
-      "link": "https://www.mattkeeter.com/blog/2026-08-23-wgpu-facet/",
-      "is_new": true
-    },
-    {
-      "title": "America.gov",
-      "link": "https://america.gov/",
+      "title": "U.S. postal inspectors shut down website selling counterfeit postage labels",
+      "link": "https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/",
       "is_new": false
     },
     {
@@ -58,18 +73,18 @@
       "is_new": false
     },
     {
+      "title": "September 2026: The world today, as seen by one Polish guy",
+      "link": "https://tomwojcik.com/posts/2026-09-21/september-2026-the-world-today/",
+      "is_new": true
+    },
+    {
+      "title": "Testing WebGPU data layouts with Facet",
+      "link": "https://www.mattkeeter.com/blog/2026-08-23-wgpu-facet/",
+      "is_new": false
+    },
+    {
       "title": "Backblaze drive stats for Q2 2026",
       "link": "https://www.backblaze.com/blog/backblaze-drive-stats-for-q2-2026/",
-      "is_new": false
-    },
-    {
-      "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
-      "link": "https://openai.com/index/introducing-gpt-6-1-sol/",
-      "is_new": false
-    },
-    {
-      "title": "Needed 1+1, built a functional programming language",
-      "link": "https://hereticpleb.vercel.app/blog/needed-one-plus-one/",
       "is_new": false
     },
     {
@@ -78,13 +93,28 @@
       "is_new": false
     },
     {
-      "title": "PS5 Relapse Exploit",
-      "link": "https://github.com/ntfargo/Relapse-Exploit",
+      "title": "RSS Feeds for Last.fm",
+      "link": "https://lfm.xiffy.nl/",
       "is_new": false
     },
     {
-      "title": "When oil prices spike, where does the money go?",
-      "link": "https://theconversation.com/when-oil-prices-spike-where-does-the-money-go-280763",
+      "title": "Getting out of the way: my robotics crash course",
+      "link": "https://thisismypersonalblog.com/posts/2026-09-25-getting-out-of-the-way/",
+      "is_new": true
+    },
+    {
+      "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
+      "link": "https://openai.com/index/introducing-gpt-6-1-sol/",
+      "is_new": false
+    },
+    {
+      "title": "Floppy Emu Hardware Failure Analysis Results",
+      "link": "https://www.bigmessowires.com/2026/09/29/floppy-emu-hardware-failure-analysis-results/",
+      "is_new": true
+    },
+    {
+      "title": "NRC issues first U.S. construction permit for a BWRX-300 small modular reactor",
+      "link": "https://www.gevernova.com/news/press-releases/nrc-issues-first-us-construction-permit-bwrx-300-small-modular-reactor-tva-clinch-river",
       "is_new": false
     },
     {
@@ -93,14 +123,14 @@
       "is_new": false
     },
     {
-      "title": "Ask HN: What are you reading?",
-      "link": "https://news.ycombinator.com/item?id=49893157",
+      "title": "Needed 1+1, built a functional programming language",
+      "link": "https://hereticpleb.vercel.app/blog/needed-one-plus-one/",
       "is_new": false
     },
     {
-      "title": "NAND-16: a computer built from 277,248 NAND gates",
-      "link": "https://somethingbig.ai/computer",
-      "is_new": false
+      "title": "Most data centers refusing to say how much water, electricity they use",
+      "link": "https://nltimes.nl/2026/09/30/data-centers-refusing-say-much-water-electricity-use",
+      "is_new": true
     },
     {
       "title": "A Staff Engineer's Guide to Inventing Work",
@@ -108,9 +138,31 @@
       "is_new": false
     },
     {
-      "title": "NRC issues first U.S. construction permit for a BWRX-300 small modular reactor",
-      "link": "https://www.gevernova.com/news/press-releases/nrc-issues-first-us-construction-permit-bwrx-300-small-modular-reactor-tva-clinch-river",
-      "is_new": true
+      "title": "Ask HN: What are you reading?",
+      "link": "https://news.ycombinator.com/item?id=49893157",
+      "is_new": false
+    },
+    {
+      "title": "When oil prices spike, where does the money go?",
+      "link": "https://theconversation.com/when-oil-prices-spike-where-does-the-money-go-280763",
+      "is_new": false
+    },
+    {
+      "title": "Show HN: Using 2D DFT, dithering, etc. to maximize eInk manga image quality",
+      "link": "https://github.com/ciromattia/kcc",
+      "is_new": false
+    }
+  ],
+  "removed": [
+    {
+      "title": "PS5 Relapse Exploit",
+      "link": "https://github.com/ntfargo/Relapse-Exploit",
+      "is_new": false
+    },
+    {
+      "title": "NAND-16: a computer built from 277,248 NAND gates",
+      "link": "https://somethingbig.ai/computer",
+      "is_new": false
     },
     {
       "title": "We’re forgetting what darkness feels like",
@@ -145,53 +197,6 @@
     {
       "title": "Show HN: A working 3D model of an Enigma machine",
       "link": "https://enigma.design",
-      "is_new": false
-    },
-    {
-      "title": "Show HN: Using 2D DFT, dithering, etc. to maximize eInk manga image quality",
-      "link": "https://github.com/ciromattia/kcc",
-      "is_new": true
-    }
-  ],
-  "removed": [
-    {
-      "title": "UnoDOS",
-      "link": "https://github.com/hmofet/unodos",
-      "is_new": true
-    },
-    {
-      "title": "A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf]",
-      "link": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
-      "is_new": false
-    },
-    {
-      "title": "Commodore 64: Mercenary",
-      "link": "https://gamesexplained.com/c64/mercenary/",
-      "is_new": false
-    },
-    {
-      "title": "Deser: Rethinking Rust Serialization",
-      "link": "https://lucumr.pocoo.org/2026/9/29/deser/",
-      "is_new": true
-    },
-    {
-      "title": "How our vibe coded website looks like a designer made it",
-      "link": "https://railcode.dev/blog/vibe-coded-website",
-      "is_new": true
-    },
-    {
-      "title": "Virus Stole a Human Gene and Won't Let Go of It",
-      "link": "https://www.nytimes.com/2026/09/28/science/virus-molluscum-human-gene.html",
-      "is_new": false
-    },
-    {
-      "title": "Jeeves. Reasoning improves Jev-like decision models",
-      "link": "https://github.com/PostHog/jeeves",
-      "is_new": false
-    },
-    {
-      "title": "Everybody’s home. No one’s coming over",
-      "link": "https://www.derekthompson.org/p/the-death-of-the-american-host",
       "is_new": false
     }
   ]
