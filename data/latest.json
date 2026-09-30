@@ -1,16 +1,21 @@
 {
-  "crawled_at": "2026-09-30 10:00",
-  "prev_crawled_at": "2026-09-30 06:48",
+  "crawled_at": "2026-09-30 16:53",
+  "prev_crawled_at": "2026-09-30 10:00",
   "items": [
     {
       "title": "Livenerf: Has Opus 5.5 been nerfed yet?",
       "link": "https://github.com/ninjahawk/livenerf",
+      "is_new": false
+    },
+    {
+      "title": "Solving Factorio Quality",
+      "link": "https://exyr.org/2026/solving-factorio-quality/",
       "is_new": true
     },
     {
-      "title": "NASA asked several former SR-71A staffers to help secret restart",
-      "link": "https://aviationweek.com/defense/aircraft-propulsion/nasa-asked-several-former-sr-71a-staffers-help-secret-restart",
-      "is_new": true
+      "title": "Dots: Always-on agents",
+      "link": "https://openai.com/index/introducing-dots/",
+      "is_new": false
     },
     {
       "title": "U.S. postal inspectors shut down website selling counterfeit postage labels",
@@ -18,19 +23,29 @@
       "is_new": false
     },
     {
-      "title": "Vermont replacing power plants with home batteries",
-      "link": "https://www.bbc.com/future/article/20260928-a-virtual-power-plant-hidden-in-vermont-homes-is-keeping-the-lights-on-during-storms",
+      "title": "RSS Feeds for Last.fm",
+      "link": "https://lfm.xiffy.nl/",
       "is_new": true
     },
     {
-      "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
-      "link": "https://openai.com/index/introducing-gpt-6-1-sol/",
+      "title": "Vermont replacing power plants with home batteries",
+      "link": "https://www.bbc.com/future/article/20260928-a-virtual-power-plant-hidden-in-vermont-homes-is-keeping-the-lights-on-during-storms",
       "is_new": false
     },
     {
-      "title": "Show HN: A working 3D model of an Enigma machine",
-      "link": "https://enigma.design",
+      "title": "NASA asked several former SR-71A staffers to help secret restart",
+      "link": "https://aviationweek.com/defense/aircraft-propulsion/nasa-asked-several-former-sr-71a-staffers-help-secret-restart",
+      "is_new": false
+    },
+    {
+      "title": "Testing WebGPU data layouts with Facet",
+      "link": "https://www.mattkeeter.com/blog/2026-08-23-wgpu-facet/",
       "is_new": true
+    },
+    {
+      "title": "America.gov",
+      "link": "https://america.gov/",
+      "is_new": false
     },
     {
       "title": "Show HN: Real-time Solar System with 526k asteroids and all tracked satellites",
@@ -43,29 +58,24 @@
       "is_new": false
     },
     {
-      "title": "America.gov",
-      "link": "https://america.gov/",
+      "title": "Backblaze drive stats for Q2 2026",
+      "link": "https://www.backblaze.com/blog/backblaze-drive-stats-for-q2-2026/",
       "is_new": false
     },
     {
-      "title": "We’re forgetting what darkness feels like",
-      "link": "https://www.theguardian.com/environment/2026/sep/29/night-sky-darkness-city-regulation",
-      "is_new": true
+      "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
+      "link": "https://openai.com/index/introducing-gpt-6-1-sol/",
+      "is_new": false
     },
     {
       "title": "Needed 1+1, built a functional programming language",
       "link": "https://hereticpleb.vercel.app/blog/needed-one-plus-one/",
-      "is_new": true
-    },
-    {
-      "title": "NAND-16: a computer built from 277,248 NAND gates",
-      "link": "https://somethingbig.ai/computer",
       "is_new": false
     },
     {
-      "title": "Language models for text classification: From bag-of-words to Jev",
-      "link": "https://magazine.sebastianraschka.com/p/classifier-history-and-jev",
-      "is_new": true
+      "title": "Phyllotaxis: An audio-reactive LED display",
+      "link": "https://jagi.studio/posts/phyllotaxis/",
+      "is_new": false
     },
     {
       "title": "PS5 Relapse Exploit",
@@ -75,8 +85,75 @@
     {
       "title": "When oil prices spike, where does the money go?",
       "link": "https://theconversation.com/when-oil-prices-spike-where-does-the-money-go-280763",
+      "is_new": false
+    },
+    {
+      "title": "Language models for text classification: From bag-of-words to Jev",
+      "link": "https://magazine.sebastianraschka.com/p/classifier-history-and-jev",
+      "is_new": false
+    },
+    {
+      "title": "Ask HN: What are you reading?",
+      "link": "https://news.ycombinator.com/item?id=49893157",
+      "is_new": false
+    },
+    {
+      "title": "NAND-16: a computer built from 277,248 NAND gates",
+      "link": "https://somethingbig.ai/computer",
+      "is_new": false
+    },
+    {
+      "title": "A Staff Engineer's Guide to Inventing Work",
+      "link": "https://sujithjay.com/inventing-work",
+      "is_new": false
+    },
+    {
+      "title": "NRC issues first U.S. construction permit for a BWRX-300 small modular reactor",
+      "link": "https://www.gevernova.com/news/press-releases/nrc-issues-first-us-construction-permit-bwrx-300-small-modular-reactor-tva-clinch-river",
       "is_new": true
     },
+    {
+      "title": "We’re forgetting what darkness feels like",
+      "link": "https://www.theguardian.com/environment/2026/sep/29/night-sky-darkness-city-regulation",
+      "is_new": false
+    },
+    {
+      "title": "PSSA: A non-transformer language model written from scratch in Rust",
+      "link": "https://github.com/Sparticle62ops/pssa",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: NSL – WSL for Linux",
+      "link": "https://frostyard.github.io/nsl/",
+      "is_new": false
+    },
+    {
+      "title": "Responsible Release of AI-Generated Mathematics",
+      "link": "https://agmai.org/general-sep29/",
+      "is_new": true
+    },
+    {
+      "title": "Tcl/Tk 9.1",
+      "link": "https://www.tcl-lang.org/software/tcltk/9.1.html",
+      "is_new": false
+    },
+    {
+      "title": "Ballmer Peak",
+      "link": "https://en.wikipedia.org/wiki/Ballmer_Peak",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: A working 3D model of an Enigma machine",
+      "link": "https://enigma.design",
+      "is_new": false
+    },
+    {
+      "title": "Show HN: Using 2D DFT, dithering, etc. to maximize eInk manga image quality",
+      "link": "https://github.com/ciromattia/kcc",
+      "is_new": true
+    }
+  ],
+  "removed": [
     {
       "title": "UnoDOS",
       "link": "https://github.com/hmofet/unodos",
@@ -85,16 +162,6 @@
     {
       "title": "A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf]",
       "link": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
-      "is_new": false
-    },
-    {
-      "title": "Backblaze drive stats for Q2 2026",
-      "link": "https://www.backblaze.com/blog/backblaze-drive-stats-for-q2-2026/",
-      "is_new": true
-    },
-    {
-      "title": "Phyllotaxis: An audio-reactive LED display",
-      "link": "https://jagi.studio/posts/phyllotaxis/",
       "is_new": false
     },
     {
@@ -108,21 +175,6 @@
       "is_new": true
     },
     {
-      "title": "Tcl/Tk 9.1",
-      "link": "https://www.tcl-lang.org/software/tcltk/9.1.html",
-      "is_new": false
-    },
-    {
-      "title": "Ask HN: What are you reading?",
-      "link": "https://news.ycombinator.com/item?id=49893157",
-      "is_new": false
-    },
-    {
-      "title": "Show HN: NSL – WSL for Linux",
-      "link": "https://frostyard.github.io/nsl/",
-      "is_new": true
-    },
-    {
       "title": "How our vibe coded website looks like a designer made it",
       "link": "https://railcode.dev/blog/vibe-coded-website",
       "is_new": true
@@ -133,91 +185,14 @@
       "is_new": false
     },
     {
-      "title": "A Staff Engineer's Guide to Inventing Work",
-      "link": "https://sujithjay.com/inventing-work",
-      "is_new": false
-    },
-    {
       "title": "Jeeves. Reasoning improves Jev-like decision models",
       "link": "https://github.com/PostHog/jeeves",
-      "is_new": false
-    },
-    {
-      "title": "Dots: Always-on agents",
-      "link": "https://openai.com/index/introducing-dots/",
       "is_new": false
     },
     {
       "title": "Everybody’s home. No one’s coming over",
       "link": "https://www.derekthompson.org/p/the-death-of-the-american-host",
       "is_new": false
-    }
-  ],
-  "removed": [
-    {
-      "title": "Nicholas Polson has authored 258 academic papers in 2026 (so far)",
-      "link": "https://statmodeling.stat.columbia.edu/2026/08/27/258/",
-      "is_new": true
-    },
-    {
-      "title": "DraftKings Is Using AI to Behaviorally Target Chronic Gamblers",
-      "link": "https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising",
-      "is_new": false
-    },
-    {
-      "title": "Show HN: TurboGPT: train 22KiB transformer in 13s",
-      "link": "https://github.com/lostmsu/TurboGPT",
-      "is_new": true
-    },
-    {
-      "title": "Stuck in the Suez Canal – the short version (2021)",
-      "link": "https://cathsenker.co.uk/stuck-in-the-suez-canal-the-short-version/",
-      "is_new": true
-    },
-    {
-      "title": "GLM-5.3 and the spread of advanced cyber capabilities",
-      "link": "https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities",
-      "is_new": true
-    },
-    {
-      "title": "Without the Hot Air",
-      "link": "https://www.withouthotair.com/",
-      "is_new": false
-    },
-    {
-      "title": "Memory Companies Have Destroyed the Consumer Market",
-      "link": "https://gamersnexus.net/news-features/memory-companies-have-destroyed-consumer-market",
-      "is_new": true
-    },
-    {
-      "title": "Walking Men",
-      "link": "https://bookofjoe2.blogspot.com/2026/09/walking-men.html",
-      "is_new": false
-    },
-    {
-      "title": "Using any C++ library in Godot",
-      "link": "https://blog.conan.io/cpp/conan/gamedev/godot/cmake/2026/09/29/Using-Any-Cpp-Library-In-Godot.html",
-      "is_new": false
-    },
-    {
-      "title": "DevDay 2026 Recap",
-      "link": "https://openai.com/index/devday-2026-recap/",
-      "is_new": true
-    },
-    {
-      "title": "Digital Audio on the ZX Spectrum's 1-Bit Beeper",
-      "link": "https://bumbershootsoft.wordpress.com/2026/09/26/digital-audio-on-the-zx-spectrums-1-bit-beeper/",
-      "is_new": false
-    },
-    {
-      "title": "What if Jev spoke Arrow?",
-      "link": "https://columnar.tech/blog/what-if-jev-spoke-arrow/",
-      "is_new": true
-    },
-    {
-      "title": "McDonald's push to have AI price your Big Mac",
-      "link": "https://www.cnbc.com/2026/09/29/inside-mcdonalds-push-ai-price-big-mac.html",
-      "is_new": true
     }
   ]
 }
