@@ -1,56 +1,163 @@
 {
-  "crawled_at": "2026-10-02 02:14",
-  "prev_crawled_at": "2026-10-01 19:43",
+  "crawled_at": "2026-10-02 07:17",
+  "prev_crawled_at": "2026-10-02 02:14",
   "items": [
     {
-      "title": "Clef: our open-source decision models",
-      "link": "https://blog.cloudflare.com/clef-decision-models/",
+      "title": "Pi 1.0",
+      "link": "https://earendil.com/posts/pi-1-0/",
       "is_new": true
+    },
+    {
+      "title": "The death of web development education",
+      "link": "https://molily.de/web-dev-education/",
+      "is_new": true
+    },
+    {
+      "title": "Clef: Open-source decision models, and new RL fine-tuning platform",
+      "link": "https://blog.cloudflare.com/clef-decision-models/",
+      "is_new": false
+    },
+    {
+      "title": "Car Is a Smartphone on Wheels. Here's Who's Listening",
+      "link": "https://automatictransmission.khoury.northeastern.edu/index.html",
+      "is_new": true
+    },
+    {
+      "title": "Pi Durable",
+      "link": "https://earendil.com/posts/pi-durable/",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: Janus – Go binary that runs GGUF models via Vulkan on AMD/Intel/Nvidia",
+      "link": "https://github.com/Vibra-Ingenn/Janus",
+      "is_new": true
+    },
+    {
+      "title": "Ask HN: Who is hiring? (October 2026)",
+      "link": "https://news.ycombinator.com/item?id=49922569",
+      "is_new": false
     },
     {
       "title": "RIP, vector database",
       "link": "https://turbopuffer.com/blog/rip-vector-database",
+      "is_new": false
+    },
+    {
+      "title": "Oxygen-deprived underwater zones may not be \"dead zones\" but clue to early life",
+      "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026AV002570",
       "is_new": true
     },
     {
       "title": "StreetComplete on iOS is now in public beta",
       "link": "https://github.com/streetcomplete/StreetComplete/issues/5421",
+      "is_new": false
+    },
+    {
+      "title": "ArXiv's Updated Rate Limit Policy",
+      "link": "https://blog.arxiv.org/2026/10/01/updated-rate-limit-policy/",
       "is_new": true
+    },
+    {
+      "title": "CSS Bed: Classless CSS themes to use as starting points in web development",
+      "link": "https://www.cssbed.com",
+      "is_new": true
+    },
+    {
+      "title": "Bez: Generating a browser engine from specs and tests",
+      "link": "https://tangled.org/burrito.space/bez",
+      "is_new": true
+    },
+    {
+      "title": "SvelteKit 3 Is Here",
+      "link": "https://svelte.dev/blog/sveltekit-3-is-here",
+      "is_new": true
+    },
+    {
+      "title": "Various Projects Find Hidden SDR Capabilities in ESP32 Microcontrollers",
+      "link": "https://www.rtl-sdr.com/various-projects-independently-find-hidden-sdr-capabilities-in-esp32-microcontrollers/",
+      "is_new": false
     },
     {
       "title": "RacketCon Is Saturday",
       "link": "https://con.racket-lang.org/",
-      "is_new": true
+      "is_new": false
     },
     {
-      "title": "How to speed up the Rust compiler in September 2026",
-      "link": "https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026.html",
-      "is_new": true
-    },
-    {
-      "title": "Identity Management for Agentic AI [pdf] (2025)",
-      "link": "https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf",
+      "title": "Show HN: Open-source model routing for coding agents at Astra-level performance",
+      "link": "https://news.ycombinator.com/item?id=49911500",
       "is_new": true
     },
     {
       "title": "Cloudflare K2: serverless event streams",
       "link": "https://blog.cloudflare.com/cloudflare-k2-streams/",
-      "is_new": true
-    },
-    {
-      "title": "Polyedergarten: Garden of Paper Polyhedron Models",
-      "link": "https://www.polyedergarten.de/e_index.htm",
-      "is_new": true
-    },
-    {
-      "title": "Gemini 4 Argon",
-      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
       "is_new": false
+    },
+    {
+      "title": "Show HN: Rhun, an open-source code editor written in assembly",
+      "link": "https://rhun.app/",
+      "is_new": true
+    },
+    {
+      "title": "How to speed up the Rust compiler in September 2026",
+      "link": "https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026.html",
+      "is_new": false
+    },
+    {
+      "title": "Ask HN: Who wants to be hired? (October 2026)",
+      "link": "https://news.ycombinator.com/item?id=49922568",
+      "is_new": false
+    },
+    {
+      "title": "Context Language Models",
+      "link": "https://arxiv.org/abs/2609.37725",
+      "is_new": false
+    },
+    {
+      "title": "OpenRadioss is not open anymore",
+      "link": "https://www.siemens.com/en-us/products/simcenter/mechanical-simulation/radioss/rd/",
+      "is_new": true
+    },
+    {
+      "title": "Lightweight PDF parser with layout, tables, formulas and bounding boxes",
+      "link": "https://github.com/beatrizalmeidaf/papero-pdf-text-extractor",
+      "is_new": true
     },
     {
       "title": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
       "link": "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design",
+      "is_new": false
+    },
+    {
+      "title": "Polyedergarten: Garden of Paper Polyhedron Models",
+      "link": "https://www.polyedergarten.de/e_index.htm",
+      "is_new": false
+    },
+    {
+      "title": "Effect 4.0",
+      "link": "https://effect.website/blog/releases/effect/40",
       "is_new": true
+    },
+    {
+      "title": "Identity Management for Agentic AI [pdf] (2025)",
+      "link": "https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf",
+      "is_new": false
+    },
+    {
+      "title": "Truemetrics (YC S23) Is Hiring a GTM Founder's Associate",
+      "link": "https://www.ycombinator.com/companies/truemetrics/jobs/THLEzXI-gtm-founder-s-associate",
+      "is_new": false
+    },
+    {
+      "title": "OpenDLSS: A Vulkan Reimplementation of Nvidia's DLSS 5 Neural Rendering Network",
+      "link": "https://github.com/maanHimself/OpenDLSS-NR",
+      "is_new": false
+    }
+  ],
+  "removed": [
+    {
+      "title": "Gemini 4 Argon",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
+      "is_new": false
     },
     {
       "title": "Red Hat being phased out of existence?",
@@ -78,11 +185,6 @@
       "is_new": true
     },
     {
-      "title": "OpenDLSS: A Vulkan Reimplementation of Nvidia's DLSS 5 Neural Rendering Network",
-      "link": "https://github.com/maanHimself/OpenDLSS-NR",
-      "is_new": false
-    },
-    {
       "title": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
       "link": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html",
       "is_new": true
@@ -93,18 +195,8 @@
       "is_new": false
     },
     {
-      "title": "Truemetrics (YC S23) Is Hiring a GTM Founder's Associate",
-      "link": "https://www.ycombinator.com/companies/truemetrics/jobs/THLEzXI-gtm-founder-s-associate",
-      "is_new": false
-    },
-    {
       "title": "Returning from vacation? The government can search your phone without a warrant",
       "link": "https://arstechnica.com/tech-policy/2026/09/immigration-advocate-sues-border-agents-for-demanding-his-cell-phone/",
-      "is_new": true
-    },
-    {
-      "title": "Various Projects Find Hidden SDR Capabilities in ESP32 Microcontrollers",
-      "link": "https://www.rtl-sdr.com/various-projects-independently-find-hidden-sdr-capabilities-in-esp32-microcontrollers/",
       "is_new": true
     },
     {
@@ -116,11 +208,6 @@
       "title": "Why the Bronze Age Collapsed",
       "link": "https://www.worksinprogress.news/p/why-really-caused-the-bronze-age",
       "is_new": false
-    },
-    {
-      "title": "Ask HN: Who wants to be hired? (October 2026)",
-      "link": "https://news.ycombinator.com/item?id=49922568",
-      "is_new": true
     },
     {
       "title": "The top secret URSALA, RAQUEL, and FARRAH satellites (2025)",
@@ -138,125 +225,8 @@
       "is_new": false
     },
     {
-      "title": "Ask HN: Who is hiring? (October 2026)",
-      "link": "https://news.ycombinator.com/item?id=49922569",
-      "is_new": true
-    },
-    {
       "title": "A brief history of the Bloomberg terminal",
       "link": "https://spectrum.ieee.org/bloomberg-terminal",
-      "is_new": false
-    },
-    {
-      "title": "Context Language Models",
-      "link": "https://arxiv.org/abs/2609.37725",
-      "is_new": true
-    }
-  ],
-  "removed": [
-    {
-      "title": "Surprisingly complex waves reveal the brain's inner workings",
-      "link": "https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/",
-      "is_new": false
-    },
-    {
-      "title": "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
-      "link": "https://github.com/magnitudedev/magnitude",
-      "is_new": false
-    },
-    {
-      "title": "Halfspace experimental IDE for solid modeling with distance fields",
-      "link": "https://www.mattkeeter.com/projects/halfspace/",
-      "is_new": false
-    },
-    {
-      "title": "5x faster Edge Functions: V8 isolates to Firecracker MicroVMs",
-      "link": "https://www.netlify.com/blog/edge-functions-firecracker-microvms/",
-      "is_new": false
-    },
-    {
-      "title": "Show HN: Ledge.sh – Runnable Markdown Notes",
-      "link": "https://ledge.sh",
-      "is_new": true
-    },
-    {
-      "title": "Jacques Barzun, Cultural historian and critic (1980)",
-      "link": "https://www.csmonitor.com/1980/0717/071710.html",
-      "is_new": true
-    },
-    {
-      "title": "CHOMPI portable sampler instrument is now open-source (hardware and software)",
-      "link": "https://www.chompiclub.com/opensource",
-      "is_new": false
-    },
-    {
-      "title": "The last time my family was replaced by technology",
-      "link": "https://manuel.darcemont.fr/posts/the-last-time-my-family-was-replaced-by-technology/",
-      "is_new": false
-    },
-    {
-      "title": "EDG C++ front-end goes public",
-      "link": "https://edgcpp.org/#transition",
-      "is_new": false
-    },
-    {
-      "title": "What TLA+ can and can't check",
-      "link": "https://buttondown.com/hillelwayne/archive/what-tla-can-and-cant-check/",
-      "is_new": false
-    },
-    {
-      "title": "Singapore govt dating app uses Gale-Shapley stable marriage algorithm",
-      "link": "https://twitter.com/tuakdotsol/status/2105105417760391258",
-      "is_new": false
-    },
-    {
-      "title": "56k.rip – the 1996 dial-up internet experience",
-      "link": "https://56k.rip/",
-      "is_new": false
-    },
-    {
-      "title": "Doing a Machine Learning PhD While Working in Japan",
-      "link": "https://www.tokyodev.com/articles/doing-a-machine-learning-phd-while-working-in-japan",
-      "is_new": false
-    },
-    {
-      "title": "Burning Man death rates – A short lesson in statistics",
-      "link": "https://ihavenapkinthoughts.substack.com/p/burning-man-death-rates-a-short-lesson",
-      "is_new": false
-    },
-    {
-      "title": "Responsible Release of AI-Generated Mathematics",
-      "link": "https://agmai.org/general-sep29/",
-      "is_new": false
-    },
-    {
-      "title": "LinkedIn Larpmaxxing",
-      "link": "https://hereticpleb.vercel.app/blog/linkedin-larpmaxxing/",
-      "is_new": true
-    },
-    {
-      "title": "Coltrane's Tone Circle",
-      "link": "https://jtomschroeder.com/blog/tone-circle/",
-      "is_new": false
-    },
-    {
-      "title": "PlayBook: A Programmable Paper Notebook [video]",
-      "link": "https://www.youtube.com/watch?v=GurWDZ8ENpA",
-      "is_new": true
-    },
-    {
-      "title": "Great Dirhombicosidodecahedron (\"Miller's Monster\")",
-      "link": "https://www.software3d.com/MillersMonster.php",
-      "is_new": false
-    },
-    {
-      "title": "Functional Ultrasound Imaging (fUSI) from scratch",
-      "link": "https://www.neuroai.science/p/functional-ultrasound-imaging-from",
-      "is_new": false
-    },
-    {
-      "title": "SDF vs. MSDF vs. Slug: GPU Text Rendering",
-      "link": "https://alphapixeldev.com/sdf-vs-msdf-vs-slug-vs-rive-gpu-text-rendering/",
       "is_new": false
     }
   ]
