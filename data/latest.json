@@ -1,10 +1,45 @@
 {
-  "crawled_at": "2026-10-01 19:43",
-  "prev_crawled_at": "2026-10-01 12:55",
+  "crawled_at": "2026-10-02 02:14",
+  "prev_crawled_at": "2026-10-01 19:43",
   "items": [
     {
-      "title": "OpenDLSS: A Vulkan Reimplementation of Nvidia's DLSS 5 Neural Rendering Network",
-      "link": "https://github.com/maanHimself/OpenDLSS-NR",
+      "title": "Clef: our open-source decision models",
+      "link": "https://blog.cloudflare.com/clef-decision-models/",
+      "is_new": true
+    },
+    {
+      "title": "RIP, vector database",
+      "link": "https://turbopuffer.com/blog/rip-vector-database",
+      "is_new": true
+    },
+    {
+      "title": "StreetComplete on iOS is now in public beta",
+      "link": "https://github.com/streetcomplete/StreetComplete/issues/5421",
+      "is_new": true
+    },
+    {
+      "title": "RacketCon Is Saturday",
+      "link": "https://con.racket-lang.org/",
+      "is_new": true
+    },
+    {
+      "title": "How to speed up the Rust compiler in September 2026",
+      "link": "https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026.html",
+      "is_new": true
+    },
+    {
+      "title": "Identity Management for Agentic AI [pdf] (2025)",
+      "link": "https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf",
+      "is_new": true
+    },
+    {
+      "title": "Cloudflare K2: serverless event streams",
+      "link": "https://blog.cloudflare.com/cloudflare-k2-streams/",
+      "is_new": true
+    },
+    {
+      "title": "Polyedergarten: Garden of Paper Polyhedron Models",
+      "link": "https://www.polyedergarten.de/e_index.htm",
       "is_new": true
     },
     {
@@ -13,8 +48,78 @@
       "is_new": false
     },
     {
+      "title": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
+      "link": "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design",
+      "is_new": true
+    },
+    {
+      "title": "Red Hat being phased out of existence?",
+      "link": "https://techrights.org/n/2026/10/01/Red_Hat_Being_Phased_Out_of_Existence_Like_Many_Other_Companies.shtml",
+      "is_new": true
+    },
+    {
+      "title": "Git 3.0's upcoming SHA-256 default will be a costly mistake",
+      "link": "https://blog.gitbutler.com/git-3-sha-256",
+      "is_new": true
+    },
+    {
+      "title": "Figma restricts MCP access to whitelisted clients, excluding Pi",
+      "link": "https://twitter.com/GayaniFigma/status/2105295629941350454",
+      "is_new": true
+    },
+    {
+      "title": "Micron CEO Says Memory Supply Will Be Much Tighter in 2027 and 2028 Than in 2026",
+      "link": "https://www.techpowerup.com/353296/micron-ceo-says-memory-supply-will-be-much-tighter-in-2027-and-2028-than-in-2026",
+      "is_new": true
+    },
+    {
+      "title": "Cops Can Bypass iPhone's Automatic Reboot to Get into Locked Phones",
+      "link": "https://www.404media.co/cops-can-bypass-iphone-automatic-inactivity-reboot-graykey/",
+      "is_new": true
+    },
+    {
+      "title": "OpenDLSS: A Vulkan Reimplementation of Nvidia's DLSS 5 Neural Rendering Network",
+      "link": "https://github.com/maanHimself/OpenDLSS-NR",
+      "is_new": false
+    },
+    {
+      "title": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
+      "link": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html",
+      "is_new": true
+    },
+    {
       "title": "Book of Shapes – Collection of minimal, generative and customizable SVG-patterns",
       "link": "https://bookofshapes.com/",
+      "is_new": false
+    },
+    {
+      "title": "Truemetrics (YC S23) Is Hiring a GTM Founder's Associate",
+      "link": "https://www.ycombinator.com/companies/truemetrics/jobs/THLEzXI-gtm-founder-s-associate",
+      "is_new": false
+    },
+    {
+      "title": "Returning from vacation? The government can search your phone without a warrant",
+      "link": "https://arstechnica.com/tech-policy/2026/09/immigration-advocate-sues-border-agents-for-demanding-his-cell-phone/",
+      "is_new": true
+    },
+    {
+      "title": "Various Projects Find Hidden SDR Capabilities in ESP32 Microcontrollers",
+      "link": "https://www.rtl-sdr.com/various-projects-independently-find-hidden-sdr-capabilities-in-esp32-microcontrollers/",
+      "is_new": true
+    },
+    {
+      "title": "Canada fast-tracks Pacific oil pipeline to reduce US dependence",
+      "link": "https://apnews.com/article/alberta-canada-carney-pipeline-68539133d6e0245fad3622263afd4aeb",
+      "is_new": true
+    },
+    {
+      "title": "Why the Bronze Age Collapsed",
+      "link": "https://www.worksinprogress.news/p/why-really-caused-the-bronze-age",
+      "is_new": false
+    },
+    {
+      "title": "Ask HN: Who wants to be hired? (October 2026)",
+      "link": "https://news.ycombinator.com/item?id=49922568",
       "is_new": true
     },
     {
@@ -23,23 +128,35 @@
       "is_new": false
     },
     {
-      "title": "Why the Bronze Age Collapsed",
-      "link": "https://www.worksinprogress.news/p/why-really-caused-the-bronze-age",
+      "title": "Adding Floating-Point Decimals for Fun and Profit",
+      "link": "https://blog.vero.site/post/float",
       "is_new": false
-    },
-    {
-      "title": "Surprisingly complex waves reveal the brain's inner workings",
-      "link": "https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/",
-      "is_new": false
-    },
-    {
-      "title": "Truemetrics (YC S23) Is Hiring a GTM Founder's Associate",
-      "link": "https://www.ycombinator.com/companies/truemetrics/jobs/THLEzXI-gtm-founder-s-associate",
-      "is_new": true
     },
     {
       "title": "Before pixels: Modular industrial dashboards",
       "link": "https://unsung.aresluna.org/before-pixels-modular-industrial-dashboards/",
+      "is_new": false
+    },
+    {
+      "title": "Ask HN: Who is hiring? (October 2026)",
+      "link": "https://news.ycombinator.com/item?id=49922569",
+      "is_new": true
+    },
+    {
+      "title": "A brief history of the Bloomberg terminal",
+      "link": "https://spectrum.ieee.org/bloomberg-terminal",
+      "is_new": false
+    },
+    {
+      "title": "Context Language Models",
+      "link": "https://arxiv.org/abs/2609.37725",
+      "is_new": true
+    }
+  ],
+  "removed": [
+    {
+      "title": "Surprisingly complex waves reveal the brain's inner workings",
+      "link": "https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/",
       "is_new": false
     },
     {
@@ -50,11 +167,6 @@
     {
       "title": "Halfspace experimental IDE for solid modeling with distance fields",
       "link": "https://www.mattkeeter.com/projects/halfspace/",
-      "is_new": false
-    },
-    {
-      "title": "A brief history of the Bloomberg terminal",
-      "link": "https://spectrum.ieee.org/bloomberg-terminal",
       "is_new": false
     },
     {
@@ -103,11 +215,6 @@
       "is_new": false
     },
     {
-      "title": "Adding Floating-Point Decimals for Fun and Profit",
-      "link": "https://blog.vero.site/post/float",
-      "is_new": true
-    },
-    {
       "title": "Doing a Machine Learning PhD While Working in Japan",
       "link": "https://www.tokyodev.com/articles/doing-a-machine-learning-phd-while-working-in-japan",
       "is_new": false
@@ -151,48 +258,6 @@
       "title": "SDF vs. MSDF vs. Slug: GPU Text Rendering",
       "link": "https://alphapixeldev.com/sdf-vs-msdf-vs-slug-vs-rive-gpu-text-rendering/",
       "is_new": false
-    }
-  ],
-  "removed": [
-    {
-      "title": "Show HN: Yantra – an LALR(1) parser generator for C++",
-      "link": "https://github.com/TantrixAuto/yantra",
-      "is_new": true
-    },
-    {
-      "title": "Cities Are Forced to Funnel License Plate Data to a Federal Surveillance Program",
-      "link": "https://www.404media.co/how-cities-are-forced-to-funnel-license-plate-data-to-a-massive-federal-surveillance-program-hidta/",
-      "is_new": true
-    },
-    {
-      "title": "What a Massive New 728-Foot-Wide Crater Means for Future Moon Bases",
-      "link": "https://www.nytimes.com/2026/09/21/science/space/what-a-massive-new-crater-means-for-future-moon-bases.html",
-      "is_new": true
-    },
-    {
-      "title": "cmart's Hardcore Coworking",
-      "link": "https://cmart.blog/hardcore-coworking/",
-      "is_new": true
-    },
-    {
-      "title": "I could've accessed 17T Microsoft records",
-      "link": "https://blog.faav.net/how-i-couldve-accessed-17-trillion-microsoft-records",
-      "is_new": false
-    },
-    {
-      "title": "Show HN: Lathoa, a math app for kids where the AI is wrong on purpose",
-      "link": "https://lathoa.ai/en",
-      "is_new": false
-    },
-    {
-      "title": "Bild AI (YC W25) Is Hiring a Founding Product Engineer",
-      "link": "https://www.ycombinator.com/companies/bild-ai/jobs/dAbC3Gd-founding-product-engineer",
-      "is_new": false
-    },
-    {
-      "title": "Jevotron: Multiple Jev integrations from the command line",
-      "link": "https://cmungall.github.io/jevotron/",
-      "is_new": true
     }
   ]
 }
