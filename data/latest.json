@@ -1,21 +1,26 @@
 {
-  "crawled_at": "2026-10-01 12:55",
-  "prev_crawled_at": "2026-10-01 08:24",
+  "crawled_at": "2026-10-01 19:43",
+  "prev_crawled_at": "2026-10-01 12:55",
   "items": [
+    {
+      "title": "OpenDLSS: A Vulkan Reimplementation of Nvidia's DLSS 5 Neural Rendering Network",
+      "link": "https://github.com/maanHimself/OpenDLSS-NR",
+      "is_new": true
+    },
     {
       "title": "Gemini 4 Argon",
       "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
       "is_new": false
     },
     {
+      "title": "Book of Shapes – Collection of minimal, generative and customizable SVG-patterns",
+      "link": "https://bookofshapes.com/",
+      "is_new": true
+    },
+    {
       "title": "The top secret URSALA, RAQUEL, and FARRAH satellites (2025)",
       "link": "https://www.thespacereview.com/article/4951/1",
       "is_new": false
-    },
-    {
-      "title": "56k.rip – the 1996 dial-up internet experience",
-      "link": "https://56k.rip/",
-      "is_new": true
     },
     {
       "title": "Why the Bronze Age Collapsed",
@@ -28,13 +33,13 @@
       "is_new": false
     },
     {
-      "title": "Show HN: Yantra – an LALR(1) parser generator for C++",
-      "link": "https://github.com/TantrixAuto/yantra",
+      "title": "Truemetrics (YC S23) Is Hiring a GTM Founder's Associate",
+      "link": "https://www.ycombinator.com/companies/truemetrics/jobs/THLEzXI-gtm-founder-s-associate",
       "is_new": true
     },
     {
-      "title": "EDG C++ front-end goes public",
-      "link": "https://edgcpp.org/#transition",
+      "title": "Before pixels: Modular industrial dashboards",
+      "link": "https://unsung.aresluna.org/before-pixels-modular-industrial-dashboards/",
       "is_new": false
     },
     {
@@ -43,9 +48,116 @@
       "is_new": false
     },
     {
+      "title": "Halfspace experimental IDE for solid modeling with distance fields",
+      "link": "https://www.mattkeeter.com/projects/halfspace/",
+      "is_new": false
+    },
+    {
+      "title": "A brief history of the Bloomberg terminal",
+      "link": "https://spectrum.ieee.org/bloomberg-terminal",
+      "is_new": false
+    },
+    {
+      "title": "5x faster Edge Functions: V8 isolates to Firecracker MicroVMs",
+      "link": "https://www.netlify.com/blog/edge-functions-firecracker-microvms/",
+      "is_new": false
+    },
+    {
+      "title": "Show HN: Ledge.sh – Runnable Markdown Notes",
+      "link": "https://ledge.sh",
+      "is_new": true
+    },
+    {
+      "title": "Jacques Barzun, Cultural historian and critic (1980)",
+      "link": "https://www.csmonitor.com/1980/0717/071710.html",
+      "is_new": true
+    },
+    {
+      "title": "CHOMPI portable sampler instrument is now open-source (hardware and software)",
+      "link": "https://www.chompiclub.com/opensource",
+      "is_new": false
+    },
+    {
+      "title": "The last time my family was replaced by technology",
+      "link": "https://manuel.darcemont.fr/posts/the-last-time-my-family-was-replaced-by-technology/",
+      "is_new": false
+    },
+    {
+      "title": "EDG C++ front-end goes public",
+      "link": "https://edgcpp.org/#transition",
+      "is_new": false
+    },
+    {
+      "title": "What TLA+ can and can't check",
+      "link": "https://buttondown.com/hillelwayne/archive/what-tla-can-and-cant-check/",
+      "is_new": false
+    },
+    {
       "title": "Singapore govt dating app uses Gale-Shapley stable marriage algorithm",
       "link": "https://twitter.com/tuakdotsol/status/2105105417760391258",
       "is_new": false
+    },
+    {
+      "title": "56k.rip – the 1996 dial-up internet experience",
+      "link": "https://56k.rip/",
+      "is_new": false
+    },
+    {
+      "title": "Adding Floating-Point Decimals for Fun and Profit",
+      "link": "https://blog.vero.site/post/float",
+      "is_new": true
+    },
+    {
+      "title": "Doing a Machine Learning PhD While Working in Japan",
+      "link": "https://www.tokyodev.com/articles/doing-a-machine-learning-phd-while-working-in-japan",
+      "is_new": false
+    },
+    {
+      "title": "Burning Man death rates – A short lesson in statistics",
+      "link": "https://ihavenapkinthoughts.substack.com/p/burning-man-death-rates-a-short-lesson",
+      "is_new": false
+    },
+    {
+      "title": "Responsible Release of AI-Generated Mathematics",
+      "link": "https://agmai.org/general-sep29/",
+      "is_new": false
+    },
+    {
+      "title": "LinkedIn Larpmaxxing",
+      "link": "https://hereticpleb.vercel.app/blog/linkedin-larpmaxxing/",
+      "is_new": true
+    },
+    {
+      "title": "Coltrane's Tone Circle",
+      "link": "https://jtomschroeder.com/blog/tone-circle/",
+      "is_new": false
+    },
+    {
+      "title": "PlayBook: A Programmable Paper Notebook [video]",
+      "link": "https://www.youtube.com/watch?v=GurWDZ8ENpA",
+      "is_new": true
+    },
+    {
+      "title": "Great Dirhombicosidodecahedron (\"Miller's Monster\")",
+      "link": "https://www.software3d.com/MillersMonster.php",
+      "is_new": false
+    },
+    {
+      "title": "Functional Ultrasound Imaging (fUSI) from scratch",
+      "link": "https://www.neuroai.science/p/functional-ultrasound-imaging-from",
+      "is_new": false
+    },
+    {
+      "title": "SDF vs. MSDF vs. Slug: GPU Text Rendering",
+      "link": "https://alphapixeldev.com/sdf-vs-msdf-vs-slug-vs-rive-gpu-text-rendering/",
+      "is_new": false
+    }
+  ],
+  "removed": [
+    {
+      "title": "Show HN: Yantra – an LALR(1) parser generator for C++",
+      "link": "https://github.com/TantrixAuto/yantra",
+      "is_new": true
     },
     {
       "title": "Cities Are Forced to Funnel License Plate Data to a Federal Surveillance Program",
@@ -58,36 +170,6 @@
       "is_new": true
     },
     {
-      "title": "Halfspace experimental IDE for solid modeling with distance fields",
-      "link": "https://www.mattkeeter.com/projects/halfspace/",
-      "is_new": false
-    },
-    {
-      "title": "5x faster Edge Functions: V8 isolates to Firecracker MicroVMs",
-      "link": "https://www.netlify.com/blog/edge-functions-firecracker-microvms/",
-      "is_new": false
-    },
-    {
-      "title": "A brief history of the Bloomberg terminal",
-      "link": "https://spectrum.ieee.org/bloomberg-terminal",
-      "is_new": false
-    },
-    {
-      "title": "Before pixels: Modular industrial dashboards",
-      "link": "https://unsung.aresluna.org/before-pixels-modular-industrial-dashboards/",
-      "is_new": false
-    },
-    {
-      "title": "CHOMPI portable sampler instrument is now open-source (hardware and software)",
-      "link": "https://www.chompiclub.com/opensource",
-      "is_new": false
-    },
-    {
-      "title": "Doing a Machine Learning PhD While Working in Japan",
-      "link": "https://www.tokyodev.com/articles/doing-a-machine-learning-phd-while-working-in-japan",
-      "is_new": false
-    },
-    {
       "title": "cmart's Hardcore Coworking",
       "link": "https://cmart.blog/hardcore-coworking/",
       "is_new": true
@@ -98,43 +180,8 @@
       "is_new": false
     },
     {
-      "title": "What TLA+ can and can't check",
-      "link": "https://buttondown.com/hillelwayne/archive/what-tla-can-and-cant-check/",
-      "is_new": false
-    },
-    {
-      "title": "The last time my family was replaced by technology",
-      "link": "https://manuel.darcemont.fr/posts/the-last-time-my-family-was-replaced-by-technology/",
-      "is_new": false
-    },
-    {
-      "title": "Great Dirhombicosidodecahedron (\"Miller's Monster\")",
-      "link": "https://www.software3d.com/MillersMonster.php",
-      "is_new": false
-    },
-    {
       "title": "Show HN: Lathoa, a math app for kids where the AI is wrong on purpose",
       "link": "https://lathoa.ai/en",
-      "is_new": false
-    },
-    {
-      "title": "Functional Ultrasound Imaging (fUSI) from scratch",
-      "link": "https://www.neuroai.science/p/functional-ultrasound-imaging-from",
-      "is_new": false
-    },
-    {
-      "title": "Burning Man death rates – A short lesson in statistics",
-      "link": "https://ihavenapkinthoughts.substack.com/p/burning-man-death-rates-a-short-lesson",
-      "is_new": false
-    },
-    {
-      "title": "Coltrane's Tone Circle",
-      "link": "https://jtomschroeder.com/blog/tone-circle/",
-      "is_new": false
-    },
-    {
-      "title": "Responsible Release of AI-Generated Mathematics",
-      "link": "https://agmai.org/general-sep29/",
       "is_new": false
     },
     {
@@ -145,43 +192,6 @@
     {
       "title": "Jevotron: Multiple Jev integrations from the command line",
       "link": "https://cmungall.github.io/jevotron/",
-      "is_new": true
-    },
-    {
-      "title": "SDF vs. MSDF vs. Slug: GPU Text Rendering",
-      "link": "https://alphapixeldev.com/sdf-vs-msdf-vs-slug-vs-rive-gpu-text-rendering/",
-      "is_new": false
-    }
-  ],
-  "removed": [
-    {
-      "title": "Dear Software Makers",
-      "link": "https://blog.jim-nielsen.com/2026/dear-software-makers/",
-      "is_new": true
-    },
-    {
-      "title": "You said no MCP",
-      "link": "https://earendil.com/posts/you-said-no-mcp/",
-      "is_new": false
-    },
-    {
-      "title": "Mechanochemistry of Molecular Motors [video]",
-      "link": "https://www.youtube.com/watch?v=hpxbMVbL3Ms",
-      "is_new": true
-    },
-    {
-      "title": "CS240 AI Cheating Retrospective",
-      "link": "https://turkeyland.net/thoughts/ai.php",
-      "is_new": true
-    },
-    {
-      "title": "Gemini 4 Argon (High): Intelligence, Performance and Price Analysis",
-      "link": "https://artificialanalysis.ai/models/gemini-4-argon",
-      "is_new": true
-    },
-    {
-      "title": "Gitea 28.0",
-      "link": "https://blog.gitea.com/release-of-28.0.0/",
       "is_new": true
     }
   ]
