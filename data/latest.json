@@ -1,6 +1,6 @@
 {
-  "crawled_at": "2026-10-02 10:57",
-  "prev_crawled_at": "2026-10-02 07:17",
+  "crawled_at": "2026-10-02 17:06",
+  "prev_crawled_at": "2026-10-02 10:57",
   "items": [
     {
       "title": "Pi 1.0",
@@ -8,8 +8,18 @@
       "is_new": false
     },
     {
-      "title": "Several vulnerabilities have been discovered in the Linux kernel",
-      "link": "https://lwn.net/Articles/1097401/",
+      "title": "Shimano Bicycle Museum Review",
+      "link": "https://inrng.com/2026/10/shimano-bicycle-museum/",
+      "is_new": true
+    },
+    {
+      "title": "How Singapore's government-run dating service works",
+      "link": "https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works",
+      "is_new": true
+    },
+    {
+      "title": "DeepSeek Harness Desktop for macOS and Windows",
+      "link": "https://www.deepseek.com/en/harness/",
       "is_new": true
     },
     {
@@ -23,18 +33,23 @@
       "is_new": false
     },
     {
+      "title": "Pi Durable",
+      "link": "https://earendil.com/posts/pi-durable/",
+      "is_new": false
+    },
+    {
+      "title": "Automatic Transmission – a data-privacy study of connected vehicles",
+      "link": "https://automatictransmission.khoury.northeastern.edu/index.html",
+      "is_new": false
+    },
+    {
       "title": "Ask HN: Who is hiring? (October 2026)",
       "link": "https://news.ycombinator.com/item?id=49922569",
       "is_new": false
     },
     {
-      "title": "CSS Bed: Classless CSS themes to use as starting points in web development",
-      "link": "https://www.cssbed.com",
-      "is_new": false
-    },
-    {
-      "title": "Pi Durable",
-      "link": "https://earendil.com/posts/pi-durable/",
+      "title": "Several vulnerabilities have been discovered in the Linux kernel",
+      "link": "https://lwn.net/Articles/1097401/",
       "is_new": false
     },
     {
@@ -43,14 +58,24 @@
       "is_new": false
     },
     {
-      "title": "Using Opus 5.5 to discover a new eyewitness record of the dodo",
-      "link": "https://resobscura.substack.com/p/using-opus-55-to-discover-a-new-eyewitness",
+      "title": "Git 3.0's upcoming SHA-256 default will be a costly mistake",
+      "link": "https://blog.gitbutler.com/git-3-sha-256",
+      "is_new": false
+    },
+    {
+      "title": "Turbo Haskell",
+      "link": "https://comonad.com/reader/2026/turbo-haskell/",
       "is_new": true
     },
     {
-      "title": "Show HN: Janus – Go binary that runs GGUF models via Vulkan on AMD/Intel/Nvidia",
-      "link": "https://github.com/Vibra-Ingenn/Janus",
+      "title": "Using Opus 5.5 to discover a new eyewitness record of the dodo",
+      "link": "https://resobscura.substack.com/p/using-opus-55-to-discover-a-new-eyewitness",
       "is_new": false
+    },
+    {
+      "title": "To grieve, or not to grieve?",
+      "link": "https://xenaproject.wordpress.com/2026/10/01/to-grieve-or-not-to-grieve/",
+      "is_new": true
     },
     {
       "title": "RIP, vector database",
@@ -58,18 +83,13 @@
       "is_new": false
     },
     {
-      "title": "Git 3.0's upcoming SHA-256 default will be a costly mistake",
-      "link": "https://blog.gitbutler.com/git-3-sha-256",
+      "title": "Frog and Toad and the Increasingly Capable Machines",
+      "link": "https://www.frogandtoad.ai/",
       "is_new": true
     },
     {
-      "title": "Apple's smart home camera reportedly won't record video",
-      "link": "https://www.theapplepost.com/2026/10/01/72882/apples-smart-home-camera-reportedly-wont-record-video/",
-      "is_new": true
-    },
-    {
-      "title": "Oxygen-deprived underwater zones may not be “dead zones” but clue to early life",
-      "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026AV002570",
+      "title": "CSS Bed: Classless CSS themes to use as starting points in web development",
+      "link": "https://www.cssbed.com",
       "is_new": false
     },
     {
@@ -80,7 +100,12 @@
     {
       "title": "Vote on which of Hacker News' challenges for AI have been met",
       "link": "https://stoppels.ch/goalposts/",
-      "is_new": true
+      "is_new": false
+    },
+    {
+      "title": "Show HN: Janus – Go binary that runs GGUF models via Vulkan on AMD/Intel/Nvidia",
+      "link": "https://github.com/Vibra-Ingenn/Janus",
+      "is_new": false
     },
     {
       "title": "Various Projects Find Hidden SDR Capabilities in ESP32 Microcontrollers",
@@ -88,9 +113,9 @@
       "is_new": false
     },
     {
-      "title": "Aweb – Communication for AI Agents",
-      "link": "https://aweb.ai",
-      "is_new": true
+      "title": "Oxygen-deprived underwater zones may not be “dead zones” but clue to early life",
+      "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026AV002570",
+      "is_new": false
     },
     {
       "title": "Cloudflare K2: serverless event streams",
@@ -98,13 +123,23 @@
       "is_new": false
     },
     {
-      "title": "Bez: Generating a browser engine from specs and tests",
-      "link": "https://tangled.org/burrito.space/bez",
+      "title": "Building reliable (and fast) directory sync",
+      "link": "https://www.firezone.dev/blog/building-reliable-directory-sync",
+      "is_new": true
+    },
+    {
+      "title": "Context Language Models",
+      "link": "https://arxiv.org/abs/2609.37725",
       "is_new": false
     },
     {
-      "title": "Automatic Transmission – a data-privacy study of connected vehicles",
-      "link": "https://automatictransmission.khoury.northeastern.edu/index.html",
+      "title": "How to speed up the Rust compiler in September 2026",
+      "link": "https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026.html",
+      "is_new": false
+    },
+    {
+      "title": "Butterflies use optical illusions to dodge predators",
+      "link": "https://www.essex.ac.uk/news/2026/09/30/butterflies-use-optical-illusions-to-dodge-predators",
       "is_new": false
     },
     {
@@ -113,9 +148,26 @@
       "is_new": false
     },
     {
-      "title": "Butterflies use optical illusions to dodge predators",
-      "link": "https://www.essex.ac.uk/news/2026/09/30/butterflies-use-optical-illusions-to-dodge-predators",
+      "title": "Ask HN: Who wants to be hired? (October 2026)",
+      "link": "https://news.ycombinator.com/item?id=49922568",
+      "is_new": false
+    }
+  ],
+  "removed": [
+    {
+      "title": "Apple's smart home camera reportedly won't record video",
+      "link": "https://www.theapplepost.com/2026/10/01/72882/apples-smart-home-camera-reportedly-wont-record-video/",
       "is_new": true
+    },
+    {
+      "title": "Aweb – Communication for AI Agents",
+      "link": "https://aweb.ai",
+      "is_new": true
+    },
+    {
+      "title": "Bez: Generating a browser engine from specs and tests",
+      "link": "https://tangled.org/burrito.space/bez",
+      "is_new": false
     },
     {
       "title": "Show HN: Open-source model routing for coding agents at Astra-level performance",
@@ -123,24 +175,9 @@
       "is_new": false
     },
     {
-      "title": "Context Language Models",
-      "link": "https://arxiv.org/abs/2609.37725",
-      "is_new": false
-    },
-    {
-      "title": "Ask HN: Who wants to be hired? (October 2026)",
-      "link": "https://news.ycombinator.com/item?id=49922568",
-      "is_new": false
-    },
-    {
       "title": "2026 International Utility Locate Rodeo",
       "link": "https://locaterodeo.net/",
       "is_new": true
-    },
-    {
-      "title": "How to speed up the Rust compiler in September 2026",
-      "link": "https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026.html",
-      "is_new": false
     },
     {
       "title": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
@@ -150,48 +187,6 @@
     {
       "title": "The death of web development education",
       "link": "https://molily.de/web-dev-education/",
-      "is_new": false
-    }
-  ],
-  "removed": [
-    {
-      "title": "Show HN: Rhun, an open-source code editor written in assembly",
-      "link": "https://rhun.app/",
-      "is_new": true
-    },
-    {
-      "title": "OpenRadioss is not open anymore",
-      "link": "https://www.siemens.com/en-us/products/simcenter/mechanical-simulation/radioss/rd/",
-      "is_new": true
-    },
-    {
-      "title": "Lightweight PDF parser with layout, tables, formulas and bounding boxes",
-      "link": "https://github.com/beatrizalmeidaf/papero-pdf-text-extractor",
-      "is_new": true
-    },
-    {
-      "title": "Polyedergarten: Garden of Paper Polyhedron Models",
-      "link": "https://www.polyedergarten.de/e_index.htm",
-      "is_new": false
-    },
-    {
-      "title": "Effect 4.0",
-      "link": "https://effect.website/blog/releases/effect/40",
-      "is_new": true
-    },
-    {
-      "title": "Identity Management for Agentic AI [pdf] (2025)",
-      "link": "https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf",
-      "is_new": false
-    },
-    {
-      "title": "Truemetrics (YC S23) Is Hiring a GTM Founder's Associate",
-      "link": "https://www.ycombinator.com/companies/truemetrics/jobs/THLEzXI-gtm-founder-s-associate",
-      "is_new": false
-    },
-    {
-      "title": "OpenDLSS: A Vulkan Reimplementation of Nvidia's DLSS 5 Neural Rendering Network",
-      "link": "https://github.com/maanHimself/OpenDLSS-NR",
       "is_new": false
     }
   ]
