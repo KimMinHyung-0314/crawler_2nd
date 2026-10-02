@@ -1,12 +1,159 @@
 {
-  "crawled_at": "2026-10-03 00:19",
-  "prev_crawled_at": "2026-10-02 17:06",
+  "crawled_at": "2026-10-03 05:18",
+  "prev_crawled_at": "2026-10-03 00:19",
   "items": [
     {
-      "title": "The Legend of von Neumann [pdf]",
-      "link": "https://gwern.net/doc/math/1973-halmos.pdf",
+      "title": "Apple Pass Designer",
+      "link": "https://developer.apple.com/pass-designer/",
       "is_new": true
     },
+    {
+      "title": "Court agrees with EFF: Utah's VPN law demands a technical impossibility",
+      "link": "https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility",
+      "is_new": true
+    },
+    {
+      "title": "With most information hidden, the game Stratego had stumped AI until now",
+      "link": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: Made an open-source Lego AI generator",
+      "link": "https://github.com/anteloc/ldraw-nova",
+      "is_new": true
+    },
+    {
+      "title": "A 12-year sequence of telescope images of a star and four planets orbiting",
+      "link": "https://bsky.app/profile/theplanetaryguy.com/post/3mwucf5ert22f",
+      "is_new": true
+    },
+    {
+      "title": "Greg Kroah-Hartman – Security in the LLM Age [video]",
+      "link": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
+      "is_new": true
+    },
+    {
+      "title": "Updates to Full Disk Access in macOS",
+      "link": "https://developer.apple.com/news/?id=p6zjojqw",
+      "is_new": true
+    },
+    {
+      "title": "Loss of cell identity drives human aging: Two new papers",
+      "link": "https://erictopol.substack.com/p/loss-of-cell-identity-drives-human",
+      "is_new": true
+    },
+    {
+      "title": "From the creator of Redis; run LLM locally with ds4",
+      "link": "https://dwarfstar.sh/",
+      "is_new": true
+    },
+    {
+      "title": "Mike Tomlin spent 12 years building a Minecraft city",
+      "link": "https://www.nytimes.com/athletic/7648198/2026/10/01/mike-tomlin-minecraft-nfl-coach/",
+      "is_new": true
+    },
+    {
+      "title": "Blogging with Gleam, Org-Mode and Pandoc",
+      "link": "https://byzantine-systems.github.io/blogging-with-gleam-org-mode-and-pandoc/",
+      "is_new": true
+    },
+    {
+      "title": "How accurately calibrated is Jev?",
+      "link": "https://maximumeffort.substack.com/p/jev-is-poorly-calibrated",
+      "is_new": true
+    },
+    {
+      "title": "One month coding with GLM 5.3 Flash",
+      "link": "https://wagtail.org/blog/one-month-on-glm-53-flash/",
+      "is_new": true
+    },
+    {
+      "title": "Sites in ChatGPT",
+      "link": "https://chatgpt.com/features/sites/",
+      "is_new": true
+    },
+    {
+      "title": "GrapheneOS has fixed the Android 17 QPR1 kernel performance regression",
+      "link": "https://discuss.grapheneos.org/d/42511-grapheneos-has-fixed-the-massive-android-17-qpr1-kernel-performance-regression",
+      "is_new": true
+    },
+    {
+      "title": "STS-51-F Abort-to-Orbit (1985)",
+      "link": "https://en.wikipedia.org/wiki/STS-51-F",
+      "is_new": true
+    },
+    {
+      "title": "Venice’s failed war against Constantinople led to the first bond market",
+      "link": "https://bigthink.com/books/a-fabulous-debt/",
+      "is_new": true
+    },
+    {
+      "title": "FLUX 3 Image",
+      "link": "https://bfl.ai/models/flux-3-image",
+      "is_new": true
+    },
+    {
+      "title": "Our Project Suncatcher prototype satellite is in orbit",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-prototype/",
+      "is_new": true
+    },
+    {
+      "title": "The Legend of von Neumann (1973) [pdf]",
+      "link": "https://gwern.net/doc/math/1973-halmos.pdf",
+      "is_new": false
+    },
+    {
+      "title": "On social reality in China",
+      "link": "https://www.lesswrong.com/posts/b5cSYh4emQb2qrGmK/on-social-reality-in-china",
+      "is_new": true
+    },
+    {
+      "title": "The first packet sent via RFC1149 avian carrier is up for auction at Christie's",
+      "link": "https://onlineonly.christies.com/s/fine-printed-books-manuscripts-science/carrier-pigeon-internet-protocol-150/325216",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: Giving Opus 5.5 a simulated paint canvas",
+      "link": "https://stillwet.art/",
+      "is_new": true
+    },
+    {
+      "title": "100 years of student radio history in the DLARC college radio collections",
+      "link": "https://blog.archive.org/2026/10/02/100-years-of-student-radio-history-in-the-dlarc-college-radio-collections/",
+      "is_new": true
+    },
+    {
+      "title": "Crypto Capture of Foreign Aid",
+      "link": "https://www.nber.org/papers/w35655",
+      "is_new": true
+    },
+    {
+      "title": "Muse Gadgets",
+      "link": "https://gadgets.muse.ai",
+      "is_new": true
+    },
+    {
+      "title": "F.02 Decommission",
+      "link": "https://www.figure.ai/news/f-02-decommission",
+      "is_new": true
+    },
+    {
+      "title": "What if we stopped using GPUs? [video]",
+      "link": "https://www.youtube.com/watch?v=xc2FTBGRSJo",
+      "is_new": true
+    },
+    {
+      "title": "Anatomy of a Lean proof for software engineers",
+      "link": "https://agostbiro.net/posts/2026-10-anatomy-of-a-lean-proof/",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: Pyxel – A Python retro game engine with built-in art and sound editors",
+      "link": "https://github.com/kitao/pyxel",
+      "is_new": true
+    }
+  ],
+  "removed": [
     {
       "title": "Pi 1.0",
       "link": "https://earendil.com/posts/pi-1-0/",
@@ -151,33 +298,6 @@
       "title": "Gemini 4 Argon",
       "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
       "is_new": true
-    }
-  ],
-  "removed": [
-    {
-      "title": "How Singapore's government-run dating service works",
-      "link": "https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works",
-      "is_new": true
-    },
-    {
-      "title": "To grieve, or not to grieve?",
-      "link": "https://xenaproject.wordpress.com/2026/10/01/to-grieve-or-not-to-grieve/",
-      "is_new": true
-    },
-    {
-      "title": "Building reliable (and fast) directory sync",
-      "link": "https://www.firezone.dev/blog/building-reliable-directory-sync",
-      "is_new": true
-    },
-    {
-      "title": "RacketCon Is Saturday",
-      "link": "https://con.racket-lang.org/",
-      "is_new": false
-    },
-    {
-      "title": "Ask HN: Who wants to be hired? (October 2026)",
-      "link": "https://news.ycombinator.com/item?id=49922568",
-      "is_new": false
     }
   ]
 }
