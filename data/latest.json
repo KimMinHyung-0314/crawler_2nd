@@ -1,7 +1,12 @@
 {
-  "crawled_at": "2026-10-02 17:06",
-  "prev_crawled_at": "2026-10-02 10:57",
+  "crawled_at": "2026-10-03 00:19",
+  "prev_crawled_at": "2026-10-02 17:06",
   "items": [
+    {
+      "title": "The Legend of von Neumann [pdf]",
+      "link": "https://gwern.net/doc/math/1973-halmos.pdf",
+      "is_new": true
+    },
     {
       "title": "Pi 1.0",
       "link": "https://earendil.com/posts/pi-1-0/",
@@ -10,41 +15,6 @@
     {
       "title": "Shimano Bicycle Museum Review",
       "link": "https://inrng.com/2026/10/shimano-bicycle-museum/",
-      "is_new": true
-    },
-    {
-      "title": "How Singapore's government-run dating service works",
-      "link": "https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works",
-      "is_new": true
-    },
-    {
-      "title": "DeepSeek Harness Desktop for macOS and Windows",
-      "link": "https://www.deepseek.com/en/harness/",
-      "is_new": true
-    },
-    {
-      "title": "Clef: Open-weight decision models, and new RL fine-tuning platform",
-      "link": "https://blog.cloudflare.com/clef-decision-models/",
-      "is_new": false
-    },
-    {
-      "title": "SvelteKit 3",
-      "link": "https://svelte.dev/blog/sveltekit-3-is-here",
-      "is_new": false
-    },
-    {
-      "title": "Pi Durable",
-      "link": "https://earendil.com/posts/pi-durable/",
-      "is_new": false
-    },
-    {
-      "title": "Automatic Transmission – a data-privacy study of connected vehicles",
-      "link": "https://automatictransmission.khoury.northeastern.edu/index.html",
-      "is_new": false
-    },
-    {
-      "title": "Ask HN: Who is hiring? (October 2026)",
-      "link": "https://news.ycombinator.com/item?id=49922569",
       "is_new": false
     },
     {
@@ -53,8 +23,38 @@
       "is_new": false
     },
     {
-      "title": "StreetComplete on iOS is now in public beta",
-      "link": "https://github.com/streetcomplete/StreetComplete/issues/5421",
+      "title": "Giving friends custom text buzzes based on Morse code",
+      "link": "https://liquidbrain.net/blog/giving-friends-custom-text-buzzes-based-on-morse-code/",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: Audionaut – an open-source cross-platform multitrack audio editor",
+      "link": "https://github.com/kvoltmer/Audionaut",
+      "is_new": true
+    },
+    {
+      "title": "Clef: Open-weight decision models, and new RL fine-tuning platform",
+      "link": "https://blog.cloudflare.com/clef-decision-models/",
+      "is_new": false
+    },
+    {
+      "title": "Frog and Toad and the Increasingly Capable Machines",
+      "link": "https://www.frogandtoad.ai/",
+      "is_new": false
+    },
+    {
+      "title": "SvelteKit 3",
+      "link": "https://svelte.dev/blog/sveltekit-3-is-here",
+      "is_new": false
+    },
+    {
+      "title": "DeepSeek Harness Desktop for macOS and Windows",
+      "link": "https://www.deepseek.com/en/harness/",
+      "is_new": false
+    },
+    {
+      "title": "Pi Durable",
+      "link": "https://earendil.com/posts/pi-durable/",
       "is_new": false
     },
     {
@@ -63,9 +63,24 @@
       "is_new": false
     },
     {
+      "title": "Ask HN: Who is hiring? (October 2026)",
+      "link": "https://news.ycombinator.com/item?id=49922569",
+      "is_new": false
+    },
+    {
+      "title": "StreetComplete on iOS is now in public beta",
+      "link": "https://github.com/streetcomplete/StreetComplete/issues/5421",
+      "is_new": false
+    },
+    {
       "title": "Turbo Haskell",
       "link": "https://comonad.com/reader/2026/turbo-haskell/",
-      "is_new": true
+      "is_new": false
+    },
+    {
+      "title": "Automatic Transmission – a data-privacy study of connected vehicles",
+      "link": "https://automatictransmission.khoury.northeastern.edu/index.html",
+      "is_new": false
     },
     {
       "title": "Using Opus 5.5 to discover a new eyewitness record of the dodo",
@@ -73,38 +88,8 @@
       "is_new": false
     },
     {
-      "title": "To grieve, or not to grieve?",
-      "link": "https://xenaproject.wordpress.com/2026/10/01/to-grieve-or-not-to-grieve/",
-      "is_new": true
-    },
-    {
       "title": "RIP, vector database",
       "link": "https://turbopuffer.com/blog/rip-vector-database",
-      "is_new": false
-    },
-    {
-      "title": "Frog and Toad and the Increasingly Capable Machines",
-      "link": "https://www.frogandtoad.ai/",
-      "is_new": true
-    },
-    {
-      "title": "CSS Bed: Classless CSS themes to use as starting points in web development",
-      "link": "https://www.cssbed.com",
-      "is_new": false
-    },
-    {
-      "title": "ArXiv's Updated Rate Limit Policy",
-      "link": "https://blog.arxiv.org/2026/10/01/updated-rate-limit-policy/",
-      "is_new": false
-    },
-    {
-      "title": "Vote on which of Hacker News' challenges for AI have been met",
-      "link": "https://stoppels.ch/goalposts/",
-      "is_new": false
-    },
-    {
-      "title": "Show HN: Janus – Go binary that runs GGUF models via Vulkan on AMD/Intel/Nvidia",
-      "link": "https://github.com/Vibra-Ingenn/Janus",
       "is_new": false
     },
     {
@@ -113,9 +98,19 @@
       "is_new": false
     },
     {
-      "title": "Oxygen-deprived underwater zones may not be “dead zones” but clue to early life",
-      "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026AV002570",
+      "title": "CSS Bed: Classless CSS themes to use as starting points in web development",
+      "link": "https://www.cssbed.com",
       "is_new": false
+    },
+    {
+      "title": "Vote on which of Hacker News' challenges for AI have been met",
+      "link": "https://stoppels.ch/goalposts/",
+      "is_new": false
+    },
+    {
+      "title": "Amazon seeks to offload $8B of Nvidia chips to investors",
+      "link": "https://www.reuters.com/business/retail-consumer/amazon-seeks-offload-8-billion-nvidia-chips-investors-ft-reports-2026-10-02/",
+      "is_new": true
     },
     {
       "title": "Cloudflare K2: serverless event streams",
@@ -123,13 +118,28 @@
       "is_new": false
     },
     {
-      "title": "Building reliable (and fast) directory sync",
-      "link": "https://www.firezone.dev/blog/building-reliable-directory-sync",
-      "is_new": true
+      "title": "Show HN: Janus – Go binary that runs GGUF models via Vulkan on AMD/Intel/Nvidia",
+      "link": "https://github.com/Vibra-Ingenn/Janus",
+      "is_new": false
+    },
+    {
+      "title": "Butterflies use optical illusions to dodge predators",
+      "link": "https://www.essex.ac.uk/news/2026/09/30/butterflies-use-optical-illusions-to-dodge-predators",
+      "is_new": false
+    },
+    {
+      "title": "Oxygen-deprived underwater zones may not be “dead zones” but clue to early life",
+      "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026AV002570",
+      "is_new": false
     },
     {
       "title": "Context Language Models",
       "link": "https://arxiv.org/abs/2609.37725",
+      "is_new": false
+    },
+    {
+      "title": "ArXiv's Updated Rate Limit Policy",
+      "link": "https://blog.arxiv.org/2026/10/01/updated-rate-limit-policy/",
       "is_new": false
     },
     {
@@ -138,9 +148,26 @@
       "is_new": false
     },
     {
-      "title": "Butterflies use optical illusions to dodge predators",
-      "link": "https://www.essex.ac.uk/news/2026/09/30/butterflies-use-optical-illusions-to-dodge-predators",
-      "is_new": false
+      "title": "Gemini 4 Argon",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
+      "is_new": true
+    }
+  ],
+  "removed": [
+    {
+      "title": "How Singapore's government-run dating service works",
+      "link": "https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works",
+      "is_new": true
+    },
+    {
+      "title": "To grieve, or not to grieve?",
+      "link": "https://xenaproject.wordpress.com/2026/10/01/to-grieve-or-not-to-grieve/",
+      "is_new": true
+    },
+    {
+      "title": "Building reliable (and fast) directory sync",
+      "link": "https://www.firezone.dev/blog/building-reliable-directory-sync",
+      "is_new": true
     },
     {
       "title": "RacketCon Is Saturday",
@@ -150,43 +177,6 @@
     {
       "title": "Ask HN: Who wants to be hired? (October 2026)",
       "link": "https://news.ycombinator.com/item?id=49922568",
-      "is_new": false
-    }
-  ],
-  "removed": [
-    {
-      "title": "Apple's smart home camera reportedly won't record video",
-      "link": "https://www.theapplepost.com/2026/10/01/72882/apples-smart-home-camera-reportedly-wont-record-video/",
-      "is_new": true
-    },
-    {
-      "title": "Aweb – Communication for AI Agents",
-      "link": "https://aweb.ai",
-      "is_new": true
-    },
-    {
-      "title": "Bez: Generating a browser engine from specs and tests",
-      "link": "https://tangled.org/burrito.space/bez",
-      "is_new": false
-    },
-    {
-      "title": "Show HN: Open-source model routing for coding agents at Astra-level performance",
-      "link": "https://news.ycombinator.com/item?id=49911500",
-      "is_new": false
-    },
-    {
-      "title": "2026 International Utility Locate Rodeo",
-      "link": "https://locaterodeo.net/",
-      "is_new": true
-    },
-    {
-      "title": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
-      "link": "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design",
-      "is_new": false
-    },
-    {
-      "title": "The death of web development education",
-      "link": "https://molily.de/web-dev-education/",
       "is_new": false
     }
   ]
