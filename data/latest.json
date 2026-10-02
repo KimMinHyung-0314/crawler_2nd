@@ -1,40 +1,55 @@
 {
-  "crawled_at": "2026-10-02 07:17",
-  "prev_crawled_at": "2026-10-02 02:14",
+  "crawled_at": "2026-10-02 10:57",
+  "prev_crawled_at": "2026-10-02 07:17",
   "items": [
     {
       "title": "Pi 1.0",
       "link": "https://earendil.com/posts/pi-1-0/",
+      "is_new": false
+    },
+    {
+      "title": "Several vulnerabilities have been discovered in the Linux kernel",
+      "link": "https://lwn.net/Articles/1097401/",
       "is_new": true
     },
     {
-      "title": "The death of web development education",
-      "link": "https://molily.de/web-dev-education/",
-      "is_new": true
-    },
-    {
-      "title": "Clef: Open-source decision models, and new RL fine-tuning platform",
+      "title": "Clef: Open-weight decision models, and new RL fine-tuning platform",
       "link": "https://blog.cloudflare.com/clef-decision-models/",
       "is_new": false
     },
     {
-      "title": "Car Is a Smartphone on Wheels. Here's Who's Listening",
-      "link": "https://automatictransmission.khoury.northeastern.edu/index.html",
-      "is_new": true
+      "title": "SvelteKit 3",
+      "link": "https://svelte.dev/blog/sveltekit-3-is-here",
+      "is_new": false
+    },
+    {
+      "title": "Ask HN: Who is hiring? (October 2026)",
+      "link": "https://news.ycombinator.com/item?id=49922569",
+      "is_new": false
+    },
+    {
+      "title": "CSS Bed: Classless CSS themes to use as starting points in web development",
+      "link": "https://www.cssbed.com",
+      "is_new": false
     },
     {
       "title": "Pi Durable",
       "link": "https://earendil.com/posts/pi-durable/",
+      "is_new": false
+    },
+    {
+      "title": "StreetComplete on iOS is now in public beta",
+      "link": "https://github.com/streetcomplete/StreetComplete/issues/5421",
+      "is_new": false
+    },
+    {
+      "title": "Using Opus 5.5 to discover a new eyewitness record of the dodo",
+      "link": "https://resobscura.substack.com/p/using-opus-55-to-discover-a-new-eyewitness",
       "is_new": true
     },
     {
       "title": "Show HN: Janus – Go binary that runs GGUF models via Vulkan on AMD/Intel/Nvidia",
       "link": "https://github.com/Vibra-Ingenn/Janus",
-      "is_new": true
-    },
-    {
-      "title": "Ask HN: Who is hiring? (October 2026)",
-      "link": "https://news.ycombinator.com/item?id=49922569",
       "is_new": false
     },
     {
@@ -43,33 +58,28 @@
       "is_new": false
     },
     {
-      "title": "Oxygen-deprived underwater zones may not be \"dead zones\" but clue to early life",
-      "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026AV002570",
+      "title": "Git 3.0's upcoming SHA-256 default will be a costly mistake",
+      "link": "https://blog.gitbutler.com/git-3-sha-256",
       "is_new": true
     },
     {
-      "title": "StreetComplete on iOS is now in public beta",
-      "link": "https://github.com/streetcomplete/StreetComplete/issues/5421",
+      "title": "Apple's smart home camera reportedly won't record video",
+      "link": "https://www.theapplepost.com/2026/10/01/72882/apples-smart-home-camera-reportedly-wont-record-video/",
+      "is_new": true
+    },
+    {
+      "title": "Oxygen-deprived underwater zones may not be “dead zones” but clue to early life",
+      "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026AV002570",
       "is_new": false
     },
     {
       "title": "ArXiv's Updated Rate Limit Policy",
       "link": "https://blog.arxiv.org/2026/10/01/updated-rate-limit-policy/",
-      "is_new": true
+      "is_new": false
     },
     {
-      "title": "CSS Bed: Classless CSS themes to use as starting points in web development",
-      "link": "https://www.cssbed.com",
-      "is_new": true
-    },
-    {
-      "title": "Bez: Generating a browser engine from specs and tests",
-      "link": "https://tangled.org/burrito.space/bez",
-      "is_new": true
-    },
-    {
-      "title": "SvelteKit 3 Is Here",
-      "link": "https://svelte.dev/blog/sveltekit-3-is-here",
+      "title": "Vote on which of Hacker News' challenges for AI have been met",
+      "link": "https://stoppels.ch/goalposts/",
       "is_new": true
     },
     {
@@ -78,13 +88,8 @@
       "is_new": false
     },
     {
-      "title": "RacketCon Is Saturday",
-      "link": "https://con.racket-lang.org/",
-      "is_new": false
-    },
-    {
-      "title": "Show HN: Open-source model routing for coding agents at Astra-level performance",
-      "link": "https://news.ycombinator.com/item?id=49911500",
+      "title": "Aweb – Communication for AI Agents",
+      "link": "https://aweb.ai",
       "is_new": true
     },
     {
@@ -93,13 +98,33 @@
       "is_new": false
     },
     {
-      "title": "Show HN: Rhun, an open-source code editor written in assembly",
-      "link": "https://rhun.app/",
+      "title": "Bez: Generating a browser engine from specs and tests",
+      "link": "https://tangled.org/burrito.space/bez",
+      "is_new": false
+    },
+    {
+      "title": "Automatic Transmission – a data-privacy study of connected vehicles",
+      "link": "https://automatictransmission.khoury.northeastern.edu/index.html",
+      "is_new": false
+    },
+    {
+      "title": "RacketCon Is Saturday",
+      "link": "https://con.racket-lang.org/",
+      "is_new": false
+    },
+    {
+      "title": "Butterflies use optical illusions to dodge predators",
+      "link": "https://www.essex.ac.uk/news/2026/09/30/butterflies-use-optical-illusions-to-dodge-predators",
       "is_new": true
     },
     {
-      "title": "How to speed up the Rust compiler in September 2026",
-      "link": "https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026.html",
+      "title": "Show HN: Open-source model routing for coding agents at Astra-level performance",
+      "link": "https://news.ycombinator.com/item?id=49911500",
+      "is_new": false
+    },
+    {
+      "title": "Context Language Models",
+      "link": "https://arxiv.org/abs/2609.37725",
       "is_new": false
     },
     {
@@ -108,9 +133,31 @@
       "is_new": false
     },
     {
-      "title": "Context Language Models",
-      "link": "https://arxiv.org/abs/2609.37725",
+      "title": "2026 International Utility Locate Rodeo",
+      "link": "https://locaterodeo.net/",
+      "is_new": true
+    },
+    {
+      "title": "How to speed up the Rust compiler in September 2026",
+      "link": "https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026.html",
       "is_new": false
+    },
+    {
+      "title": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
+      "link": "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design",
+      "is_new": false
+    },
+    {
+      "title": "The death of web development education",
+      "link": "https://molily.de/web-dev-education/",
+      "is_new": false
+    }
+  ],
+  "removed": [
+    {
+      "title": "Show HN: Rhun, an open-source code editor written in assembly",
+      "link": "https://rhun.app/",
+      "is_new": true
     },
     {
       "title": "OpenRadioss is not open anymore",
@@ -121,11 +168,6 @@
       "title": "Lightweight PDF parser with layout, tables, formulas and bounding boxes",
       "link": "https://github.com/beatrizalmeidaf/papero-pdf-text-extractor",
       "is_new": true
-    },
-    {
-      "title": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
-      "link": "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design",
-      "is_new": false
     },
     {
       "title": "Polyedergarten: Garden of Paper Polyhedron Models",
@@ -150,83 +192,6 @@
     {
       "title": "OpenDLSS: A Vulkan Reimplementation of Nvidia's DLSS 5 Neural Rendering Network",
       "link": "https://github.com/maanHimself/OpenDLSS-NR",
-      "is_new": false
-    }
-  ],
-  "removed": [
-    {
-      "title": "Gemini 4 Argon",
-      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
-      "is_new": false
-    },
-    {
-      "title": "Red Hat being phased out of existence?",
-      "link": "https://techrights.org/n/2026/10/01/Red_Hat_Being_Phased_Out_of_Existence_Like_Many_Other_Companies.shtml",
-      "is_new": true
-    },
-    {
-      "title": "Git 3.0's upcoming SHA-256 default will be a costly mistake",
-      "link": "https://blog.gitbutler.com/git-3-sha-256",
-      "is_new": true
-    },
-    {
-      "title": "Figma restricts MCP access to whitelisted clients, excluding Pi",
-      "link": "https://twitter.com/GayaniFigma/status/2105295629941350454",
-      "is_new": true
-    },
-    {
-      "title": "Micron CEO Says Memory Supply Will Be Much Tighter in 2027 and 2028 Than in 2026",
-      "link": "https://www.techpowerup.com/353296/micron-ceo-says-memory-supply-will-be-much-tighter-in-2027-and-2028-than-in-2026",
-      "is_new": true
-    },
-    {
-      "title": "Cops Can Bypass iPhone's Automatic Reboot to Get into Locked Phones",
-      "link": "https://www.404media.co/cops-can-bypass-iphone-automatic-inactivity-reboot-graykey/",
-      "is_new": true
-    },
-    {
-      "title": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
-      "link": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html",
-      "is_new": true
-    },
-    {
-      "title": "Book of Shapes – Collection of minimal, generative and customizable SVG-patterns",
-      "link": "https://bookofshapes.com/",
-      "is_new": false
-    },
-    {
-      "title": "Returning from vacation? The government can search your phone without a warrant",
-      "link": "https://arstechnica.com/tech-policy/2026/09/immigration-advocate-sues-border-agents-for-demanding-his-cell-phone/",
-      "is_new": true
-    },
-    {
-      "title": "Canada fast-tracks Pacific oil pipeline to reduce US dependence",
-      "link": "https://apnews.com/article/alberta-canada-carney-pipeline-68539133d6e0245fad3622263afd4aeb",
-      "is_new": true
-    },
-    {
-      "title": "Why the Bronze Age Collapsed",
-      "link": "https://www.worksinprogress.news/p/why-really-caused-the-bronze-age",
-      "is_new": false
-    },
-    {
-      "title": "The top secret URSALA, RAQUEL, and FARRAH satellites (2025)",
-      "link": "https://www.thespacereview.com/article/4951/1",
-      "is_new": false
-    },
-    {
-      "title": "Adding Floating-Point Decimals for Fun and Profit",
-      "link": "https://blog.vero.site/post/float",
-      "is_new": false
-    },
-    {
-      "title": "Before pixels: Modular industrial dashboards",
-      "link": "https://unsung.aresluna.org/before-pixels-modular-industrial-dashboards/",
-      "is_new": false
-    },
-    {
-      "title": "A brief history of the Bloomberg terminal",
-      "link": "https://spectrum.ieee.org/bloomberg-terminal",
       "is_new": false
     }
   ]
