@@ -1,25 +1,60 @@
 {
-  "crawled_at": "2026-10-04 00:38",
-  "prev_crawled_at": "2026-10-03 20:29",
+  "crawled_at": "2026-10-04 03:58",
+  "prev_crawled_at": "2026-10-04 00:38",
   "items": [
     {
-      "title": "Kolibri is an open-weight LLM from Aleph Alpha for German and English",
-      "link": "https://tej.as/blog/aleph-alpha-kolibri",
+      "title": "ADHD, autism or complex trauma? [pdf]",
+      "link": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/30CC4826561366615BFAEC807CDE28A7/S0007125026108046a.pdf/adhd-autism-or-complex-trauma-the-complicated-nature-of-the-question.pdf",
       "is_new": true
+    },
+    {
+      "title": "Kolibri – Tech Report [pdf]",
+      "link": "https://aleph-alpha.com/downloads/tech-report.pdf",
+      "is_new": true
+    },
+    {
+      "title": "Hole Punch: Sling your spaceship around gravitational fields",
+      "link": "https://notoriousbfg.com/hole-punch/",
+      "is_new": true
+    },
+    {
+      "title": "FTL: A new operating system for clouds",
+      "link": "https://ftl-os.org/",
+      "is_new": false
+    },
+    {
+      "title": "Kolibri: A Sovereign Open-Weight Model",
+      "link": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
+      "is_new": false
     },
     {
       "title": "Woking Electrical Control Room (2016)",
       "link": "http://www.darbiansphotography.com/woking-electrical-control-room-urbex",
-      "is_new": true
+      "is_new": false
     },
     {
-      "title": "Kolibri Has Landed: A Sovereign Open-Weight Model",
-      "link": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
+      "title": "Show HN: Pi pod – Run your pi coding agent in sandboxes on your own server",
+      "link": "https://pipod.dev/",
       "is_new": true
     },
     {
       "title": "C++ Insights – See your source code with the eyes of a Compiler",
       "link": "https://github.com/andreasfertig/cppinsights",
+      "is_new": false
+    },
+    {
+      "title": "Body Awareness in Goffin's Cockatoos",
+      "link": "https://www.nature.com/articles/s41598-026-57500-7",
+      "is_new": true
+    },
+    {
+      "title": "RetailReady (YC W24) Is Hiring",
+      "link": "https://www.ycombinator.com/companies/retailready/jobs/bFcgIe4-implementations",
+      "is_new": true
+    },
+    {
+      "title": "MPEG-2 Transport Streams and MOQ: Yes, MPEG-TS Is Still Relevant Today",
+      "link": "https://www.red5.net/blog/mpeg-2-transport-streams-and-moq-yes-mpeg-ts-is-still-relevant-today/",
       "is_new": true
     },
     {
@@ -28,8 +63,100 @@
       "is_new": false
     },
     {
-      "title": "FTL: A new operating system for clouds",
-      "link": "https://ftl-os.org/",
+      "title": "Court agrees with EFF: Utah's VPN law demands a technical impossibility",
+      "link": "https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility",
+      "is_new": false
+    },
+    {
+      "title": "Mike Tomlin spent 12 years building a Minecraft city",
+      "link": "https://www.nytimes.com/athletic/7648198/2026/10/01/mike-tomlin-minecraft-nfl-coach/",
+      "is_new": false
+    },
+    {
+      "title": "Show HN: Our space game has a built-in RISC-V emulator that runs Linux",
+      "link": "https://againstallodds.games/blog/2026/10/03/our-risc-v-emulator-pasriscv/",
+      "is_new": true
+    },
+    {
+      "title": "City building games have a Soul Problem pt.2",
+      "link": "https://www.radical-elements.com/minor-epiphanies/city-building-games-have-a-soul-problem-pt2",
+      "is_new": true
+    },
+    {
+      "title": "Apple Pass Designer",
+      "link": "https://developer.apple.com/pass-designer/",
+      "is_new": false
+    },
+    {
+      "title": "Pop!_OS bans AI-generated code from much of its codebase",
+      "link": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases/",
+      "is_new": true
+    },
+    {
+      "title": "Holes (1996-2025)",
+      "link": "https://plato.stanford.edu/entries/holes/",
+      "is_new": true
+    },
+    {
+      "title": "Cloudflare OHTTP gateway",
+      "link": "https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/",
+      "is_new": false
+    },
+    {
+      "title": "Celebrating the 100th birthday of the kidney donated to him as a teenager",
+      "link": "https://www.whec.com/top-news/webster-man-celebrating-the-100th-birthday-of-the-kidney-his-mom-donated-to-him-as-a-teenager/",
+      "is_new": true
+    },
+    {
+      "title": "A 12-year sequence of telescope images of a star and four planets orbiting",
+      "link": "https://bsky.app/profile/theplanetaryguy.com/post/3mwucf5ert22f",
+      "is_new": false
+    },
+    {
+      "title": "The characters of plastics (2024)",
+      "link": "https://yarchive.net/blog/plastics/",
+      "is_new": true
+    },
+    {
+      "title": "Loss of cell identity drives human aging: Two new papers",
+      "link": "https://erictopol.substack.com/p/loss-of-cell-identity-drives-human",
+      "is_new": false
+    },
+    {
+      "title": "An Update on Orion for Linux and Windows",
+      "link": "https://blog.kagi.com/update-orion-linux-windows",
+      "is_new": false
+    },
+    {
+      "title": "FLUX 3 Image",
+      "link": "https://bfl.ai/models/flux-3-image",
+      "is_new": false
+    },
+    {
+      "title": "Greg Kroah-Hartman – Security in the LLM Age [video]",
+      "link": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
+      "is_new": false
+    },
+    {
+      "title": "From the creator of Redis; run LLM locally with ds4",
+      "link": "https://dwarfstar.sh/",
+      "is_new": false
+    },
+    {
+      "title": "Show HN: Offrun – manage every coding agent from one workspace",
+      "link": "https://offrun.dev/",
+      "is_new": false
+    },
+    {
+      "title": "With most information hidden, the game Stratego had stumped AI until now",
+      "link": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
+      "is_new": false
+    }
+  ],
+  "removed": [
+    {
+      "title": "Kolibri is an open-weight LLM from Aleph Alpha for German and English",
+      "link": "https://tej.as/blog/aleph-alpha-kolibri",
       "is_new": true
     },
     {
@@ -43,73 +170,13 @@
       "is_new": true
     },
     {
-      "title": "Court agrees with EFF: Utah's VPN law demands a technical impossibility",
-      "link": "https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility",
-      "is_new": false
-    },
-    {
-      "title": "Apple Pass Designer",
-      "link": "https://developer.apple.com/pass-designer/",
-      "is_new": false
-    },
-    {
-      "title": "Mike Tomlin spent 12 years building a Minecraft city",
-      "link": "https://www.nytimes.com/athletic/7648198/2026/10/01/mike-tomlin-minecraft-nfl-coach/",
-      "is_new": false
-    },
-    {
       "title": "Great Question (YC W21) Is Hiring Product Engineers in Canada (Remote)",
       "link": "https://www.ycombinator.com/companies/great-question/jobs/agEqBYD-product-engineer-ai-full-stack",
       "is_new": true
     },
     {
-      "title": "Show HN: Offrun – manage every coding agent from one workspace",
-      "link": "https://offrun.dev/",
-      "is_new": false
-    },
-    {
-      "title": "An Update on Orion for Linux and Windows",
-      "link": "https://blog.kagi.com/update-orion-linux-windows",
-      "is_new": false
-    },
-    {
-      "title": "Cloudflare OHTTP gateway",
-      "link": "https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/",
-      "is_new": false
-    },
-    {
-      "title": "A 12-year sequence of telescope images of a star and four planets orbiting",
-      "link": "https://bsky.app/profile/theplanetaryguy.com/post/3mwucf5ert22f",
-      "is_new": false
-    },
-    {
-      "title": "Loss of cell identity drives human aging: Two new papers",
-      "link": "https://erictopol.substack.com/p/loss-of-cell-identity-drives-human",
-      "is_new": false
-    },
-    {
       "title": "Make Tmux the OS",
       "link": "https://matduggan.com/what-does-my-dream-os-ui-look-like/",
-      "is_new": false
-    },
-    {
-      "title": "FLUX 3 Image",
-      "link": "https://bfl.ai/models/flux-3-image",
-      "is_new": false
-    },
-    {
-      "title": "From the creator of Redis; run LLM locally with ds4",
-      "link": "https://dwarfstar.sh/",
-      "is_new": false
-    },
-    {
-      "title": "Greg Kroah-Hartman – Security in the LLM Age [video]",
-      "link": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
-      "is_new": false
-    },
-    {
-      "title": "With most information hidden, the game Stratego had stumped AI until now",
-      "link": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
       "is_new": false
     },
     {
@@ -151,53 +218,6 @@
       "title": "One month coding with GLM 5.3 Flash",
       "link": "https://wagtail.org/blog/one-month-on-glm-53-flash/",
       "is_new": false
-    }
-  ],
-  "removed": [
-    {
-      "title": "cp: -r or -R?",
-      "link": "https://movq.de/blog/postings/2026-09-30/0/POSTING-en.html",
-      "is_new": true
-    },
-    {
-      "title": "The Forgetful CPU (Linux on M4)",
-      "link": "https://yuka.dev/blog-2026-10-02-linux-m4.html",
-      "is_new": false
-    },
-    {
-      "title": "Barcodes are about to go extinct",
-      "link": "https://thehustle.co/originals/why-barcodes-are-about-to-go-extinct",
-      "is_new": true
-    },
-    {
-      "title": "The Nintendo 64 Partner-N64 Development Kit",
-      "link": "https://www.behindthecode.ca/partner-n64pc-dev-kit/",
-      "is_new": true
-    },
-    {
-      "title": "The Legend of von Neumann (1973) [pdf]",
-      "link": "https://gwern.net/doc/math/1973-halmos.pdf",
-      "is_new": false
-    },
-    {
-      "title": "Gemini ending free use of Flash and Pro models",
-      "link": "https://www.reddit.com/r/GeminiAI/comments/1wwalmc/wtf_google_getting_rid_of_free_gemini_flash_and/",
-      "is_new": true
-    },
-    {
-      "title": "Venice’s failed war against Constantinople led to the first bond market",
-      "link": "https://bigthink.com/books/a-fabulous-debt/",
-      "is_new": false
-    },
-    {
-      "title": "Billions of triangles redux",
-      "link": "https://zeux.io/2026/09/30/billions-of-triangles-redux/",
-      "is_new": false
-    },
-    {
-      "title": "Programming the ENIAC (2011)",
-      "link": "https://www.columbia.edu/cu/computinghistory/eniac.html",
-      "is_new": true
     }
   ]
 }
