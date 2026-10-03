@@ -1,15 +1,15 @@
 {
-  "crawled_at": "2026-10-03 14:59",
-  "prev_crawled_at": "2026-10-03 09:07",
+  "crawled_at": "2026-10-03 20:29",
+  "prev_crawled_at": "2026-10-03 14:59",
   "items": [
     {
-      "title": "Newgrounds.com – A community of games, music, and art",
-      "link": "https://www.newgrounds.com/",
+      "title": "GitHub's new dashboard experience now the default",
+      "link": "https://github.blog/changelog/2026-10-01-new-dashboard-experience-now-the-default/",
       "is_new": true
     },
     {
-      "title": "The Forgetful CPU (Linux on M4)",
-      "link": "https://yuka.dev/blog-2026-10-02-linux-m4.html",
+      "title": "Newgrounds.com – A community of games, music, and art",
+      "link": "https://www.newgrounds.com/",
       "is_new": false
     },
     {
@@ -18,18 +18,23 @@
       "is_new": false
     },
     {
+      "title": "Apple Pass Designer",
+      "link": "https://developer.apple.com/pass-designer/",
+      "is_new": false
+    },
+    {
+      "title": "An Update on Orion for Linux and Windows",
+      "link": "https://blog.kagi.com/update-orion-linux-windows",
+      "is_new": true
+    },
+    {
       "title": "Mike Tomlin spent 12 years building a Minecraft city",
       "link": "https://www.nytimes.com/athletic/7648198/2026/10/01/mike-tomlin-minecraft-nfl-coach/",
       "is_new": false
     },
     {
-      "title": "Extra Big Ass Intelligence",
-      "link": "https://www.extrabigassintelligence.com/",
-      "is_new": true
-    },
-    {
-      "title": "Apple Pass Designer",
-      "link": "https://developer.apple.com/pass-designer/",
+      "title": "Cloudflare OHTTP gateway",
+      "link": "https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/",
       "is_new": false
     },
     {
@@ -38,9 +43,14 @@
       "is_new": false
     },
     {
-      "title": "Cloudflare OHTTP gateway",
-      "link": "https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/",
+      "title": "cp: -r or -R?",
+      "link": "https://movq.de/blog/postings/2026-09-30/0/POSTING-en.html",
       "is_new": true
+    },
+    {
+      "title": "The Forgetful CPU (Linux on M4)",
+      "link": "https://yuka.dev/blog-2026-10-02-linux-m4.html",
+      "is_new": false
     },
     {
       "title": "Loss of cell identity drives human aging: Two new papers",
@@ -48,23 +58,18 @@
       "is_new": false
     },
     {
-      "title": "Muse Gadgets",
-      "link": "https://gadgets.muse.ai",
+      "title": "From the creator of Redis; run LLM locally with ds4",
+      "link": "https://dwarfstar.sh/",
       "is_new": false
     },
     {
-      "title": "With most information hidden, the game Stratego had stumped AI until now",
-      "link": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
-      "is_new": false
-    },
-    {
-      "title": "Things that apparently cause cancer",
-      "link": "https://www.breakthroughjournal.org/p/things-that-apparently-cause-cancer",
+      "title": "Barcodes are about to go extinct",
+      "link": "https://thehustle.co/originals/why-barcodes-are-about-to-go-extinct",
       "is_new": true
     },
     {
-      "title": "From the creator of Redis; run LLM locally with ds4",
-      "link": "https://dwarfstar.sh/",
+      "title": "Greg Kroah-Hartman – Security in the LLM Age [video]",
+      "link": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
       "is_new": false
     },
     {
@@ -73,19 +78,39 @@
       "is_new": false
     },
     {
+      "title": "Extra Big Ass Intelligence",
+      "link": "https://www.extrabigassintelligence.com/",
+      "is_new": false
+    },
+    {
+      "title": "With most information hidden, the game Stratego had stumped AI until now",
+      "link": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
+      "is_new": false
+    },
+    {
+      "title": "Muse Gadgets",
+      "link": "https://gadgets.muse.ai",
+      "is_new": false
+    },
+    {
       "title": "Updates to Full Disk Access in macOS",
       "link": "https://developer.apple.com/news/?id=p6zjojqw",
       "is_new": false
     },
     {
-      "title": "Greg Kroah-Hartman – Security in the LLM Age [video]",
-      "link": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
-      "is_new": false
+      "title": "Show HN: Offrun – manage every coding agent from one workspace",
+      "link": "https://offrun.dev/",
+      "is_new": true
     },
     {
-      "title": "There's a new sea spider in town",
-      "link": "https://nautil.us/theres-a-new-sea-spider-in-town-1285470",
+      "title": "One month coding with GLM 5.3 Flash",
+      "link": "https://wagtail.org/blog/one-month-on-glm-53-flash/",
       "is_new": true
+    },
+    {
+      "title": "Show HN: Giving Opus 5.5 a simulated paint canvas",
+      "link": "https://stillwet.art/",
+      "is_new": false
     },
     {
       "title": "Sites in ChatGPT",
@@ -93,9 +118,51 @@
       "is_new": false
     },
     {
+      "title": "The Nintendo 64 Partner-N64 Development Kit",
+      "link": "https://www.behindthecode.ca/partner-n64pc-dev-kit/",
+      "is_new": true
+    },
+    {
       "title": "The Legend of von Neumann (1973) [pdf]",
       "link": "https://gwern.net/doc/math/1973-halmos.pdf",
       "is_new": false
+    },
+    {
+      "title": "Gemini ending free use of Flash and Pro models",
+      "link": "https://www.reddit.com/r/GeminiAI/comments/1wwalmc/wtf_google_getting_rid_of_free_gemini_flash_and/",
+      "is_new": true
+    },
+    {
+      "title": "Make Tmux the OS",
+      "link": "https://matduggan.com/what-does-my-dream-os-ui-look-like/",
+      "is_new": true
+    },
+    {
+      "title": "Venice’s failed war against Constantinople led to the first bond market",
+      "link": "https://bigthink.com/books/a-fabulous-debt/",
+      "is_new": false
+    },
+    {
+      "title": "Billions of triangles redux",
+      "link": "https://zeux.io/2026/09/30/billions-of-triangles-redux/",
+      "is_new": false
+    },
+    {
+      "title": "Programming the ENIAC (2011)",
+      "link": "https://www.columbia.edu/cu/computinghistory/eniac.html",
+      "is_new": true
+    }
+  ],
+  "removed": [
+    {
+      "title": "Things that apparently cause cancer",
+      "link": "https://www.breakthroughjournal.org/p/things-that-apparently-cause-cancer",
+      "is_new": true
+    },
+    {
+      "title": "There's a new sea spider in town",
+      "link": "https://nautil.us/theres-a-new-sea-spider-in-town-1285470",
+      "is_new": true
     },
     {
       "title": "NTSB Preliminary Report: Prime Air 767 Runway Overrun [pdf]",
@@ -108,11 +175,6 @@
       "is_new": true
     },
     {
-      "title": "Show HN: Giving Opus 5.5 a simulated paint canvas",
-      "link": "https://stillwet.art/",
-      "is_new": false
-    },
-    {
       "title": "Where Is the Planet",
       "link": "http://whereistheplanet.com",
       "is_new": true
@@ -123,18 +185,8 @@
       "is_new": true
     },
     {
-      "title": "Venice’s failed war against Constantinople led to the first bond market",
-      "link": "https://bigthink.com/books/a-fabulous-debt/",
-      "is_new": false
-    },
-    {
       "title": "What if AI worked at 1.000.000 tokens per seconds?",
       "link": "https://www.echohive.ai/one-million-tokens-per-second",
-      "is_new": true
-    },
-    {
-      "title": "Billions of Triangles Redux",
-      "link": "https://zeux.io/2026/09/30/billions-of-triangles-redux/",
       "is_new": true
     },
     {
@@ -150,63 +202,6 @@
     {
       "title": "Anatomy of a Lean proof for software engineers",
       "link": "https://agostbiro.net/posts/2026-10-anatomy-of-a-lean-proof/",
-      "is_new": false
-    }
-  ],
-  "removed": [
-    {
-      "title": "Zig v0.17.0",
-      "link": "https://ziglang.org/download/0.17.0/release-notes.html",
-      "is_new": true
-    },
-    {
-      "title": "Every SaaS business will become a harness around a model",
-      "link": "https://blog.sshh.io/p/the-harness-is-the-company",
-      "is_new": true
-    },
-    {
-      "title": "One month coding with GLM 5.3 Flash",
-      "link": "https://wagtail.org/blog/one-month-on-glm-53-flash/",
-      "is_new": false
-    },
-    {
-      "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
-      "link": "https://allenai.org/blog/astabrief",
-      "is_new": true
-    },
-    {
-      "title": "Our Project Suncatcher prototype satellite is in orbit",
-      "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-prototype/",
-      "is_new": false
-    },
-    {
-      "title": "Philip Sidney and the Extreme (Dis)Graces of the Parenthesis",
-      "link": "https://publicdomainreview.org/essay/philip-sidney-and-the-extreme-disgraces-of-the-parenthesis/",
-      "is_new": true
-    },
-    {
-      "title": "STS-51-F Abort-to-Orbit (1985)",
-      "link": "https://en.wikipedia.org/wiki/STS-51-F",
-      "is_new": false
-    },
-    {
-      "title": "The first packet sent via RFC1149 avian carrier is up for auction at Christie's",
-      "link": "https://onlineonly.christies.com/s/fine-printed-books-manuscripts-science/carrier-pigeon-internet-protocol-150/325216",
-      "is_new": false
-    },
-    {
-      "title": "Show HN: Pyxel – A Python retro game engine with built-in art and sound editors",
-      "link": "https://github.com/kitao/pyxel",
-      "is_new": false
-    },
-    {
-      "title": "F.02 Decommission",
-      "link": "https://www.figure.ai/news/f-02-decommission",
-      "is_new": false
-    },
-    {
-      "title": "On social reality in China",
-      "link": "https://www.lesswrong.com/posts/b5cSYh4emQb2qrGmK/on-social-reality-in-china",
       "is_new": false
     }
   ]
