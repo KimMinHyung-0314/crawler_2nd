@@ -1,16 +1,46 @@
 {
-  "crawled_at": "2026-10-03 20:29",
-  "prev_crawled_at": "2026-10-03 14:59",
+  "crawled_at": "2026-10-04 00:38",
+  "prev_crawled_at": "2026-10-03 20:29",
   "items": [
     {
-      "title": "GitHub's new dashboard experience now the default",
-      "link": "https://github.blog/changelog/2026-10-01-new-dashboard-experience-now-the-default/",
+      "title": "Kolibri is an open-weight LLM from Aleph Alpha for German and English",
+      "link": "https://tej.as/blog/aleph-alpha-kolibri",
+      "is_new": true
+    },
+    {
+      "title": "Woking Electrical Control Room (2016)",
+      "link": "http://www.darbiansphotography.com/woking-electrical-control-room-urbex",
+      "is_new": true
+    },
+    {
+      "title": "Kolibri Has Landed: A Sovereign Open-Weight Model",
+      "link": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
+      "is_new": true
+    },
+    {
+      "title": "C++ Insights – See your source code with the eyes of a Compiler",
+      "link": "https://github.com/andreasfertig/cppinsights",
       "is_new": true
     },
     {
       "title": "Newgrounds.com – A community of games, music, and art",
       "link": "https://www.newgrounds.com/",
       "is_new": false
+    },
+    {
+      "title": "FTL: A new operating system for clouds",
+      "link": "https://ftl-os.org/",
+      "is_new": true
+    },
+    {
+      "title": "What is going on with ceiling fans",
+      "link": "https://mcmansionhell.com/post/829127919552151552/what-is-going-on-with-ceiling-fans",
+      "is_new": true
+    },
+    {
+      "title": "The Escalation of War in Ethiopia",
+      "link": "https://www.africanistperspective.com/p/on-the-escalation-of-war-in-ethiopia",
+      "is_new": true
     },
     {
       "title": "Court agrees with EFF: Utah's VPN law demands a technical impossibility",
@@ -23,13 +53,23 @@
       "is_new": false
     },
     {
-      "title": "An Update on Orion for Linux and Windows",
-      "link": "https://blog.kagi.com/update-orion-linux-windows",
+      "title": "Mike Tomlin spent 12 years building a Minecraft city",
+      "link": "https://www.nytimes.com/athletic/7648198/2026/10/01/mike-tomlin-minecraft-nfl-coach/",
+      "is_new": false
+    },
+    {
+      "title": "Great Question (YC W21) Is Hiring Product Engineers in Canada (Remote)",
+      "link": "https://www.ycombinator.com/companies/great-question/jobs/agEqBYD-product-engineer-ai-full-stack",
       "is_new": true
     },
     {
-      "title": "Mike Tomlin spent 12 years building a Minecraft city",
-      "link": "https://www.nytimes.com/athletic/7648198/2026/10/01/mike-tomlin-minecraft-nfl-coach/",
+      "title": "Show HN: Offrun – manage every coding agent from one workspace",
+      "link": "https://offrun.dev/",
+      "is_new": false
+    },
+    {
+      "title": "An Update on Orion for Linux and Windows",
+      "link": "https://blog.kagi.com/update-orion-linux-windows",
       "is_new": false
     },
     {
@@ -43,33 +83,13 @@
       "is_new": false
     },
     {
-      "title": "cp: -r or -R?",
-      "link": "https://movq.de/blog/postings/2026-09-30/0/POSTING-en.html",
-      "is_new": true
-    },
-    {
-      "title": "The Forgetful CPU (Linux on M4)",
-      "link": "https://yuka.dev/blog-2026-10-02-linux-m4.html",
-      "is_new": false
-    },
-    {
       "title": "Loss of cell identity drives human aging: Two new papers",
       "link": "https://erictopol.substack.com/p/loss-of-cell-identity-drives-human",
       "is_new": false
     },
     {
-      "title": "From the creator of Redis; run LLM locally with ds4",
-      "link": "https://dwarfstar.sh/",
-      "is_new": false
-    },
-    {
-      "title": "Barcodes are about to go extinct",
-      "link": "https://thehustle.co/originals/why-barcodes-are-about-to-go-extinct",
-      "is_new": true
-    },
-    {
-      "title": "Greg Kroah-Hartman – Security in the LLM Age [video]",
-      "link": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
+      "title": "Make Tmux the OS",
+      "link": "https://matduggan.com/what-does-my-dream-os-ui-look-like/",
       "is_new": false
     },
     {
@@ -78,8 +98,13 @@
       "is_new": false
     },
     {
-      "title": "Extra Big Ass Intelligence",
-      "link": "https://www.extrabigassintelligence.com/",
+      "title": "From the creator of Redis; run LLM locally with ds4",
+      "link": "https://dwarfstar.sh/",
+      "is_new": false
+    },
+    {
+      "title": "Greg Kroah-Hartman – Security in the LLM Age [video]",
+      "link": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
       "is_new": false
     },
     {
@@ -88,24 +113,19 @@
       "is_new": false
     },
     {
+      "title": "On building a worm detector",
+      "link": "https://bencology.bearblog.dev/mapping-individual-and-collective-worm-movements/",
+      "is_new": true
+    },
+    {
+      "title": "GitHub's new dashboard experience now the default",
+      "link": "https://github.blog/changelog/2026-10-01-new-dashboard-experience-now-the-default/",
+      "is_new": false
+    },
+    {
       "title": "Muse Gadgets",
       "link": "https://gadgets.muse.ai",
       "is_new": false
-    },
-    {
-      "title": "Updates to Full Disk Access in macOS",
-      "link": "https://developer.apple.com/news/?id=p6zjojqw",
-      "is_new": false
-    },
-    {
-      "title": "Show HN: Offrun – manage every coding agent from one workspace",
-      "link": "https://offrun.dev/",
-      "is_new": true
-    },
-    {
-      "title": "One month coding with GLM 5.3 Flash",
-      "link": "https://wagtail.org/blog/one-month-on-glm-53-flash/",
-      "is_new": true
     },
     {
       "title": "Show HN: Giving Opus 5.5 a simulated paint canvas",
@@ -116,6 +136,38 @@
       "title": "Sites in ChatGPT",
       "link": "https://chatgpt.com/features/sites/",
       "is_new": false
+    },
+    {
+      "title": "Extra Big Ass Intelligence",
+      "link": "https://www.extrabigassintelligence.com/",
+      "is_new": false
+    },
+    {
+      "title": "Updates to Full Disk Access in macOS",
+      "link": "https://developer.apple.com/news/?id=p6zjojqw",
+      "is_new": false
+    },
+    {
+      "title": "One month coding with GLM 5.3 Flash",
+      "link": "https://wagtail.org/blog/one-month-on-glm-53-flash/",
+      "is_new": false
+    }
+  ],
+  "removed": [
+    {
+      "title": "cp: -r or -R?",
+      "link": "https://movq.de/blog/postings/2026-09-30/0/POSTING-en.html",
+      "is_new": true
+    },
+    {
+      "title": "The Forgetful CPU (Linux on M4)",
+      "link": "https://yuka.dev/blog-2026-10-02-linux-m4.html",
+      "is_new": false
+    },
+    {
+      "title": "Barcodes are about to go extinct",
+      "link": "https://thehustle.co/originals/why-barcodes-are-about-to-go-extinct",
+      "is_new": true
     },
     {
       "title": "The Nintendo 64 Partner-N64 Development Kit",
@@ -133,11 +185,6 @@
       "is_new": true
     },
     {
-      "title": "Make Tmux the OS",
-      "link": "https://matduggan.com/what-does-my-dream-os-ui-look-like/",
-      "is_new": true
-    },
-    {
       "title": "Venice’s failed war against Constantinople led to the first bond market",
       "link": "https://bigthink.com/books/a-fabulous-debt/",
       "is_new": false
@@ -151,58 +198,6 @@
       "title": "Programming the ENIAC (2011)",
       "link": "https://www.columbia.edu/cu/computinghistory/eniac.html",
       "is_new": true
-    }
-  ],
-  "removed": [
-    {
-      "title": "Things that apparently cause cancer",
-      "link": "https://www.breakthroughjournal.org/p/things-that-apparently-cause-cancer",
-      "is_new": true
-    },
-    {
-      "title": "There's a new sea spider in town",
-      "link": "https://nautil.us/theres-a-new-sea-spider-in-town-1285470",
-      "is_new": true
-    },
-    {
-      "title": "NTSB Preliminary Report: Prime Air 767 Runway Overrun [pdf]",
-      "link": "https://www.ntsb.gov/investigations/Documents/DCA26MA352%20Prelim.pdf",
-      "is_new": true
-    },
-    {
-      "title": "Museum of Time-Based Art",
-      "link": "https://motba.art",
-      "is_new": true
-    },
-    {
-      "title": "Where Is the Planet",
-      "link": "http://whereistheplanet.com",
-      "is_new": true
-    },
-    {
-      "title": "OKI Develops 124-Layer PCB Technology",
-      "link": "https://www.oki.com/global/press/2025/z25006e.html",
-      "is_new": true
-    },
-    {
-      "title": "What if AI worked at 1.000.000 tokens per seconds?",
-      "link": "https://www.echohive.ai/one-million-tokens-per-second",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: Made an open-source Lego AI generator",
-      "link": "https://github.com/anteloc/ldraw-nova",
-      "is_new": false
-    },
-    {
-      "title": "Blogging with Gleam, Org-Mode and Pandoc",
-      "link": "https://byzantine-systems.github.io/blogging-with-gleam-org-mode-and-pandoc/",
-      "is_new": false
-    },
-    {
-      "title": "Anatomy of a Lean proof for software engineers",
-      "link": "https://agostbiro.net/posts/2026-10-anatomy-of-a-lean-proof/",
-      "is_new": false
     }
   ]
 }
