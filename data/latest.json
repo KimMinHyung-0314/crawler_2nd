@@ -1,16 +1,36 @@
 {
-  "crawled_at": "2026-10-04 07:03",
-  "prev_crawled_at": "2026-10-04 03:58",
+  "crawled_at": "2026-10-04 11:21",
+  "prev_crawled_at": "2026-10-04 07:03",
   "items": [
+    {
+      "title": "We're going to need default hard budget caps on pretty much everything",
+      "link": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
+      "is_new": true
+    },
+    {
+      "title": "Bob Cringely Has Died",
+      "link": "https://news.ycombinator.com/item?id=49949438",
+      "is_new": true
+    },
     {
       "title": "Hole Punch: Sling your spaceship around gravitational fields",
       "link": "https://notoriousbfg.com/hole-punch/",
       "is_new": false
     },
     {
-      "title": "Getting the most out of Opus 5.5 in Claude and Claude Code",
-      "link": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5/",
+      "title": "Treachery in the Rodin Museum 3D scan verdict",
+      "link": "https://cosmowenman.substack.com/p/rodin-museum-3d-scan-verdict",
       "is_new": true
+    },
+    {
+      "title": "The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux",
+      "link": "https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU",
+      "is_new": true
+    },
+    {
+      "title": "Reasons I didn't become an EMT, ranked",
+      "link": "https://ben.stolovitz.com/posts/reasons-not-emt-ranked/",
+      "is_new": false
     },
     {
       "title": "Celebrating the 100th birthday of the kidney donated to him as a teenager",
@@ -18,8 +38,8 @@
       "is_new": false
     },
     {
-      "title": "We want you to build the next Git platform on Cloudflare",
-      "link": "https://blog.cloudflare.com/next-git-platform-on-cloudflare/",
+      "title": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
+      "link": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
       "is_new": true
     },
     {
@@ -28,8 +48,33 @@
       "is_new": false
     },
     {
-      "title": "Show HN: Pi pod – Run your pi coding agent in sandboxes on your own server",
-      "link": "https://pipod.dev/",
+      "title": "Math's pedagogical curse – Grant Sanderson [video]",
+      "link": "https://www.youtube.com/watch?v=UOuxo6SA8Uc",
+      "is_new": true
+    },
+    {
+      "title": "So You Think You Could Be an Electrician?",
+      "link": "https://asteriskmag.com/issues/15/so-you-think-you-could-be-an-electrician",
+      "is_new": true
+    },
+    {
+      "title": "New York City should carefully measure a new tree",
+      "link": "https://blog.willmeye.rs/new-york-city-should-carefully-measure-a-new-tree/",
+      "is_new": true
+    },
+    {
+      "title": "Your body of work thinks back at you",
+      "link": "https://photoni.st/index.php/2026/09/25/your-body-of-work-thinks-back-at-you/",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: Thoreau BASIC – What if BASIC hadn't gone out of fashion?",
+      "link": "https://thoreaubasic.com/",
+      "is_new": true
+    },
+    {
+      "title": "Getting the most out of Opus 5.5 in Claude and Claude Code",
+      "link": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5/",
       "is_new": false
     },
     {
@@ -38,14 +83,44 @@
       "is_new": false
     },
     {
-      "title": "RSS Feed Best Practices (2022)",
-      "link": "https://kevincox.ca/2022/05/06/rss-feed-best-practices/",
+      "title": "Surely you have ultra-wideband radios on your bins too?",
+      "link": "https://sjg.io/writing/binrange-have-you-actually-put-the-bins-out/",
+      "is_new": false
+    },
+    {
+      "title": "Apple's \"Clean Design\" Is Stupidity When It Comes to Hiding Fire Extinguishers",
+      "link": "https://www.gadgetreview.com/apples-clean-design-is-stupidity-when-it-comes-to-hiding-fire-extinguishers",
       "is_new": true
     },
     {
-      "title": "Vx – One Language, Every Chip",
-      "link": "https://vxlang.org/",
+      "title": "Federal judge calls Flock 'indiscriminate mass surveillance'",
+      "link": "https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/",
       "is_new": true
+    },
+    {
+      "title": "Docker has always used microVMs (well since 2016)",
+      "link": "https://dave.recoil.org/docker-has-always-used-microvms/",
+      "is_new": true
+    },
+    {
+      "title": "Agents don't need memory, they need documentation",
+      "link": "https://liao.gg/blog/agents-dont-need-memory",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: Pi pod – Run your pi coding agent in sandboxes on your own server",
+      "link": "https://pipod.dev/",
+      "is_new": false
+    },
+    {
+      "title": "Memory-Safe WebP Decoding",
+      "link": "https://halide.cx/blog/wpd/",
+      "is_new": true
+    },
+    {
+      "title": "RetailReady (YC W24) Is Hiring",
+      "link": "https://www.ycombinator.com/companies/retailready/jobs/bFcgIe4-implementations",
+      "is_new": false
     },
     {
       "title": "Woking Electrical Control Room (2016)",
@@ -53,18 +128,18 @@
       "is_new": false
     },
     {
-      "title": "Surely you have ultra-wideband radios on your bins too?",
-      "link": "https://sjg.io/writing/binrange-have-you-actually-put-the-bins-out/",
-      "is_new": true
+      "title": "RSS Feed Best Practices (2022)",
+      "link": "https://kevincox.ca/2022/05/06/rss-feed-best-practices/",
+      "is_new": false
     },
     {
-      "title": "Gboard Conveyor Belt Version",
-      "link": "https://github.com/google/mozc-devices/tree/main/mozc-conveyorbelt",
-      "is_new": true
+      "title": "How to hack time, with C2PA",
+      "link": "https://www.da.vidbuchanan.co.uk/blog/hacking-time.html",
+      "is_new": false
     },
     {
-      "title": "Reasons I didn't become an EMT, ranked",
-      "link": "https://ben.stolovitz.com/posts/reasons-not-emt-ranked/",
+      "title": "Automating my 35mm film scanning pipeline",
+      "link": "https://shannadige.com/blog/darkroom/",
       "is_new": true
     },
     {
@@ -73,14 +148,26 @@
       "is_new": false
     },
     {
-      "title": "How to hack time, with C2PA",
-      "link": "https://www.da.vidbuchanan.co.uk/blog/hacking-time.html",
+      "title": "The Softmax function and its derivative",
+      "link": "https://eli.thegreenplace.net/2016/the-softmax-function-and-its-derivative/",
+      "is_new": true
+    }
+  ],
+  "removed": [
+    {
+      "title": "We want you to build the next Git platform on Cloudflare",
+      "link": "https://blog.cloudflare.com/next-git-platform-on-cloudflare/",
       "is_new": true
     },
     {
-      "title": "RetailReady (YC W24) Is Hiring",
-      "link": "https://www.ycombinator.com/companies/retailready/jobs/bFcgIe4-implementations",
-      "is_new": false
+      "title": "Vx – One Language, Every Chip",
+      "link": "https://vxlang.org/",
+      "is_new": true
+    },
+    {
+      "title": "Gboard Conveyor Belt Version",
+      "link": "https://github.com/google/mozc-devices/tree/main/mozc-conveyorbelt",
+      "is_new": true
     },
     {
       "title": "Newgrounds.com – A community of games, music, and art",
@@ -151,68 +238,6 @@
       "title": "At the Conformation Show: Chasing the Ideal Dog",
       "link": "https://www.theparisreview.org/blog/2026/09/03/the-conformation-show-and-the-pursuit-of-the-ideal-dog/",
       "is_new": true
-    }
-  ],
-  "removed": [
-    {
-      "title": "ADHD, autism or complex trauma? [pdf]",
-      "link": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/30CC4826561366615BFAEC807CDE28A7/S0007125026108046a.pdf/adhd-autism-or-complex-trauma-the-complicated-nature-of-the-question.pdf",
-      "is_new": true
-    },
-    {
-      "title": "Kolibri – Tech Report [pdf]",
-      "link": "https://aleph-alpha.com/downloads/tech-report.pdf",
-      "is_new": true
-    },
-    {
-      "title": "Court agrees with EFF: Utah's VPN law demands a technical impossibility",
-      "link": "https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility",
-      "is_new": false
-    },
-    {
-      "title": "City building games have a Soul Problem pt.2",
-      "link": "https://www.radical-elements.com/minor-epiphanies/city-building-games-have-a-soul-problem-pt2",
-      "is_new": true
-    },
-    {
-      "title": "Pop!_OS bans AI-generated code from much of its codebase",
-      "link": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases/",
-      "is_new": true
-    },
-    {
-      "title": "The characters of plastics (2024)",
-      "link": "https://yarchive.net/blog/plastics/",
-      "is_new": true
-    },
-    {
-      "title": "An Update on Orion for Linux and Windows",
-      "link": "https://blog.kagi.com/update-orion-linux-windows",
-      "is_new": false
-    },
-    {
-      "title": "FLUX 3 Image",
-      "link": "https://bfl.ai/models/flux-3-image",
-      "is_new": false
-    },
-    {
-      "title": "Greg Kroah-Hartman – Security in the LLM Age [video]",
-      "link": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
-      "is_new": false
-    },
-    {
-      "title": "From the creator of Redis; run LLM locally with ds4",
-      "link": "https://dwarfstar.sh/",
-      "is_new": false
-    },
-    {
-      "title": "Show HN: Offrun – manage every coding agent from one workspace",
-      "link": "https://offrun.dev/",
-      "is_new": false
-    },
-    {
-      "title": "With most information hidden, the game Stratego had stumped AI until now",
-      "link": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
-      "is_new": false
     }
   ]
 }
