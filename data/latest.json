@@ -1,6 +1,6 @@
 {
-  "crawled_at": "2026-10-05 03:59",
-  "prev_crawled_at": "2026-10-05 00:06",
+  "crawled_at": "2026-10-05 07:17",
+  "prev_crawled_at": "2026-10-05 03:59",
   "items": [
     {
       "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
@@ -8,10 +8,152 @@
       "is_new": false
     },
     {
-      "title": "A map of every lighthouse",
-      "link": "https://mapped.earth/lighthouses/world",
+      "title": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
+      "link": "https://github.com/omlahore/RemoveMacAI",
       "is_new": true
     },
+    {
+      "title": "Improper redaction reveals Google Data Center water and electricity usage",
+      "link": "https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/",
+      "is_new": true
+    },
+    {
+      "title": "A map of every lighthouse",
+      "link": "https://mapped.earth/lighthouses/world",
+      "is_new": false
+    },
+    {
+      "title": "Homa: The end of TCP for AI clusters [video]",
+      "link": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
+      "is_new": true
+    },
+    {
+      "title": "Infidel Goes Wild",
+      "link": "https://blog.zarfhome.com/2026/10/infidel-goes-wild",
+      "is_new": true
+    },
+    {
+      "title": "Results from the ASIC puzzle",
+      "link": "https://blog.janestreet.com/asic-puzzle-results/",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: Build with Python – a beginner course where your code draws",
+      "link": "https://scimigo.com/en/learn/build-with-python/01-draw-with-python",
+      "is_new": true
+    },
+    {
+      "title": "All I wanted was a custom domain email",
+      "link": "https://jacobg.co/emails-at-jacobg-co/",
+      "is_new": true
+    },
+    {
+      "title": "Tell HN: Bob Cringely has died",
+      "link": "https://news.ycombinator.com/item?id=49949438",
+      "is_new": false
+    },
+    {
+      "title": "Show HN: Glashütte Trash Clock – A 30-minute pendulum clock made from trash",
+      "link": "https://niklasroy.com/gtc/",
+      "is_new": false
+    },
+    {
+      "title": "How to scale intent, quality, and artistry with AI [video]",
+      "link": "https://www.youtube.com/watch?v=GLvFTMtw4Jk",
+      "is_new": true
+    },
+    {
+      "title": "'Neanderthals Among Us' review",
+      "link": "https://www.historytoday.com/archive/review/neanderthals-among-us-peter-sahlins-review",
+      "is_new": false
+    },
+    {
+      "title": "Page Table Memory Consumption",
+      "link": "https://frn.sh/pagetables/",
+      "is_new": true
+    },
+    {
+      "title": "Incentives in Academic Research",
+      "link": "https://www.msoos.org/2026/10/incentives-in-academic-research/",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: AI search for every photo and every frame of video on macOS",
+      "link": "https://github.com/allenv0/SCM",
+      "is_new": false
+    },
+    {
+      "title": "Declaring a bird extinct: The median wait is 36 years after the last sighting",
+      "link": "https://birdshistory.com/how-long-to-declare-a-bird-extinct/",
+      "is_new": true
+    },
+    {
+      "title": "A man who listens to whales",
+      "link": "https://blue-continuum.com/the-man-who-listens-to-whales",
+      "is_new": true
+    },
+    {
+      "title": "Bill Draper has died",
+      "link": "https://www.nytimes.com/2026/09/30/technology/william-draper-dead.html",
+      "is_new": true
+    },
+    {
+      "title": "The evolution of effective altruism",
+      "link": "https://www.economist.com/international/2026/10/01/how-effective-altruism-conquered-the-world",
+      "is_new": true
+    },
+    {
+      "title": "Why don't more developers “use the platform”?",
+      "link": "https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/",
+      "is_new": false
+    },
+    {
+      "title": "Automating my 35mm film scanning pipeline",
+      "link": "https://shannadige.com/blog/darkroom/",
+      "is_new": true
+    },
+    {
+      "title": "The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux",
+      "link": "https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU",
+      "is_new": false
+    },
+    {
+      "title": "What is going on with ceiling fans",
+      "link": "https://mcmansionhell.com/post/829127919552151552/what-is-going-on-with-ceiling-fans",
+      "is_new": true
+    },
+    {
+      "title": "A browser-native classic Visual Basic VB6 IDE",
+      "link": "https://wieslawsoltes.github.io/VB6/",
+      "is_new": true
+    },
+    {
+      "title": "Xray-core concealed a certificate verification bypass vulnerability",
+      "link": "https://github.com/net4people/bbs/issues/672",
+      "is_new": true
+    },
+    {
+      "title": "cp: -r or -R?",
+      "link": "https://movq.de/blog/postings/2026-09-30/0/POSTING-en.html",
+      "is_new": true
+    },
+    {
+      "title": "Agents don't need memory, they need documentation",
+      "link": "https://liao.gg/blog/agents-dont-need-memory",
+      "is_new": false
+    },
+    {
+      "title": "Surely you have ultra-wideband radios on your bins too?",
+      "link": "https://sjg.io/writing/binrange-have-you-actually-put-the-bins-out/",
+      "is_new": true
+    },
+    {
+      "title": "Emitting metadata early makes building/checking Rust up to twice as fast",
+      "link": "https://github.com/PowderworksCode/headstart",
+      "is_new": false
+    }
+  ],
+  "removed": [
     {
       "title": "Car is a smartphone on wheels. Here's who's listening",
       "link": "https://automatictransmission.khoury.northeastern.edu/",
@@ -23,34 +165,9 @@
       "is_new": true
     },
     {
-      "title": "'Neanderthals Among Us' by Peter Sahlins Review",
-      "link": "https://www.historytoday.com/archive/review/neanderthals-among-us-peter-sahlins-review",
-      "is_new": true
-    },
-    {
       "title": "Show HN: Dataviz, ranked daily from GitHub, NPM, PyPI and CRAN",
       "link": "https://awesomedataviz.com/",
       "is_new": true
-    },
-    {
-      "title": "Tell HN: Bob Cringely has died",
-      "link": "https://news.ycombinator.com/item?id=49949438",
-      "is_new": false
-    },
-    {
-      "title": "Glashütte Trash Clock – A 30-minute pendulum clock made from trash",
-      "link": "https://niklasroy.com/gtc/",
-      "is_new": false
-    },
-    {
-      "title": "Show HN: AI search for every photo and every frame of video on macOS",
-      "link": "https://github.com/allenv0/SCM",
-      "is_new": false
-    },
-    {
-      "title": "Why don't more developers “use the platform”?",
-      "link": "https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/",
-      "is_new": false
     },
     {
       "title": "Building a RAG Pipeline for Semantic Code Search",
@@ -68,11 +185,6 @@
       "is_new": true
     },
     {
-      "title": "The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux",
-      "link": "https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU",
-      "is_new": false
-    },
-    {
       "title": "The Heilbronn Problem",
       "link": "https://math.tejstead.com/heilbronn/",
       "is_new": false
@@ -81,16 +193,6 @@
       "title": "A parasitic Fibonacci computation inside /usr/bin/top",
       "link": "https://seriot.ch/computation/terminfo/",
       "is_new": true
-    },
-    {
-      "title": "Emitting metadata early makes building/checking Rust up to twice as fast",
-      "link": "https://github.com/PowderworksCode/headstart",
-      "is_new": false
-    },
-    {
-      "title": "Agents don't need memory, they need documentation",
-      "link": "https://liao.gg/blog/agents-dont-need-memory",
-      "is_new": false
     },
     {
       "title": "Treachery in the Rodin Museum 3D scan verdict",
@@ -150,53 +252,6 @@
     {
       "title": "What Meta got right with Muse",
       "link": "https://metedata.substack.com/p/what-meta-got-right-with-muse",
-      "is_new": false
-    }
-  ],
-  "removed": [
-    {
-      "title": "gpuvis: GPU Trace Visualizer",
-      "link": "https://github.com/mikesart/gpuvis",
-      "is_new": true
-    },
-    {
-      "title": "So you think you could be an electrician?",
-      "link": "https://asteriskmag.com/issues/15/so-you-think-you-could-be-an-electrician",
-      "is_new": false
-    },
-    {
-      "title": "Rejection Sensitivity in Gifted and Twice-Exceptional Children",
-      "link": "https://teachyourkids.substack.com/p/rejection-sensitivity-in-gifted-and",
-      "is_new": true
-    },
-    {
-      "title": "We're working on a new RuneScape MMO",
-      "link": "https://play.runescape.com/4",
-      "is_new": false
-    },
-    {
-      "title": "Religious scholars met with Anthropic",
-      "link": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
-      "is_new": false
-    },
-    {
-      "title": "Your body of work thinks back at you",
-      "link": "https://photoni.st/index.php/2026/09/25/your-body-of-work-thinks-back-at-you/",
-      "is_new": false
-    },
-    {
-      "title": "Math's pedagogical curse – Grant Sanderson [video] (2023)",
-      "link": "https://www.youtube.com/watch?v=UOuxo6SA8Uc",
-      "is_new": false
-    },
-    {
-      "title": "How to hack time, with C2PA",
-      "link": "https://www.da.vidbuchanan.co.uk/blog/hacking-time.html",
-      "is_new": false
-    },
-    {
-      "title": "Dirty Optimization Secrets (C for Playdate)",
-      "link": "https://devforum.play.date/t/dirty-optimization-secrets-c-for-playdate/23011",
       "is_new": false
     }
   ]
