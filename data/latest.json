@@ -1,15 +1,35 @@
 {
-  "crawled_at": "2026-10-05 00:06",
-  "prev_crawled_at": "2026-10-04 18:18",
+  "crawled_at": "2026-10-05 03:59",
+  "prev_crawled_at": "2026-10-05 00:06",
   "items": [
     {
       "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
       "link": "https://github.com/Niko1221/Strata",
+      "is_new": false
+    },
+    {
+      "title": "A map of every lighthouse",
+      "link": "https://mapped.earth/lighthouses/world",
       "is_new": true
     },
     {
-      "title": "Glashütte Trash Clock – A 30-minute pendulum clock made from trash",
-      "link": "https://niklasroy.com/gtc/",
+      "title": "Car is a smartphone on wheels. Here's who's listening",
+      "link": "https://automatictransmission.khoury.northeastern.edu/",
+      "is_new": true
+    },
+    {
+      "title": "The CISA Alert: Security Beyond Solitary Confinement",
+      "link": "https://jnior.com/blog/the-cisa-alert-security-beyond-solitary-confinement/",
+      "is_new": true
+    },
+    {
+      "title": "'Neanderthals Among Us' by Peter Sahlins Review",
+      "link": "https://www.historytoday.com/archive/review/neanderthals-among-us-peter-sahlins-review",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: Dataviz, ranked daily from GitHub, NPM, PyPI and CRAN",
+      "link": "https://awesomedataviz.com/",
       "is_new": true
     },
     {
@@ -18,14 +38,14 @@
       "is_new": false
     },
     {
-      "title": "Show HN: AI search for every photo and every frame of video on macOS",
-      "link": "https://github.com/allenv0/SCM",
-      "is_new": true
+      "title": "Glashütte Trash Clock – A 30-minute pendulum clock made from trash",
+      "link": "https://niklasroy.com/gtc/",
+      "is_new": false
     },
     {
-      "title": "VGHF Digital Archive passes 5000 magazines. Here's what's next",
-      "link": "https://gamehistory.org/5k-magazines/",
-      "is_new": true
+      "title": "Show HN: AI search for every photo and every frame of video on macOS",
+      "link": "https://github.com/allenv0/SCM",
+      "is_new": false
     },
     {
       "title": "Why don't more developers “use the platform”?",
@@ -33,19 +53,39 @@
       "is_new": false
     },
     {
+      "title": "Building a RAG Pipeline for Semantic Code Search",
+      "link": "https://blog.jetbrains.com/ai/2026/09/building-a-rag-pipeline-for-semantic-code-search-a-developer-diary-and-field-notes/",
+      "is_new": true
+    },
+    {
+      "title": "VGHF Digital Archive passes 5000 magazines. Here's what's next",
+      "link": "https://gamehistory.org/5k-magazines/",
+      "is_new": false
+    },
+    {
+      "title": "Blindsight (Watts Novel)",
+      "link": "https://en.wikipedia.org/wiki/Blindsight_(Watts_novel)",
+      "is_new": true
+    },
+    {
       "title": "The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux",
       "link": "https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU",
       "is_new": false
     },
     {
-      "title": "gpuvis: GPU Trace Visualizer",
-      "link": "https://github.com/mikesart/gpuvis",
+      "title": "The Heilbronn Problem",
+      "link": "https://math.tejstead.com/heilbronn/",
+      "is_new": false
+    },
+    {
+      "title": "A parasitic Fibonacci computation inside /usr/bin/top",
+      "link": "https://seriot.ch/computation/terminfo/",
       "is_new": true
     },
     {
       "title": "Emitting metadata early makes building/checking Rust up to twice as fast",
       "link": "https://github.com/PowderworksCode/headstart",
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Agents don't need memory, they need documentation",
@@ -53,18 +93,13 @@
       "is_new": false
     },
     {
-      "title": "The Heilbronn Problem",
-      "link": "https://math.tejstead.com/heilbronn/",
-      "is_new": true
-    },
-    {
       "title": "Treachery in the Rodin Museum 3D scan verdict",
       "link": "https://cosmowenman.substack.com/p/rodin-museum-3d-scan-verdict",
       "is_new": false
     },
     {
-      "title": "Hole Punch: Sling your spaceship around gravitational fields",
-      "link": "https://notoriousbfg.com/hole-punch/",
+      "title": "Magic Switch: Share Apple Magic keyboard/track-pad/mouse between two Macs",
+      "link": "https://joshua.hu/magic-switch-easily-switch-magic-keyboard-trackpad-mouse-between-mac-macbook-macos",
       "is_new": false
     },
     {
@@ -73,33 +108,18 @@
       "is_new": false
     },
     {
+      "title": "What's the future for pure math research in the age of AI?",
+      "link": "https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai/",
+      "is_new": false
+    },
+    {
+      "title": "Hole Punch: Sling your spaceship around gravitational fields",
+      "link": "https://notoriousbfg.com/hole-punch/",
+      "is_new": false
+    },
+    {
       "title": "Celebrating the 100th birthday of the kidney donated to him as a teenager",
       "link": "https://www.whec.com/top-news/webster-man-celebrating-the-100th-birthday-of-the-kidney-his-mom-donated-to-him-as-a-teenager/",
-      "is_new": false
-    },
-    {
-      "title": "So you think you could be an electrician?",
-      "link": "https://asteriskmag.com/issues/15/so-you-think-you-could-be-an-electrician",
-      "is_new": false
-    },
-    {
-      "title": "Magic Switch: Share Apple Magic keyboard/track-pad/mouse between two Macs",
-      "link": "https://joshua.hu/magic-switch-easily-switch-magic-keyboard-trackpad-mouse-between-mac-macbook-macos",
-      "is_new": true
-    },
-    {
-      "title": "Rejection Sensitivity in Gifted and Twice-Exceptional Children",
-      "link": "https://teachyourkids.substack.com/p/rejection-sensitivity-in-gifted-and",
-      "is_new": true
-    },
-    {
-      "title": "We're going to need default hard budget caps on pretty much everything",
-      "link": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
-      "is_new": false
-    },
-    {
-      "title": "We're working on a new RuneScape MMO",
-      "link": "https://play.runescape.com/4",
       "is_new": false
     },
     {
@@ -108,23 +128,55 @@
       "is_new": false
     },
     {
-      "title": "We want you to build the next Git platform on Cloudflare",
-      "link": "https://blog.cloudflare.com/next-git-platform-on-cloudflare/",
-      "is_new": false
-    },
-    {
       "title": "I quit OpenAI because its culture is broken",
       "link": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/?gift=v5U_UzUTothfWXsPxtvNVAh7esWToMRD6XnbXmc5WgA",
       "is_new": false
     },
     {
-      "title": "Religious scholars met with Anthropic",
-      "link": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
+      "title": "We want you to build the next Git platform on Cloudflare",
+      "link": "https://blog.cloudflare.com/next-git-platform-on-cloudflare/",
       "is_new": false
+    },
+    {
+      "title": "We're going to need default hard budget caps on pretty much everything",
+      "link": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
+      "is_new": false
+    },
+    {
+      "title": "L-systems generate weevils, pizza toppings, and matriarchal lineages",
+      "link": "https://blog.plover.com/2026/09/25/",
+      "is_new": true
     },
     {
       "title": "What Meta got right with Muse",
       "link": "https://metedata.substack.com/p/what-meta-got-right-with-muse",
+      "is_new": false
+    }
+  ],
+  "removed": [
+    {
+      "title": "gpuvis: GPU Trace Visualizer",
+      "link": "https://github.com/mikesart/gpuvis",
+      "is_new": true
+    },
+    {
+      "title": "So you think you could be an electrician?",
+      "link": "https://asteriskmag.com/issues/15/so-you-think-you-could-be-an-electrician",
+      "is_new": false
+    },
+    {
+      "title": "Rejection Sensitivity in Gifted and Twice-Exceptional Children",
+      "link": "https://teachyourkids.substack.com/p/rejection-sensitivity-in-gifted-and",
+      "is_new": true
+    },
+    {
+      "title": "We're working on a new RuneScape MMO",
+      "link": "https://play.runescape.com/4",
+      "is_new": false
+    },
+    {
+      "title": "Religious scholars met with Anthropic",
+      "link": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
       "is_new": false
     },
     {
@@ -138,11 +190,6 @@
       "is_new": false
     },
     {
-      "title": "What's the Future for Pure Math Research in the Age of AI?",
-      "link": "https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai/",
-      "is_new": true
-    },
-    {
       "title": "How to hack time, with C2PA",
       "link": "https://www.da.vidbuchanan.co.uk/blog/hacking-time.html",
       "is_new": false
@@ -151,58 +198,6 @@
       "title": "Dirty Optimization Secrets (C for Playdate)",
       "link": "https://devforum.play.date/t/dirty-optimization-secrets-c-for-playdate/23011",
       "is_new": false
-    }
-  ],
-  "removed": [
-    {
-      "title": "In Ukraine, distributed renewables foil Russia's assaults",
-      "link": "https://energytransition.org/2026/09/in-ukraine-distributed-renewables-foil-russias-assaults/",
-      "is_new": true
-    },
-    {
-      "title": "UK Government Body Kept Files on People Criticizing Prevent Program",
-      "link": "https://reclaimthenet.org/uk-prevent-unit-tracked-online-critics",
-      "is_new": true
-    },
-    {
-      "title": "Three AI agents, two countries, and one uneven world wide web",
-      "link": "https://royapakzad.substack.com/p/multilingual-ai-agents",
-      "is_new": true
-    },
-    {
-      "title": "FTL: A new operating system for clouds",
-      "link": "https://ftl-os.org/",
-      "is_new": false
-    },
-    {
-      "title": "Former SR-71 engineer talks NASA's Blackbird revival program",
-      "link": "https://www.twz.com/air/former-sr-71-engineer-talks-nasas-blackbird-revival-program",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: Factorio but with unreliable components",
-      "link": "https://think-twice.me/public/rely/",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: Thoreau BASIC – What if BASIC hadn't gone out of fashion?",
-      "link": "https://thoreaubasic.com/",
-      "is_new": false
-    },
-    {
-      "title": "City building games have a Soul Problem pt.2",
-      "link": "https://www.radical-elements.com/minor-epiphanies/city-building-games-have-a-soul-problem-pt2",
-      "is_new": true
-    },
-    {
-      "title": "'This can't go on': thousands protest against housing crisis in Spain",
-      "link": "https://www.theguardian.com/world/2026/oct/03/spain-housing-protest",
-      "is_new": true
-    },
-    {
-      "title": "\"Torturing\" LLMs in a Robot Prison Has Triggered the Dumbest Debate in AI Yet",
-      "link": "https://www.404media.co/someone-torturing-llms-in-a-robot-prison-has-triggered-the-dumbest-debate-in-ai-yet/",
-      "is_new": true
     }
   ]
 }
