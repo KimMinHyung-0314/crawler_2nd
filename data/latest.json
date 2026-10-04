@@ -1,15 +1,50 @@
 {
-  "crawled_at": "2026-10-04 11:21",
-  "prev_crawled_at": "2026-10-04 07:03",
+  "crawled_at": "2026-10-04 18:18",
+  "prev_crawled_at": "2026-10-04 11:21",
   "items": [
     {
-      "title": "We're going to need default hard budget caps on pretty much everything",
-      "link": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
+      "title": "Why don't more developers “use the platform”?",
+      "link": "https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/",
       "is_new": true
     },
     {
-      "title": "Bob Cringely Has Died",
+      "title": "Tell HN: Bob Cringely has died",
       "link": "https://news.ycombinator.com/item?id=49949438",
+      "is_new": false
+    },
+    {
+      "title": "So you think you could be an electrician?",
+      "link": "https://asteriskmag.com/issues/15/so-you-think-you-could-be-an-electrician",
+      "is_new": false
+    },
+    {
+      "title": "The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux",
+      "link": "https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU",
+      "is_new": false
+    },
+    {
+      "title": "Treachery in the Rodin Museum 3D scan verdict",
+      "link": "https://cosmowenman.substack.com/p/rodin-museum-3d-scan-verdict",
+      "is_new": false
+    },
+    {
+      "title": "In Ukraine, distributed renewables foil Russia's assaults",
+      "link": "https://energytransition.org/2026/09/in-ukraine-distributed-renewables-foil-russias-assaults/",
+      "is_new": true
+    },
+    {
+      "title": "Agents don't need memory, they need documentation",
+      "link": "https://liao.gg/blog/agents-dont-need-memory",
+      "is_new": false
+    },
+    {
+      "title": "We're going to need default hard budget caps on pretty much everything",
+      "link": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
+      "is_new": false
+    },
+    {
+      "title": "We're working on a new RuneScape MMO",
+      "link": "https://play.runescape.com/4",
       "is_new": true
     },
     {
@@ -18,13 +53,13 @@
       "is_new": false
     },
     {
-      "title": "Treachery in the Rodin Museum 3D scan verdict",
-      "link": "https://cosmowenman.substack.com/p/rodin-museum-3d-scan-verdict",
-      "is_new": true
+      "title": "Celebrating the 100th birthday of the kidney donated to him as a teenager",
+      "link": "https://www.whec.com/top-news/webster-man-celebrating-the-100th-birthday-of-the-kidney-his-mom-donated-to-him-as-a-teenager/",
+      "is_new": false
     },
     {
-      "title": "The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux",
-      "link": "https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU",
+      "title": "Religious scholars met with Anthropic",
+      "link": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
       "is_new": true
     },
     {
@@ -33,10 +68,92 @@
       "is_new": false
     },
     {
-      "title": "Celebrating the 100th birthday of the kidney donated to him as a teenager",
-      "link": "https://www.whec.com/top-news/webster-man-celebrating-the-100th-birthday-of-the-kidney-his-mom-donated-to-him-as-a-teenager/",
+      "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
+      "link": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/",
+      "is_new": true
+    },
+    {
+      "title": "Math's pedagogical curse – Grant Sanderson [video]",
+      "link": "https://www.youtube.com/watch?v=UOuxo6SA8Uc",
       "is_new": false
     },
+    {
+      "title": "We want you to build the next Git platform on Cloudflare",
+      "link": "https://blog.cloudflare.com/next-git-platform-on-cloudflare/",
+      "is_new": true
+    },
+    {
+      "title": "UK Government Body Kept Files on People Criticizing Prevent Program",
+      "link": "https://reclaimthenet.org/uk-prevent-unit-tracked-online-critics",
+      "is_new": true
+    },
+    {
+      "title": "How to hack time, with C2PA",
+      "link": "https://www.da.vidbuchanan.co.uk/blog/hacking-time.html",
+      "is_new": false
+    },
+    {
+      "title": "Dirty Optimization Secrets (C for Playdate)",
+      "link": "https://devforum.play.date/t/dirty-optimization-secrets-c-for-playdate/23011",
+      "is_new": true
+    },
+    {
+      "title": "Your body of work thinks back at you",
+      "link": "https://photoni.st/index.php/2026/09/25/your-body-of-work-thinks-back-at-you/",
+      "is_new": false
+    },
+    {
+      "title": "Three AI agents, two countries, and one uneven world wide web",
+      "link": "https://royapakzad.substack.com/p/multilingual-ai-agents",
+      "is_new": true
+    },
+    {
+      "title": "FTL: A new operating system for clouds",
+      "link": "https://ftl-os.org/",
+      "is_new": false
+    },
+    {
+      "title": "Former SR-71 engineer talks NASA's Blackbird revival program",
+      "link": "https://www.twz.com/air/former-sr-71-engineer-talks-nasas-blackbird-revival-program",
+      "is_new": true
+    },
+    {
+      "title": "I quit OpenAI because its culture is broken",
+      "link": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/?gift=v5U_UzUTothfWXsPxtvNVAh7esWToMRD6XnbXmc5WgA",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: Factorio but with unreliable components",
+      "link": "https://think-twice.me/public/rely/",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: Thoreau BASIC – What if BASIC hadn't gone out of fashion?",
+      "link": "https://thoreaubasic.com/",
+      "is_new": false
+    },
+    {
+      "title": "What Meta got right with Muse",
+      "link": "https://metedata.substack.com/p/what-meta-got-right-with-muse",
+      "is_new": true
+    },
+    {
+      "title": "City building games have a Soul Problem pt.2",
+      "link": "https://www.radical-elements.com/minor-epiphanies/city-building-games-have-a-soul-problem-pt2",
+      "is_new": true
+    },
+    {
+      "title": "'This can't go on': thousands protest against housing crisis in Spain",
+      "link": "https://www.theguardian.com/world/2026/oct/03/spain-housing-protest",
+      "is_new": true
+    },
+    {
+      "title": "\"Torturing\" LLMs in a Robot Prison Has Triggered the Dumbest Debate in AI Yet",
+      "link": "https://www.404media.co/someone-torturing-llms-in-a-robot-prison-has-triggered-the-dumbest-debate-in-ai-yet/",
+      "is_new": true
+    }
+  ],
+  "removed": [
     {
       "title": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
       "link": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
@@ -48,38 +165,13 @@
       "is_new": false
     },
     {
-      "title": "Math's pedagogical curse – Grant Sanderson [video]",
-      "link": "https://www.youtube.com/watch?v=UOuxo6SA8Uc",
-      "is_new": true
-    },
-    {
-      "title": "So You Think You Could Be an Electrician?",
-      "link": "https://asteriskmag.com/issues/15/so-you-think-you-could-be-an-electrician",
-      "is_new": true
-    },
-    {
       "title": "New York City should carefully measure a new tree",
       "link": "https://blog.willmeye.rs/new-york-city-should-carefully-measure-a-new-tree/",
       "is_new": true
     },
     {
-      "title": "Your body of work thinks back at you",
-      "link": "https://photoni.st/index.php/2026/09/25/your-body-of-work-thinks-back-at-you/",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: Thoreau BASIC – What if BASIC hadn't gone out of fashion?",
-      "link": "https://thoreaubasic.com/",
-      "is_new": true
-    },
-    {
       "title": "Getting the most out of Opus 5.5 in Claude and Claude Code",
       "link": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5/",
-      "is_new": false
-    },
-    {
-      "title": "FTL: A new operating system for clouds",
-      "link": "https://ftl-os.org/",
       "is_new": false
     },
     {
@@ -100,11 +192,6 @@
     {
       "title": "Docker has always used microVMs (well since 2016)",
       "link": "https://dave.recoil.org/docker-has-always-used-microvms/",
-      "is_new": true
-    },
-    {
-      "title": "Agents don't need memory, they need documentation",
-      "link": "https://liao.gg/blog/agents-dont-need-memory",
       "is_new": true
     },
     {
@@ -133,11 +220,6 @@
       "is_new": false
     },
     {
-      "title": "How to hack time, with C2PA",
-      "link": "https://www.da.vidbuchanan.co.uk/blog/hacking-time.html",
-      "is_new": false
-    },
-    {
       "title": "Automating my 35mm film scanning pipeline",
       "link": "https://shannadige.com/blog/darkroom/",
       "is_new": true
@@ -150,93 +232,6 @@
     {
       "title": "The Softmax function and its derivative",
       "link": "https://eli.thegreenplace.net/2016/the-softmax-function-and-its-derivative/",
-      "is_new": true
-    }
-  ],
-  "removed": [
-    {
-      "title": "We want you to build the next Git platform on Cloudflare",
-      "link": "https://blog.cloudflare.com/next-git-platform-on-cloudflare/",
-      "is_new": true
-    },
-    {
-      "title": "Vx – One Language, Every Chip",
-      "link": "https://vxlang.org/",
-      "is_new": true
-    },
-    {
-      "title": "Gboard Conveyor Belt Version",
-      "link": "https://github.com/google/mozc-devices/tree/main/mozc-conveyorbelt",
-      "is_new": true
-    },
-    {
-      "title": "Newgrounds.com – A community of games, music, and art",
-      "link": "https://www.newgrounds.com/",
-      "is_new": false
-    },
-    {
-      "title": "MPEG-2 Transport Streams and MOQ: Yes, MPEG-TS Is Still Relevant Today",
-      "link": "https://www.red5.net/blog/mpeg-2-transport-streams-and-moq-yes-mpeg-ts-is-still-relevant-today/",
-      "is_new": false
-    },
-    {
-      "title": "Show HN: Local pretrained classifiers, GPU not needed",
-      "link": "https://github.com/nicobrenner/jeffy",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: Our space game has a built-in RISC-V emulator that runs Linux",
-      "link": "https://againstallodds.games/blog/2026/10/03/our-risc-v-emulator-pasriscv/",
-      "is_new": false
-    },
-    {
-      "title": "Show HN: Graphene – Data analysis toolkit for your coding agent",
-      "link": "https://github.com/graphene-data/graphene",
-      "is_new": true
-    },
-    {
-      "title": "Holes (1996-2025)",
-      "link": "https://plato.stanford.edu/entries/holes/",
-      "is_new": false
-    },
-    {
-      "title": "Mike Tomlin spent 12 years building a Minecraft city",
-      "link": "https://www.nytimes.com/athletic/7648198/2026/10/01/mike-tomlin-minecraft-nfl-coach/",
-      "is_new": false
-    },
-    {
-      "title": "Body Awareness in Goffin's Cockatoos",
-      "link": "https://www.nature.com/articles/s41598-026-57500-7",
-      "is_new": false
-    },
-    {
-      "title": "Two American Airlines Flights End Up with the Same Flight Numbers",
-      "link": "https://aviationa2z.com/index.php/2026/08/19/two-american-airlines-flights-end-up-with-same-flight-numbers-again/",
-      "is_new": true
-    },
-    {
-      "title": "Apple Pass Designer",
-      "link": "https://developer.apple.com/pass-designer/",
-      "is_new": false
-    },
-    {
-      "title": "A 12-year sequence of telescope images of a star and four planets orbiting",
-      "link": "https://bsky.app/profile/theplanetaryguy.com/post/3mwucf5ert22f",
-      "is_new": false
-    },
-    {
-      "title": "Cloudflare OHTTP gateway",
-      "link": "https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/",
-      "is_new": false
-    },
-    {
-      "title": "Loss of cell identity drives human aging: Two new papers",
-      "link": "https://erictopol.substack.com/p/loss-of-cell-identity-drives-human",
-      "is_new": false
-    },
-    {
-      "title": "At the Conformation Show: Chasing the Ideal Dog",
-      "link": "https://www.theparisreview.org/blog/2026/09/03/the-conformation-show-and-the-pursuit-of-the-ideal-dog/",
       "is_new": true
     }
   ]
