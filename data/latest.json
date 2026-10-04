@@ -1,10 +1,15 @@
 {
-  "crawled_at": "2026-10-04 18:18",
-  "prev_crawled_at": "2026-10-04 11:21",
+  "crawled_at": "2026-10-05 00:06",
+  "prev_crawled_at": "2026-10-04 18:18",
   "items": [
     {
-      "title": "Why don't more developers “use the platform”?",
-      "link": "https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/",
+      "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
+      "link": "https://github.com/Niko1221/Strata",
+      "is_new": true
+    },
+    {
+      "title": "Glashütte Trash Clock – A 30-minute pendulum clock made from trash",
+      "link": "https://niklasroy.com/gtc/",
       "is_new": true
     },
     {
@@ -13,8 +18,18 @@
       "is_new": false
     },
     {
-      "title": "So you think you could be an electrician?",
-      "link": "https://asteriskmag.com/issues/15/so-you-think-you-could-be-an-electrician",
+      "title": "Show HN: AI search for every photo and every frame of video on macOS",
+      "link": "https://github.com/allenv0/SCM",
+      "is_new": true
+    },
+    {
+      "title": "VGHF Digital Archive passes 5000 magazines. Here's what's next",
+      "link": "https://gamehistory.org/5k-magazines/",
+      "is_new": true
+    },
+    {
+      "title": "Why don't more developers “use the platform”?",
+      "link": "https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/",
       "is_new": false
     },
     {
@@ -23,19 +38,59 @@
       "is_new": false
     },
     {
-      "title": "Treachery in the Rodin Museum 3D scan verdict",
-      "link": "https://cosmowenman.substack.com/p/rodin-museum-3d-scan-verdict",
-      "is_new": false
+      "title": "gpuvis: GPU Trace Visualizer",
+      "link": "https://github.com/mikesart/gpuvis",
+      "is_new": true
     },
     {
-      "title": "In Ukraine, distributed renewables foil Russia's assaults",
-      "link": "https://energytransition.org/2026/09/in-ukraine-distributed-renewables-foil-russias-assaults/",
+      "title": "Emitting metadata early makes building/checking Rust up to twice as fast",
+      "link": "https://github.com/PowderworksCode/headstart",
       "is_new": true
     },
     {
       "title": "Agents don't need memory, they need documentation",
       "link": "https://liao.gg/blog/agents-dont-need-memory",
       "is_new": false
+    },
+    {
+      "title": "The Heilbronn Problem",
+      "link": "https://math.tejstead.com/heilbronn/",
+      "is_new": true
+    },
+    {
+      "title": "Treachery in the Rodin Museum 3D scan verdict",
+      "link": "https://cosmowenman.substack.com/p/rodin-museum-3d-scan-verdict",
+      "is_new": false
+    },
+    {
+      "title": "Hole Punch: Sling your spaceship around gravitational fields",
+      "link": "https://notoriousbfg.com/hole-punch/",
+      "is_new": false
+    },
+    {
+      "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
+      "link": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/",
+      "is_new": false
+    },
+    {
+      "title": "Celebrating the 100th birthday of the kidney donated to him as a teenager",
+      "link": "https://www.whec.com/top-news/webster-man-celebrating-the-100th-birthday-of-the-kidney-his-mom-donated-to-him-as-a-teenager/",
+      "is_new": false
+    },
+    {
+      "title": "So you think you could be an electrician?",
+      "link": "https://asteriskmag.com/issues/15/so-you-think-you-could-be-an-electrician",
+      "is_new": false
+    },
+    {
+      "title": "Magic Switch: Share Apple Magic keyboard/track-pad/mouse between two Macs",
+      "link": "https://joshua.hu/magic-switch-easily-switch-magic-keyboard-trackpad-mouse-between-mac-macbook-macos",
+      "is_new": true
+    },
+    {
+      "title": "Rejection Sensitivity in Gifted and Twice-Exceptional Children",
+      "link": "https://teachyourkids.substack.com/p/rejection-sensitivity-in-gifted-and",
+      "is_new": true
     },
     {
       "title": "We're going to need default hard budget caps on pretty much everything",
@@ -45,22 +100,7 @@
     {
       "title": "We're working on a new RuneScape MMO",
       "link": "https://play.runescape.com/4",
-      "is_new": true
-    },
-    {
-      "title": "Hole Punch: Sling your spaceship around gravitational fields",
-      "link": "https://notoriousbfg.com/hole-punch/",
       "is_new": false
-    },
-    {
-      "title": "Celebrating the 100th birthday of the kidney donated to him as a teenager",
-      "link": "https://www.whec.com/top-news/webster-man-celebrating-the-100th-birthday-of-the-kidney-his-mom-donated-to-him-as-a-teenager/",
-      "is_new": false
-    },
-    {
-      "title": "Religious scholars met with Anthropic",
-      "link": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
-      "is_new": true
     },
     {
       "title": "Reasons I didn't become an EMT, ranked",
@@ -68,23 +108,38 @@
       "is_new": false
     },
     {
-      "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
-      "link": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/",
-      "is_new": true
+      "title": "We want you to build the next Git platform on Cloudflare",
+      "link": "https://blog.cloudflare.com/next-git-platform-on-cloudflare/",
+      "is_new": false
     },
     {
-      "title": "Math's pedagogical curse – Grant Sanderson [video]",
+      "title": "I quit OpenAI because its culture is broken",
+      "link": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/?gift=v5U_UzUTothfWXsPxtvNVAh7esWToMRD6XnbXmc5WgA",
+      "is_new": false
+    },
+    {
+      "title": "Religious scholars met with Anthropic",
+      "link": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
+      "is_new": false
+    },
+    {
+      "title": "What Meta got right with Muse",
+      "link": "https://metedata.substack.com/p/what-meta-got-right-with-muse",
+      "is_new": false
+    },
+    {
+      "title": "Your body of work thinks back at you",
+      "link": "https://photoni.st/index.php/2026/09/25/your-body-of-work-thinks-back-at-you/",
+      "is_new": false
+    },
+    {
+      "title": "Math's pedagogical curse – Grant Sanderson [video] (2023)",
       "link": "https://www.youtube.com/watch?v=UOuxo6SA8Uc",
       "is_new": false
     },
     {
-      "title": "We want you to build the next Git platform on Cloudflare",
-      "link": "https://blog.cloudflare.com/next-git-platform-on-cloudflare/",
-      "is_new": true
-    },
-    {
-      "title": "UK Government Body Kept Files on People Criticizing Prevent Program",
-      "link": "https://reclaimthenet.org/uk-prevent-unit-tracked-online-critics",
+      "title": "What's the Future for Pure Math Research in the Age of AI?",
+      "link": "https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai/",
       "is_new": true
     },
     {
@@ -95,12 +150,19 @@
     {
       "title": "Dirty Optimization Secrets (C for Playdate)",
       "link": "https://devforum.play.date/t/dirty-optimization-secrets-c-for-playdate/23011",
+      "is_new": false
+    }
+  ],
+  "removed": [
+    {
+      "title": "In Ukraine, distributed renewables foil Russia's assaults",
+      "link": "https://energytransition.org/2026/09/in-ukraine-distributed-renewables-foil-russias-assaults/",
       "is_new": true
     },
     {
-      "title": "Your body of work thinks back at you",
-      "link": "https://photoni.st/index.php/2026/09/25/your-body-of-work-thinks-back-at-you/",
-      "is_new": false
+      "title": "UK Government Body Kept Files on People Criticizing Prevent Program",
+      "link": "https://reclaimthenet.org/uk-prevent-unit-tracked-online-critics",
+      "is_new": true
     },
     {
       "title": "Three AI agents, two countries, and one uneven world wide web",
@@ -118,11 +180,6 @@
       "is_new": true
     },
     {
-      "title": "I quit OpenAI because its culture is broken",
-      "link": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/?gift=v5U_UzUTothfWXsPxtvNVAh7esWToMRD6XnbXmc5WgA",
-      "is_new": true
-    },
-    {
       "title": "Show HN: Factorio but with unreliable components",
       "link": "https://think-twice.me/public/rely/",
       "is_new": true
@@ -131,11 +188,6 @@
       "title": "Show HN: Thoreau BASIC – What if BASIC hadn't gone out of fashion?",
       "link": "https://thoreaubasic.com/",
       "is_new": false
-    },
-    {
-      "title": "What Meta got right with Muse",
-      "link": "https://metedata.substack.com/p/what-meta-got-right-with-muse",
-      "is_new": true
     },
     {
       "title": "City building games have a Soul Problem pt.2",
@@ -150,88 +202,6 @@
     {
       "title": "\"Torturing\" LLMs in a Robot Prison Has Triggered the Dumbest Debate in AI Yet",
       "link": "https://www.404media.co/someone-torturing-llms-in-a-robot-prison-has-triggered-the-dumbest-debate-in-ai-yet/",
-      "is_new": true
-    }
-  ],
-  "removed": [
-    {
-      "title": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
-      "link": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
-      "is_new": true
-    },
-    {
-      "title": "Kolibri: A Sovereign Open-Weight Model",
-      "link": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
-      "is_new": false
-    },
-    {
-      "title": "New York City should carefully measure a new tree",
-      "link": "https://blog.willmeye.rs/new-york-city-should-carefully-measure-a-new-tree/",
-      "is_new": true
-    },
-    {
-      "title": "Getting the most out of Opus 5.5 in Claude and Claude Code",
-      "link": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5/",
-      "is_new": false
-    },
-    {
-      "title": "Surely you have ultra-wideband radios on your bins too?",
-      "link": "https://sjg.io/writing/binrange-have-you-actually-put-the-bins-out/",
-      "is_new": false
-    },
-    {
-      "title": "Apple's \"Clean Design\" Is Stupidity When It Comes to Hiding Fire Extinguishers",
-      "link": "https://www.gadgetreview.com/apples-clean-design-is-stupidity-when-it-comes-to-hiding-fire-extinguishers",
-      "is_new": true
-    },
-    {
-      "title": "Federal judge calls Flock 'indiscriminate mass surveillance'",
-      "link": "https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/",
-      "is_new": true
-    },
-    {
-      "title": "Docker has always used microVMs (well since 2016)",
-      "link": "https://dave.recoil.org/docker-has-always-used-microvms/",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: Pi pod – Run your pi coding agent in sandboxes on your own server",
-      "link": "https://pipod.dev/",
-      "is_new": false
-    },
-    {
-      "title": "Memory-Safe WebP Decoding",
-      "link": "https://halide.cx/blog/wpd/",
-      "is_new": true
-    },
-    {
-      "title": "RetailReady (YC W24) Is Hiring",
-      "link": "https://www.ycombinator.com/companies/retailready/jobs/bFcgIe4-implementations",
-      "is_new": false
-    },
-    {
-      "title": "Woking Electrical Control Room (2016)",
-      "link": "http://www.darbiansphotography.com/woking-electrical-control-room-urbex",
-      "is_new": false
-    },
-    {
-      "title": "RSS Feed Best Practices (2022)",
-      "link": "https://kevincox.ca/2022/05/06/rss-feed-best-practices/",
-      "is_new": false
-    },
-    {
-      "title": "Automating my 35mm film scanning pipeline",
-      "link": "https://shannadige.com/blog/darkroom/",
-      "is_new": true
-    },
-    {
-      "title": "C++ Insights – See your source code with the eyes of a Compiler",
-      "link": "https://github.com/andreasfertig/cppinsights",
-      "is_new": false
-    },
-    {
-      "title": "The Softmax function and its derivative",
-      "link": "https://eli.thegreenplace.net/2016/the-softmax-function-and-its-derivative/",
       "is_new": true
     }
   ]
