@@ -1,6 +1,6 @@
 {
-  "crawled_at": "2026-10-05 10:33",
-  "prev_crawled_at": "2026-10-05 07:17",
+  "crawled_at": "2026-10-05 17:14",
+  "prev_crawled_at": "2026-10-05 10:33",
   "items": [
     {
       "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
@@ -8,23 +8,13 @@
       "is_new": false
     },
     {
-      "title": "Infidel goes wild",
-      "link": "https://blog.zarfhome.com/2026/10/infidel-goes-wild",
-      "is_new": false
-    },
-    {
-      "title": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
-      "link": "https://github.com/omlahore/RemoveMacAI",
-      "is_new": false
-    },
-    {
-      "title": "In the wake of closure, a digital archive of animated materials appears online",
+      "title": "In the wake of Tippett Studios’ closure, a digital archive appears online",
       "link": "https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/",
-      "is_new": true
+      "is_new": false
     },
     {
-      "title": "ArtCraft Apps – open-source Adobe compatible suite written in Rust",
-      "link": "https://getartcraft.com/apps",
+      "title": "We ported the original Doom to SQL",
+      "link": "https://cedardb.com/blog/sqldoom/",
       "is_new": true
     },
     {
@@ -33,24 +23,39 @@
       "is_new": false
     },
     {
-      "title": "Self-hosted HTTP tunnels with SSH and Nginx",
-      "link": "https://vincent.bernat.ch/en/blog/2026-http-over-ssh",
+      "title": "Replacement of petroleum based products with plant-based materials (2025)",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/eng2.70108",
       "is_new": true
     },
     {
-      "title": "Improper redaction reveals Google Data Center water and electricity usage",
-      "link": "https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/",
+      "title": "The Tao of Backup",
+      "link": "http://www.taobackup.com/index.html",
       "is_new": false
     },
     {
-      "title": "Homa: The end of TCP for AI clusters [video]",
-      "link": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
+      "title": "Gods in the Classroom: Religion and Education in First Millennium BCE Babylonia",
+      "link": "https://www.cambridge.org/core/journals/iraq/article/gods-in-the-classroom-religion-and-education-in-1st-millennium-bce-babylonia/EB059EE81804DCBC1848CACBD6298E0B",
+      "is_new": true
+    },
+    {
+      "title": "Infidel goes wild",
+      "link": "https://blog.zarfhome.com/2026/10/infidel-goes-wild",
       "is_new": false
     },
     {
-      "title": "Xray-core concealed a certificate verification bypass vulnerability",
-      "link": "https://github.com/net4people/bbs/issues/672",
+      "title": "A 40ms Go garbage collector pause caused by swap",
+      "link": "https://frn.sh/go-gc/",
+      "is_new": true
+    },
+    {
+      "title": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
+      "link": "https://github.com/omlahore/RemoveMacAI",
       "is_new": false
+    },
+    {
+      "title": "Powerless F1 drivers frustrated by Bahrain F1 software glitch",
+      "link": "https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/",
+      "is_new": true
     },
     {
       "title": "Tell HN: Bob Cringely has died",
@@ -58,8 +63,38 @@
       "is_new": false
     },
     {
-      "title": "The Tao of Backup",
-      "link": "http://www.taobackup.com/index.html",
+      "title": "Demystifying Tufte's data-ink ratio",
+      "link": "https://tuftesrazor.scienceux.org/",
+      "is_new": false
+    },
+    {
+      "title": "Improper redaction reveals Google Data Center water and electricity usage",
+      "link": "https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/",
+      "is_new": false
+    },
+    {
+      "title": "Decision models like Jev don't beat LLM-as-a-judge or traditional classifiers",
+      "link": "https://developers.redhat.com/articles/2026/10/02/benchmarking-ai-decision-models-against-traditional-guardrails",
+      "is_new": true
+    },
+    {
+      "title": "Automating my 35mm film scanning pipeline",
+      "link": "https://shannadige.com/blog/darkroom/",
+      "is_new": true
+    },
+    {
+      "title": "Self-hosted HTTP tunnels with SSH and Nginx",
+      "link": "https://vincent.bernat.ch/en/blog/2026-http-over-ssh",
+      "is_new": false
+    },
+    {
+      "title": "'Neanderthals Among Us' review",
+      "link": "https://www.historytoday.com/archive/review/neanderthals-among-us-peter-sahlins-review",
+      "is_new": false
+    },
+    {
+      "title": "Watson Jr. memo about CDC 6600 (1963)",
+      "link": "https://www.computerhistory.org/revolution/supercomputers/10/33/62",
       "is_new": true
     },
     {
@@ -68,8 +103,65 @@
       "is_new": false
     },
     {
+      "title": "Interview with Chicken Scheme Maintainer Sjamaan/Peter Bex",
+      "link": "https://alexalejandre.com/interviews/peter-bex/",
+      "is_new": false
+    },
+    {
       "title": "How to scale intent, quality, and artistry with AI [video]",
       "link": "https://www.youtube.com/watch?v=GLvFTMtw4Jk",
+      "is_new": false
+    },
+    {
+      "title": "What is going on with ceiling fans",
+      "link": "https://mcmansionhell.com/post/829127919552151552/what-is-going-on-with-ceiling-fans",
+      "is_new": false
+    },
+    {
+      "title": "Bill Draper has died",
+      "link": "https://www.nytimes.com/2026/09/30/technology/william-draper-dead.html",
+      "is_new": false
+    },
+    {
+      "title": "Safe Optimistic Lock Coupling",
+      "link": "http://databasearchitects.blogspot.com/2026/04/safe-optimistic-lock-coupling.html",
+      "is_new": true
+    },
+    {
+      "title": "Xray-core concealed a certificate verification bypass vulnerability",
+      "link": "https://github.com/net4people/bbs/issues/672",
+      "is_new": false
+    },
+    {
+      "title": "Nearly 200 people under observation after Irkutsk lab worker dies from plague",
+      "link": "https://www.themoscowtimes.com/2026/10/02/nearly-200-people-under-observation-after-irkutsk-lab-worker-dies-from-plague-a93857",
+      "is_new": true
+    },
+    {
+      "title": "Why don't more developers “use the platform”?",
+      "link": "https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/",
+      "is_new": false
+    },
+    {
+      "title": "Blindsight (Watts Novel)",
+      "link": "https://en.wikipedia.org/wiki/Blindsight_(Watts_novel)",
+      "is_new": true
+    },
+    {
+      "title": "Results from the ASIC puzzle",
+      "link": "https://blog.janestreet.com/asic-puzzle-results/",
+      "is_new": false
+    }
+  ],
+  "removed": [
+    {
+      "title": "ArtCraft Apps – open-source Adobe compatible suite written in Rust",
+      "link": "https://getartcraft.com/apps",
+      "is_new": true
+    },
+    {
+      "title": "Homa: The end of TCP for AI clusters [video]",
+      "link": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
       "is_new": false
     },
     {
@@ -83,16 +175,6 @@
       "is_new": false
     },
     {
-      "title": "Demystifying Tufte's data-ink ratio",
-      "link": "https://tuftesrazor.scienceux.org/",
-      "is_new": true
-    },
-    {
-      "title": "Results from the ASIC puzzle",
-      "link": "https://blog.janestreet.com/asic-puzzle-results/",
-      "is_new": false
-    },
-    {
       "title": "Show HN: AI search for every photo and every frame of video on macOS",
       "link": "https://github.com/allenv0/SCM",
       "is_new": false
@@ -103,26 +185,6 @@
       "is_new": true
     },
     {
-      "title": "Bill Draper has died",
-      "link": "https://www.nytimes.com/2026/09/30/technology/william-draper-dead.html",
-      "is_new": false
-    },
-    {
-      "title": "What is going on with ceiling fans",
-      "link": "https://mcmansionhell.com/post/829127919552151552/what-is-going-on-with-ceiling-fans",
-      "is_new": false
-    },
-    {
-      "title": "Why don't more developers “use the platform”?",
-      "link": "https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/",
-      "is_new": false
-    },
-    {
-      "title": "Interview with Chicken Scheme Maintainer Sjamaan/Peter Bex",
-      "link": "https://alexalejandre.com/interviews/peter-bex/",
-      "is_new": true
-    },
-    {
       "title": "cp: -r or -R?",
       "link": "https://movq.de/blog/postings/2026-09-30/0/POSTING-en.html",
       "is_new": false
@@ -130,11 +192,6 @@
     {
       "title": "Show HN: Build with Python – a beginner course where your code draws",
       "link": "https://scimigo.com/en/learn/build-with-python/01-draw-with-python",
-      "is_new": false
-    },
-    {
-      "title": "'Neanderthals Among Us' review",
-      "link": "https://www.historytoday.com/archive/review/neanderthals-among-us-peter-sahlins-review",
       "is_new": false
     },
     {
@@ -150,43 +207,6 @@
     {
       "title": "Emitting metadata early makes building/checking Rust up to twice as fast",
       "link": "https://github.com/PowderworksCode/headstart",
-      "is_new": false
-    }
-  ],
-  "removed": [
-    {
-      "title": "All I wanted was a custom domain email",
-      "link": "https://jacobg.co/emails-at-jacobg-co/",
-      "is_new": true
-    },
-    {
-      "title": "Declaring a bird extinct: The median wait is 36 years after the last sighting",
-      "link": "https://birdshistory.com/how-long-to-declare-a-bird-extinct/",
-      "is_new": true
-    },
-    {
-      "title": "A man who listens to whales",
-      "link": "https://blue-continuum.com/the-man-who-listens-to-whales",
-      "is_new": true
-    },
-    {
-      "title": "The evolution of effective altruism",
-      "link": "https://www.economist.com/international/2026/10/01/how-effective-altruism-conquered-the-world",
-      "is_new": true
-    },
-    {
-      "title": "Automating my 35mm film scanning pipeline",
-      "link": "https://shannadige.com/blog/darkroom/",
-      "is_new": true
-    },
-    {
-      "title": "The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux",
-      "link": "https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU",
-      "is_new": false
-    },
-    {
-      "title": "Agents don't need memory, they need documentation",
-      "link": "https://liao.gg/blog/agents-dont-need-memory",
       "is_new": false
     }
   ]
