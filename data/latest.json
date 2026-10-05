@@ -1,6 +1,6 @@
 {
-  "crawled_at": "2026-10-05 07:17",
-  "prev_crawled_at": "2026-10-05 03:59",
+  "crawled_at": "2026-10-05 10:33",
+  "prev_crawled_at": "2026-10-05 07:17",
   "items": [
     {
       "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
@@ -8,49 +8,59 @@
       "is_new": false
     },
     {
+      "title": "Infidel goes wild",
+      "link": "https://blog.zarfhome.com/2026/10/infidel-goes-wild",
+      "is_new": false
+    },
+    {
       "title": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
       "link": "https://github.com/omlahore/RemoveMacAI",
+      "is_new": false
+    },
+    {
+      "title": "In the wake of closure, a digital archive of animated materials appears online",
+      "link": "https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/",
+      "is_new": true
+    },
+    {
+      "title": "ArtCraft Apps – open-source Adobe compatible suite written in Rust",
+      "link": "https://getartcraft.com/apps",
+      "is_new": true
+    },
+    {
+      "title": "A browser-native classic Visual Basic VB6 IDE",
+      "link": "https://wieslawsoltes.github.io/VB6/",
+      "is_new": false
+    },
+    {
+      "title": "Self-hosted HTTP tunnels with SSH and Nginx",
+      "link": "https://vincent.bernat.ch/en/blog/2026-http-over-ssh",
       "is_new": true
     },
     {
       "title": "Improper redaction reveals Google Data Center water and electricity usage",
       "link": "https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/",
-      "is_new": true
-    },
-    {
-      "title": "A map of every lighthouse",
-      "link": "https://mapped.earth/lighthouses/world",
       "is_new": false
     },
     {
       "title": "Homa: The end of TCP for AI clusters [video]",
       "link": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
-      "is_new": true
+      "is_new": false
     },
     {
-      "title": "Infidel Goes Wild",
-      "link": "https://blog.zarfhome.com/2026/10/infidel-goes-wild",
-      "is_new": true
-    },
-    {
-      "title": "Results from the ASIC puzzle",
-      "link": "https://blog.janestreet.com/asic-puzzle-results/",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: Build with Python – a beginner course where your code draws",
-      "link": "https://scimigo.com/en/learn/build-with-python/01-draw-with-python",
-      "is_new": true
-    },
-    {
-      "title": "All I wanted was a custom domain email",
-      "link": "https://jacobg.co/emails-at-jacobg-co/",
-      "is_new": true
+      "title": "Xray-core concealed a certificate verification bypass vulnerability",
+      "link": "https://github.com/net4people/bbs/issues/672",
+      "is_new": false
     },
     {
       "title": "Tell HN: Bob Cringely has died",
       "link": "https://news.ycombinator.com/item?id=49949438",
       "is_new": false
+    },
+    {
+      "title": "The Tao of Backup",
+      "link": "http://www.taobackup.com/index.html",
+      "is_new": true
     },
     {
       "title": "Show HN: Glashütte Trash Clock – A 30-minute pendulum clock made from trash",
@@ -60,7 +70,67 @@
     {
       "title": "How to scale intent, quality, and artistry with AI [video]",
       "link": "https://www.youtube.com/watch?v=GLvFTMtw4Jk",
+      "is_new": false
+    },
+    {
+      "title": "Incentives in Academic Research",
+      "link": "https://www.msoos.org/2026/10/incentives-in-academic-research/",
+      "is_new": false
+    },
+    {
+      "title": "A map of every lighthouse",
+      "link": "https://mapped.earth/lighthouses/world",
+      "is_new": false
+    },
+    {
+      "title": "Demystifying Tufte's data-ink ratio",
+      "link": "https://tuftesrazor.scienceux.org/",
       "is_new": true
+    },
+    {
+      "title": "Results from the ASIC puzzle",
+      "link": "https://blog.janestreet.com/asic-puzzle-results/",
+      "is_new": false
+    },
+    {
+      "title": "Show HN: AI search for every photo and every frame of video on macOS",
+      "link": "https://github.com/allenv0/SCM",
+      "is_new": false
+    },
+    {
+      "title": "The logic of gambling undergirds everything coming out of Silicon Valley",
+      "link": "https://www.nytimes.com/2026/10/04/magazine/gambling-prediction-markets-statistics.html",
+      "is_new": true
+    },
+    {
+      "title": "Bill Draper has died",
+      "link": "https://www.nytimes.com/2026/09/30/technology/william-draper-dead.html",
+      "is_new": false
+    },
+    {
+      "title": "What is going on with ceiling fans",
+      "link": "https://mcmansionhell.com/post/829127919552151552/what-is-going-on-with-ceiling-fans",
+      "is_new": false
+    },
+    {
+      "title": "Why don't more developers “use the platform”?",
+      "link": "https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/",
+      "is_new": false
+    },
+    {
+      "title": "Interview with Chicken Scheme Maintainer Sjamaan/Peter Bex",
+      "link": "https://alexalejandre.com/interviews/peter-bex/",
+      "is_new": true
+    },
+    {
+      "title": "cp: -r or -R?",
+      "link": "https://movq.de/blog/postings/2026-09-30/0/POSTING-en.html",
+      "is_new": false
+    },
+    {
+      "title": "Show HN: Build with Python – a beginner course where your code draws",
+      "link": "https://scimigo.com/en/learn/build-with-python/01-draw-with-python",
+      "is_new": false
     },
     {
       "title": "'Neanderthals Among Us' review",
@@ -68,19 +138,26 @@
       "is_new": false
     },
     {
+      "title": "Surely you have ultra-wideband radios on your bins too?",
+      "link": "https://sjg.io/writing/binrange-have-you-actually-put-the-bins-out/",
+      "is_new": false
+    },
+    {
       "title": "Page Table Memory Consumption",
       "link": "https://frn.sh/pagetables/",
-      "is_new": true
-    },
-    {
-      "title": "Incentives in Academic Research",
-      "link": "https://www.msoos.org/2026/10/incentives-in-academic-research/",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: AI search for every photo and every frame of video on macOS",
-      "link": "https://github.com/allenv0/SCM",
       "is_new": false
+    },
+    {
+      "title": "Emitting metadata early makes building/checking Rust up to twice as fast",
+      "link": "https://github.com/PowderworksCode/headstart",
+      "is_new": false
+    }
+  ],
+  "removed": [
+    {
+      "title": "All I wanted was a custom domain email",
+      "link": "https://jacobg.co/emails-at-jacobg-co/",
+      "is_new": true
     },
     {
       "title": "Declaring a bird extinct: The median wait is 36 years after the last sighting",
@@ -93,19 +170,9 @@
       "is_new": true
     },
     {
-      "title": "Bill Draper has died",
-      "link": "https://www.nytimes.com/2026/09/30/technology/william-draper-dead.html",
-      "is_new": true
-    },
-    {
       "title": "The evolution of effective altruism",
       "link": "https://www.economist.com/international/2026/10/01/how-effective-altruism-conquered-the-world",
       "is_new": true
-    },
-    {
-      "title": "Why don't more developers “use the platform”?",
-      "link": "https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/",
-      "is_new": false
     },
     {
       "title": "Automating my 35mm film scanning pipeline",
@@ -118,140 +185,8 @@
       "is_new": false
     },
     {
-      "title": "What is going on with ceiling fans",
-      "link": "https://mcmansionhell.com/post/829127919552151552/what-is-going-on-with-ceiling-fans",
-      "is_new": true
-    },
-    {
-      "title": "A browser-native classic Visual Basic VB6 IDE",
-      "link": "https://wieslawsoltes.github.io/VB6/",
-      "is_new": true
-    },
-    {
-      "title": "Xray-core concealed a certificate verification bypass vulnerability",
-      "link": "https://github.com/net4people/bbs/issues/672",
-      "is_new": true
-    },
-    {
-      "title": "cp: -r or -R?",
-      "link": "https://movq.de/blog/postings/2026-09-30/0/POSTING-en.html",
-      "is_new": true
-    },
-    {
       "title": "Agents don't need memory, they need documentation",
       "link": "https://liao.gg/blog/agents-dont-need-memory",
-      "is_new": false
-    },
-    {
-      "title": "Surely you have ultra-wideband radios on your bins too?",
-      "link": "https://sjg.io/writing/binrange-have-you-actually-put-the-bins-out/",
-      "is_new": true
-    },
-    {
-      "title": "Emitting metadata early makes building/checking Rust up to twice as fast",
-      "link": "https://github.com/PowderworksCode/headstart",
-      "is_new": false
-    }
-  ],
-  "removed": [
-    {
-      "title": "Car is a smartphone on wheels. Here's who's listening",
-      "link": "https://automatictransmission.khoury.northeastern.edu/",
-      "is_new": true
-    },
-    {
-      "title": "The CISA Alert: Security Beyond Solitary Confinement",
-      "link": "https://jnior.com/blog/the-cisa-alert-security-beyond-solitary-confinement/",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: Dataviz, ranked daily from GitHub, NPM, PyPI and CRAN",
-      "link": "https://awesomedataviz.com/",
-      "is_new": true
-    },
-    {
-      "title": "Building a RAG Pipeline for Semantic Code Search",
-      "link": "https://blog.jetbrains.com/ai/2026/09/building-a-rag-pipeline-for-semantic-code-search-a-developer-diary-and-field-notes/",
-      "is_new": true
-    },
-    {
-      "title": "VGHF Digital Archive passes 5000 magazines. Here's what's next",
-      "link": "https://gamehistory.org/5k-magazines/",
-      "is_new": false
-    },
-    {
-      "title": "Blindsight (Watts Novel)",
-      "link": "https://en.wikipedia.org/wiki/Blindsight_(Watts_novel)",
-      "is_new": true
-    },
-    {
-      "title": "The Heilbronn Problem",
-      "link": "https://math.tejstead.com/heilbronn/",
-      "is_new": false
-    },
-    {
-      "title": "A parasitic Fibonacci computation inside /usr/bin/top",
-      "link": "https://seriot.ch/computation/terminfo/",
-      "is_new": true
-    },
-    {
-      "title": "Treachery in the Rodin Museum 3D scan verdict",
-      "link": "https://cosmowenman.substack.com/p/rodin-museum-3d-scan-verdict",
-      "is_new": false
-    },
-    {
-      "title": "Magic Switch: Share Apple Magic keyboard/track-pad/mouse between two Macs",
-      "link": "https://joshua.hu/magic-switch-easily-switch-magic-keyboard-trackpad-mouse-between-mac-macbook-macos",
-      "is_new": false
-    },
-    {
-      "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
-      "link": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/",
-      "is_new": false
-    },
-    {
-      "title": "What's the future for pure math research in the age of AI?",
-      "link": "https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai/",
-      "is_new": false
-    },
-    {
-      "title": "Hole Punch: Sling your spaceship around gravitational fields",
-      "link": "https://notoriousbfg.com/hole-punch/",
-      "is_new": false
-    },
-    {
-      "title": "Celebrating the 100th birthday of the kidney donated to him as a teenager",
-      "link": "https://www.whec.com/top-news/webster-man-celebrating-the-100th-birthday-of-the-kidney-his-mom-donated-to-him-as-a-teenager/",
-      "is_new": false
-    },
-    {
-      "title": "Reasons I didn't become an EMT, ranked",
-      "link": "https://ben.stolovitz.com/posts/reasons-not-emt-ranked/",
-      "is_new": false
-    },
-    {
-      "title": "I quit OpenAI because its culture is broken",
-      "link": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/?gift=v5U_UzUTothfWXsPxtvNVAh7esWToMRD6XnbXmc5WgA",
-      "is_new": false
-    },
-    {
-      "title": "We want you to build the next Git platform on Cloudflare",
-      "link": "https://blog.cloudflare.com/next-git-platform-on-cloudflare/",
-      "is_new": false
-    },
-    {
-      "title": "We're going to need default hard budget caps on pretty much everything",
-      "link": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
-      "is_new": false
-    },
-    {
-      "title": "L-systems generate weevils, pizza toppings, and matriarchal lineages",
-      "link": "https://blog.plover.com/2026/09/25/",
-      "is_new": true
-    },
-    {
-      "title": "What Meta got right with Muse",
-      "link": "https://metedata.substack.com/p/what-meta-got-right-with-muse",
       "is_new": false
     }
   ]
