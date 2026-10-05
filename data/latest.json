@@ -1,11 +1,76 @@
 {
-  "crawled_at": "2026-10-05 17:14",
-  "prev_crawled_at": "2026-10-05 10:33",
+  "crawled_at": "2026-10-06 02:48",
+  "prev_crawled_at": "2026-10-05 17:14",
   "items": [
     {
-      "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
-      "link": "https://github.com/Niko1221/Strata",
-      "is_new": false
+      "title": "Web Search API",
+      "link": "https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/",
+      "is_new": true
+    },
+    {
+      "title": "Making a GTK application in Haskell, part 1",
+      "link": "https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/",
+      "is_new": true
+    },
+    {
+      "title": "The future of independence is interdependence",
+      "link": "https://onlys.ky/independence-is-interdependence/",
+      "is_new": true
+    },
+    {
+      "title": "US closely monitoring case of lab worker who possibly died of plague in Siberia",
+      "link": "https://www.theguardian.com/world/2026/oct/05/russia-lab-worker-possibly-dies-of-plague-siberia-quarantine-measures-irkutsk",
+      "is_new": true
+    },
+    {
+      "title": "Mold Linker Version 3.0.0 Release – Rewritten in Rust",
+      "link": "https://github.com/rui314/mold/releases/tag/v3.0.0",
+      "is_new": true
+    },
+    {
+      "title": "Denmark Data Breach Exposes 8.8M People's Personal Data",
+      "link": "https://www.cpr.dk/cpr-nyt/nyhedsarkiv/2026/okt/omfattende-uautoriseret-adgang-til-borgeres-cpr-oplysninger",
+      "is_new": true
+    },
+    {
+      "title": "The technology to eradicate mosquito-borne disease exists",
+      "link": "https://worksinprogress.co/issue/mosquitoes-are-a-choice/",
+      "is_new": true
+    },
+    {
+      "title": "Huawei and Qualcomm announce broad patent license agreement",
+      "link": "https://www.huawei.com/en/news/2026/10/qualcomm-broad-patent-agreement",
+      "is_new": true
+    },
+    {
+      "title": "Pixel 11 doesn't yet meet the GrapheneOS security standards and may be skipped",
+      "link": "https://discuss.grapheneos.org/d/41564-pixel-11-doesnt-yet-meet-the-grapheneos-security-standards-and-may-be-skipped",
+      "is_new": true
+    },
+    {
+      "title": "Differences Between `Foldl` and `Foldr`",
+      "link": "https://blog.haskell.org/foldl-and-foldr/",
+      "is_new": true
+    },
+    {
+      "title": "2026 Nobel Prize in Physiology or Medicine: Deisseroth, Hegemann, Nagel",
+      "link": "https://www.nobelprize.org/prizes/medicine/2026/summary/",
+      "is_new": true
+    },
+    {
+      "title": "Beating the Compiler",
+      "link": "https://www.mattkeeter.com/blog/2024-07-12-interpreter/",
+      "is_new": true
+    },
+    {
+      "title": "Martian chaos terrain",
+      "link": "https://en.wikipedia.org/wiki/Martian_chaos_terrain",
+      "is_new": true
+    },
+    {
+      "title": "Anthropic reported diary entry to police, woman faces felony charge",
+      "link": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
+      "is_new": true
     },
     {
       "title": "In the wake of Tippett Studios’ closure, a digital archive appears online",
@@ -13,8 +78,38 @@
       "is_new": false
     },
     {
+      "title": "Type Safe Generic Data Structures in C",
+      "link": "https://danielchasehooper.com/posts/typechecked-generic-c-data-structures/",
+      "is_new": true
+    },
+    {
       "title": "We ported the original Doom to SQL",
       "link": "https://cedardb.com/blog/sqldoom/",
+      "is_new": false
+    },
+    {
+      "title": "Picard 3.0",
+      "link": "https://blog.metabrainz.org/2026/10/04/picard-3-0-released/",
+      "is_new": true
+    },
+    {
+      "title": "The designer lamps in my house",
+      "link": "https://arslan.io/2026/10/05/the-lamps-in-my-house/",
+      "is_new": true
+    },
+    {
+      "title": "Earth Tipped on Its Side During the Age of Dinosaurs–and Not Just Once",
+      "link": "https://gizmodo.com/earth-tipped-on-its-side-during-the-age-of-dinosaurs-and-not-just-once-2000820281",
+      "is_new": true
+    },
+    {
+      "title": "Germany’s RobCo hits $1B valuation",
+      "link": "https://techfundingnews.com/europes-new-robotics-unicorn-germanys-robco-hits-1b-valuation/",
+      "is_new": true
+    },
+    {
+      "title": "Mystery Function",
+      "link": "https://codeset.ai/function",
       "is_new": true
     },
     {
@@ -23,14 +118,51 @@
       "is_new": false
     },
     {
-      "title": "Replacement of petroleum based products with plant-based materials (2025)",
-      "link": "https://onlinelibrary.wiley.com/doi/10.1002/eng2.70108",
-      "is_new": true
-    },
-    {
       "title": "The Tao of Backup",
       "link": "http://www.taobackup.com/index.html",
       "is_new": false
+    },
+    {
+      "title": "ExplainDB: A Database System Built for Understandability",
+      "link": "https://github.com/explaindb/explaindb",
+      "is_new": true
+    },
+    {
+      "title": "Borland Turbo Basic",
+      "link": "https://dosdays.co.uk/topics/Software/borland_turbo_basic.php",
+      "is_new": true
+    },
+    {
+      "title": "Our approach to EU text provenance rules",
+      "link": "https://openai.com/index/eu-text-provenance/",
+      "is_new": true
+    },
+    {
+      "title": "Linux containers in 500 lines of code",
+      "link": "https://blog.lizzie.io/linux-containers-in-500-loc.html",
+      "is_new": true
+    },
+    {
+      "title": "People are asking ChatGPT to help them decide how to vote in the midterms",
+      "link": "https://www.npr.org/2026/10/05/nx-s1-5977852/ai-chatbots-midterm-election",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: Minigraf – An embedded, bi-temporal graph database in Rust",
+      "link": "https://github.com/project-minigraf/minigraf",
+      "is_new": true
+    }
+  ],
+  "removed": [
+    {
+      "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
+      "link": "https://github.com/Niko1221/Strata",
+      "is_new": false
+    },
+    {
+      "title": "Replacement of petroleum based products with plant-based materials (2025)",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/eng2.70108",
+      "is_new": true
     },
     {
       "title": "Gods in the Classroom: Religion and Education in First Millennium BCE Babylonia",
@@ -150,63 +282,6 @@
     {
       "title": "Results from the ASIC puzzle",
       "link": "https://blog.janestreet.com/asic-puzzle-results/",
-      "is_new": false
-    }
-  ],
-  "removed": [
-    {
-      "title": "ArtCraft Apps – open-source Adobe compatible suite written in Rust",
-      "link": "https://getartcraft.com/apps",
-      "is_new": true
-    },
-    {
-      "title": "Homa: The end of TCP for AI clusters [video]",
-      "link": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
-      "is_new": false
-    },
-    {
-      "title": "Incentives in Academic Research",
-      "link": "https://www.msoos.org/2026/10/incentives-in-academic-research/",
-      "is_new": false
-    },
-    {
-      "title": "A map of every lighthouse",
-      "link": "https://mapped.earth/lighthouses/world",
-      "is_new": false
-    },
-    {
-      "title": "Show HN: AI search for every photo and every frame of video on macOS",
-      "link": "https://github.com/allenv0/SCM",
-      "is_new": false
-    },
-    {
-      "title": "The logic of gambling undergirds everything coming out of Silicon Valley",
-      "link": "https://www.nytimes.com/2026/10/04/magazine/gambling-prediction-markets-statistics.html",
-      "is_new": true
-    },
-    {
-      "title": "cp: -r or -R?",
-      "link": "https://movq.de/blog/postings/2026-09-30/0/POSTING-en.html",
-      "is_new": false
-    },
-    {
-      "title": "Show HN: Build with Python – a beginner course where your code draws",
-      "link": "https://scimigo.com/en/learn/build-with-python/01-draw-with-python",
-      "is_new": false
-    },
-    {
-      "title": "Surely you have ultra-wideband radios on your bins too?",
-      "link": "https://sjg.io/writing/binrange-have-you-actually-put-the-bins-out/",
-      "is_new": false
-    },
-    {
-      "title": "Page Table Memory Consumption",
-      "link": "https://frn.sh/pagetables/",
-      "is_new": false
-    },
-    {
-      "title": "Emitting metadata early makes building/checking Rust up to twice as fast",
-      "link": "https://github.com/PowderworksCode/headstart",
       "is_new": false
     }
   ]
