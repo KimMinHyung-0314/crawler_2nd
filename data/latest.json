@@ -1,17 +1,159 @@
 {
-  "crawled_at": "2026-10-06 02:48",
-  "prev_crawled_at": "2026-10-05 17:14",
+  "crawled_at": "2026-10-06 08:40",
+  "prev_crawled_at": "2026-10-06 02:48",
   "items": [
+    {
+      "title": "Beam: Reflection's 501B open-weight model",
+      "link": "https://reflection.ai/blog/introducing-beam",
+      "is_new": true
+    },
+    {
+      "title": "Find the flattest route between any two points in SF",
+      "link": "https://flattensf.com/",
+      "is_new": true
+    },
+    {
+      "title": "Dust: Pretraining Transformers Without Backpropagation",
+      "link": "https://qlabs.sh/research/dust",
+      "is_new": true
+    },
+    {
+      "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+      "link": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
+      "is_new": true
+    },
+    {
+      "title": "Example.com Just Launched the Biggest Redesign in Decades",
+      "link": "https://www.debugbear.com/blog/example-dot-com-redesign-history",
+      "is_new": true
+    },
+    {
+      "title": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
+      "link": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/",
+      "is_new": true
+    },
+    {
+      "title": "Using Blu-ray M-Disk as Backup of Last Resort",
+      "link": "https://smyck.net/2026/10/03/holocron-the-backup-of-last-resort/",
+      "is_new": true
+    },
+    {
+      "title": "Worth Building",
+      "link": "https://armstr.ng/writing/worth-building",
+      "is_new": true
+    },
+    {
+      "title": "Graphical UI",
+      "link": "https://www.graphicalui.com/",
+      "is_new": true
+    },
     {
       "title": "Web Search API",
       "link": "https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/",
+      "is_new": false
+    },
+    {
+      "title": "Ephemeral Testing",
+      "link": "https://lemire.me/blog/2026/10/05/ephemeral-testing/",
+      "is_new": true
+    },
+    {
+      "title": "Competitive Programmer's Handbook (2018) [pdf]",
+      "link": "https://cses.fi/book/book.pdf",
+      "is_new": true
+    },
+    {
+      "title": "DEDA – Tracking Dots Extraction, Decoding and Anonymisation Toolkit",
+      "link": "https://github.com/dfd-tud/deda",
+      "is_new": true
+    },
+    {
+      "title": "Global Solar Atlas: summary of solar power potential globally",
+      "link": "https://globalsolaratlas.info/",
+      "is_new": true
+    },
+    {
+      "title": "Anthropic reported diary entry to police, woman faces felony charge",
+      "link": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
+      "is_new": false
+    },
+    {
+      "title": "Is mathematics over, or just graduating?",
+      "link": "https://docs.google.com/document/d/e/2PACX-1vTSh-pyNP3Gi99WMmsinnLmE9V5CDI0HEm6WGbIPMNt3V5SGlClHF8-BetotKHOImrvQDSXmFdiOw8D/pub",
+      "is_new": true
+    },
+    {
+      "title": "A third way of using Linux",
+      "link": "https://hisvirusness.com/third-is-the-way",
       "is_new": true
     },
     {
       "title": "Making a GTK application in Haskell, part 1",
       "link": "https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/",
+      "is_new": false
+    },
+    {
+      "title": "Texas city demands $2M for public records on Flock usage",
+      "link": "https://arstechnica.com/tech-policy/2026/10/texas-city-demands-2m-for-public-records-on-flock-usage/",
       "is_new": true
     },
+    {
+      "title": "Testing 12 different Zigbee temperature/humidity sensors",
+      "link": "https://smarthomescene.com/reviews/best-selling-zigbee-temperature-sensors-tested/",
+      "is_new": true
+    },
+    {
+      "title": "Linux containers in 500 lines of code (2016)",
+      "link": "https://blog.lizzie.io/linux-containers-in-500-loc.html",
+      "is_new": false
+    },
+    {
+      "title": "The lamps in my house",
+      "link": "https://arslan.io/2026/10/05/the-lamps-in-my-house/",
+      "is_new": false
+    },
+    {
+      "title": "The Future of Mathematics",
+      "link": "https://terrytao.wordpress.com/2026/10/05/the-future-of-mathematics/",
+      "is_new": true
+    },
+    {
+      "title": "Incident with Actions",
+      "link": "https://www.githubstatus.com/incidents/3q1yb5m7ltvb",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: Nightwatch – a Mac menu-bar app that tells you when tonight is clear",
+      "link": "https://github.com/rsutcliffe/nightwatch",
+      "is_new": true
+    },
+    {
+      "title": "Better Space-Time Trade-Offs for LSM-Tree Based Key-Value Stores [pdf]",
+      "link": "https://nivdayan.github.io/dostoevsky.pdf",
+      "is_new": true
+    },
+    {
+      "title": "Apple and a hacker's future",
+      "link": "https://stratechery.com/2026/apple-and-a-hackers-future/",
+      "is_new": true
+    },
+    {
+      "title": "Qualcomm licenses patents on Huawei’s LogicFolding chip tech",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-05/qualcomm-licenses-patents-on-huawei-s-logicfolding-chip-tech",
+      "is_new": true
+    },
+    {
+      "title": "The era of software quality, or the era of ostriches?",
+      "link": "https://blogs.gnome.org/mcatanzaro/2026/10/02/the-era-of-software-quality-or-the-era-of-ostriches/",
+      "is_new": true
+    },
+    {
+      "title": "The first fully implanted cochlear implant reaches patients",
+      "link": "https://spectrum.ieee.org/fully-implantable-cochlear-implant",
+      "is_new": true
+    }
+  ],
+  "removed": [
     {
       "title": "The future of independence is interdependence",
       "link": "https://onlys.ky/independence-is-interdependence/",
@@ -68,11 +210,6 @@
       "is_new": true
     },
     {
-      "title": "Anthropic reported diary entry to police, woman faces felony charge",
-      "link": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
-      "is_new": true
-    },
-    {
       "title": "In the wake of Tippett Studios’ closure, a digital archive appears online",
       "link": "https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/",
       "is_new": false
@@ -90,11 +227,6 @@
     {
       "title": "Picard 3.0",
       "link": "https://blog.metabrainz.org/2026/10/04/picard-3-0-released/",
-      "is_new": true
-    },
-    {
-      "title": "The designer lamps in my house",
-      "link": "https://arslan.io/2026/10/05/the-lamps-in-my-house/",
       "is_new": true
     },
     {
@@ -138,11 +270,6 @@
       "is_new": true
     },
     {
-      "title": "Linux containers in 500 lines of code",
-      "link": "https://blog.lizzie.io/linux-containers-in-500-loc.html",
-      "is_new": true
-    },
-    {
       "title": "People are asking ChatGPT to help them decide how to vote in the midterms",
       "link": "https://www.npr.org/2026/10/05/nx-s1-5977852/ai-chatbots-midterm-election",
       "is_new": true
@@ -151,138 +278,6 @@
       "title": "Show HN: Minigraf – An embedded, bi-temporal graph database in Rust",
       "link": "https://github.com/project-minigraf/minigraf",
       "is_new": true
-    }
-  ],
-  "removed": [
-    {
-      "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
-      "link": "https://github.com/Niko1221/Strata",
-      "is_new": false
-    },
-    {
-      "title": "Replacement of petroleum based products with plant-based materials (2025)",
-      "link": "https://onlinelibrary.wiley.com/doi/10.1002/eng2.70108",
-      "is_new": true
-    },
-    {
-      "title": "Gods in the Classroom: Religion and Education in First Millennium BCE Babylonia",
-      "link": "https://www.cambridge.org/core/journals/iraq/article/gods-in-the-classroom-religion-and-education-in-1st-millennium-bce-babylonia/EB059EE81804DCBC1848CACBD6298E0B",
-      "is_new": true
-    },
-    {
-      "title": "Infidel goes wild",
-      "link": "https://blog.zarfhome.com/2026/10/infidel-goes-wild",
-      "is_new": false
-    },
-    {
-      "title": "A 40ms Go garbage collector pause caused by swap",
-      "link": "https://frn.sh/go-gc/",
-      "is_new": true
-    },
-    {
-      "title": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
-      "link": "https://github.com/omlahore/RemoveMacAI",
-      "is_new": false
-    },
-    {
-      "title": "Powerless F1 drivers frustrated by Bahrain F1 software glitch",
-      "link": "https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/",
-      "is_new": true
-    },
-    {
-      "title": "Tell HN: Bob Cringely has died",
-      "link": "https://news.ycombinator.com/item?id=49949438",
-      "is_new": false
-    },
-    {
-      "title": "Demystifying Tufte's data-ink ratio",
-      "link": "https://tuftesrazor.scienceux.org/",
-      "is_new": false
-    },
-    {
-      "title": "Improper redaction reveals Google Data Center water and electricity usage",
-      "link": "https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/",
-      "is_new": false
-    },
-    {
-      "title": "Decision models like Jev don't beat LLM-as-a-judge or traditional classifiers",
-      "link": "https://developers.redhat.com/articles/2026/10/02/benchmarking-ai-decision-models-against-traditional-guardrails",
-      "is_new": true
-    },
-    {
-      "title": "Automating my 35mm film scanning pipeline",
-      "link": "https://shannadige.com/blog/darkroom/",
-      "is_new": true
-    },
-    {
-      "title": "Self-hosted HTTP tunnels with SSH and Nginx",
-      "link": "https://vincent.bernat.ch/en/blog/2026-http-over-ssh",
-      "is_new": false
-    },
-    {
-      "title": "'Neanderthals Among Us' review",
-      "link": "https://www.historytoday.com/archive/review/neanderthals-among-us-peter-sahlins-review",
-      "is_new": false
-    },
-    {
-      "title": "Watson Jr. memo about CDC 6600 (1963)",
-      "link": "https://www.computerhistory.org/revolution/supercomputers/10/33/62",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: Glashütte Trash Clock – A 30-minute pendulum clock made from trash",
-      "link": "https://niklasroy.com/gtc/",
-      "is_new": false
-    },
-    {
-      "title": "Interview with Chicken Scheme Maintainer Sjamaan/Peter Bex",
-      "link": "https://alexalejandre.com/interviews/peter-bex/",
-      "is_new": false
-    },
-    {
-      "title": "How to scale intent, quality, and artistry with AI [video]",
-      "link": "https://www.youtube.com/watch?v=GLvFTMtw4Jk",
-      "is_new": false
-    },
-    {
-      "title": "What is going on with ceiling fans",
-      "link": "https://mcmansionhell.com/post/829127919552151552/what-is-going-on-with-ceiling-fans",
-      "is_new": false
-    },
-    {
-      "title": "Bill Draper has died",
-      "link": "https://www.nytimes.com/2026/09/30/technology/william-draper-dead.html",
-      "is_new": false
-    },
-    {
-      "title": "Safe Optimistic Lock Coupling",
-      "link": "http://databasearchitects.blogspot.com/2026/04/safe-optimistic-lock-coupling.html",
-      "is_new": true
-    },
-    {
-      "title": "Xray-core concealed a certificate verification bypass vulnerability",
-      "link": "https://github.com/net4people/bbs/issues/672",
-      "is_new": false
-    },
-    {
-      "title": "Nearly 200 people under observation after Irkutsk lab worker dies from plague",
-      "link": "https://www.themoscowtimes.com/2026/10/02/nearly-200-people-under-observation-after-irkutsk-lab-worker-dies-from-plague-a93857",
-      "is_new": true
-    },
-    {
-      "title": "Why don't more developers “use the platform”?",
-      "link": "https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/",
-      "is_new": false
-    },
-    {
-      "title": "Blindsight (Watts Novel)",
-      "link": "https://en.wikipedia.org/wiki/Blindsight_(Watts_novel)",
-      "is_new": true
-    },
-    {
-      "title": "Results from the ASIC puzzle",
-      "link": "https://blog.janestreet.com/asic-puzzle-results/",
-      "is_new": false
     }
   ]
 }
