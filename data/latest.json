@@ -1,51 +1,61 @@
 {
-  "crawled_at": "2026-10-07 02:51",
-  "prev_crawled_at": "2026-10-06 20:44",
+  "crawled_at": "2026-10-07 07:15",
+  "prev_crawled_at": "2026-10-07 02:51",
   "items": [
     {
       "title": "Mistral Large 4",
       "link": "https://mistral.ai/news/mistral-large-4/\\",
+      "is_new": false
+    },
+    {
+      "title": "EmbeddingGemma 2: An open, lightweight multimodal embedding model",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/",
       "is_new": true
     },
     {
-      "title": "Release of Polars 2.0",
-      "link": "https://pola.rs/posts/release-polars-2/",
-      "is_new": true
-    },
-    {
-      "title": "Nobel Prize in Physics goes to Francis Halzen",
+      "title": "Nobel Prize in Physics 2026: Francis Halzen",
       "link": "https://www.nobelprize.org/prizes/physics/2026/",
       "is_new": false
     },
     {
-      "title": "The Early History of Smalltalk (1993)",
-      "link": "https://worrydream.com/EarlyHistoryOfSmalltalk/",
+      "title": "Paramount Skydance has completed its $111B merger with Warner Bros. Discovery",
+      "link": "https://arstechnica.com/tech-policy/2026/10/paramount-completes-111b-warner-merger-creating-skydance-behemoth/",
       "is_new": true
     },
     {
-      "title": "AI is now capable of developing its own inference hardware",
+      "title": "OpenTPU – An open-source AI accelerator, developed by AI",
       "link": "https://github.com/FeSens/openTPU",
+      "is_new": false
+    },
+    {
+      "title": "Decisions API is in public beta",
+      "link": "https://developers.openai.com/api/docs/guides/decisions",
       "is_new": true
     },
     {
-      "title": "Tapo (Rust/Python library) now speaks TP-Link's TPAP protocol",
-      "link": "https://mihai.dinculescu.dev/posts/tapo-speaks-tpap/",
+      "title": "OpenSSH 10.6",
+      "link": "https://www.openssh.org/releasenotes.html#10.6",
       "is_new": true
     },
     {
-      "title": "JetBrains reported a net financial loss first time in its tracked history",
-      "link": "https://www.helgilibrary.com/companies/jetbrains",
+      "title": "Claude Code’s suggested message feature: I think the real customer is the model",
+      "link": "https://www.zohaib.cc/blog/smartest-claude-code-feature",
       "is_new": true
     },
     {
       "title": "Benchmark in Milliseconds",
       "link": "https://matklad.github.io/2026/10/05/benchmark-milliseconds.html",
+      "is_new": false
+    },
+    {
+      "title": "Ask HN: Why is Ask HN only showing me 14 posts?",
+      "link": "https://news.ycombinator.com/item?id=49984484",
       "is_new": true
     },
     {
-      "title": "Meta's Muse Is an Adorable Privacy and Security Dumpster Fire",
-      "link": "https://www.techdirt.com/2026/10/06/metas-muse-is-an-adorable-privacy-and-security-dumpster-fire/",
-      "is_new": true
+      "title": "The Early History of Smalltalk (1993)",
+      "link": "https://worrydream.com/EarlyHistoryOfSmalltalk/",
+      "is_new": false
     },
     {
       "title": "Gleam doesn't compile to Erlang source anymore",
@@ -53,24 +63,44 @@
       "is_new": false
     },
     {
-      "title": "Mathematics of Geothermal Energy",
-      "link": "https://www.ebsco.com/research-starters/power-and-energy/mathematics-geothermal-energy/",
+      "title": "System-level ad-blocking in Android",
+      "link": "https://kevinboone.me/adblock.html",
       "is_new": true
     },
     {
       "title": "Show HN: I turned my iPhone and a $20 smart plug into an f-stop timer",
       "link": "https://peterszentkiralyi.eu/darkplug/",
+      "is_new": false
+    },
+    {
+      "title": "Mathematics of Geothermal Energy",
+      "link": "https://www.ebsco.com/research-starters/power-and-energy/mathematics-geothermal-energy/",
+      "is_new": false
+    },
+    {
+      "title": "Erdosproblems.com Succumbs to the AI Onslaught",
+      "link": "https://www.erdosproblems.com/forum/thread/blog:9",
       "is_new": true
     },
     {
       "title": "Subquadratic 3SUM and Subcubic APSP",
       "link": "https://arxiv.org/abs/2610.06783",
+      "is_new": false
+    },
+    {
+      "title": "What's Earth's dominant species by mass?",
+      "link": "https://signoregalilei.com/2026/09/27/whats-earths-dominant-species-by-mass/",
       "is_new": true
     },
     {
-      "title": "Nature's capacity to 'bounce back' when species are lost is vastly overestimated",
-      "link": "https://phys.org/news/2026-10-nature-capacity-species-lost-vastly.html",
+      "title": "Toronto-Based VPN Provider Plans to Quit Canada over Lawful-Access Bill",
+      "link": "https://citizenlab.ca/toronto-based-vpn-provider-plans-to-quit-canada-over-lawful-access-bill/",
       "is_new": true
+    },
+    {
+      "title": "Polars 2.0",
+      "link": "https://pola.rs/posts/release-polars-2/",
+      "is_new": false
     },
     {
       "title": "Beam: Reflection's 501B open-weight model",
@@ -78,9 +108,19 @@
       "is_new": false
     },
     {
+      "title": "Nature's capacity to 'bounce back' when species are lost is overestimated: study",
+      "link": "https://phys.org/news/2026-10-nature-capacity-species-lost-vastly.html",
+      "is_new": false
+    },
+    {
+      "title": "Example.com just launched the biggest redesign in decades",
+      "link": "https://www.debugbear.com/blog/example-dot-com-redesign-history",
+      "is_new": false
+    },
+    {
       "title": "Show HN: Parseable, an open observability datalake, handles 100M time-series/min",
       "link": "https://www.parseable.com",
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Find the flattest route between any two points in SF",
@@ -93,11 +133,6 @@
       "is_new": false
     },
     {
-      "title": "World's First enhanced geothermal power plant completed in just 23 months",
-      "link": "https://techcrunch.com/2026/10/01/worlds-first-enhanced-geothermal-power-plant-completed-in-just-23-months/",
-      "is_new": true
-    },
-    {
       "title": "Friendship ended with Deno, now Node is my best friend",
       "link": "https://dbushell.com/2026/10/03/deno-to-node/",
       "is_new": false
@@ -108,18 +143,40 @@
       "is_new": false
     },
     {
+      "title": "Best-selling Zigbee temperature sensors tested and compared",
+      "link": "https://smarthomescene.com/reviews/best-selling-zigbee-temperature-sensors-tested/",
+      "is_new": false
+    },
+    {
       "title": "I'm the AGI that's wiping out humanity",
       "link": "https://ajmoon.com/posts/im-the-agi-thats-wiping-out-humanity-heres-how",
+      "is_new": false
+    }
+  ],
+  "removed": [
+    {
+      "title": "Tapo (Rust/Python library) now speaks TP-Link's TPAP protocol",
+      "link": "https://mihai.dinculescu.dev/posts/tapo-speaks-tpap/",
+      "is_new": true
+    },
+    {
+      "title": "JetBrains reported a net financial loss first time in its tracked history",
+      "link": "https://www.helgilibrary.com/companies/jetbrains",
+      "is_new": true
+    },
+    {
+      "title": "Meta's Muse Is an Adorable Privacy and Security Dumpster Fire",
+      "link": "https://www.techdirt.com/2026/10/06/metas-muse-is-an-adorable-privacy-and-security-dumpster-fire/",
+      "is_new": true
+    },
+    {
+      "title": "World's First enhanced geothermal power plant completed in just 23 months",
+      "link": "https://techcrunch.com/2026/10/01/worlds-first-enhanced-geothermal-power-plant-completed-in-just-23-months/",
       "is_new": true
     },
     {
       "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
       "link": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
-      "is_new": false
-    },
-    {
-      "title": "Testing 12 different Zigbee temperature/humidity sensors",
-      "link": "https://smarthomescene.com/reviews/best-selling-zigbee-temperature-sensors-tested/",
       "is_new": false
     },
     {
@@ -138,11 +195,6 @@
       "is_new": false
     },
     {
-      "title": "Example.com just launched the biggest redesign in decades",
-      "link": "https://www.debugbear.com/blog/example-dot-com-redesign-history",
-      "is_new": false
-    },
-    {
       "title": "The lamps in my house",
       "link": "https://arslan.io/2026/10/05/the-lamps-in-my-house/",
       "is_new": false
@@ -151,88 +203,6 @@
       "title": "Resurrecting iChat Audio and Video Conferencing",
       "link": "https://blog.pipetogrep.org/2026/09/11/resurrecting-ichat-audio-and-video-conferencing/",
       "is_new": false
-    }
-  ],
-  "removed": [
-    {
-      "title": "Accountability mechanisms can be joyful (2024)",
-      "link": "https://liquidbrain.net/blog/accountability-and-joy/",
-      "is_new": true
-    },
-    {
-      "title": "Web Search API",
-      "link": "https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/",
-      "is_new": false
-    },
-    {
-      "title": "An algorithmic failure beneath the secret ballot",
-      "link": "https://blog.citp.princeton.edu/2026/08/03/an-algorithmic-failure-beneath-the-secret-ballot/",
-      "is_new": false
-    },
-    {
-      "title": "ASOS app users receive push notifications apparently sent by hackers",
-      "link": "https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o",
-      "is_new": true
-    },
-    {
-      "title": "Using A.I. and machine learning to decode communication of sperm whales",
-      "link": "https://blue-continuum.com/the-man-who-listens-to-whales",
-      "is_new": true
-    },
-    {
-      "title": "Global Solar Atlas: summary of solar power potential globally",
-      "link": "https://globalsolaratlas.info/",
-      "is_new": false
-    },
-    {
-      "title": "Why Common Lisp is now the best programming language",
-      "link": "https://www.vivienhenz.com/common-lisp",
-      "is_new": false
-    },
-    {
-      "title": "Show HN: Entombed in a Raycaster",
-      "link": "https://www.stelabouras.com/blog/entombed-raycaster/",
-      "is_new": false
-    },
-    {
-      "title": "Show HN: Photoc – Command-line tools for photographers",
-      "link": "https://github.com/ahmetomerv/photoc",
-      "is_new": false
-    },
-    {
-      "title": "DEDA – Tracking Dots Extraction, Decoding and Anonymisation Toolkit",
-      "link": "https://github.com/dfd-tud/deda",
-      "is_new": false
-    },
-    {
-      "title": "Ephemeral Testing",
-      "link": "https://lemire.me/blog/2026/10/05/ephemeral-testing/",
-      "is_new": false
-    },
-    {
-      "title": "Apple and a hacker's future",
-      "link": "https://stratechery.com/2026/apple-and-a-hackers-future/",
-      "is_new": false
-    },
-    {
-      "title": "Samon: Designing a Zen Garden Raking Puzzle",
-      "link": "https://gwern.net/doc/design/2026-10-03-gwern-samon.html",
-      "is_new": false
-    },
-    {
-      "title": "Fog-Bank: Archiving the oldest webcam feed",
-      "link": "https://fog-bank.org/net",
-      "is_new": true
-    },
-    {
-      "title": "Making a GTK application in Haskell, part 1",
-      "link": "https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/",
-      "is_new": false
-    },
-    {
-      "title": "Qualcomm licenses patents on Huawei’s LogicFolding chip tech",
-      "link": "https://www.bloomberg.com/news/articles/2026-10-05/qualcomm-licenses-patents-on-huawei-s-logicfolding-chip-tech",
-      "is_new": true
     }
   ]
 }
