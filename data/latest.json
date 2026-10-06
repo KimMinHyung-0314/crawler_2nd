@@ -1,10 +1,10 @@
 {
-  "crawled_at": "2026-10-06 13:39",
-  "prev_crawled_at": "2026-10-06 08:40",
+  "crawled_at": "2026-10-06 20:44",
+  "prev_crawled_at": "2026-10-06 13:39",
   "items": [
     {
-      "title": "Why Common Lisp is now the best programming language",
-      "link": "https://www.vivienhenz.com/common-lisp",
+      "title": "Nobel Prize in Physics goes to Francis Halzen",
+      "link": "https://www.nobelprize.org/prizes/physics/2026/",
       "is_new": true
     },
     {
@@ -13,8 +13,43 @@
       "is_new": false
     },
     {
+      "title": "Gleam doesn't compile to Erlang source anymore",
+      "link": "https://gleam.run/news/gleam-doesnt-compile-to-erlang-source-anymore/",
+      "is_new": true
+    },
+    {
       "title": "Find the flattest route between any two points in SF",
       "link": "https://flattensf.com/",
+      "is_new": false
+    },
+    {
+      "title": "Dust: Pretraining Transformers Without Backpropagation",
+      "link": "https://qlabs.sh/research/dust",
+      "is_new": false
+    },
+    {
+      "title": "Friendship ended with Deno, now Node is my best friend",
+      "link": "https://dbushell.com/2026/10/03/deno-to-node/",
+      "is_new": false
+    },
+    {
+      "title": "Accountability mechanisms can be joyful (2024)",
+      "link": "https://liquidbrain.net/blog/accountability-and-joy/",
+      "is_new": true
+    },
+    {
+      "title": "Web Search API",
+      "link": "https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/",
+      "is_new": false
+    },
+    {
+      "title": "Resurrecting iChat Audio and Video Conferencing",
+      "link": "https://blog.pipetogrep.org/2026/09/11/resurrecting-ichat-audio-and-video-conferencing/",
+      "is_new": false
+    },
+    {
+      "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+      "link": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
       "is_new": false
     },
     {
@@ -23,10 +58,102 @@
       "is_new": false
     },
     {
-      "title": "Dust: Pretraining Transformers Without Backpropagation",
-      "link": "https://qlabs.sh/research/dust",
+      "title": "Testing 12 different Zigbee temperature/humidity sensors",
+      "link": "https://smarthomescene.com/reviews/best-selling-zigbee-temperature-sensors-tested/",
       "is_new": false
     },
+    {
+      "title": "Competitive Programmer's Handbook (2018) [pdf]",
+      "link": "https://cses.fi/book/book.pdf",
+      "is_new": false
+    },
+    {
+      "title": "An algorithmic failure beneath the secret ballot",
+      "link": "https://blog.citp.princeton.edu/2026/08/03/an-algorithmic-failure-beneath-the-secret-ballot/",
+      "is_new": false
+    },
+    {
+      "title": "Direct retinal projection display for smart glasses using a meta-optic mirror",
+      "link": "https://www.tdk.com/en/news_center/press/20261002_01.html",
+      "is_new": true
+    },
+    {
+      "title": "The complement of true is true, except when it's false",
+      "link": "https://dryperspective.github.io/posts/complement-of-true/",
+      "is_new": true
+    },
+    {
+      "title": "ASOS app users receive push notifications apparently sent by hackers",
+      "link": "https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o",
+      "is_new": true
+    },
+    {
+      "title": "Using A.I. and machine learning to decode communication of sperm whales",
+      "link": "https://blue-continuum.com/the-man-who-listens-to-whales",
+      "is_new": true
+    },
+    {
+      "title": "Global Solar Atlas: summary of solar power potential globally",
+      "link": "https://globalsolaratlas.info/",
+      "is_new": false
+    },
+    {
+      "title": "The lamps in my house",
+      "link": "https://arslan.io/2026/10/05/the-lamps-in-my-house/",
+      "is_new": false
+    },
+    {
+      "title": "Why Common Lisp is now the best programming language",
+      "link": "https://www.vivienhenz.com/common-lisp",
+      "is_new": false
+    },
+    {
+      "title": "Show HN: Entombed in a Raycaster",
+      "link": "https://www.stelabouras.com/blog/entombed-raycaster/",
+      "is_new": false
+    },
+    {
+      "title": "Show HN: Photoc – Command-line tools for photographers",
+      "link": "https://github.com/ahmetomerv/photoc",
+      "is_new": false
+    },
+    {
+      "title": "DEDA – Tracking Dots Extraction, Decoding and Anonymisation Toolkit",
+      "link": "https://github.com/dfd-tud/deda",
+      "is_new": false
+    },
+    {
+      "title": "Ephemeral Testing",
+      "link": "https://lemire.me/blog/2026/10/05/ephemeral-testing/",
+      "is_new": false
+    },
+    {
+      "title": "Apple and a hacker's future",
+      "link": "https://stratechery.com/2026/apple-and-a-hackers-future/",
+      "is_new": false
+    },
+    {
+      "title": "Samon: Designing a Zen Garden Raking Puzzle",
+      "link": "https://gwern.net/doc/design/2026-10-03-gwern-samon.html",
+      "is_new": false
+    },
+    {
+      "title": "Fog-Bank: Archiving the oldest webcam feed",
+      "link": "https://fog-bank.org/net",
+      "is_new": true
+    },
+    {
+      "title": "Making a GTK application in Haskell, part 1",
+      "link": "https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/",
+      "is_new": false
+    },
+    {
+      "title": "Qualcomm licenses patents on Huawei’s LogicFolding chip tech",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-05/qualcomm-licenses-patents-on-huawei-s-logicfolding-chip-tech",
+      "is_new": true
+    }
+  ],
+  "removed": [
     {
       "title": "Photopea creator weighs in on Photosuite project",
       "link": "https://github.com/eolix/photosuite/issues/77",
@@ -38,34 +165,9 @@
       "is_new": true
     },
     {
-      "title": "An algorithmic failure beneath the secret ballot",
-      "link": "https://blog.citp.princeton.edu/2026/08/03/an-algorithmic-failure-beneath-the-secret-ballot/",
-      "is_new": true
-    },
-    {
-      "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
-      "link": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
-      "is_new": false
-    },
-    {
-      "title": "Friendship ended with Deno, now Node is my best friend",
-      "link": "https://dbushell.com/2026/10/03/deno-to-node/",
-      "is_new": true
-    },
-    {
       "title": "AI tutoring with Khanmigo in a two-year school experiment",
       "link": "https://edworkingpapers.com/ai26-1551",
       "is_new": true
-    },
-    {
-      "title": "Show HN: Photoc – Command-line tools for photographers",
-      "link": "https://github.com/ahmetomerv/photoc",
-      "is_new": true
-    },
-    {
-      "title": "Web Search API",
-      "link": "https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/",
-      "is_new": false
     },
     {
       "title": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
@@ -75,46 +177,6 @@
     {
       "title": "Anthropic reported diary entry to police, woman faces felony charge",
       "link": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
-      "is_new": false
-    },
-    {
-      "title": "Global Solar Atlas: summary of solar power potential globally",
-      "link": "https://globalsolaratlas.info/",
-      "is_new": false
-    },
-    {
-      "title": "Competitive Programmer's Handbook (2018) [pdf]",
-      "link": "https://cses.fi/book/book.pdf",
-      "is_new": false
-    },
-    {
-      "title": "Samon: Designing a Zen Garden Raking Puzzle",
-      "link": "https://gwern.net/doc/design/2026-10-03-gwern-samon.html",
-      "is_new": true
-    },
-    {
-      "title": "Testing 12 different Zigbee temperature/humidity sensors",
-      "link": "https://smarthomescene.com/reviews/best-selling-zigbee-temperature-sensors-tested/",
-      "is_new": false
-    },
-    {
-      "title": "Resurrecting iChat Audio and Video Conferencing",
-      "link": "https://blog.pipetogrep.org/2026/09/11/resurrecting-ichat-audio-and-video-conferencing/",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: Entombed in a Raycaster",
-      "link": "https://www.stelabouras.com/blog/entombed-raycaster/",
-      "is_new": true
-    },
-    {
-      "title": "DEDA – Tracking Dots Extraction, Decoding and Anonymisation Toolkit",
-      "link": "https://github.com/dfd-tud/deda",
-      "is_new": false
-    },
-    {
-      "title": "Ephemeral Testing",
-      "link": "https://lemire.me/blog/2026/10/05/ephemeral-testing/",
       "is_new": false
     },
     {
@@ -128,91 +190,14 @@
       "is_new": true
     },
     {
-      "title": "Making a GTK application in Haskell, part 1",
-      "link": "https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/",
-      "is_new": false
-    },
-    {
-      "title": "The lamps in my house",
-      "link": "https://arslan.io/2026/10/05/the-lamps-in-my-house/",
-      "is_new": false
-    },
-    {
       "title": "Using Theme park rides and smartphones for demonstrating Newtonian mechanics",
       "link": "https://iopscience.iop.org/article/10.1088/1361-6404/aea271",
       "is_new": true
     },
     {
-      "title": "Apple and a hacker's future",
-      "link": "https://stratechery.com/2026/apple-and-a-hackers-future/",
-      "is_new": false
-    },
-    {
       "title": "Using Blu-ray M-Disk as backup of last resort",
       "link": "https://smyck.net/2026/10/03/holocron-the-backup-of-last-resort/",
       "is_new": false
-    }
-  ],
-  "removed": [
-    {
-      "title": "Worth Building",
-      "link": "https://armstr.ng/writing/worth-building",
-      "is_new": true
-    },
-    {
-      "title": "Graphical UI",
-      "link": "https://www.graphicalui.com/",
-      "is_new": true
-    },
-    {
-      "title": "Is mathematics over, or just graduating?",
-      "link": "https://docs.google.com/document/d/e/2PACX-1vTSh-pyNP3Gi99WMmsinnLmE9V5CDI0HEm6WGbIPMNt3V5SGlClHF8-BetotKHOImrvQDSXmFdiOw8D/pub",
-      "is_new": true
-    },
-    {
-      "title": "A third way of using Linux",
-      "link": "https://hisvirusness.com/third-is-the-way",
-      "is_new": true
-    },
-    {
-      "title": "Linux containers in 500 lines of code (2016)",
-      "link": "https://blog.lizzie.io/linux-containers-in-500-loc.html",
-      "is_new": false
-    },
-    {
-      "title": "The Future of Mathematics",
-      "link": "https://terrytao.wordpress.com/2026/10/05/the-future-of-mathematics/",
-      "is_new": true
-    },
-    {
-      "title": "Incident with Actions",
-      "link": "https://www.githubstatus.com/incidents/3q1yb5m7ltvb",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: Nightwatch – a Mac menu-bar app that tells you when tonight is clear",
-      "link": "https://github.com/rsutcliffe/nightwatch",
-      "is_new": true
-    },
-    {
-      "title": "Better Space-Time Trade-Offs for LSM-Tree Based Key-Value Stores [pdf]",
-      "link": "https://nivdayan.github.io/dostoevsky.pdf",
-      "is_new": true
-    },
-    {
-      "title": "Qualcomm licenses patents on Huawei’s LogicFolding chip tech",
-      "link": "https://www.bloomberg.com/news/articles/2026-10-05/qualcomm-licenses-patents-on-huawei-s-logicfolding-chip-tech",
-      "is_new": true
-    },
-    {
-      "title": "The era of software quality, or the era of ostriches?",
-      "link": "https://blogs.gnome.org/mcatanzaro/2026/10/02/the-era-of-software-quality-or-the-era-of-ostriches/",
-      "is_new": true
-    },
-    {
-      "title": "The first fully implanted cochlear implant reaches patients",
-      "link": "https://spectrum.ieee.org/fully-implantable-cochlear-implant",
-      "is_new": true
     }
   ]
 }
