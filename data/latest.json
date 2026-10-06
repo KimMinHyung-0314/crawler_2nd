@@ -1,10 +1,75 @@
 {
-  "crawled_at": "2026-10-06 20:44",
-  "prev_crawled_at": "2026-10-06 13:39",
+  "crawled_at": "2026-10-07 02:51",
+  "prev_crawled_at": "2026-10-06 20:44",
   "items": [
+    {
+      "title": "Mistral Large 4",
+      "link": "https://mistral.ai/news/mistral-large-4/\\",
+      "is_new": true
+    },
+    {
+      "title": "Release of Polars 2.0",
+      "link": "https://pola.rs/posts/release-polars-2/",
+      "is_new": true
+    },
     {
       "title": "Nobel Prize in Physics goes to Francis Halzen",
       "link": "https://www.nobelprize.org/prizes/physics/2026/",
+      "is_new": false
+    },
+    {
+      "title": "The Early History of Smalltalk (1993)",
+      "link": "https://worrydream.com/EarlyHistoryOfSmalltalk/",
+      "is_new": true
+    },
+    {
+      "title": "AI is now capable of developing its own inference hardware",
+      "link": "https://github.com/FeSens/openTPU",
+      "is_new": true
+    },
+    {
+      "title": "Tapo (Rust/Python library) now speaks TP-Link's TPAP protocol",
+      "link": "https://mihai.dinculescu.dev/posts/tapo-speaks-tpap/",
+      "is_new": true
+    },
+    {
+      "title": "JetBrains reported a net financial loss first time in its tracked history",
+      "link": "https://www.helgilibrary.com/companies/jetbrains",
+      "is_new": true
+    },
+    {
+      "title": "Benchmark in Milliseconds",
+      "link": "https://matklad.github.io/2026/10/05/benchmark-milliseconds.html",
+      "is_new": true
+    },
+    {
+      "title": "Meta's Muse Is an Adorable Privacy and Security Dumpster Fire",
+      "link": "https://www.techdirt.com/2026/10/06/metas-muse-is-an-adorable-privacy-and-security-dumpster-fire/",
+      "is_new": true
+    },
+    {
+      "title": "Gleam doesn't compile to Erlang source anymore",
+      "link": "https://gleam.run/news/gleam-doesnt-compile-to-erlang-source-anymore/",
+      "is_new": false
+    },
+    {
+      "title": "Mathematics of Geothermal Energy",
+      "link": "https://www.ebsco.com/research-starters/power-and-energy/mathematics-geothermal-energy/",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: I turned my iPhone and a $20 smart plug into an f-stop timer",
+      "link": "https://peterszentkiralyi.eu/darkplug/",
+      "is_new": true
+    },
+    {
+      "title": "Subquadratic 3SUM and Subcubic APSP",
+      "link": "https://arxiv.org/abs/2610.06783",
+      "is_new": true
+    },
+    {
+      "title": "Nature's capacity to 'bounce back' when species are lost is vastly overestimated",
+      "link": "https://phys.org/news/2026-10-nature-capacity-species-lost-vastly.html",
       "is_new": true
     },
     {
@@ -13,8 +78,8 @@
       "is_new": false
     },
     {
-      "title": "Gleam doesn't compile to Erlang source anymore",
-      "link": "https://gleam.run/news/gleam-doesnt-compile-to-erlang-source-anymore/",
+      "title": "Show HN: Parseable, an open observability datalake, handles 100M time-series/min",
+      "link": "https://www.parseable.com",
       "is_new": true
     },
     {
@@ -28,33 +93,28 @@
       "is_new": false
     },
     {
+      "title": "World's First enhanced geothermal power plant completed in just 23 months",
+      "link": "https://techcrunch.com/2026/10/01/worlds-first-enhanced-geothermal-power-plant-completed-in-just-23-months/",
+      "is_new": true
+    },
+    {
       "title": "Friendship ended with Deno, now Node is my best friend",
       "link": "https://dbushell.com/2026/10/03/deno-to-node/",
       "is_new": false
     },
     {
-      "title": "Accountability mechanisms can be joyful (2024)",
-      "link": "https://liquidbrain.net/blog/accountability-and-joy/",
+      "title": "Direct retinal projection display for smart glasses using a meta-optic mirror",
+      "link": "https://www.tdk.com/en/news_center/press/20261002_01.html",
+      "is_new": false
+    },
+    {
+      "title": "I'm the AGI that's wiping out humanity",
+      "link": "https://ajmoon.com/posts/im-the-agi-thats-wiping-out-humanity-heres-how",
       "is_new": true
-    },
-    {
-      "title": "Web Search API",
-      "link": "https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/",
-      "is_new": false
-    },
-    {
-      "title": "Resurrecting iChat Audio and Video Conferencing",
-      "link": "https://blog.pipetogrep.org/2026/09/11/resurrecting-ichat-audio-and-video-conferencing/",
-      "is_new": false
     },
     {
       "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
       "link": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
-      "is_new": false
-    },
-    {
-      "title": "Example.com just launched the biggest redesign in decades",
-      "link": "https://www.debugbear.com/blog/example-dot-com-redesign-history",
       "is_new": false
     },
     {
@@ -68,19 +128,46 @@
       "is_new": false
     },
     {
-      "title": "An algorithmic failure beneath the secret ballot",
-      "link": "https://blog.citp.princeton.edu/2026/08/03/an-algorithmic-failure-beneath-the-secret-ballot/",
-      "is_new": false
-    },
-    {
-      "title": "Direct retinal projection display for smart glasses using a meta-optic mirror",
-      "link": "https://www.tdk.com/en/news_center/press/20261002_01.html",
+      "title": "Two ARM64-specific compiler optimization bugs, in GCC 15/16 and Rust, hit curl",
+      "link": "https://mastodon.social/@bagder/117392573268225646",
       "is_new": true
     },
     {
       "title": "The complement of true is true, except when it's false",
       "link": "https://dryperspective.github.io/posts/complement-of-true/",
+      "is_new": false
+    },
+    {
+      "title": "Example.com just launched the biggest redesign in decades",
+      "link": "https://www.debugbear.com/blog/example-dot-com-redesign-history",
+      "is_new": false
+    },
+    {
+      "title": "The lamps in my house",
+      "link": "https://arslan.io/2026/10/05/the-lamps-in-my-house/",
+      "is_new": false
+    },
+    {
+      "title": "Resurrecting iChat Audio and Video Conferencing",
+      "link": "https://blog.pipetogrep.org/2026/09/11/resurrecting-ichat-audio-and-video-conferencing/",
+      "is_new": false
+    }
+  ],
+  "removed": [
+    {
+      "title": "Accountability mechanisms can be joyful (2024)",
+      "link": "https://liquidbrain.net/blog/accountability-and-joy/",
       "is_new": true
+    },
+    {
+      "title": "Web Search API",
+      "link": "https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/",
+      "is_new": false
+    },
+    {
+      "title": "An algorithmic failure beneath the secret ballot",
+      "link": "https://blog.citp.princeton.edu/2026/08/03/an-algorithmic-failure-beneath-the-secret-ballot/",
+      "is_new": false
     },
     {
       "title": "ASOS app users receive push notifications apparently sent by hackers",
@@ -95,11 +182,6 @@
     {
       "title": "Global Solar Atlas: summary of solar power potential globally",
       "link": "https://globalsolaratlas.info/",
-      "is_new": false
-    },
-    {
-      "title": "The lamps in my house",
-      "link": "https://arslan.io/2026/10/05/the-lamps-in-my-house/",
       "is_new": false
     },
     {
@@ -151,53 +233,6 @@
       "title": "Qualcomm licenses patents on Huawei’s LogicFolding chip tech",
       "link": "https://www.bloomberg.com/news/articles/2026-10-05/qualcomm-licenses-patents-on-huawei-s-logicfolding-chip-tech",
       "is_new": true
-    }
-  ],
-  "removed": [
-    {
-      "title": "Photopea creator weighs in on Photosuite project",
-      "link": "https://github.com/eolix/photosuite/issues/77",
-      "is_new": true
-    },
-    {
-      "title": "Wood Tape (2004)",
-      "link": "http://gamesbyemail.com/WoodTape/Default.htm",
-      "is_new": true
-    },
-    {
-      "title": "AI tutoring with Khanmigo in a two-year school experiment",
-      "link": "https://edworkingpapers.com/ai26-1551",
-      "is_new": true
-    },
-    {
-      "title": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
-      "link": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/",
-      "is_new": false
-    },
-    {
-      "title": "Anthropic reported diary entry to police, woman faces felony charge",
-      "link": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
-      "is_new": false
-    },
-    {
-      "title": "Texas city demands $2M for public records on Flock usage",
-      "link": "https://arstechnica.com/tech-policy/2026/10/texas-city-demands-2m-for-public-records-on-flock-usage/",
-      "is_new": false
-    },
-    {
-      "title": "High Diesel Prices Bankrupted 16 Trucking Companies in Just 30 Days",
-      "link": "https://www.thedrive.com/news/high-diesel-prices-bankrupted-16-trucking-companies-in-just-30-days",
-      "is_new": true
-    },
-    {
-      "title": "Using Theme park rides and smartphones for demonstrating Newtonian mechanics",
-      "link": "https://iopscience.iop.org/article/10.1088/1361-6404/aea271",
-      "is_new": true
-    },
-    {
-      "title": "Using Blu-ray M-Disk as backup of last resort",
-      "link": "https://smyck.net/2026/10/03/holocron-the-backup-of-last-resort/",
-      "is_new": false
     }
   ]
 }
