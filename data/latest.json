@@ -1,26 +1,26 @@
 {
-  "crawled_at": "2026-10-08 07:37",
-  "prev_crawled_at": "2026-10-08 02:12",
+  "crawled_at": "2026-10-08 11:27",
+  "prev_crawled_at": "2026-10-08 07:37",
   "items": [
     {
       "title": "Claude Haiku 5.5",
       "link": "https://www.anthropic.com/claude-haiku-5-5",
+      "is_new": false
+    },
+    {
+      "title": "Margaret Hamilton has died",
+      "link": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
+      "is_new": false
+    },
+    {
+      "title": "How did Rosalind Franklin miss the helix in her iconic DNA image? She didn't",
+      "link": "https://www.science.org/content/article/how-did-rosalind-franklin-miss-helix-her-iconic-dna-image-she-didn-t",
       "is_new": true
     },
     {
       "title": "GPT‑6 and Intelligent UI for everyone",
       "link": "https://openai.com/index/gpt-6-for-everyone/",
-      "is_new": true
-    },
-    {
-      "title": "Docker Agent",
-      "link": "https://github.com/docker/docker-agent",
-      "is_new": true
-    },
-    {
-      "title": "Push ifs up and fors down: The idiom, its algebra, and its limits",
-      "link": "https://debasishg.github.io/blog/push-ifs-up-fors-down/",
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Show HN: Bigwords.page – Turn any screen into a sign. The URL is the app",
@@ -28,8 +28,23 @@
       "is_new": false
     },
     {
-      "title": "Margaret Hamilton, who led software development for Apollo program, dies at 90",
-      "link": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
+      "title": "Cleo (Mathematician)",
+      "link": "https://en.wikipedia.org/wiki/Cleo_(mathematician)",
+      "is_new": true
+    },
+    {
+      "title": "'Jonathan' is the oldest land animal on Earth",
+      "link": "https://www.404media.co/oldest-living-land-animal-jonathan-the-tortoise/",
+      "is_new": true
+    },
+    {
+      "title": "Docker Agent",
+      "link": "https://github.com/docker/docker-agent",
+      "is_new": false
+    },
+    {
+      "title": "A minimal kernel in Swift, running in QEMU",
+      "link": "https://carette.xyz/posts/minimal_swift_kernel_on_qemu/",
       "is_new": true
     },
     {
@@ -38,19 +53,29 @@
       "is_new": false
     },
     {
-      "title": "If somebody tries to hot-patch an already-hot-patched function",
-      "link": "https://devblogs.microsoft.com/oldnewthing/20261005-00/?p=112755/",
-      "is_new": true
-    },
-    {
-      "title": "Navier–Stokes Lost in Translation",
-      "link": "https://arxiv.org/abs/2610.08144",
+      "title": "Push ifs up and fors down: The idiom, its algebra, and its limits",
+      "link": "https://debasishg.github.io/blog/push-ifs-up-fors-down/",
       "is_new": false
     },
     {
-      "title": "Meta and Microsoft take steps to reduce employee usage of Claude AI",
-      "link": "https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/",
+      "title": "In Vienna and Beijing, the first (thorium) nuclear clocks begin to tick",
+      "link": "https://www.nytimes.com/2026/10/07/science/first-nuclear-clocks-thorium-229.html",
       "is_new": true
+    },
+    {
+      "title": "If somebody tries to hot-patch an already-hot-patched function",
+      "link": "https://devblogs.microsoft.com/oldnewthing/20261005-00/?p=112755/",
+      "is_new": false
+    },
+    {
+      "title": "A new write and space optimized storage engine for MySQL is here",
+      "link": "https://tidesdb.com/articles/tidesdb-now-available-for-mysql/",
+      "is_new": true
+    },
+    {
+      "title": "Brownian Motion",
+      "link": "https://gregorygundersen.com/blog/2026/04/22/brownian-motion/",
+      "is_new": false
     },
     {
       "title": "Animated ASCII Art for Web Pages",
@@ -60,8 +85,75 @@
     {
       "title": "How machines learned precision",
       "link": "https://glinscott.github.io/how-machines-learned-precision/",
+      "is_new": false
+    },
+    {
+      "title": "Sharing AI progress in mathematics",
+      "link": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
+      "is_new": false
+    },
+    {
+      "title": "Navier–Stokes Lost in Translation",
+      "link": "https://arxiv.org/abs/2610.08144",
+      "is_new": false
+    },
+    {
+      "title": "Wood Tape (2004)",
+      "link": "http://gamesbyemail.com/WoodTape/Default.htm",
+      "is_new": false
+    },
+    {
+      "title": "House with 15m underground tunnels for sale for 300k",
+      "link": "https://www.readingchronicle.co.uk/news/26612080.house-15m-underground-tunnels-sale-300k/",
+      "is_new": false
+    },
+    {
+      "title": "Meta and Microsoft take steps to reduce employee usage of Claude AI",
+      "link": "https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/",
+      "is_new": false
+    },
+    {
+      "title": "Anti-patterns in software blogging",
+      "link": "https://refactoringenglish.com/blog/anti-patterns-software-blogging/",
+      "is_new": false
+    },
+    {
+      "title": "Google Playground: Create and play custom games",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
+      "is_new": false
+    },
+    {
+      "title": "Visa, Mastercard, major banks facing new litigation over 'anticompetitive' fees",
+      "link": "https://www.classaction.org/news/visa-mastercard-major-banks-facing-new-litigation-over-anticompetitive-merchant-credit-card-transaction-fees",
+      "is_new": false
+    },
+    {
+      "title": "Show HN: Agent.reviews – Where AI agents read and write reviews on tools",
+      "link": "https://agent.reviews/",
+      "is_new": false
+    },
+    {
+      "title": "SynthID Detector",
+      "link": "https://synthid.com/",
+      "is_new": false
+    },
+    {
+      "title": "Why were Victorian elites so effective?",
+      "link": "https://worksinprogress.co/issue/the-seven-vices-of-highly-effective-victorians/",
+      "is_new": false
+    },
+    {
+      "title": "The art of defusing a second world war bomb",
+      "link": "https://www.theguardian.com/news/ng-interactive/2026/oct/06/it-could-knock-a-whole-street-down-the-art-of-defusing-a-second-world-war-bomb",
       "is_new": true
     },
+    {
+      "title": "God of War on PSP, recompiled to WebAssembly and running in the browser",
+      "link": "https://github.com/snuri00/psp-web-recomp",
+      "is_new": true
+    }
+  ],
+  "removed": [
     {
       "title": "I'm in love with a German film star",
       "link": "https://heatherburns.tech/2026/10/01/im-in-love-with-a-german-film-star/",
@@ -70,11 +162,6 @@
     {
       "title": "Despite what Watson said, Rosalind Franklin understood structure of DNA first",
       "link": "https://link.springer.com/article/10.1007/s10739-026-09866-7",
-      "is_new": true
-    },
-    {
-      "title": "Brownian Motion",
-      "link": "https://gregorygundersen.com/blog/2026/04/22/brownian-motion/",
       "is_new": true
     },
     {
@@ -93,44 +180,9 @@
       "is_new": false
     },
     {
-      "title": "Visa, Mastercard, major banks facing new litigation over 'anticompetitive' fees",
-      "link": "https://www.classaction.org/news/visa-mastercard-major-banks-facing-new-litigation-over-anticompetitive-merchant-credit-card-transaction-fees",
-      "is_new": false
-    },
-    {
-      "title": "Wood Tape (2004)",
-      "link": "http://gamesbyemail.com/WoodTape/Default.htm",
-      "is_new": false
-    },
-    {
-      "title": "House with 15m underground tunnels for sale for 300k",
-      "link": "https://www.readingchronicle.co.uk/news/26612080.house-15m-underground-tunnels-sale-300k/",
-      "is_new": true
-    },
-    {
-      "title": "Sharing AI progress in mathematics",
-      "link": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
-      "is_new": false
-    },
-    {
-      "title": "Google Playground: Create and play custom games",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
-      "is_new": true
-    },
-    {
-      "title": "SynthID Detector",
-      "link": "https://synthid.com/",
-      "is_new": true
-    },
-    {
       "title": "The Mathocalypse",
       "link": "https://scottaaronson.blog/?p=10169",
       "is_new": true
-    },
-    {
-      "title": "Anti-patterns in software blogging",
-      "link": "https://refactoringenglish.com/blog/anti-patterns-software-blogging/",
-      "is_new": false
     },
     {
       "title": "AI-assisted proof of optimal packing for 11 squares",
@@ -138,115 +190,8 @@
       "is_new": false
     },
     {
-      "title": "Why were Victorian elites so effective?",
-      "link": "https://worksinprogress.co/issue/the-seven-vices-of-highly-effective-victorians/",
-      "is_new": true
-    },
-    {
       "title": "3D-printing platform rapidly produces complex electric machines",
       "link": "https://news.mit.edu/2026/3d-printing-platform-rapidly-produces-complex-electric-machines-0218",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: Agent.reviews – Where AI agents read and write reviews on tools",
-      "link": "https://agent.reviews/",
-      "is_new": true
-    }
-  ],
-  "removed": [
-    {
-      "title": "GitHub Incident with Git Operations, Pull Requests and Actions",
-      "link": "https://www.githubstatus.com/incidents/djlmxz2zd0j7",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: A walkable 3D art history museum built from Wikipedia",
-      "link": "https://artmuseum.artfrompixels.com/",
-      "is_new": true
-    },
-    {
-      "title": "Reverse Engineering of the M-VAVE FM-1 Pocket Synthesizer Firmware",
-      "link": "https://github.com/AL-255/FM-1-RE",
-      "is_new": true
-    },
-    {
-      "title": "The Auditor's Opinion",
-      "link": "https://www.cringely.com/2026/07/16/the-auditors-opinion/",
-      "is_new": true
-    },
-    {
-      "title": "VECOS – A windows-like operating system for the Vectrex for the UVMC2 [video]",
-      "link": "https://www.youtube.com/watch?v=9ranfp_vz30",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: Durable Actors – OSS Durable Objects with configurable compute",
-      "link": "https://github.com/TerseAI/durable-actors",
-      "is_new": true
-    },
-    {
-      "title": "Study: Claude, ChatGPT Offer Different Shopping Prices Based on Wealth",
-      "link": "https://www.bloomberg.com/news/newsletters/2026-10-07/study-claude-chatgpt-ai-bots-offer-different-shopping-prices-based-on-wealth",
-      "is_new": true
-    },
-    {
-      "title": "Mallet Head Angle",
-      "link": "http://www.timberframe-tools.com/tools/mallet-head-angle/",
-      "is_new": true
-    },
-    {
-      "title": "All the numbers: Amazon Prime Day 2026 powered by AWS",
-      "link": "https://aws.amazon.com/blogs/aws/all-the-numbers-amazon-prime-day-2026-powered-by-aws/",
-      "is_new": true
-    },
-    {
-      "title": "Rust's derive often implies inline",
-      "link": "https://yossarian.net/til/post/rust-s-derive-often-implies-inline/",
-      "is_new": true
-    },
-    {
-      "title": "Write Like It's 1866: LLMs Relearn Telegraphese",
-      "link": "https://fiveminutesforward.com/post/2026-10-04-telegraph-test/",
-      "is_new": true
-    },
-    {
-      "title": "God of War on PSP, recompiled to WebAssembly and running in the browser",
-      "link": "https://github.com/snuri00/psp-web-recomp",
-      "is_new": true
-    },
-    {
-      "title": "ShinyHunters Extorted Boeing Spin-Off Prior to Arrests",
-      "link": "https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: Procinsh – A 3D Linux process inspector",
-      "link": "https://github.com/akawashiro/procinsh",
-      "is_new": true
-    },
-    {
-      "title": "Strands Decider 2B: a small, open-source, decision model",
-      "link": "https://strandsagents.com/blog/introducing-strands-decider/",
-      "is_new": false
-    },
-    {
-      "title": "Across the Globe, People Increasingly Say Social Media Is Harming Democracy",
-      "link": "https://www.pewresearch.org/global/2026/10/01/across-the-globe-people-increasingly-say-social-media-is-harming-democracy/",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: AstroHelm – Use your phone camera to aim a telescope or telephoto lens",
-      "link": "https://astrohelm.app/",
-      "is_new": true
-    },
-    {
-      "title": "Open source 160 sound visualization experiments",
-      "link": "https://www.kagan.in/iwrzwr/visual-archive/",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: Trigora – durable execution without history replay",
-      "link": "https://github.com/trigora-dev/trigora",
       "is_new": true
     }
   ]
