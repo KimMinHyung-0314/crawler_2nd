@@ -1,32 +1,159 @@
 {
-  "crawled_at": "2026-10-10 01:53",
-  "prev_crawled_at": "2026-10-09 18:58",
+  "crawled_at": "2026-10-10 06:27",
+  "prev_crawled_at": "2026-10-10 01:53",
   "items": [
     {
-      "title": "Deno Is Joining Cloudflare",
+      "title": "YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops",
+      "link": "https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306",
+      "is_new": true
+    },
+    {
+      "title": "No Man Is an Island",
+      "link": "https://borretti.me/article/no-man-is-an-island",
+      "is_new": true
+    },
+    {
+      "title": "Cloudflare acquires Deno",
       "link": "https://deno.com/blog/cloudflare",
+      "is_new": false
+    },
+    {
+      "title": "Triple-A Minesweeper",
+      "link": "https://minesweeper.mikelacher.com/",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",
+      "link": "https://carrierexplode.com/",
       "is_new": true
     },
     {
       "title": "Our $445M Series D",
       "link": "https://oxide.computer/blog/our-445m-series-d",
+      "is_new": false
+    },
+    {
+      "title": "Typesafe AI raises $870M at $7.5B",
+      "link": "https://typesafe.ai/blog/series-ai",
       "is_new": true
     },
     {
-      "title": "Let your AI agents paint big arrows, boxes and text on your screen",
-      "link": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
+      "title": "Ideas aren't getting harder to find, anyone who tells you otherwise is a coward",
+      "link": "https://www.experimental-history.com/p/ideas-arent-getting-harder-to-find",
       "is_new": true
     },
     {
-      "title": "I'm in a Meeting",
+      "title": "Sorry, I'm in a meeting",
       "link": "https://iminafleeting.com/",
+      "is_new": false
+    },
+    {
+      "title": "Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
+      "link": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/",
       "is_new": true
     },
     {
-      "title": "Nobel Peace Prize for 2026 to Navanethem \"NAVI\" Pillay",
+      "title": "Show HN: Let your AI agents paint big arrows, boxes and text on your screen",
+      "link": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
+      "is_new": false
+    },
+    {
+      "title": "Nobel Peace Prize for 2026 to Navanethem Pillay",
       "link": "https://www.nobelprize.org/prizes/peace/2026/press-release/",
+      "is_new": false
+    },
+    {
+      "title": "M7.6 Earthquake in Panama",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18k/executive",
       "is_new": true
     },
+    {
+      "title": "The reciprocal sum of the prime-prefix-free numbers converges [pdf]",
+      "link": "https://jdb19937.github.io/prime-prefix-free/ppf.pdf",
+      "is_new": true
+    },
+    {
+      "title": "'Wallace and Gromit,' 90% Alone",
+      "link": "https://animationobsessive.substack.com/p/wallace-and-gromit-90-alone",
+      "is_new": true
+    },
+    {
+      "title": "Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
+      "link": "https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/",
+      "is_new": false
+    },
+    {
+      "title": "Microsoft-Decision-1, our model for fast decision-making",
+      "link": "https://commandline.microsoft.com/microsoft-decision-1-model-foundry/",
+      "is_new": true
+    },
+    {
+      "title": "A statement on the Tor Project's relationship with Mullvad",
+      "link": "https://blog.torproject.org/on-tor-relationship-with-mullvad/",
+      "is_new": false
+    },
+    {
+      "title": "Whistle: Speech to Text in 16.9 MB",
+      "link": "https://cactuscompute.com/blog/whistle",
+      "is_new": false
+    },
+    {
+      "title": "Germany transforms former coal mines into Europe's largest lake landscape",
+      "link": "https://www.euronews.com/2026/04/14/almost-like-lake-como-germany-transforms-former-coal-mines-into-europes-largest-lake-lands",
+      "is_new": true
+    },
+    {
+      "title": "Training Text-to-Image Models Without a VAE",
+      "link": "https://www.linum.ai/field-notes/pyramid-jit",
+      "is_new": true
+    },
+    {
+      "title": "Yes, and",
+      "link": "https://htmx.org/essays/yes-and/",
+      "is_new": false
+    },
+    {
+      "title": "You might want to try being less creative",
+      "link": "https://blog.bawolf.com/p/you-might-want-to-try-being-less",
+      "is_new": true
+    },
+    {
+      "title": "Keyboard differences between Windows and Macs",
+      "link": "https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/",
+      "is_new": false
+    },
+    {
+      "title": "OpenAI fires three safety researchers for \"mishandling research information\"",
+      "link": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+      "is_new": false
+    },
+    {
+      "title": "MXC - a sandboxed code execution system",
+      "link": "https://github.com/microsoft/mxc",
+      "is_new": false
+    },
+    {
+      "title": "Programming Isn't Special",
+      "link": "https://blog.glyph.im/2026/10/programming-isnt-special.html",
+      "is_new": true
+    },
+    {
+      "title": "Why Are Coding Agents So Dumb?",
+      "link": "https://mtlynch.io/why-are-coding-agents-so-dumb/",
+      "is_new": true
+    },
+    {
+      "title": "Theranos.world",
+      "link": "https://www.theranos.world/",
+      "is_new": false
+    },
+    {
+      "title": "Once: Cache CLI commands",
+      "link": "https://github.com/alex0ptr/once",
+      "is_new": false
+    }
+  ],
+  "removed": [
     {
       "title": "Germany turning abandoned coal mines into 23 lakes, becoming artificial wetland",
       "link": "https://timesofindia.indiatimes.com/world/europe/germany-is-turning-abandoned-coal-mines-into-23-lakes-the-former-mining-landscape-is-becoming-europes-largest-artificial-wetland/articleshow/134725669.cms",
@@ -43,59 +170,14 @@
       "is_new": true
     },
     {
-      "title": "Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
-      "link": "https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/",
-      "is_new": false
-    },
-    {
-      "title": "Whistle: Speech to Text in 16.9 MB",
-      "link": "https://cactuscompute.com/blog/whistle",
-      "is_new": false
-    },
-    {
       "title": "Man discovers his parents' coffee machine used 1TB of data in 10 days",
       "link": "https://www.dexerto.com/entertainment/man-discovers-his-parents-coffee-machine-used-1tb-of-data-in-10-days-3416399/",
-      "is_new": false
-    },
-    {
-      "title": "Once: Cache CLI Commands",
-      "link": "https://github.com/alex0ptr/once",
-      "is_new": true
-    },
-    {
-      "title": "MXC - a sandboxed code execution system",
-      "link": "https://github.com/microsoft/mxc",
       "is_new": false
     },
     {
       "title": "I hired an illustrator to draw my house. Now it's my Home Assistant dashboard",
       "link": "https://antonfrolov.substack.com/p/i-hired-an-illustrator-to-draw-my",
       "is_new": false
-    },
-    {
-      "title": "Yes, and",
-      "link": "https://htmx.org/essays/yes-and/",
-      "is_new": false
-    },
-    {
-      "title": "Keyboard differences between Windows and Macs",
-      "link": "https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/",
-      "is_new": false
-    },
-    {
-      "title": "Theranos.world",
-      "link": "https://www.theranos.world/",
-      "is_new": false
-    },
-    {
-      "title": "OpenAI fires three safety researchers for \"mishandling research information\"",
-      "link": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
-      "is_new": true
-    },
-    {
-      "title": "A statement on the Tor Project's relationship with Mullvad",
-      "link": "https://blog.torproject.org/on-tor-relationship-with-mullvad/",
-      "is_new": true
     },
     {
       "title": "Study: Exercise increases cancer survival rates",
@@ -150,98 +232,6 @@
     {
       "title": "ETH-68: Ethernet Audio Interface for Linux",
       "link": "https://naturalsystems.io/eth68",
-      "is_new": false
-    }
-  ],
-  "removed": [
-    {
-      "title": "OTel-Native by Design – Building Products That Export to Any Observability Stack",
-      "link": "https://opentelemetry.io/blog/2026/otel-native-by-design/",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: Quake ported to safe Rust, playable in browser",
-      "link": "https://quake-srp.pages.dev/",
-      "is_new": true
-    },
-    {
-      "title": "AI-ready biological data: $1.8B global commitment",
-      "link": "https://biohub.org/news/virtual-biology-initiative-expansion/",
-      "is_new": false
-    },
-    {
-      "title": "Beauty in DVD Menus",
-      "link": "https://vale.rocks/posts/dvd-menus",
-      "is_new": false
-    },
-    {
-      "title": "DuckDB Ducklake",
-      "link": "https://github.com/duckdb/ducklake",
-      "is_new": false
-    },
-    {
-      "title": "A Terminal Protocol for Program Status (OSC 7501)",
-      "link": "https://mitchellh.com/writing/program-status-osc7501",
-      "is_new": false
-    },
-    {
-      "title": "Show HN: Making a flexible \"neon\" t-shirt with LED filaments",
-      "link": "http://scottbezek.blogspot.com/2026/10/making-flexible-neon-t-shirt-with-leds.html",
-      "is_new": false
-    },
-    {
-      "title": "Reducing undefined behavior in the C language",
-      "link": "https://lwn.net/Articles/1095811/",
-      "is_new": false
-    },
-    {
-      "title": "Show HN: OldRoll, a free vintage photo editor for the browser",
-      "link": "https://www.oldroll.io/",
-      "is_new": true
-    },
-    {
-      "title": "What should we tell our students?",
-      "link": "https://terrytao.wordpress.com/2026/10/08/what-should-we-tell-our-students/",
-      "is_new": false
-    },
-    {
-      "title": "A 5.3M-year-old deep-sea whale necropolis in the Diamantina Zone",
-      "link": "https://www.nature.com/articles/s41586-026-10546-z",
-      "is_new": false
-    },
-    {
-      "title": "Step 5 Preview, a 1M-context MoE from StepFun, shows up on OpenRouter",
-      "link": "https://openrouter.ai/stepfun/step-5-preview",
-      "is_new": false
-    },
-    {
-      "title": "OpenAI withdraws three mathematical results",
-      "link": "https://twitter.com/danintheory/status/2108065033070789090",
-      "is_new": true
-    },
-    {
-      "title": "ADHD as a circadian rhythm disorder: evidence and implications for chronotherapy (2025)",
-      "link": "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1697900/full",
-      "is_new": false
-    },
-    {
-      "title": "I think I found a planet nobody knew existed. I used Claude Code to find it",
-      "link": "https://www.reddit.com/r/ClaudeAI/s/mbe5IY2LF9",
-      "is_new": true
-    },
-    {
-      "title": "Bevy 0.20",
-      "link": "https://bevy.org/news/bevy-0-20/",
-      "is_new": false
-    },
-    {
-      "title": "Archaeologists Are Reconstructing the 'Invisible' Technologies of the Stone Age",
-      "link": "https://www.smithsonianmag.com/science-nature/archaeologists-are-reconstructing-the-invisible-technologies-of-the-stone-age-from-rope-to-thread-and-twine-180989534/",
-      "is_new": false
-    },
-    {
-      "title": "Scaling and benchmarking a critical message bus using a new indexing strategy",
-      "link": "https://blog.janestreet.com/scaling-and-benchmarking-a-critical-message-bus/",
       "is_new": false
     }
   ]
