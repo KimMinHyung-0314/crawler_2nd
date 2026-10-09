@@ -1,7 +1,47 @@
 {
-  "crawled_at": "2026-10-09 18:58",
-  "prev_crawled_at": "2026-10-09 11:44",
+  "crawled_at": "2026-10-10 01:53",
+  "prev_crawled_at": "2026-10-09 18:58",
   "items": [
+    {
+      "title": "Deno Is Joining Cloudflare",
+      "link": "https://deno.com/blog/cloudflare",
+      "is_new": true
+    },
+    {
+      "title": "Our $445M Series D",
+      "link": "https://oxide.computer/blog/our-445m-series-d",
+      "is_new": true
+    },
+    {
+      "title": "Let your AI agents paint big arrows, boxes and text on your screen",
+      "link": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
+      "is_new": true
+    },
+    {
+      "title": "I'm in a Meeting",
+      "link": "https://iminafleeting.com/",
+      "is_new": true
+    },
+    {
+      "title": "Nobel Peace Prize for 2026 to Navanethem \"NAVI\" Pillay",
+      "link": "https://www.nobelprize.org/prizes/peace/2026/press-release/",
+      "is_new": true
+    },
+    {
+      "title": "Germany turning abandoned coal mines into 23 lakes, becoming artificial wetland",
+      "link": "https://timesofindia.indiatimes.com/world/europe/germany-is-turning-abandoned-coal-mines-into-23-lakes-the-former-mining-landscape-is-becoming-europes-largest-artificial-wetland/articleshow/134725669.cms",
+      "is_new": true
+    },
+    {
+      "title": "Python 3.15.0",
+      "link": "https://www.python.org/downloads/release/python-3150/",
+      "is_new": true
+    },
+    {
+      "title": "US imposes sanctions on ICC hours after former judge wins Nobel Peace Prize",
+      "link": "https://www.reuters.com/world/us-imposes-sanctions-international-criminal-court-hours-after-former-judge-wins-2026-10-09/",
+      "is_new": true
+    },
     {
       "title": "Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
       "link": "https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/",
@@ -13,18 +53,18 @@
       "is_new": false
     },
     {
-      "title": "MXC - a sandboxed code execution system",
-      "link": "https://github.com/microsoft/mxc",
-      "is_new": true
-    },
-    {
-      "title": "Keyboard differences between Windows and Macs",
-      "link": "https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/",
-      "is_new": true
-    },
-    {
       "title": "Man discovers his parents' coffee machine used 1TB of data in 10 days",
       "link": "https://www.dexerto.com/entertainment/man-discovers-his-parents-coffee-machine-used-1tb-of-data-in-10-days-3416399/",
+      "is_new": false
+    },
+    {
+      "title": "Once: Cache CLI Commands",
+      "link": "https://github.com/alex0ptr/once",
+      "is_new": true
+    },
+    {
+      "title": "MXC - a sandboxed code execution system",
+      "link": "https://github.com/microsoft/mxc",
       "is_new": false
     },
     {
@@ -33,19 +73,64 @@
       "is_new": false
     },
     {
-      "title": "Theranos.world",
-      "link": "https://www.theranos.world/",
-      "is_new": false
-    },
-    {
       "title": "Yes, and",
       "link": "https://htmx.org/essays/yes-and/",
       "is_new": false
     },
     {
-      "title": "OTel-Native by Design – Building Products That Export to Any Observability Stack",
-      "link": "https://opentelemetry.io/blog/2026/otel-native-by-design/",
+      "title": "Keyboard differences between Windows and Macs",
+      "link": "https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/",
+      "is_new": false
+    },
+    {
+      "title": "Theranos.world",
+      "link": "https://www.theranos.world/",
+      "is_new": false
+    },
+    {
+      "title": "OpenAI fires three safety researchers for \"mishandling research information\"",
+      "link": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
       "is_new": true
+    },
+    {
+      "title": "A statement on the Tor Project's relationship with Mullvad",
+      "link": "https://blog.torproject.org/on-tor-relationship-with-mullvad/",
+      "is_new": true
+    },
+    {
+      "title": "Study: Exercise increases cancer survival rates",
+      "link": "https://www.nejm.org/doi/10.1056/NEJMoa2502760",
+      "is_new": true
+    },
+    {
+      "title": "Reactions to 100 Solutions",
+      "link": "https://proofsandprompts.com/2026/10/08/100-reactions-to-100-solutions/",
+      "is_new": true
+    },
+    {
+      "title": "Agentic coding is a financial trap",
+      "link": "https://frugaast.dev/blog/agentic-costs-unsustainable",
+      "is_new": true
+    },
+    {
+      "title": "Iranian campaign planted fake articles in real U.S. publications using ChatGPT",
+      "link": "https://www.washingtonpost.com/technology/2026/10/09/chatgpt-users-iran-planted-ai-generated-articles-us-news-media/",
+      "is_new": true
+    },
+    {
+      "title": "Yandex Takes a Second Data Center Hit in 48 Hours",
+      "link": "https://united24media.com/war-in-ukraine/yandex-takes-a-second-data-center-hit-in-48-hours-now-its-biggest-russian-site-is-damaged-23277",
+      "is_new": true
+    },
+    {
+      "title": "The Hetzner Cloud network stack – history and technical overview",
+      "link": "https://www.hetzner.com/blog/the-hetzner-cloud-network-stack-history-and-technical-overview/",
+      "is_new": true
+    },
+    {
+      "title": "Ask HN: What do you run on a $5 VPS that's worth keeping online 24/7?",
+      "link": "https://news.ycombinator.com/item?id=49985548",
+      "is_new": false
     },
     {
       "title": "The value of not getting to the point (2015)",
@@ -55,6 +140,23 @@
     {
       "title": "OpenAI, the Partition Principle, and Mathematics",
       "link": "https://karagila.org/2026/openai-pp/",
+      "is_new": false
+    },
+    {
+      "title": "Imposing Sanctions on the International Criminal Court",
+      "link": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/imposing-sanctions-on-the-international-criminal-court/",
+      "is_new": true
+    },
+    {
+      "title": "ETH-68: Ethernet Audio Interface for Linux",
+      "link": "https://naturalsystems.io/eth68",
+      "is_new": false
+    }
+  ],
+  "removed": [
+    {
+      "title": "OTel-Native by Design – Building Products That Export to Any Observability Stack",
+      "link": "https://opentelemetry.io/blog/2026/otel-native-by-design/",
       "is_new": true
     },
     {
@@ -65,16 +167,6 @@
     {
       "title": "AI-ready biological data: $1.8B global commitment",
       "link": "https://biohub.org/news/virtual-biology-initiative-expansion/",
-      "is_new": false
-    },
-    {
-      "title": "Ask HN: What do you run on a $5 VPS that's worth keeping online 24/7?",
-      "link": "https://news.ycombinator.com/item?id=49985548",
-      "is_new": false
-    },
-    {
-      "title": "ETH-68: Ethernet Audio Interface for Linux",
-      "link": "https://naturalsystems.io/eth68",
       "is_new": false
     },
     {
@@ -150,48 +242,6 @@
     {
       "title": "Scaling and benchmarking a critical message bus using a new indexing strategy",
       "link": "https://blog.janestreet.com/scaling-and-benchmarking-a-critical-message-bus/",
-      "is_new": false
-    }
-  ],
-  "removed": [
-    {
-      "title": "Show HN: SVG Spark – 10 client-side SVG design and dev tools",
-      "link": "https://svg-spark.vercel.app/",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: Edi Life OS – self-hosted life dashboard with an MCP server for AI",
-      "link": "https://github.com/edrisranjbar/lifeos",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: Jevman – AI decision models play Pac-Man",
-      "link": "https://opper.ai/jevman-benchmark/",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: Rgpu – a PyTorch device whose tensors live on a remote GPU",
-      "link": "https://github.com/ymcrcat/rgpu",
-      "is_new": false
-    },
-    {
-      "title": "US man given prison sentence for bot-farming music streams",
-      "link": "https://thequietus.com/news/us-man-given-prison-sentence-for-bot-farming-music-streams/",
-      "is_new": false
-    },
-    {
-      "title": "Orkut.com",
-      "link": "https://orkut.com/",
-      "is_new": false
-    },
-    {
-      "title": "The Slow Formation of Durable Software",
-      "link": "https://newsletter.dancohen.org/archive/the-slow-formation-of-durable-software/",
-      "is_new": false
-    },
-    {
-      "title": "I gave Opus 5.5 one prompt and six hours to visualize Invisible Cities",
-      "link": "https://quesma.com/blog/invisible-cities-one-shot/",
       "is_new": false
     }
   ]
