@@ -1,81 +1,71 @@
 {
-  "crawled_at": "2026-10-09 07:49",
-  "prev_crawled_at": "2026-10-09 02:09",
+  "crawled_at": "2026-10-09 11:44",
+  "prev_crawled_at": "2026-10-09 07:49",
   "items": [
     {
       "title": "Whistle: Speech to Text in 16.9 MB",
       "link": "https://cactuscompute.com/blog/whistle",
-      "is_new": true
-    },
-    {
-      "title": "ADHD as a circadian rhythm disorder: evidence and implications for chronotherapy (2025)",
-      "link": "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1697900/full",
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Theranos.world",
       "link": "https://www.theranos.world/",
-      "is_new": true
+      "is_new": false
+    },
+    {
+      "title": "Man discovers his parents' coffee machine used 1TB of data in 10 days",
+      "link": "https://www.dexerto.com/entertainment/man-discovers-his-parents-coffee-machine-used-1tb-of-data-in-10-days-3416399/",
+      "is_new": false
     },
     {
       "title": "Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
       "link": "https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/",
+      "is_new": false
+    },
+    {
+      "title": "I hired an illustrator to draw my house. Now it's my Home Assistant dashboard",
+      "link": "https://antonfrolov.substack.com/p/i-hired-an-illustrator-to-draw-my",
+      "is_new": false
+    },
+    {
+      "title": "Bevy 0.20",
+      "link": "https://bevy.org/news/bevy-0-20/",
       "is_new": true
     },
     {
       "title": "The value of not getting to the point (2015)",
       "link": "https://ken.arneson.name/2015/11/the-value-of-not-getting-to-the-point/",
+      "is_new": false
+    },
+    {
+      "title": "Yes, and",
+      "link": "https://htmx.org/essays/yes-and/",
+      "is_new": false
+    },
+    {
+      "title": "Reducing undefined behavior in the C language",
+      "link": "https://lwn.net/Articles/1095811/",
+      "is_new": true
+    },
+    {
+      "title": "What should we tell our students?",
+      "link": "https://terrytao.wordpress.com/2026/10/08/what-should-we-tell-our-students/",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: SVG Spark – 10 client-side SVG design and dev tools",
+      "link": "https://svg-spark.vercel.app/",
       "is_new": true
     },
     {
       "title": "AI-ready biological data: $1.8B global commitment",
       "link": "https://biohub.org/news/virtual-biology-initiative-expansion/",
-      "is_new": true
-    },
-    {
-      "title": "Man discovers his parents' coffee machine used 1TB of data in 10 days",
-      "link": "https://www.dexerto.com/entertainment/man-discovers-his-parents-coffee-machine-used-1tb-of-data-in-10-days-3416399/",
-      "is_new": true
-    },
-    {
-      "title": "I hired an illustrator to draw my house. Now it's my Home Assistant dashboard",
-      "link": "https://antonfrolov.substack.com/p/i-hired-an-illustrator-to-draw-my",
-      "is_new": true
-    },
-    {
-      "title": "Yes, and",
-      "link": "https://htmx.org/essays/yes-and/",
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "ETH-68: Ethernet Audio Interface for Linux",
       "link": "https://naturalsystems.io/eth68",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: Free open source Adobe Lightroom alternative, completely local with AI",
-      "link": "https://github.com/thesnarkitecht/rembrandt",
-      "is_new": true
-    },
-    {
-      "title": "A 5.3M-year-old deep-sea whale necropolis in the Diamantina Zone",
-      "link": "https://www.nature.com/articles/s41586-026-10546-z",
-      "is_new": true
-    },
-    {
-      "title": "Step 5 Preview, a 1M-context MoE from StepFun, shows up on OpenRouter",
-      "link": "https://openrouter.ai/stepfun/step-5-preview",
       "is_new": false
-    },
-    {
-      "title": "A Terminal Protocol for Program Status (OSC 7501)",
-      "link": "https://mitchellh.com/writing/program-status-osc7501",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: Making a flexible \"neon\" t-shirt with LED filaments",
-      "link": "http://scottbezek.blogspot.com/2026/10/making-flexible-neon-t-shirt-with-leds.html",
-      "is_new": true
     },
     {
       "title": "Beauty in DVD Menus",
@@ -83,18 +73,95 @@
       "is_new": false
     },
     {
+      "title": "ADHD as a circadian rhythm disorder: evidence and implications for chronotherapy (2025)",
+      "link": "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1697900/full",
+      "is_new": false
+    },
+    {
+      "title": "Show HN: Edi Life OS – self-hosted life dashboard with an MCP server for AI",
+      "link": "https://github.com/edrisranjbar/lifeos",
+      "is_new": true
+    },
+    {
+      "title": "A Terminal Protocol for Program Status (OSC 7501)",
+      "link": "https://mitchellh.com/writing/program-status-osc7501",
+      "is_new": false
+    },
+    {
+      "title": "Step 5 Preview, a 1M-context MoE from StepFun, shows up on OpenRouter",
+      "link": "https://openrouter.ai/stepfun/step-5-preview",
+      "is_new": false
+    },
+    {
+      "title": "A 5.3M-year-old deep-sea whale necropolis in the Diamantina Zone",
+      "link": "https://www.nature.com/articles/s41586-026-10546-z",
+      "is_new": false
+    },
+    {
+      "title": "Ask HN: What do you run on a $5 VPS that's worth keeping online 24/7?",
+      "link": "https://news.ycombinator.com/item?id=49985548",
+      "is_new": false
+    },
+    {
+      "title": "DuckDB Ducklake",
+      "link": "https://github.com/duckdb/ducklake",
+      "is_new": false
+    },
+    {
+      "title": "Show HN: Making a flexible \"neon\" t-shirt with LED filaments",
+      "link": "http://scottbezek.blogspot.com/2026/10/making-flexible-neon-t-shirt-with-leds.html",
+      "is_new": false
+    },
+    {
+      "title": "Scaling and benchmarking a critical message bus using a new indexing strategy",
+      "link": "https://blog.janestreet.com/scaling-and-benchmarking-a-critical-message-bus/",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: Jevman – AI decision models play Pac-Man",
+      "link": "https://opper.ai/jevman-benchmark/",
+      "is_new": true
+    },
+    {
+      "title": "Archaeologists Are Reconstructing the 'Invisible' Technologies of the Stone Age",
+      "link": "https://www.smithsonianmag.com/science-nature/archaeologists-are-reconstructing-the-invisible-technologies-of-the-stone-age-from-rope-to-thread-and-twine-180989534/",
+      "is_new": false
+    },
+    {
       "title": "Show HN: Rgpu – a PyTorch device whose tensors live on a remote GPU",
       "link": "https://github.com/ymcrcat/rgpu",
+      "is_new": false
+    },
+    {
+      "title": "US man given prison sentence for bot-farming music streams",
+      "link": "https://thequietus.com/news/us-man-given-prison-sentence-for-bot-farming-music-streams/",
+      "is_new": false
+    },
+    {
+      "title": "Orkut.com",
+      "link": "https://orkut.com/",
+      "is_new": false
+    },
+    {
+      "title": "The Slow Formation of Durable Software",
+      "link": "https://newsletter.dancohen.org/archive/the-slow-formation-of-durable-software/",
+      "is_new": false
+    },
+    {
+      "title": "I gave Opus 5.5 one prompt and six hours to visualize Invisible Cities",
+      "link": "https://quesma.com/blog/invisible-cities-one-shot/",
+      "is_new": false
+    }
+  ],
+  "removed": [
+    {
+      "title": "Show HN: Free open source Adobe Lightroom alternative, completely local with AI",
+      "link": "https://github.com/thesnarkitecht/rembrandt",
       "is_new": true
     },
     {
       "title": "The dawn of the age of the exoskeleton",
       "link": "https://theconversation.com/the-dawn-of-the-age-of-the-exoskeleton-281804",
-      "is_new": true
-    },
-    {
-      "title": "US man given prison sentence for bot-farming music streams",
-      "link": "https://thequietus.com/news/us-man-given-prison-sentence-for-bot-farming-music-streams/",
       "is_new": true
     },
     {
@@ -108,38 +175,8 @@
       "is_new": true
     },
     {
-      "title": "DuckDB Ducklake",
-      "link": "https://github.com/duckdb/ducklake",
-      "is_new": true
-    },
-    {
-      "title": "I gave Opus 5.5 one prompt and six hours to visualize Invisible Cities",
-      "link": "https://quesma.com/blog/invisible-cities-one-shot/",
-      "is_new": false
-    },
-    {
-      "title": "Archaeologists Are Reconstructing the 'Invisible' Technologies of the Stone Age",
-      "link": "https://www.smithsonianmag.com/science-nature/archaeologists-are-reconstructing-the-invisible-technologies-of-the-stone-age-from-rope-to-thread-and-twine-180989534/",
-      "is_new": false
-    },
-    {
       "title": "Trump administration is suspending Microsoft from a green card program",
       "link": "https://apnews.com/article/h1b-visa-program-vance-microsoft-e7b3a407f822702b269ee277d21343ea",
-      "is_new": false
-    },
-    {
-      "title": "Ask HN: What do you run on a $5 VPS that's worth keeping online 24/7?",
-      "link": "https://news.ycombinator.com/item?id=49985548",
-      "is_new": true
-    },
-    {
-      "title": "Orkut.com",
-      "link": "https://orkut.com/",
-      "is_new": false
-    },
-    {
-      "title": "The Slow Formation of Durable Software",
-      "link": "https://newsletter.dancohen.org/archive/the-slow-formation-of-durable-software/",
       "is_new": false
     },
     {
@@ -150,123 +187,6 @@
     {
       "title": "Vanillin provides a sweet solution for chronic wound healing",
       "link": "https://news.flinders.edu.au/blog/2026/10/06/vanillin-provides-a-sweet-solution-for-chronic-wound-healing/",
-      "is_new": true
-    }
-  ],
-  "removed": [
-    {
-      "title": "Tell HN: I've been paying for a rural Tanzanian's education for 10 years",
-      "link": "https://news.ycombinator.com/item?id=50006366",
-      "is_new": true
-    },
-    {
-      "title": "“Math 2.0” will need to value mathematical progress more holistically",
-      "link": "https://mathstodon.xyz/@tao/117395269325940185",
-      "is_new": false
-    },
-    {
-      "title": "4-hour battery storage is cheaper to install than gas turbines all across globe",
-      "link": "https://www.solarpowerworldonline.com/2026/10/4-hour-battery-storage-is-cheaper-to-install-than-gas-turbines-all-across-globe/",
-      "is_new": true
-    },
-    {
-      "title": "Sub-1-Bit LLM Compression via Latent Factorization",
-      "link": "https://github.com/SamsungLabs/LittleBit",
-      "is_new": true
-    },
-    {
-      "title": "Telnet BBS Guide",
-      "link": "https://www.telnetbbsguide.com/",
-      "is_new": true
-    },
-    {
-      "title": "Claude Haiku 5.5",
-      "link": "https://www.anthropic.com/claude-haiku-5-5",
-      "is_new": false
-    },
-    {
-      "title": "The 15-year search for a band that charted once and vanished",
-      "link": "https://shahidhussain.com/writing/search-for-salvage/",
-      "is_new": false
-    },
-    {
-      "title": "OpenAI withdraws three mathematical results",
-      "link": "https://twitter.com/danintheory/status/2108065033070789090",
-      "is_new": true
-    },
-    {
-      "title": "Time Travel in Braid (2015)",
-      "link": "https://qntm.org/braid",
-      "is_new": true
-    },
-    {
-      "title": "2027 Web Platform Feature Ranking",
-      "link": "https://interop-rank.fxdx.dev/",
-      "is_new": true
-    },
-    {
-      "title": "Living off-grid: Hundred Rabbits",
-      "link": "https://100r.ca/site/home.html",
-      "is_new": false
-    },
-    {
-      "title": "Float and integer arithmetic follow two different paradigms",
-      "link": "https://blog.pkh.me/p/49-float-and-integer-arithmetic-follow-two-different-paradigms.html",
-      "is_new": true
-    },
-    {
-      "title": "Margaret Hamilton has died",
-      "link": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
-      "is_new": false
-    },
-    {
-      "title": "How did Rosalind Franklin miss the helix in her iconic DNA image? She didn't",
-      "link": "https://www.science.org/content/article/how-did-rosalind-franklin-miss-helix-her-iconic-dna-image-she-didn-t",
-      "is_new": false
-    },
-    {
-      "title": "GPT‑6 and Intelligent UI for everyone",
-      "link": "https://openai.com/index/gpt-6-for-everyone/",
-      "is_new": false
-    },
-    {
-      "title": "'Jonathan' is the oldest land animal on Earth",
-      "link": "https://www.404media.co/oldest-living-land-animal-jonathan-the-tortoise/",
-      "is_new": false
-    },
-    {
-      "title": "Cleo (Mathematician)",
-      "link": "https://en.wikipedia.org/wiki/Cleo_(mathematician)",
-      "is_new": false
-    },
-    {
-      "title": "The Mathocalypse",
-      "link": "https://scottaaronson.blog/?p=10169",
-      "is_new": false
-    },
-    {
-      "title": "Show HN: Bigwords.page – Turn any screen into a sign. The URL is the app",
-      "link": "https://bigwords.page/",
-      "is_new": false
-    },
-    {
-      "title": "VECOS – A windows-like operating system for the Vectrex for the UVMC2 [video]",
-      "link": "https://www.youtube.com/watch?v=9ranfp_vz30",
-      "is_new": true
-    },
-    {
-      "title": "In Vienna and Beijing, the first (thorium) nuclear clocks begin to tick",
-      "link": "https://www.nytimes.com/2026/10/07/science/first-nuclear-clocks-thorium-229.html",
-      "is_new": false
-    },
-    {
-      "title": "Sharing AI progress in mathematics",
-      "link": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
-      "is_new": false
-    },
-    {
-      "title": "Anne Carson wins Nobel Prize in literature 2026",
-      "link": "https://www.theguardian.com/books/2026/oct/08/wins-the-nobel-prize-in-literature-2026",
       "is_new": true
     }
   ]
