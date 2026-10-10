@@ -1,10 +1,15 @@
 {
-  "crawled_at": "2026-10-10 10:29",
-  "prev_crawled_at": "2026-10-10 06:27",
+  "crawled_at": "2026-10-10 17:02",
+  "prev_crawled_at": "2026-10-10 10:29",
   "items": [
     {
       "title": "REA Reverse – Engineer Anything",
       "link": "https://rea.tools/",
+      "is_new": false
+    },
+    {
+      "title": "Telegram Desktop vulnerability allowed any user's file to be stolen",
+      "link": "https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/",
       "is_new": true
     },
     {
@@ -18,13 +23,18 @@
       "is_new": false
     },
     {
-      "title": "11 of 23 Core Open Source Projects Run on 1 or 2 People",
-      "link": "https://linuxstans.com/11-of-23-core-open-source-projects-run-on-1-or-2-people/",
+      "title": "Computers Cannot Make Decisions",
+      "link": "https://wiki.cateat.fish/art:computers_cannot_make_decisions",
       "is_new": true
     },
     {
-      "title": "Our $445M Series D",
-      "link": "https://oxide.computer/blog/our-445m-series-d",
+      "title": "Eye of Sauron: Long-Range Hidden Spy Camera Detection",
+      "link": "https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-qibo",
+      "is_new": true
+    },
+    {
+      "title": "Typesafe AI raises $870M at $7.5B",
+      "link": "https://typesafe.ai/blog/series-ai",
       "is_new": false
     },
     {
@@ -33,9 +43,74 @@
       "is_new": false
     },
     {
-      "title": "Typesafe AI raises $870M at $7.5B",
-      "link": "https://typesafe.ai/blog/series-ai",
+      "title": "Can you use autoregressive diffusion to generate market data?",
+      "link": "https://blog.janestreet.com/can-you-use-autoregressive-diffusion-to-generate-market-data/",
       "is_new": false
+    },
+    {
+      "title": "How to head into VR without wearing a headset",
+      "link": "https://www.kyushu-u.ac.jp/en/researches/view/414/",
+      "is_new": true
+    },
+    {
+      "title": "Compiling Rust to readable C with Eurydice",
+      "link": "https://lwn.net/Articles/1055211/",
+      "is_new": false
+    },
+    {
+      "title": "Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
+      "link": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/",
+      "is_new": false
+    },
+    {
+      "title": "Clinical trial of a prion disease drug candidate begins enrolling participants",
+      "link": "https://www.broadinstitute.org/news/clinical-trial-prion-disease-drug-candidate-begins-enrolling-participants",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: Proton Drive for Linux",
+      "link": "https://oss.lsantos.dev/proton-drive-linux-fs/",
+      "is_new": false
+    },
+    {
+      "title": "YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops",
+      "link": "https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306",
+      "is_new": false
+    },
+    {
+      "title": "What mathematicians should know about the Lean Theorem Prover: reliability & AI",
+      "link": "https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/",
+      "is_new": false
+    },
+    {
+      "title": "Scam American companies are using to manipulate ingredient lists",
+      "link": "https://twitter.com/WallStreetApes/status/2108594998656807078",
+      "is_new": false
+    },
+    {
+      "title": "Communication Between the Compiler, the Build System, and Beyond",
+      "link": "https://shrub.industries/words/problem.html",
+      "is_new": true
+    },
+    {
+      "title": "Our $445M Series D",
+      "link": "https://oxide.computer/blog/our-445m-series-d",
+      "is_new": false
+    },
+    {
+      "title": "I tried to move my notes out of Emacs. I failed. Again",
+      "link": "https://baty.net/posts/2026/10/i-tried-to-move-my-notes-out-of-emacs-i-failed/",
+      "is_new": true
+    },
+    {
+      "title": "The role of cat eye narrowing movements in cat–human communication (2020)",
+      "link": "https://www.nature.com/articles/s41598-020-73426-0",
+      "is_new": false
+    },
+    {
+      "title": "Vegetative Electron Microscopy WTF? (2025)",
+      "link": "https://www.sciencebase.com/science-blog/vegetative-electron-microscopy.html",
+      "is_new": true
     },
     {
       "title": "Sorry, I'm in a meeting",
@@ -43,9 +118,46 @@
       "is_new": false
     },
     {
-      "title": "YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops",
-      "link": "https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306",
+      "title": "'Wallace and Gromit,' 90% Alone",
+      "link": "https://animationobsessive.substack.com/p/wallace-and-gromit-90-alone",
       "is_new": false
+    },
+    {
+      "title": "Show HN: The rarest tech books and docs you've probably never read",
+      "link": "https://readrare.com/",
+      "is_new": false
+    },
+    {
+      "title": "Food processing influences metabolism and brain activity",
+      "link": "https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html",
+      "is_new": true
+    },
+    {
+      "title": "Atari Falcon",
+      "link": "https://atarimuseum.nl/atari-falcon/",
+      "is_new": false
+    },
+    {
+      "title": "100+ reactions to 100+ solutions",
+      "link": "https://proofsandprompts.com/2026/10/08/100-reactions-to-100-solutions/",
+      "is_new": true
+    },
+    {
+      "title": "Put a price on breakthroughs",
+      "link": "https://alexwang.ai/posts/put-a-price-on-breakthroughs/",
+      "is_new": true
+    },
+    {
+      "title": "Programming Isn't Special",
+      "link": "https://blog.glyph.im/2026/10/programming-isnt-special.html",
+      "is_new": true
+    }
+  ],
+  "removed": [
+    {
+      "title": "11 of 23 Core Open Source Projects Run on 1 or 2 People",
+      "link": "https://linuxstans.com/11-of-23-core-open-source-projects-run-on-1-or-2-people/",
+      "is_new": true
     },
     {
       "title": "Anthropic AI model submits false tip on unsolved Philly murder",
@@ -58,19 +170,9 @@
       "is_new": true
     },
     {
-      "title": "Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
-      "link": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/",
-      "is_new": false
-    },
-    {
       "title": "Show HN: Let your AI agents paint big arrows, boxes and text on your screen",
       "link": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
       "is_new": false
-    },
-    {
-      "title": "Show HN: Proton Drive for Linux",
-      "link": "https://oss.lsantos.dev/proton-drive-linux-fs/",
-      "is_new": true
     },
     {
       "title": "Nobel Peace Prize for 2026 to Navanethem Pillay",
@@ -78,39 +180,9 @@
       "is_new": false
     },
     {
-      "title": "Compiling Rust to readable C with Eurydice",
-      "link": "https://lwn.net/Articles/1055211/",
-      "is_new": true
-    },
-    {
-      "title": "Can you use autoregressive diffusion to generate market data?",
-      "link": "https://blog.janestreet.com/can-you-use-autoregressive-diffusion-to-generate-market-data/",
-      "is_new": true
-    },
-    {
-      "title": "The role of cat eye narrowing movements in cat–human communication (2020)",
-      "link": "https://www.nature.com/articles/s41598-020-73426-0",
-      "is_new": true
-    },
-    {
-      "title": "Atari Falcon",
-      "link": "https://atarimuseum.nl/atari-falcon/",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: The rarest tech books and docs you've probably never read",
-      "link": "https://readrare.com/",
-      "is_new": true
-    },
-    {
       "title": "My static site was serving my internal docs",
       "link": "https://tminuslabs.space/serving-secrets",
       "is_new": true
-    },
-    {
-      "title": "'Wallace and Gromit,' 90% Alone",
-      "link": "https://animationobsessive.substack.com/p/wallace-and-gromit-90-alone",
-      "is_new": false
     },
     {
       "title": "M7.6 Earthquake in Panama",
@@ -123,19 +195,9 @@
       "is_new": true
     },
     {
-      "title": "What mathematicians should know about the Lean Theorem Prover: reliability & AI",
-      "link": "https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/",
-      "is_new": true
-    },
-    {
       "title": "Microsoft-Decision-1, our model for fast decision-making",
       "link": "https://commandline.microsoft.com/microsoft-decision-1-model-foundry/",
       "is_new": false
-    },
-    {
-      "title": "Scam American companies are using to manipulate ingredient lists",
-      "link": "https://twitter.com/WallStreetApes/status/2108594998656807078",
-      "is_new": true
     },
     {
       "title": "Ideas aren't getting harder to find (2022)",
@@ -151,88 +213,6 @@
       "title": "Taxing Entrepreneurial Wealth: Evidence from Norway, 2021–2025",
       "link": "https://www.nber.org/papers/w35854",
       "is_new": true
-    }
-  ],
-  "removed": [
-    {
-      "title": "No Man Is an Island",
-      "link": "https://borretti.me/article/no-man-is-an-island",
-      "is_new": true
-    },
-    {
-      "title": "The reciprocal sum of the prime-prefix-free numbers converges [pdf]",
-      "link": "https://jdb19937.github.io/prime-prefix-free/ppf.pdf",
-      "is_new": true
-    },
-    {
-      "title": "Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
-      "link": "https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/",
-      "is_new": false
-    },
-    {
-      "title": "A statement on the Tor Project's relationship with Mullvad",
-      "link": "https://blog.torproject.org/on-tor-relationship-with-mullvad/",
-      "is_new": false
-    },
-    {
-      "title": "Whistle: Speech to Text in 16.9 MB",
-      "link": "https://cactuscompute.com/blog/whistle",
-      "is_new": false
-    },
-    {
-      "title": "Germany transforms former coal mines into Europe's largest lake landscape",
-      "link": "https://www.euronews.com/2026/04/14/almost-like-lake-como-germany-transforms-former-coal-mines-into-europes-largest-lake-lands",
-      "is_new": true
-    },
-    {
-      "title": "Training Text-to-Image Models Without a VAE",
-      "link": "https://www.linum.ai/field-notes/pyramid-jit",
-      "is_new": true
-    },
-    {
-      "title": "Yes, and",
-      "link": "https://htmx.org/essays/yes-and/",
-      "is_new": false
-    },
-    {
-      "title": "You might want to try being less creative",
-      "link": "https://blog.bawolf.com/p/you-might-want-to-try-being-less",
-      "is_new": true
-    },
-    {
-      "title": "Keyboard differences between Windows and Macs",
-      "link": "https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/",
-      "is_new": false
-    },
-    {
-      "title": "OpenAI fires three safety researchers for \"mishandling research information\"",
-      "link": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
-      "is_new": false
-    },
-    {
-      "title": "MXC - a sandboxed code execution system",
-      "link": "https://github.com/microsoft/mxc",
-      "is_new": false
-    },
-    {
-      "title": "Programming Isn't Special",
-      "link": "https://blog.glyph.im/2026/10/programming-isnt-special.html",
-      "is_new": true
-    },
-    {
-      "title": "Why Are Coding Agents So Dumb?",
-      "link": "https://mtlynch.io/why-are-coding-agents-so-dumb/",
-      "is_new": true
-    },
-    {
-      "title": "Theranos.world",
-      "link": "https://www.theranos.world/",
-      "is_new": false
-    },
-    {
-      "title": "Once: Cache CLI commands",
-      "link": "https://github.com/alex0ptr/once",
-      "is_new": false
     }
   ]
 }
