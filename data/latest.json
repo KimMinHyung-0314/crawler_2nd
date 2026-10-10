@@ -1,15 +1,40 @@
 {
-  "crawled_at": "2026-10-11 04:42",
-  "prev_crawled_at": "2026-10-11 00:00",
+  "crawled_at": "2026-10-11 08:10",
+  "prev_crawled_at": "2026-10-11 04:42",
   "items": [
     {
       "title": "2D Vehicles",
       "link": "https://patkerr.co.uk/2d-vehicles/",
+      "is_new": false
+    },
+    {
+      "title": "A city-building game in which the city would prefer you didn't",
+      "link": "https://housing.over.pizza/",
       "is_new": true
+    },
+    {
+      "title": "Nix wrote half of my debugger",
+      "link": "https://fzakaria.com/2026/10/07/nix-wrote-half-of-my-debugger",
+      "is_new": true
+    },
+    {
+      "title": "Why DuckDB 2.0 is faster",
+      "link": "https://motherduck.com/blog/why-duckdb-20-is-faster/",
+      "is_new": false
     },
     {
       "title": "Knuth reward check",
       "link": "https://www.thomas-huehn.com/knuth-reward-check/",
+      "is_new": false
+    },
+    {
+      "title": "The Lightbulb Computer",
+      "link": "https://lightbulbcomputer.com/",
+      "is_new": true
+    },
+    {
+      "title": "Build your own decision model",
+      "link": "https://nishtahir.com/build-your-own-decision-model/",
       "is_new": true
     },
     {
@@ -18,18 +43,8 @@
       "is_new": false
     },
     {
-      "title": "Why DuckDB 2.0 is faster",
-      "link": "https://motherduck.com/blog/why-duckdb-20-is-faster/",
-      "is_new": true
-    },
-    {
-      "title": "Grieving the Loss of Details",
-      "link": "https://purplesyringa.moe/blog/grieving-the-loss-of-details/",
-      "is_new": true
-    },
-    {
-      "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
-      "link": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
+      "title": "Recent AI models struggled to match a human algorithmic innovation",
+      "link": "https://epoch.ai/publications/innovationeval",
       "is_new": true
     },
     {
@@ -38,23 +53,43 @@
       "is_new": false
     },
     {
-      "title": "Apple/macOS removed from official Unix registry",
-      "link": "https://www.opengroup.org//openbrand/register/",
-      "is_new": false
-    },
-    {
       "title": "REA Reverse – Engineer Anything",
       "link": "https://rea.tools/",
       "is_new": false
     },
     {
+      "title": "Apple/macOS removed from official Unix registry",
+      "link": "https://www.opengroup.org//openbrand/register/",
+      "is_new": false
+    },
+    {
+      "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
+      "link": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
+      "is_new": false
+    },
+    {
+      "title": "Grieving the loss of details",
+      "link": "https://purplesyringa.moe/blog/grieving-the-loss-of-details/",
+      "is_new": false
+    },
+    {
+      "title": "Unikernels were hard. key word: were",
+      "link": "https://ghuntley.com/unikernels/",
+      "is_new": false
+    },
+    {
       "title": "Rampart: Browser native on-device PII radaction",
       "link": "https://ndstudio.gov/posts/say-hello-to-rampart",
+      "is_new": false
+    },
+    {
+      "title": "How strong is the strong interaction?",
+      "link": "https://cerncourier.com/how-strong-is-the-strong-interaction/",
       "is_new": true
     },
     {
-      "title": "Bitwarden Dual License Model",
-      "link": "https://community.bitwarden.com/t/published-version-update-in-app-stores/102750",
+      "title": "OpenSCAD the Programmers Solid 3D CAD Modeller",
+      "link": "https://openscad.org/",
       "is_new": false
     },
     {
@@ -63,34 +98,44 @@
       "is_new": false
     },
     {
-      "title": "Triple-A Minesweeper",
-      "link": "https://minesweeper.mikelacher.com/",
+      "title": "Bitwarden Dual License Model",
+      "link": "https://community.bitwarden.com/t/published-version-update-in-app-stores/102750",
       "is_new": false
     },
     {
-      "title": "Vibe coded browser ports of Halo, The Simpsons: Hit And Run, GTA work well",
-      "link": "https://kotaku.com/we-might-be-cooked-as-these-vibe-coded-web-browser-ports-of-halo-the-simpsons-hit-and-run-and-gta-vice-city-seem-to-work-perfectly-2000743300",
+      "title": "A nuclear clock synchronized to 229Th",
+      "link": "https://www.nature.com/articles/s41586-026-11122-1",
+      "is_new": true
+    },
+    {
+      "title": "Five months treating bugs like patients and coding agents like a medical team",
+      "link": "https://www.cockroachlabs.com/blog/experiment-running-hospital-code/",
+      "is_new": true
+    },
+    {
+      "title": "Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/",
       "is_new": true
     },
     {
       "title": "I would like the value of my home to rise, while my property taxes fall",
       "link": "https://conversableeconomist.com/2026/09/28/i-would-like-the-value-of-my-home-to-rise-while-my-property-taxes-fall/",
-      "is_new": true
-    },
-    {
-      "title": "OpenSCAD the Programmers Solid 3D CAD Modeller",
-      "link": "https://openscad.org/",
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Takeshi's Castle",
       "link": "https://en.wikipedia.org/wiki/Takeshi%27s_Castle",
-      "is_new": true
+      "is_new": false
     },
     {
-      "title": "PVX-001: open-source Covid-19 vaccine starts Phase 1 trial",
-      "link": "https://chronicles.popvax.com/p/popvax-goes-clinical",
-      "is_new": true
+      "title": "Whooping Cranes Learned to Migrate by Following Costumed Pilots",
+      "link": "https://theverifiedpost.com/article/whooping-cranes-ultralight-costumed-pilots-operation-migration",
+      "is_new": false
+    },
+    {
+      "title": "Eye of Sauron: Long-Range Hidden Spy Camera Detection (2024)",
+      "link": "https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-qibo",
+      "is_new": false
     },
     {
       "title": "Chernobyl particles reveal unexpectedly stable nuclear fuel after 40 years",
@@ -103,23 +148,30 @@
       "is_new": false
     },
     {
-      "title": "Eye of Sauron: Long-Range Hidden Spy Camera Detection (2024)",
-      "link": "https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-qibo",
+      "title": "50MB operating system can resurrect your old PC",
+      "link": "https://www.makeuseof.com/this-50mb-operating-system-can-resurrect-your-old-pc/",
+      "is_new": true
+    }
+  ],
+  "removed": [
+    {
+      "title": "Triple-A Minesweeper",
+      "link": "https://minesweeper.mikelacher.com/",
       "is_new": false
     },
     {
-      "title": "Whooping Cranes Learned to Migrate by Following Costumed Pilots",
-      "link": "https://theverifiedpost.com/article/whooping-cranes-ultralight-costumed-pilots-operation-migration",
+      "title": "Vibe coded browser ports of Halo, The Simpsons: Hit And Run, GTA work well",
+      "link": "https://kotaku.com/we-might-be-cooked-as-these-vibe-coded-web-browser-ports-of-halo-the-simpsons-hit-and-run-and-gta-vice-city-seem-to-work-perfectly-2000743300",
+      "is_new": true
+    },
+    {
+      "title": "PVX-001: open-source Covid-19 vaccine starts Phase 1 trial",
+      "link": "https://chronicles.popvax.com/p/popvax-goes-clinical",
       "is_new": true
     },
     {
       "title": "FDA may allow some toxic chemicals to be added to food without safety review",
       "link": "https://www.theguardian.com/us-news/2026/oct/10/fda-toxic-chemicals-food-analysis",
-      "is_new": true
-    },
-    {
-      "title": "Unikernels were hard. key word: were",
-      "link": "https://ghuntley.com/unikernels/",
       "is_new": true
     },
     {
@@ -150,78 +202,6 @@
     {
       "title": "Compiling Rust to readable C with Eurydice",
       "link": "https://lwn.net/Articles/1055211/",
-      "is_new": false
-    }
-  ],
-  "removed": [
-    {
-      "title": "Lobbying Is Corruption",
-      "link": "https://carette.xyz/posts/lobbying_and_corruption/",
-      "is_new": true
-    },
-    {
-      "title": "C for Rust Programmers",
-      "link": "https://bd103.dev/blog/2026-10-07-c-for-rust-programmers/",
-      "is_new": true
-    },
-    {
-      "title": "How to head into VR without wearing a headset",
-      "link": "https://www.kyushu-u.ac.jp/en/researches/view/414/",
-      "is_new": false
-    },
-    {
-      "title": "Clinical trial of a prion disease drug candidate begins enrolling participants",
-      "link": "https://www.broadinstitute.org/news/clinical-trial-prion-disease-drug-candidate-begins-enrolling-participants",
-      "is_new": false
-    },
-    {
-      "title": "Timestamping a Giant Record of the Web",
-      "link": "https://projecttimestamper.org/blog/common-crawl/",
-      "is_new": true
-    },
-    {
-      "title": "Typesafe AI raises $870M at $7.5B",
-      "link": "https://typesafe.ai/blog/series-ai",
-      "is_new": false
-    },
-    {
-      "title": "Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
-      "link": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/",
-      "is_new": false
-    },
-    {
-      "title": "Scam American companies are using to manipulate ingredient lists",
-      "link": "https://twitter.com/WallStreetApes/status/2108594998656807078",
-      "is_new": false
-    },
-    {
-      "title": "What mathematicians should know about the Lean Theorem Prover: reliability & AI",
-      "link": "https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/",
-      "is_new": false
-    },
-    {
-      "title": "Computers Cannot Make Decisions",
-      "link": "https://wiki.cateat.fish/art:computers_cannot_make_decisions",
-      "is_new": false
-    },
-    {
-      "title": "Cube Type – Isometric Typography Generator",
-      "link": "https://typeincube.com/",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: Proton Drive for Linux",
-      "link": "https://oss.lsantos.dev/proton-drive-linux-fs/",
-      "is_new": false
-    },
-    {
-      "title": "The role of cat eye narrowing movements in cat–human communication (2020)",
-      "link": "https://www.nature.com/articles/s41598-020-73426-0",
-      "is_new": false
-    },
-    {
-      "title": "'Wallace and Gromit,' 90% Alone",
-      "link": "https://animationobsessive.substack.com/p/wallace-and-gromit-90-alone",
       "is_new": false
     }
   ]
