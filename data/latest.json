@@ -1,15 +1,35 @@
 {
-  "crawled_at": "2026-10-10 17:02",
-  "prev_crawled_at": "2026-10-10 10:29",
+  "crawled_at": "2026-10-11 00:00",
+  "prev_crawled_at": "2026-10-10 17:02",
   "items": [
+    {
+      "title": "`123456' password used in Danish CPR data breach",
+      "link": "https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/",
+      "is_new": true
+    },
+    {
+      "title": "Bitwarden Dual License Model",
+      "link": "https://community.bitwarden.com/t/published-version-update-in-app-stores/102750",
+      "is_new": true
+    },
+    {
+      "title": "Lobbying Is Corruption",
+      "link": "https://carette.xyz/posts/lobbying_and_corruption/",
+      "is_new": true
+    },
+    {
+      "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
+      "link": "https://github.com/rociiu/talorys",
+      "is_new": true
+    },
     {
       "title": "REA Reverse – Engineer Anything",
       "link": "https://rea.tools/",
       "is_new": false
     },
     {
-      "title": "Telegram Desktop vulnerability allowed any user's file to be stolen",
-      "link": "https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/",
+      "title": "C for Rust Programmers",
+      "link": "https://bd103.dev/blog/2026-10-07-c-for-rust-programmers/",
       "is_new": true
     },
     {
@@ -18,23 +38,43 @@
       "is_new": false
     },
     {
+      "title": "Telegram Desktop vulnerability allowed any user's file to be stolen",
+      "link": "https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/",
+      "is_new": false
+    },
+    {
       "title": "Triple-A Minesweeper",
       "link": "https://minesweeper.mikelacher.com/",
       "is_new": false
     },
     {
-      "title": "Computers Cannot Make Decisions",
-      "link": "https://wiki.cateat.fish/art:computers_cannot_make_decisions",
+      "title": "WSL3 Performance is about 5-60% faster than WSL2 depending on the workload",
+      "link": "https://tonym.us/wsl2-vs-wsl3-benchmarks.html",
       "is_new": true
     },
     {
-      "title": "Eye of Sauron: Long-Range Hidden Spy Camera Detection",
+      "title": "Eye of Sauron: Long-Range Hidden Spy Camera Detection (2024)",
       "link": "https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-qibo",
+      "is_new": false
+    },
+    {
+      "title": "Noto means \"no tofu\": fixing dotted circles in Myanmar text",
+      "link": "https://www.datocms.com/blog/handling-less-common-scripts",
       "is_new": true
     },
     {
-      "title": "Typesafe AI raises $870M at $7.5B",
-      "link": "https://typesafe.ai/blog/series-ai",
+      "title": "Chernobyl particles reveal unexpectedly stable nuclear fuel after 40 years",
+      "link": "https://phys.org/news/2026-10-chernobyl-particles-reveal-unexpectedly-stable.html",
+      "is_new": true
+    },
+    {
+      "title": "Mxc: Microsoft Execution Containers version 1.0.0",
+      "link": "https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/",
+      "is_new": true
+    },
+    {
+      "title": "Can you use autoregressive diffusion to generate market data?",
+      "link": "https://blog.janestreet.com/can-you-use-autoregressive-diffusion-to-generate-market-data/",
       "is_new": false
     },
     {
@@ -43,13 +83,8 @@
       "is_new": false
     },
     {
-      "title": "Can you use autoregressive diffusion to generate market data?",
-      "link": "https://blog.janestreet.com/can-you-use-autoregressive-diffusion-to-generate-market-data/",
-      "is_new": false
-    },
-    {
-      "title": "How to head into VR without wearing a headset",
-      "link": "https://www.kyushu-u.ac.jp/en/researches/view/414/",
+      "title": "Apple/macOS silently removed from official Unix registry",
+      "link": "https://www.opengroup.org//openbrand/register/",
       "is_new": true
     },
     {
@@ -58,23 +93,33 @@
       "is_new": false
     },
     {
-      "title": "Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
-      "link": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/",
+      "title": "How to head into VR without wearing a headset",
+      "link": "https://www.kyushu-u.ac.jp/en/researches/view/414/",
       "is_new": false
     },
     {
       "title": "Clinical trial of a prion disease drug candidate begins enrolling participants",
       "link": "https://www.broadinstitute.org/news/clinical-trial-prion-disease-drug-candidate-begins-enrolling-participants",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: Proton Drive for Linux",
-      "link": "https://oss.lsantos.dev/proton-drive-linux-fs/",
       "is_new": false
     },
     {
-      "title": "YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops",
-      "link": "https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306",
+      "title": "Timestamping a Giant Record of the Web",
+      "link": "https://projecttimestamper.org/blog/common-crawl/",
+      "is_new": true
+    },
+    {
+      "title": "Typesafe AI raises $870M at $7.5B",
+      "link": "https://typesafe.ai/blog/series-ai",
+      "is_new": false
+    },
+    {
+      "title": "Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
+      "link": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/",
+      "is_new": false
+    },
+    {
+      "title": "Scam American companies are using to manipulate ingredient lists",
+      "link": "https://twitter.com/WallStreetApes/status/2108594998656807078",
       "is_new": false
     },
     {
@@ -83,8 +128,35 @@
       "is_new": false
     },
     {
-      "title": "Scam American companies are using to manipulate ingredient lists",
-      "link": "https://twitter.com/WallStreetApes/status/2108594998656807078",
+      "title": "Computers Cannot Make Decisions",
+      "link": "https://wiki.cateat.fish/art:computers_cannot_make_decisions",
+      "is_new": false
+    },
+    {
+      "title": "Cube Type – Isometric Typography Generator",
+      "link": "https://typeincube.com/",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: Proton Drive for Linux",
+      "link": "https://oss.lsantos.dev/proton-drive-linux-fs/",
+      "is_new": false
+    },
+    {
+      "title": "The role of cat eye narrowing movements in cat–human communication (2020)",
+      "link": "https://www.nature.com/articles/s41598-020-73426-0",
+      "is_new": false
+    },
+    {
+      "title": "'Wallace and Gromit,' 90% Alone",
+      "link": "https://animationobsessive.substack.com/p/wallace-and-gromit-90-alone",
+      "is_new": false
+    }
+  ],
+  "removed": [
+    {
+      "title": "YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops",
+      "link": "https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306",
       "is_new": false
     },
     {
@@ -103,11 +175,6 @@
       "is_new": true
     },
     {
-      "title": "The role of cat eye narrowing movements in cat–human communication (2020)",
-      "link": "https://www.nature.com/articles/s41598-020-73426-0",
-      "is_new": false
-    },
-    {
       "title": "Vegetative Electron Microscopy WTF? (2025)",
       "link": "https://www.sciencebase.com/science-blog/vegetative-electron-microscopy.html",
       "is_new": true
@@ -115,11 +182,6 @@
     {
       "title": "Sorry, I'm in a meeting",
       "link": "https://iminafleeting.com/",
-      "is_new": false
-    },
-    {
-      "title": "'Wallace and Gromit,' 90% Alone",
-      "link": "https://animationobsessive.substack.com/p/wallace-and-gromit-90-alone",
       "is_new": false
     },
     {
@@ -150,68 +212,6 @@
     {
       "title": "Programming Isn't Special",
       "link": "https://blog.glyph.im/2026/10/programming-isnt-special.html",
-      "is_new": true
-    }
-  ],
-  "removed": [
-    {
-      "title": "11 of 23 Core Open Source Projects Run on 1 or 2 People",
-      "link": "https://linuxstans.com/11-of-23-core-open-source-projects-run-on-1-or-2-people/",
-      "is_new": true
-    },
-    {
-      "title": "Anthropic AI model submits false tip on unsolved Philly murder",
-      "link": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/",
-      "is_new": true
-    },
-    {
-      "title": "Rewriting Prime Agent in Rust",
-      "link": "https://www.primeintellect.ai/blog/prime-agent-rust",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: Let your AI agents paint big arrows, boxes and text on your screen",
-      "link": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
-      "is_new": false
-    },
-    {
-      "title": "Nobel Peace Prize for 2026 to Navanethem Pillay",
-      "link": "https://www.nobelprize.org/prizes/peace/2026/press-release/",
-      "is_new": false
-    },
-    {
-      "title": "My static site was serving my internal docs",
-      "link": "https://tminuslabs.space/serving-secrets",
-      "is_new": true
-    },
-    {
-      "title": "M7.6 Earthquake in Panama",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18k/executive",
-      "is_new": false
-    },
-    {
-      "title": "How to Fix autoconf-style Configuration Probing",
-      "link": "https://build2.org/blog/fix-autoconf.xhtml",
-      "is_new": true
-    },
-    {
-      "title": "Microsoft-Decision-1, our model for fast decision-making",
-      "link": "https://commandline.microsoft.com/microsoft-decision-1-model-foundry/",
-      "is_new": false
-    },
-    {
-      "title": "Ideas aren't getting harder to find (2022)",
-      "link": "https://www.experimental-history.com/p/ideas-arent-getting-harder-to-find",
-      "is_new": false
-    },
-    {
-      "title": "Can AI automate AI R&D yet?",
-      "link": "https://epoch.ai/publications/innovationeval",
-      "is_new": true
-    },
-    {
-      "title": "Taxing Entrepreneurial Wealth: Evidence from Norway, 2021–2025",
-      "link": "https://www.nber.org/papers/w35854",
       "is_new": true
     }
   ]
