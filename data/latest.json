@@ -1,15 +1,10 @@
 {
-  "crawled_at": "2026-10-10 06:27",
-  "prev_crawled_at": "2026-10-10 01:53",
+  "crawled_at": "2026-10-10 10:29",
+  "prev_crawled_at": "2026-10-10 06:27",
   "items": [
     {
-      "title": "YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops",
-      "link": "https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306",
-      "is_new": true
-    },
-    {
-      "title": "No Man Is an Island",
-      "link": "https://borretti.me/article/no-man-is-an-island",
+      "title": "REA Reverse – Engineer Anything",
+      "link": "https://rea.tools/",
       "is_new": true
     },
     {
@@ -20,11 +15,11 @@
     {
       "title": "Triple-A Minesweeper",
       "link": "https://minesweeper.mikelacher.com/",
-      "is_new": true
+      "is_new": false
     },
     {
-      "title": "Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",
-      "link": "https://carrierexplode.com/",
+      "title": "11 of 23 Core Open Source Projects Run on 1 or 2 People",
+      "link": "https://linuxstans.com/11-of-23-core-open-source-projects-run-on-1-or-2-people/",
       "is_new": true
     },
     {
@@ -33,14 +28,14 @@
       "is_new": false
     },
     {
-      "title": "Typesafe AI raises $870M at $7.5B",
-      "link": "https://typesafe.ai/blog/series-ai",
-      "is_new": true
+      "title": "Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",
+      "link": "https://carrierexplode.com/",
+      "is_new": false
     },
     {
-      "title": "Ideas aren't getting harder to find, anyone who tells you otherwise is a coward",
-      "link": "https://www.experimental-history.com/p/ideas-arent-getting-harder-to-find",
-      "is_new": true
+      "title": "Typesafe AI raises $870M at $7.5B",
+      "link": "https://typesafe.ai/blog/series-ai",
+      "is_new": false
     },
     {
       "title": "Sorry, I'm in a meeting",
@@ -48,9 +43,24 @@
       "is_new": false
     },
     {
+      "title": "YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops",
+      "link": "https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306",
+      "is_new": false
+    },
+    {
+      "title": "Anthropic AI model submits false tip on unsolved Philly murder",
+      "link": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/",
+      "is_new": true
+    },
+    {
+      "title": "Rewriting Prime Agent in Rust",
+      "link": "https://www.primeintellect.ai/blog/prime-agent-rust",
+      "is_new": true
+    },
+    {
       "title": "Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
       "link": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/",
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Show HN: Let your AI agents paint big arrows, boxes and text on your screen",
@@ -58,13 +68,95 @@
       "is_new": false
     },
     {
+      "title": "Show HN: Proton Drive for Linux",
+      "link": "https://oss.lsantos.dev/proton-drive-linux-fs/",
+      "is_new": true
+    },
+    {
       "title": "Nobel Peace Prize for 2026 to Navanethem Pillay",
       "link": "https://www.nobelprize.org/prizes/peace/2026/press-release/",
       "is_new": false
     },
     {
+      "title": "Compiling Rust to readable C with Eurydice",
+      "link": "https://lwn.net/Articles/1055211/",
+      "is_new": true
+    },
+    {
+      "title": "Can you use autoregressive diffusion to generate market data?",
+      "link": "https://blog.janestreet.com/can-you-use-autoregressive-diffusion-to-generate-market-data/",
+      "is_new": true
+    },
+    {
+      "title": "The role of cat eye narrowing movements in cat–human communication (2020)",
+      "link": "https://www.nature.com/articles/s41598-020-73426-0",
+      "is_new": true
+    },
+    {
+      "title": "Atari Falcon",
+      "link": "https://atarimuseum.nl/atari-falcon/",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: The rarest tech books and docs you've probably never read",
+      "link": "https://readrare.com/",
+      "is_new": true
+    },
+    {
+      "title": "My static site was serving my internal docs",
+      "link": "https://tminuslabs.space/serving-secrets",
+      "is_new": true
+    },
+    {
+      "title": "'Wallace and Gromit,' 90% Alone",
+      "link": "https://animationobsessive.substack.com/p/wallace-and-gromit-90-alone",
+      "is_new": false
+    },
+    {
       "title": "M7.6 Earthquake in Panama",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18k/executive",
+      "is_new": false
+    },
+    {
+      "title": "How to Fix autoconf-style Configuration Probing",
+      "link": "https://build2.org/blog/fix-autoconf.xhtml",
+      "is_new": true
+    },
+    {
+      "title": "What mathematicians should know about the Lean Theorem Prover: reliability & AI",
+      "link": "https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/",
+      "is_new": true
+    },
+    {
+      "title": "Microsoft-Decision-1, our model for fast decision-making",
+      "link": "https://commandline.microsoft.com/microsoft-decision-1-model-foundry/",
+      "is_new": false
+    },
+    {
+      "title": "Scam American companies are using to manipulate ingredient lists",
+      "link": "https://twitter.com/WallStreetApes/status/2108594998656807078",
+      "is_new": true
+    },
+    {
+      "title": "Ideas aren't getting harder to find (2022)",
+      "link": "https://www.experimental-history.com/p/ideas-arent-getting-harder-to-find",
+      "is_new": false
+    },
+    {
+      "title": "Can AI automate AI R&D yet?",
+      "link": "https://epoch.ai/publications/innovationeval",
+      "is_new": true
+    },
+    {
+      "title": "Taxing Entrepreneurial Wealth: Evidence from Norway, 2021–2025",
+      "link": "https://www.nber.org/papers/w35854",
+      "is_new": true
+    }
+  ],
+  "removed": [
+    {
+      "title": "No Man Is an Island",
+      "link": "https://borretti.me/article/no-man-is-an-island",
       "is_new": true
     },
     {
@@ -73,19 +165,9 @@
       "is_new": true
     },
     {
-      "title": "'Wallace and Gromit,' 90% Alone",
-      "link": "https://animationobsessive.substack.com/p/wallace-and-gromit-90-alone",
-      "is_new": true
-    },
-    {
       "title": "Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
       "link": "https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/",
       "is_new": false
-    },
-    {
-      "title": "Microsoft-Decision-1, our model for fast decision-making",
-      "link": "https://commandline.microsoft.com/microsoft-decision-1-model-foundry/",
-      "is_new": true
     },
     {
       "title": "A statement on the Tor Project's relationship with Mullvad",
@@ -150,88 +232,6 @@
     {
       "title": "Once: Cache CLI commands",
       "link": "https://github.com/alex0ptr/once",
-      "is_new": false
-    }
-  ],
-  "removed": [
-    {
-      "title": "Germany turning abandoned coal mines into 23 lakes, becoming artificial wetland",
-      "link": "https://timesofindia.indiatimes.com/world/europe/germany-is-turning-abandoned-coal-mines-into-23-lakes-the-former-mining-landscape-is-becoming-europes-largest-artificial-wetland/articleshow/134725669.cms",
-      "is_new": true
-    },
-    {
-      "title": "Python 3.15.0",
-      "link": "https://www.python.org/downloads/release/python-3150/",
-      "is_new": true
-    },
-    {
-      "title": "US imposes sanctions on ICC hours after former judge wins Nobel Peace Prize",
-      "link": "https://www.reuters.com/world/us-imposes-sanctions-international-criminal-court-hours-after-former-judge-wins-2026-10-09/",
-      "is_new": true
-    },
-    {
-      "title": "Man discovers his parents' coffee machine used 1TB of data in 10 days",
-      "link": "https://www.dexerto.com/entertainment/man-discovers-his-parents-coffee-machine-used-1tb-of-data-in-10-days-3416399/",
-      "is_new": false
-    },
-    {
-      "title": "I hired an illustrator to draw my house. Now it's my Home Assistant dashboard",
-      "link": "https://antonfrolov.substack.com/p/i-hired-an-illustrator-to-draw-my",
-      "is_new": false
-    },
-    {
-      "title": "Study: Exercise increases cancer survival rates",
-      "link": "https://www.nejm.org/doi/10.1056/NEJMoa2502760",
-      "is_new": true
-    },
-    {
-      "title": "Reactions to 100 Solutions",
-      "link": "https://proofsandprompts.com/2026/10/08/100-reactions-to-100-solutions/",
-      "is_new": true
-    },
-    {
-      "title": "Agentic coding is a financial trap",
-      "link": "https://frugaast.dev/blog/agentic-costs-unsustainable",
-      "is_new": true
-    },
-    {
-      "title": "Iranian campaign planted fake articles in real U.S. publications using ChatGPT",
-      "link": "https://www.washingtonpost.com/technology/2026/10/09/chatgpt-users-iran-planted-ai-generated-articles-us-news-media/",
-      "is_new": true
-    },
-    {
-      "title": "Yandex Takes a Second Data Center Hit in 48 Hours",
-      "link": "https://united24media.com/war-in-ukraine/yandex-takes-a-second-data-center-hit-in-48-hours-now-its-biggest-russian-site-is-damaged-23277",
-      "is_new": true
-    },
-    {
-      "title": "The Hetzner Cloud network stack – history and technical overview",
-      "link": "https://www.hetzner.com/blog/the-hetzner-cloud-network-stack-history-and-technical-overview/",
-      "is_new": true
-    },
-    {
-      "title": "Ask HN: What do you run on a $5 VPS that's worth keeping online 24/7?",
-      "link": "https://news.ycombinator.com/item?id=49985548",
-      "is_new": false
-    },
-    {
-      "title": "The value of not getting to the point (2015)",
-      "link": "https://ken.arneson.name/2015/11/the-value-of-not-getting-to-the-point/",
-      "is_new": false
-    },
-    {
-      "title": "OpenAI, the Partition Principle, and Mathematics",
-      "link": "https://karagila.org/2026/openai-pp/",
-      "is_new": false
-    },
-    {
-      "title": "Imposing Sanctions on the International Criminal Court",
-      "link": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/imposing-sanctions-on-the-international-criminal-court/",
-      "is_new": true
-    },
-    {
-      "title": "ETH-68: Ethernet Audio Interface for Linux",
-      "link": "https://naturalsystems.io/eth68",
       "is_new": false
     }
   ]
