@@ -1,7 +1,22 @@
 {
-  "crawled_at": "2026-10-11 08:10",
-  "prev_crawled_at": "2026-10-11 04:42",
+  "crawled_at": "2026-10-11 12:45",
+  "prev_crawled_at": "2026-10-11 08:10",
   "items": [
+    {
+      "title": "WallHop – 12ft.io is gone, so I built a replacement",
+      "link": "https://wallhop.io/",
+      "is_new": true
+    },
+    {
+      "title": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
+      "link": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
+      "is_new": true
+    },
+    {
+      "title": "Build your own decision model",
+      "link": "https://nishtahir.com/build-your-own-decision-model/",
+      "is_new": false
+    },
     {
       "title": "2D Vehicles",
       "link": "https://patkerr.co.uk/2d-vehicles/",
@@ -10,17 +25,32 @@
     {
       "title": "A city-building game in which the city would prefer you didn't",
       "link": "https://housing.over.pizza/",
+      "is_new": false
+    },
+    {
+      "title": "PSPi 6 – Raspberry Pi in a PSP",
+      "link": "https://github.com/othermod/PSPi-Version-6",
+      "is_new": true
+    },
+    {
+      "title": "The Lightbulb Computer",
+      "link": "https://lightbulbcomputer.com/",
+      "is_new": false
+    },
+    {
+      "title": "Veda: The First Agentic Hobby Operating System",
+      "link": "https://github.com/vahmoh25/Veda",
       "is_new": true
     },
     {
       "title": "Nix wrote half of my debugger",
       "link": "https://fzakaria.com/2026/10/07/nix-wrote-half-of-my-debugger",
-      "is_new": true
+      "is_new": false
     },
     {
-      "title": "Why DuckDB 2.0 is faster",
-      "link": "https://motherduck.com/blog/why-duckdb-20-is-faster/",
-      "is_new": false
+      "title": "Show HN: Happy Hangul Day! An RNN for Generating Korean Handwriting Strokes",
+      "link": "https://hangul.ink/blog/hangul-day",
+      "is_new": true
     },
     {
       "title": "Knuth reward check",
@@ -28,14 +58,14 @@
       "is_new": false
     },
     {
-      "title": "The Lightbulb Computer",
-      "link": "https://lightbulbcomputer.com/",
-      "is_new": true
+      "title": "Why DuckDB 2.0 is faster",
+      "link": "https://motherduck.com/blog/why-duckdb-20-is-faster/",
+      "is_new": false
     },
     {
-      "title": "Build your own decision model",
-      "link": "https://nishtahir.com/build-your-own-decision-model/",
-      "is_new": true
+      "title": "Five months treating bugs like patients and coding agents like a medical team",
+      "link": "https://www.cockroachlabs.com/blog/experiment-running-hospital-code/",
+      "is_new": false
     },
     {
       "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
@@ -43,34 +73,14 @@
       "is_new": false
     },
     {
-      "title": "Recent AI models struggled to match a human algorithmic innovation",
-      "link": "https://epoch.ai/publications/innovationeval",
-      "is_new": true
-    },
-    {
       "title": "Mxc: Microsoft Execution Containers version 1.0.0",
       "link": "https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/",
       "is_new": false
     },
     {
-      "title": "REA Reverse – Engineer Anything",
-      "link": "https://rea.tools/",
-      "is_new": false
-    },
-    {
-      "title": "Apple/macOS removed from official Unix registry",
-      "link": "https://www.opengroup.org//openbrand/register/",
-      "is_new": false
-    },
-    {
-      "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
-      "link": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
-      "is_new": false
-    },
-    {
-      "title": "Grieving the loss of details",
-      "link": "https://purplesyringa.moe/blog/grieving-the-loss-of-details/",
-      "is_new": false
+      "title": "Retrofitting language models to operate over bytes",
+      "link": "https://www.nature.com/articles/s41586-026-11111-4",
+      "is_new": true
     },
     {
       "title": "Unikernels were hard. key word: were",
@@ -78,13 +88,8 @@
       "is_new": false
     },
     {
-      "title": "Rampart: Browser native on-device PII radaction",
-      "link": "https://ndstudio.gov/posts/say-hello-to-rampart",
-      "is_new": false
-    },
-    {
-      "title": "How strong is the strong interaction?",
-      "link": "https://cerncourier.com/how-strong-is-the-strong-interaction/",
+      "title": "Show HN: Diffle, a keyboard-centric diff viewer with LSP support",
+      "link": "https://github.com/moritzwilksch/diffle",
       "is_new": true
     },
     {
@@ -93,44 +98,39 @@
       "is_new": false
     },
     {
-      "title": "Telegram Desktop vulnerability allowed any user's file to be stolen",
-      "link": "https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/",
-      "is_new": false
-    },
-    {
-      "title": "Bitwarden Dual License Model",
-      "link": "https://community.bitwarden.com/t/published-version-update-in-app-stores/102750",
-      "is_new": false
-    },
-    {
-      "title": "A nuclear clock synchronized to 229Th",
-      "link": "https://www.nature.com/articles/s41586-026-11122-1",
+      "title": "Getting old Macromedia Director Games to run on modern Hardware",
+      "link": "https://werwolv.net/posts/macromedia_copy_protection/",
       "is_new": true
     },
     {
-      "title": "Five months treating bugs like patients and coding agents like a medical team",
-      "link": "https://www.cockroachlabs.com/blog/experiment-running-hospital-code/",
+      "title": "Grieving the loss of details",
+      "link": "https://purplesyringa.moe/blog/grieving-the-loss-of-details/",
+      "is_new": false
+    },
+    {
+      "title": "Recent AI models struggled to match a human algorithmic innovation",
+      "link": "https://epoch.ai/publications/innovationeval",
+      "is_new": false
+    },
+    {
+      "title": "Rampart: Browser native on-device PII radaction",
+      "link": "https://ndstudio.gov/posts/say-hello-to-rampart",
+      "is_new": false
+    },
+    {
+      "title": "C for Rust programmers",
+      "link": "https://bd103.dev/blog/2026-10-07-c-for-rust-programmers/",
       "is_new": true
     },
     {
-      "title": "Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/",
+      "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
+      "link": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
+      "is_new": false
+    },
+    {
+      "title": "Food processing influences metabolism and brain activity",
+      "link": "https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html",
       "is_new": true
-    },
-    {
-      "title": "I would like the value of my home to rise, while my property taxes fall",
-      "link": "https://conversableeconomist.com/2026/09/28/i-would-like-the-value-of-my-home-to-rise-while-my-property-taxes-fall/",
-      "is_new": false
-    },
-    {
-      "title": "Takeshi's Castle",
-      "link": "https://en.wikipedia.org/wiki/Takeshi%27s_Castle",
-      "is_new": false
-    },
-    {
-      "title": "Whooping Cranes Learned to Migrate by Following Costumed Pilots",
-      "link": "https://theverifiedpost.com/article/whooping-cranes-ultralight-costumed-pilots-operation-migration",
-      "is_new": false
     },
     {
       "title": "Eye of Sauron: Long-Range Hidden Spy Camera Detection (2024)",
@@ -143,6 +143,58 @@
       "is_new": false
     },
     {
+      "title": "Telegram Desktop vulnerability allowed any user's file to be stolen",
+      "link": "https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/",
+      "is_new": false
+    },
+    {
+      "title": "I would like the value of my home to rise, while my property taxes fall",
+      "link": "https://conversableeconomist.com/2026/09/28/i-would-like-the-value-of-my-home-to-rise-while-my-property-taxes-fall/",
+      "is_new": false
+    }
+  ],
+  "removed": [
+    {
+      "title": "REA Reverse – Engineer Anything",
+      "link": "https://rea.tools/",
+      "is_new": false
+    },
+    {
+      "title": "Apple/macOS removed from official Unix registry",
+      "link": "https://www.opengroup.org//openbrand/register/",
+      "is_new": false
+    },
+    {
+      "title": "How strong is the strong interaction?",
+      "link": "https://cerncourier.com/how-strong-is-the-strong-interaction/",
+      "is_new": true
+    },
+    {
+      "title": "Bitwarden Dual License Model",
+      "link": "https://community.bitwarden.com/t/published-version-update-in-app-stores/102750",
+      "is_new": false
+    },
+    {
+      "title": "A nuclear clock synchronized to 229Th",
+      "link": "https://www.nature.com/articles/s41586-026-11122-1",
+      "is_new": true
+    },
+    {
+      "title": "Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/",
+      "is_new": true
+    },
+    {
+      "title": "Takeshi's Castle",
+      "link": "https://en.wikipedia.org/wiki/Takeshi%27s_Castle",
+      "is_new": false
+    },
+    {
+      "title": "Whooping Cranes Learned to Migrate by Following Costumed Pilots",
+      "link": "https://theverifiedpost.com/article/whooping-cranes-ultralight-costumed-pilots-operation-migration",
+      "is_new": false
+    },
+    {
       "title": "`123456' password used in Danish CPR data breach",
       "link": "https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/",
       "is_new": false
@@ -151,58 +203,6 @@
       "title": "50MB operating system can resurrect your old PC",
       "link": "https://www.makeuseof.com/this-50mb-operating-system-can-resurrect-your-old-pc/",
       "is_new": true
-    }
-  ],
-  "removed": [
-    {
-      "title": "Triple-A Minesweeper",
-      "link": "https://minesweeper.mikelacher.com/",
-      "is_new": false
-    },
-    {
-      "title": "Vibe coded browser ports of Halo, The Simpsons: Hit And Run, GTA work well",
-      "link": "https://kotaku.com/we-might-be-cooked-as-these-vibe-coded-web-browser-ports-of-halo-the-simpsons-hit-and-run-and-gta-vice-city-seem-to-work-perfectly-2000743300",
-      "is_new": true
-    },
-    {
-      "title": "PVX-001: open-source Covid-19 vaccine starts Phase 1 trial",
-      "link": "https://chronicles.popvax.com/p/popvax-goes-clinical",
-      "is_new": true
-    },
-    {
-      "title": "FDA may allow some toxic chemicals to be added to food without safety review",
-      "link": "https://www.theguardian.com/us-news/2026/oct/10/fda-toxic-chemicals-food-analysis",
-      "is_new": true
-    },
-    {
-      "title": "WSL3 Performance is about 5-60% faster than WSL2 depending on the workload",
-      "link": "https://tonym.us/wsl2-vs-wsl3-benchmarks.html",
-      "is_new": false
-    },
-    {
-      "title": "Can you use autoregressive diffusion to generate market data?",
-      "link": "https://blog.janestreet.com/can-you-use-autoregressive-diffusion-to-generate-market-data/",
-      "is_new": false
-    },
-    {
-      "title": "Noto means \"no tofu\": fixing dotted circles in Myanmar text",
-      "link": "https://www.datocms.com/blog/handling-less-common-scripts",
-      "is_new": false
-    },
-    {
-      "title": "Cloudflare acquires Deno",
-      "link": "https://deno.com/blog/cloudflare",
-      "is_new": false
-    },
-    {
-      "title": "Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",
-      "link": "https://carrierexplode.com/",
-      "is_new": false
-    },
-    {
-      "title": "Compiling Rust to readable C with Eurydice",
-      "link": "https://lwn.net/Articles/1055211/",
-      "is_new": false
     }
   ]
 }
