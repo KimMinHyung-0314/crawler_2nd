@@ -1,20 +1,55 @@
 {
-  "crawled_at": "2026-10-11 19:33",
-  "prev_crawled_at": "2026-10-11 12:45",
+  "crawled_at": "2026-10-12 01:31",
+  "prev_crawled_at": "2026-10-11 19:33",
   "items": [
     {
-      "title": "IRCv3",
-      "link": "https://ircv3.net/",
+      "title": "Internal files add to evidence of an ExxonMobil climate deception campaign",
+      "link": "https://insideclimatenews.org/news/07102026/exxonmobil-climate-deception-new-evidence/",
+      "is_new": true
+    },
+    {
+      "title": "I paid people to try and follow my README",
+      "link": "https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/",
+      "is_new": true
+    },
+    {
+      "title": "The tilde in your PATH may not be your HOME",
+      "link": "https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/",
       "is_new": true
     },
     {
       "title": "LineageOS 24.0",
       "link": "https://lineageos.org/Changelog-32/",
+      "is_new": false
+    },
+    {
+      "title": "Valen's Memory Safety: A New Kind of Borrow Checking",
+      "link": "https://verdagon.dev/blog/valen-group-borrowing",
       "is_new": true
     },
     {
-      "title": "Build your own decision model",
-      "link": "https://nishtahir.com/build-your-own-decision-model/",
+      "title": "Show HN: BetterWispr – Free, open-source dictation for Mac",
+      "link": "https://betterwispr.com/",
+      "is_new": true
+    },
+    {
+      "title": "How I reverse engineered a commercial spatial audio effect",
+      "link": "http://epestr.com/blog/reverse-engineering-a-commercial-spatial-audio-effect/",
+      "is_new": true
+    },
+    {
+      "title": "Why Texas Is Making Data Centers Wait",
+      "link": "https://a16z.com/why-texas-is-making-data-centers-wait/",
+      "is_new": true
+    },
+    {
+      "title": "Nitter: Update Oct 10th seeking funding and legal help",
+      "link": "https://nitter.net",
+      "is_new": true
+    },
+    {
+      "title": "The RAM shortage is bringing back DDR4",
+      "link": "https://www.theverge.com/games/1009140/ram-shortage-intel-amd-ddr4-comeback",
       "is_new": false
     },
     {
@@ -23,9 +58,29 @@
       "is_new": false
     },
     {
+      "title": "IRCv3",
+      "link": "https://ircv3.net/",
+      "is_new": false
+    },
+    {
+      "title": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
+      "link": "https://jobs.ashbyhq.com/weave-os",
+      "is_new": true
+    },
+    {
+      "title": "Build your own decision model",
+      "link": "https://nishtahir.com/build-your-own-decision-model/",
+      "is_new": false
+    },
+    {
       "title": "A city-building game in which the city would prefer you didn't",
       "link": "https://housing.over.pizza/",
       "is_new": false
+    },
+    {
+      "title": "The Wild West of polyglot docs sites",
+      "link": "https://technicalwriting.dev/blog/2026/10/polyglot/index.html",
+      "is_new": true
     },
     {
       "title": "The Lightbulb Computer",
@@ -33,8 +88,8 @@
       "is_new": false
     },
     {
-      "title": "How big is a Git commit?",
-      "link": "https://ratfactor.com/cards/git-commit-size",
+      "title": "Rat's Register Allocator",
+      "link": "https://hexrat.cc/pages/blog/2026_10_07",
       "is_new": true
     },
     {
@@ -43,13 +98,13 @@
       "is_new": false
     },
     {
-      "title": "European Alternatives",
-      "link": "https://buy-european.net/en/alternatives",
-      "is_new": true
+      "title": "How big is a Git commit?",
+      "link": "https://ratfactor.com/cards/git-commit-size",
+      "is_new": false
     },
     {
-      "title": "Decade-old RAM is making a comeback",
-      "link": "https://www.theverge.com/games/1009140/ram-shortage-intel-amd-ddr4-comeback",
+      "title": "Plumbers, chains, and famous painters: The history of the pipe operator in R",
+      "link": "http://adolfoalvarez.cl/blog/2021-09-16-plumbers-chains-and-famous-painters-the-history-of-the-pipe-operator-in-r/",
       "is_new": true
     },
     {
@@ -63,13 +118,18 @@
       "is_new": false
     },
     {
-      "title": "I wish you the best in the Offline",
-      "link": "https://daverupert.com/2026/09/i-wish-you-the-best-in-the-offline/",
+      "title": "Show HN: Happy Hangul Day! An RNN for Generating Korean Handwriting Strokes",
+      "link": "https://hangul.ink/blog/hangul-day",
+      "is_new": false
+    },
+    {
+      "title": "Terence Tao: Math 2.0 [pdf]",
+      "link": "https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf",
       "is_new": true
     },
     {
-      "title": "Show HN: Happy Hangul Day! An RNN for Generating Korean Handwriting Strokes",
-      "link": "https://hangul.ink/blog/hangul-day",
+      "title": "Five months treating bugs like patients and coding agents like a medical team",
+      "link": "https://www.cockroachlabs.com/blog/experiment-running-hospital-code/",
       "is_new": false
     },
     {
@@ -78,19 +138,31 @@
       "is_new": false
     },
     {
-      "title": "Knuth reward check",
-      "link": "https://www.thomas-huehn.com/knuth-reward-check/",
-      "is_new": false
+      "title": "When Ldaxr Doesn't Work: Exclusive Accesses and Cacheability on AArch64",
+      "link": "https://joelsiks.com/posts/aarch64-exclusive-access-cacheability/",
+      "is_new": true
     },
     {
-      "title": "Five months treating bugs like patients and coding agents like a medical team",
-      "link": "https://www.cockroachlabs.com/blog/experiment-running-hospital-code/",
+      "title": "Knuth reward check",
+      "link": "https://www.thomas-huehn.com/knuth-reward-check/",
       "is_new": false
     },
     {
       "title": "Mxc: Microsoft Execution Containers version 1.0.0",
       "link": "https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/",
       "is_new": false
+    }
+  ],
+  "removed": [
+    {
+      "title": "European Alternatives",
+      "link": "https://buy-european.net/en/alternatives",
+      "is_new": true
+    },
+    {
+      "title": "I wish you the best in the Offline",
+      "link": "https://daverupert.com/2026/09/i-wish-you-the-best-in-the-offline/",
+      "is_new": true
     },
     {
       "title": "3rd Yandex Cloud Data Center Was Hit",
@@ -150,63 +222,6 @@
     {
       "title": "Getting old Macromedia Director Games to run on modern Hardware",
       "link": "https://werwolv.net/posts/macromedia_copy_protection/",
-      "is_new": false
-    }
-  ],
-  "removed": [
-    {
-      "title": "WallHop – 12ft.io is gone, so I built a replacement",
-      "link": "https://wallhop.io/",
-      "is_new": true
-    },
-    {
-      "title": "Veda: The First Agentic Hobby Operating System",
-      "link": "https://github.com/vahmoh25/Veda",
-      "is_new": true
-    },
-    {
-      "title": "Why DuckDB 2.0 is faster",
-      "link": "https://motherduck.com/blog/why-duckdb-20-is-faster/",
-      "is_new": false
-    },
-    {
-      "title": "Grieving the loss of details",
-      "link": "https://purplesyringa.moe/blog/grieving-the-loss-of-details/",
-      "is_new": false
-    },
-    {
-      "title": "Recent AI models struggled to match a human algorithmic innovation",
-      "link": "https://epoch.ai/publications/innovationeval",
-      "is_new": false
-    },
-    {
-      "title": "Rampart: Browser native on-device PII radaction",
-      "link": "https://ndstudio.gov/posts/say-hello-to-rampart",
-      "is_new": false
-    },
-    {
-      "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
-      "link": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
-      "is_new": false
-    },
-    {
-      "title": "Eye of Sauron: Long-Range Hidden Spy Camera Detection (2024)",
-      "link": "https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-qibo",
-      "is_new": false
-    },
-    {
-      "title": "Chernobyl particles reveal unexpectedly stable nuclear fuel after 40 years",
-      "link": "https://phys.org/news/2026-10-chernobyl-particles-reveal-unexpectedly-stable.html",
-      "is_new": false
-    },
-    {
-      "title": "Telegram Desktop vulnerability allowed any user's file to be stolen",
-      "link": "https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/",
-      "is_new": false
-    },
-    {
-      "title": "I would like the value of my home to rise, while my property taxes fall",
-      "link": "https://conversableeconomist.com/2026/09/28/i-would-like-the-value-of-my-home-to-rise-while-my-property-taxes-fall/",
       "is_new": false
     }
   ]
