@@ -1,15 +1,15 @@
 {
-  "crawled_at": "2026-10-11 12:45",
-  "prev_crawled_at": "2026-10-11 08:10",
+  "crawled_at": "2026-10-11 19:33",
+  "prev_crawled_at": "2026-10-11 12:45",
   "items": [
     {
-      "title": "WallHop – 12ft.io is gone, so I built a replacement",
-      "link": "https://wallhop.io/",
+      "title": "IRCv3",
+      "link": "https://ircv3.net/",
       "is_new": true
     },
     {
-      "title": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
-      "link": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
+      "title": "LineageOS 24.0",
+      "link": "https://lineageos.org/Changelog-32/",
       "is_new": true
     },
     {
@@ -28,19 +28,34 @@
       "is_new": false
     },
     {
-      "title": "PSPi 6 – Raspberry Pi in a PSP",
-      "link": "https://github.com/othermod/PSPi-Version-6",
-      "is_new": true
-    },
-    {
       "title": "The Lightbulb Computer",
       "link": "https://lightbulbcomputer.com/",
       "is_new": false
     },
     {
-      "title": "Veda: The First Agentic Hobby Operating System",
-      "link": "https://github.com/vahmoh25/Veda",
+      "title": "How big is a Git commit?",
+      "link": "https://ratfactor.com/cards/git-commit-size",
       "is_new": true
+    },
+    {
+      "title": "PSPi 6 – Raspberry Pi in a PSP",
+      "link": "https://github.com/othermod/PSPi-Version-6",
+      "is_new": false
+    },
+    {
+      "title": "European Alternatives",
+      "link": "https://buy-european.net/en/alternatives",
+      "is_new": true
+    },
+    {
+      "title": "Decade-old RAM is making a comeback",
+      "link": "https://www.theverge.com/games/1009140/ram-shortage-intel-amd-ddr4-comeback",
+      "is_new": true
+    },
+    {
+      "title": "Retrofitting language models to operate over bytes",
+      "link": "https://www.nature.com/articles/s41586-026-11111-4",
+      "is_new": false
     },
     {
       "title": "Nix wrote half of my debugger",
@@ -48,23 +63,13 @@
       "is_new": false
     },
     {
-      "title": "Show HN: Happy Hangul Day! An RNN for Generating Korean Handwriting Strokes",
-      "link": "https://hangul.ink/blog/hangul-day",
+      "title": "I wish you the best in the Offline",
+      "link": "https://daverupert.com/2026/09/i-wish-you-the-best-in-the-offline/",
       "is_new": true
     },
     {
-      "title": "Knuth reward check",
-      "link": "https://www.thomas-huehn.com/knuth-reward-check/",
-      "is_new": false
-    },
-    {
-      "title": "Why DuckDB 2.0 is faster",
-      "link": "https://motherduck.com/blog/why-duckdb-20-is-faster/",
-      "is_new": false
-    },
-    {
-      "title": "Five months treating bugs like patients and coding agents like a medical team",
-      "link": "https://www.cockroachlabs.com/blog/experiment-running-hospital-code/",
+      "title": "Show HN: Happy Hangul Day! An RNN for Generating Korean Handwriting Strokes",
+      "link": "https://hangul.ink/blog/hangul-day",
       "is_new": false
     },
     {
@@ -73,14 +78,44 @@
       "is_new": false
     },
     {
+      "title": "Knuth reward check",
+      "link": "https://www.thomas-huehn.com/knuth-reward-check/",
+      "is_new": false
+    },
+    {
+      "title": "Five months treating bugs like patients and coding agents like a medical team",
+      "link": "https://www.cockroachlabs.com/blog/experiment-running-hospital-code/",
+      "is_new": false
+    },
+    {
       "title": "Mxc: Microsoft Execution Containers version 1.0.0",
       "link": "https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/",
       "is_new": false
     },
     {
-      "title": "Retrofitting language models to operate over bytes",
-      "link": "https://www.nature.com/articles/s41586-026-11111-4",
+      "title": "3rd Yandex Cloud Data Center Was Hit",
+      "link": "https://status.yandex.cloud/en/incidents/2136",
       "is_new": true
+    },
+    {
+      "title": "Deterministic Simulation Testing in Celld",
+      "link": "https://celld.dev/docs/engineering/deterministic-simulation-testing/",
+      "is_new": true
+    },
+    {
+      "title": "Cyril Hilsum invented the flat-screen displays that hold us in thrall",
+      "link": "https://www.economist.com/obituary/2026/10/08/cyril-hilsum-invented-the-flat-screen-displays-that-hold-us-in-thrall",
+      "is_new": true
+    },
+    {
+      "title": "The Marriage That Captures a High Point of American Art",
+      "link": "https://www.theatlantic.com/culture/2026/10/jackson-pollock-lee-krasner-met-review/688916",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: Diffle, a keyboard-centric diff viewer with LSP support",
+      "link": "https://github.com/moritzwilksch/diffle",
+      "is_new": false
     },
     {
       "title": "Unikernels were hard. key word: were",
@@ -88,9 +123,9 @@
       "is_new": false
     },
     {
-      "title": "Show HN: Diffle, a keyboard-centric diff viewer with LSP support",
-      "link": "https://github.com/moritzwilksch/diffle",
-      "is_new": true
+      "title": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
+      "link": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
+      "is_new": false
     },
     {
       "title": "OpenSCAD the Programmers Solid 3D CAD Modeller",
@@ -98,9 +133,41 @@
       "is_new": false
     },
     {
+      "title": "Food processing influences metabolism and brain activity",
+      "link": "https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html",
+      "is_new": false
+    },
+    {
+      "title": "GameBoy on E-Paper ESP32 at 30FPS [video]",
+      "link": "https://www.youtube.com/watch?v=XiZmM6hwwAU",
+      "is_new": true
+    },
+    {
+      "title": "C for Rust programmers",
+      "link": "https://bd103.dev/blog/2026-10-07-c-for-rust-programmers/",
+      "is_new": false
+    },
+    {
       "title": "Getting old Macromedia Director Games to run on modern Hardware",
       "link": "https://werwolv.net/posts/macromedia_copy_protection/",
+      "is_new": false
+    }
+  ],
+  "removed": [
+    {
+      "title": "WallHop – 12ft.io is gone, so I built a replacement",
+      "link": "https://wallhop.io/",
       "is_new": true
+    },
+    {
+      "title": "Veda: The First Agentic Hobby Operating System",
+      "link": "https://github.com/vahmoh25/Veda",
+      "is_new": true
+    },
+    {
+      "title": "Why DuckDB 2.0 is faster",
+      "link": "https://motherduck.com/blog/why-duckdb-20-is-faster/",
+      "is_new": false
     },
     {
       "title": "Grieving the loss of details",
@@ -118,19 +185,9 @@
       "is_new": false
     },
     {
-      "title": "C for Rust programmers",
-      "link": "https://bd103.dev/blog/2026-10-07-c-for-rust-programmers/",
-      "is_new": true
-    },
-    {
       "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
       "link": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
       "is_new": false
-    },
-    {
-      "title": "Food processing influences metabolism and brain activity",
-      "link": "https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html",
-      "is_new": true
     },
     {
       "title": "Eye of Sauron: Long-Range Hidden Spy Camera Detection (2024)",
@@ -151,58 +208,6 @@
       "title": "I would like the value of my home to rise, while my property taxes fall",
       "link": "https://conversableeconomist.com/2026/09/28/i-would-like-the-value-of-my-home-to-rise-while-my-property-taxes-fall/",
       "is_new": false
-    }
-  ],
-  "removed": [
-    {
-      "title": "REA Reverse – Engineer Anything",
-      "link": "https://rea.tools/",
-      "is_new": false
-    },
-    {
-      "title": "Apple/macOS removed from official Unix registry",
-      "link": "https://www.opengroup.org//openbrand/register/",
-      "is_new": false
-    },
-    {
-      "title": "How strong is the strong interaction?",
-      "link": "https://cerncourier.com/how-strong-is-the-strong-interaction/",
-      "is_new": true
-    },
-    {
-      "title": "Bitwarden Dual License Model",
-      "link": "https://community.bitwarden.com/t/published-version-update-in-app-stores/102750",
-      "is_new": false
-    },
-    {
-      "title": "A nuclear clock synchronized to 229Th",
-      "link": "https://www.nature.com/articles/s41586-026-11122-1",
-      "is_new": true
-    },
-    {
-      "title": "Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/",
-      "is_new": true
-    },
-    {
-      "title": "Takeshi's Castle",
-      "link": "https://en.wikipedia.org/wiki/Takeshi%27s_Castle",
-      "is_new": false
-    },
-    {
-      "title": "Whooping Cranes Learned to Migrate by Following Costumed Pilots",
-      "link": "https://theverifiedpost.com/article/whooping-cranes-ultralight-costumed-pilots-operation-migration",
-      "is_new": false
-    },
-    {
-      "title": "`123456' password used in Danish CPR data breach",
-      "link": "https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/",
-      "is_new": false
-    },
-    {
-      "title": "50MB operating system can resurrect your old PC",
-      "link": "https://www.makeuseof.com/this-50mb-operating-system-can-resurrect-your-old-pc/",
-      "is_new": true
     }
   ]
 }
