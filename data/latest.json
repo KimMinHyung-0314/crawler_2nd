@@ -1,20 +1,50 @@
 {
-  "crawled_at": "2026-10-12 01:31",
-  "prev_crawled_at": "2026-10-11 19:33",
+  "crawled_at": "2026-10-12 05:45",
+  "prev_crawled_at": "2026-10-12 01:31",
   "items": [
     {
-      "title": "Internal files add to evidence of an ExxonMobil climate deception campaign",
-      "link": "https://insideclimatenews.org/news/07102026/exxonmobil-climate-deception-new-evidence/",
+      "title": "Total Annihilation, rebuilt for modern computers",
+      "link": "https://nanolathe.gg",
       "is_new": true
     },
     {
-      "title": "I paid people to try and follow my README",
-      "link": "https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/",
+      "title": "Chapter 1 of Ways of Seeing by John Berger",
+      "link": "https://www.ways-of-seeing.com/ch1",
       "is_new": true
     },
     {
-      "title": "The tilde in your PATH may not be your HOME",
-      "link": "https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/",
+      "title": "Cartographers of North Korea",
+      "link": "https://cartographers-nk.wonyoung.so/",
+      "is_new": true
+    },
+    {
+      "title": "Be The Onion's Hero for Once",
+      "link": "https://mailchi.mp/email.theonion.com/archivehunt",
+      "is_new": true
+    },
+    {
+      "title": "NYC's \"Click to Cancel\" rule is now in effect",
+      "link": "https://www.nyc.gov/main/click-to-cancel",
+      "is_new": true
+    },
+    {
+      "title": "Artificial Insanity",
+      "link": "https://richwhitehouse.com/index.php?postid=78",
+      "is_new": true
+    },
+    {
+      "title": "Terence Tao: Math 2.0 [pdf]",
+      "link": "https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf",
+      "is_new": false
+    },
+    {
+      "title": "I guess I'm using WebP now?",
+      "link": "https://anderegg.ca/2026/10/08/i-guess-im-using-webp-now",
+      "is_new": true
+    },
+    {
+      "title": "apsw: Another Python SQLite Wrapper",
+      "link": "https://github.com/rogerbinns/apsw",
       "is_new": true
     },
     {
@@ -23,29 +53,44 @@
       "is_new": false
     },
     {
-      "title": "Valen's Memory Safety: A New Kind of Borrow Checking",
-      "link": "https://verdagon.dev/blog/valen-group-borrowing",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: BetterWispr – Free, open-source dictation for Mac",
-      "link": "https://betterwispr.com/",
-      "is_new": true
-    },
-    {
       "title": "How I reverse engineered a commercial spatial audio effect",
       "link": "http://epestr.com/blog/reverse-engineering-a-commercial-spatial-audio-effect/",
+      "is_new": false
+    },
+    {
+      "title": "The Unreasonable Effectiveness of Vex in NixOS",
+      "link": "https://blog.kammel.dev/post/nixos_vex/",
       "is_new": true
     },
     {
-      "title": "Why Texas Is Making Data Centers Wait",
-      "link": "https://a16z.com/why-texas-is-making-data-centers-wait/",
+      "title": "Akhetonics Photonic Computing: 1,000x Faster CPUs",
+      "link": "https://medium.com/@timventura/akhetonics-photonic-computing-1-000x-faster-cpus-b9e91c470079",
       "is_new": true
     },
     {
-      "title": "Nitter: Update Oct 10th seeking funding and legal help",
-      "link": "https://nitter.net",
+      "title": "Playgrnd – tiny tools for making weird, beautiful things",
+      "link": "https://www.playgrnd.tools/",
       "is_new": true
+    },
+    {
+      "title": "Shape-sensing sheet digitally tracks its own movement as it bends and twists",
+      "link": "https://news.mit.edu/2026/shape-sensing-sheet-digitally-tracks-movement-bends-twists-1008",
+      "is_new": true
+    },
+    {
+      "title": "The tilde in your PATH may not be your HOME",
+      "link": "https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/",
+      "is_new": false
+    },
+    {
+      "title": "Valen's Memory Safety: A New Kind of Borrow Checking",
+      "link": "https://verdagon.dev/blog/valen-group-borrowing",
+      "is_new": false
+    },
+    {
+      "title": "I paid people to try and follow my README",
+      "link": "https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/",
+      "is_new": false
     },
     {
       "title": "The RAM shortage is bringing back DDR4",
@@ -53,18 +98,33 @@
       "is_new": false
     },
     {
-      "title": "2D Vehicles",
-      "link": "https://patkerr.co.uk/2d-vehicles/",
-      "is_new": false
+      "title": "I'm sorry, but you still have to think",
+      "link": "https://itsallaboutthebit.com/i-am-sorry-but-you-still-have-to-think/",
+      "is_new": true
     },
     {
-      "title": "IRCv3",
-      "link": "https://ircv3.net/",
-      "is_new": false
+      "title": "A Cray-1 supercomputer replica from 30 \"obsolete\" Mac Minis",
+      "link": "https://arstechnica.com/gadgets/2026/10/a-cray-1-supercomputer-replica-from-30-obsolete-mac-minis/",
+      "is_new": true
     },
     {
       "title": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
       "link": "https://jobs.ashbyhq.com/weave-os",
+      "is_new": false
+    },
+    {
+      "title": "A city-building game in which the city would prefer you didn't",
+      "link": "https://housing.over.pizza/",
+      "is_new": false
+    },
+    {
+      "title": "Show HN: BetterWispr – Free, open-source dictation for Mac",
+      "link": "https://betterwispr.com/",
+      "is_new": false
+    },
+    {
+      "title": "3rd Yandex Cloud Data Center Was Hit",
+      "link": "https://status.yandex.cloud/en/incidents/2136",
       "is_new": true
     },
     {
@@ -73,8 +133,40 @@
       "is_new": false
     },
     {
-      "title": "A city-building game in which the city would prefer you didn't",
-      "link": "https://housing.over.pizza/",
+      "title": "Nitter: Update Oct 10th seeking funding and legal help",
+      "link": "https://nitter.net",
+      "is_new": false
+    },
+    {
+      "title": "IRCv3",
+      "link": "https://ircv3.net/",
+      "is_new": false
+    },
+    {
+      "title": "Plumbers, chains, and famous painters: The history of the pipe operator in R",
+      "link": "http://adolfoalvarez.cl/blog/2021-09-16-plumbers-chains-and-famous-painters-the-history-of-the-pipe-operator-in-r/",
+      "is_new": false
+    },
+    {
+      "title": "Cognitive Decline or Sanity Incline?",
+      "link": "https://mdelcaro.substack.com/p/cognitive-decline-or-sanity-incline",
+      "is_new": true
+    }
+  ],
+  "removed": [
+    {
+      "title": "Internal files add to evidence of an ExxonMobil climate deception campaign",
+      "link": "https://insideclimatenews.org/news/07102026/exxonmobil-climate-deception-new-evidence/",
+      "is_new": true
+    },
+    {
+      "title": "Why Texas Is Making Data Centers Wait",
+      "link": "https://a16z.com/why-texas-is-making-data-centers-wait/",
+      "is_new": true
+    },
+    {
+      "title": "2D Vehicles",
+      "link": "https://patkerr.co.uk/2d-vehicles/",
       "is_new": false
     },
     {
@@ -103,11 +195,6 @@
       "is_new": false
     },
     {
-      "title": "Plumbers, chains, and famous painters: The history of the pipe operator in R",
-      "link": "http://adolfoalvarez.cl/blog/2021-09-16-plumbers-chains-and-famous-painters-the-history-of-the-pipe-operator-in-r/",
-      "is_new": true
-    },
-    {
       "title": "Retrofitting language models to operate over bytes",
       "link": "https://www.nature.com/articles/s41586-026-11111-4",
       "is_new": false
@@ -121,11 +208,6 @@
       "title": "Show HN: Happy Hangul Day! An RNN for Generating Korean Handwriting Strokes",
       "link": "https://hangul.ink/blog/hangul-day",
       "is_new": false
-    },
-    {
-      "title": "Terence Tao: Math 2.0 [pdf]",
-      "link": "https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf",
-      "is_new": true
     },
     {
       "title": "Five months treating bugs like patients and coding agents like a medical team",
@@ -150,78 +232,6 @@
     {
       "title": "Mxc: Microsoft Execution Containers version 1.0.0",
       "link": "https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/",
-      "is_new": false
-    }
-  ],
-  "removed": [
-    {
-      "title": "European Alternatives",
-      "link": "https://buy-european.net/en/alternatives",
-      "is_new": true
-    },
-    {
-      "title": "I wish you the best in the Offline",
-      "link": "https://daverupert.com/2026/09/i-wish-you-the-best-in-the-offline/",
-      "is_new": true
-    },
-    {
-      "title": "3rd Yandex Cloud Data Center Was Hit",
-      "link": "https://status.yandex.cloud/en/incidents/2136",
-      "is_new": true
-    },
-    {
-      "title": "Deterministic Simulation Testing in Celld",
-      "link": "https://celld.dev/docs/engineering/deterministic-simulation-testing/",
-      "is_new": true
-    },
-    {
-      "title": "Cyril Hilsum invented the flat-screen displays that hold us in thrall",
-      "link": "https://www.economist.com/obituary/2026/10/08/cyril-hilsum-invented-the-flat-screen-displays-that-hold-us-in-thrall",
-      "is_new": true
-    },
-    {
-      "title": "The Marriage That Captures a High Point of American Art",
-      "link": "https://www.theatlantic.com/culture/2026/10/jackson-pollock-lee-krasner-met-review/688916",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: Diffle, a keyboard-centric diff viewer with LSP support",
-      "link": "https://github.com/moritzwilksch/diffle",
-      "is_new": false
-    },
-    {
-      "title": "Unikernels were hard. key word: were",
-      "link": "https://ghuntley.com/unikernels/",
-      "is_new": false
-    },
-    {
-      "title": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
-      "link": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
-      "is_new": false
-    },
-    {
-      "title": "OpenSCAD the Programmers Solid 3D CAD Modeller",
-      "link": "https://openscad.org/",
-      "is_new": false
-    },
-    {
-      "title": "Food processing influences metabolism and brain activity",
-      "link": "https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html",
-      "is_new": false
-    },
-    {
-      "title": "GameBoy on E-Paper ESP32 at 30FPS [video]",
-      "link": "https://www.youtube.com/watch?v=XiZmM6hwwAU",
-      "is_new": true
-    },
-    {
-      "title": "C for Rust programmers",
-      "link": "https://bd103.dev/blog/2026-10-07-c-for-rust-programmers/",
-      "is_new": false
-    },
-    {
-      "title": "Getting old Macromedia Director Games to run on modern Hardware",
-      "link": "https://werwolv.net/posts/macromedia_copy_protection/",
       "is_new": false
     }
   ]
