@@ -1,35 +1,45 @@
 {
-  "crawled_at": "2026-10-12 05:45",
-  "prev_crawled_at": "2026-10-12 01:31",
+  "crawled_at": "2026-10-12 09:10",
+  "prev_crawled_at": "2026-10-12 05:45",
   "items": [
     {
       "title": "Total Annihilation, rebuilt for modern computers",
       "link": "https://nanolathe.gg",
-      "is_new": true
+      "is_new": false
     },
     {
-      "title": "Chapter 1 of Ways of Seeing by John Berger",
-      "link": "https://www.ways-of-seeing.com/ch1",
+      "title": "Whatever became of holography? (2011)",
+      "link": "https://www.americanscientist.org/article/whatever-became-of-holography",
       "is_new": true
     },
     {
       "title": "Cartographers of North Korea",
       "link": "https://cartographers-nk.wonyoung.so/",
+      "is_new": false
+    },
+    {
+      "title": "Recursive self-improvement through collective intelligence",
+      "link": "https://pub.sakana.ai/mass/",
       "is_new": true
     },
     {
-      "title": "Be The Onion's Hero for Once",
-      "link": "https://mailchi.mp/email.theonion.com/archivehunt",
+      "title": "Google Data Centers around the world",
+      "link": "https://datacenters.google/locations/",
       "is_new": true
     },
     {
-      "title": "NYC's \"Click to Cancel\" rule is now in effect",
-      "link": "https://www.nyc.gov/main/click-to-cancel",
+      "title": "The gap in shared understanding of LLM capability is widening",
+      "link": "https://twitter.com/karpathy/status/2109361546505966046",
       "is_new": true
     },
     {
-      "title": "Artificial Insanity",
-      "link": "https://richwhitehouse.com/index.php?postid=78",
+      "title": "So, You’d Like To Sell Your Print Issues Of The Onion?",
+      "link": "https://theonion.com/archivehunt/",
+      "is_new": true
+    },
+    {
+      "title": "Fingerprints Are the New Cookies",
+      "link": "https://royfish.dev/fingerprints-are-the-new-cookies",
       "is_new": true
     },
     {
@@ -38,23 +48,125 @@
       "is_new": false
     },
     {
+      "title": "Chapter 1 of Ways of Seeing by John Berger",
+      "link": "https://www.ways-of-seeing.com/ch1",
+      "is_new": false
+    },
+    {
+      "title": "Show HN: Plimsoll, a self-hosted sandbox for code your AI agent writes",
+      "link": "https://github.com/plimsollmark/plimsoll",
+      "is_new": true
+    },
+    {
+      "title": "Ask HN: Do you want a router that has DD-WRT pre-installed?",
+      "link": "https://news.ycombinator.com/item?id=50039291",
+      "is_new": true
+    },
+    {
+      "title": "Passkeys are a trap. Do not use them",
+      "link": "https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them",
+      "is_new": true
+    },
+    {
+      "title": "A Remote Employee Refused 160 Webcam Photos a Day. Her Employer Fired Her",
+      "link": "https://www.inc.com/chloe-rosenberg/a-remote-employee-refused-160-webcam-photos-a-day-her-employer-fired-her/91415963",
+      "is_new": true
+    },
+    {
+      "title": "IRCv3",
+      "link": "https://ircv3.net/",
+      "is_new": false
+    },
+    {
+      "title": "Governments are mishandling the affordability crisis",
+      "link": "https://www.economist.com/finance-and-economics/2026/10/08/governments-are-mishandling-the-affordability-crisis",
+      "is_new": true
+    },
+    {
+      "title": "NYC's \"Click to Cancel\" rule is now in effect",
+      "link": "https://www.nyc.gov/main/click-to-cancel",
+      "is_new": false
+    },
+    {
+      "title": "Google is illegaly cutting forest to build data centers",
+      "link": "https://www.theguardian.com/technology/2026/oct/06/google-datacentres-finland-temporary-halt-environmental-impact-assessment",
+      "is_new": true
+    },
+    {
       "title": "I guess I'm using WebP now?",
       "link": "https://anderegg.ca/2026/10/08/i-guess-im-using-webp-now",
+      "is_new": false
+    },
+    {
+      "title": "Illustration Beyond Proof",
+      "link": "https://terrytao.wordpress.com/2026/10/11/illustration-beyond-proof/",
+      "is_new": true
+    },
+    {
+      "title": "Safe SIMD in Rust, even on the inside",
+      "link": "https://shnatsel.github.io/safe-simd-in-rust-even-on-the-inside/",
+      "is_new": true
+    },
+    {
+      "title": "The tilde in your PATH may not be your HOME",
+      "link": "https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/",
+      "is_new": false
+    },
+    {
+      "title": "500B tokens later: Letting AI agents decompile a first-person shooter",
+      "link": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
+      "is_new": true
+    },
+    {
+      "title": "ClickHouse C – Talk to ClickHouse using its native binary protocol",
+      "link": "https://github.com/ClickHouse/clickhouse-c",
+      "is_new": true
+    },
+    {
+      "title": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
+      "link": "https://jobs.ashbyhq.com/weave-os",
+      "is_new": false
+    },
+    {
+      "title": "FlowCE: Calculus on your TI-84 Plus CE",
+      "link": "https://tommyb3ll.github.io/FlowCE/",
+      "is_new": true
+    },
+    {
+      "title": "Rubber Duck: An AI interviewer for the knowledge in your head",
+      "link": "https://rubberduck.talk/sign-in",
       "is_new": true
     },
     {
       "title": "apsw: Another Python SQLite Wrapper",
       "link": "https://github.com/rogerbinns/apsw",
-      "is_new": true
+      "is_new": false
     },
     {
-      "title": "LineageOS 24.0",
-      "link": "https://lineageos.org/Changelog-32/",
+      "title": "Show HN: BetterWispr – Free, open-source dictation for Mac",
+      "link": "https://betterwispr.com/",
       "is_new": false
     },
     {
       "title": "How I reverse engineered a commercial spatial audio effect",
       "link": "http://epestr.com/blog/reverse-engineering-a-commercial-spatial-audio-effect/",
+      "is_new": false
+    }
+  ],
+  "removed": [
+    {
+      "title": "Be The Onion's Hero for Once",
+      "link": "https://mailchi.mp/email.theonion.com/archivehunt",
+      "is_new": true
+    },
+    {
+      "title": "Artificial Insanity",
+      "link": "https://richwhitehouse.com/index.php?postid=78",
+      "is_new": true
+    },
+    {
+      "title": "LineageOS 24.0",
+      "link": "https://lineageos.org/Changelog-32/",
       "is_new": false
     },
     {
@@ -76,11 +188,6 @@
       "title": "Shape-sensing sheet digitally tracks its own movement as it bends and twists",
       "link": "https://news.mit.edu/2026/shape-sensing-sheet-digitally-tracks-movement-bends-twists-1008",
       "is_new": true
-    },
-    {
-      "title": "The tilde in your PATH may not be your HOME",
-      "link": "https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/",
-      "is_new": false
     },
     {
       "title": "Valen's Memory Safety: A New Kind of Borrow Checking",
@@ -108,18 +215,8 @@
       "is_new": true
     },
     {
-      "title": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
-      "link": "https://jobs.ashbyhq.com/weave-os",
-      "is_new": false
-    },
-    {
       "title": "A city-building game in which the city would prefer you didn't",
       "link": "https://housing.over.pizza/",
-      "is_new": false
-    },
-    {
-      "title": "Show HN: BetterWispr – Free, open-source dictation for Mac",
-      "link": "https://betterwispr.com/",
       "is_new": false
     },
     {
@@ -138,11 +235,6 @@
       "is_new": false
     },
     {
-      "title": "IRCv3",
-      "link": "https://ircv3.net/",
-      "is_new": false
-    },
-    {
       "title": "Plumbers, chains, and famous painters: The history of the pipe operator in R",
       "link": "http://adolfoalvarez.cl/blog/2021-09-16-plumbers-chains-and-famous-painters-the-history-of-the-pipe-operator-in-r/",
       "is_new": false
@@ -151,88 +243,6 @@
       "title": "Cognitive Decline or Sanity Incline?",
       "link": "https://mdelcaro.substack.com/p/cognitive-decline-or-sanity-incline",
       "is_new": true
-    }
-  ],
-  "removed": [
-    {
-      "title": "Internal files add to evidence of an ExxonMobil climate deception campaign",
-      "link": "https://insideclimatenews.org/news/07102026/exxonmobil-climate-deception-new-evidence/",
-      "is_new": true
-    },
-    {
-      "title": "Why Texas Is Making Data Centers Wait",
-      "link": "https://a16z.com/why-texas-is-making-data-centers-wait/",
-      "is_new": true
-    },
-    {
-      "title": "2D Vehicles",
-      "link": "https://patkerr.co.uk/2d-vehicles/",
-      "is_new": false
-    },
-    {
-      "title": "The Wild West of polyglot docs sites",
-      "link": "https://technicalwriting.dev/blog/2026/10/polyglot/index.html",
-      "is_new": true
-    },
-    {
-      "title": "The Lightbulb Computer",
-      "link": "https://lightbulbcomputer.com/",
-      "is_new": false
-    },
-    {
-      "title": "Rat's Register Allocator",
-      "link": "https://hexrat.cc/pages/blog/2026_10_07",
-      "is_new": true
-    },
-    {
-      "title": "PSPi 6 – Raspberry Pi in a PSP",
-      "link": "https://github.com/othermod/PSPi-Version-6",
-      "is_new": false
-    },
-    {
-      "title": "How big is a Git commit?",
-      "link": "https://ratfactor.com/cards/git-commit-size",
-      "is_new": false
-    },
-    {
-      "title": "Retrofitting language models to operate over bytes",
-      "link": "https://www.nature.com/articles/s41586-026-11111-4",
-      "is_new": false
-    },
-    {
-      "title": "Nix wrote half of my debugger",
-      "link": "https://fzakaria.com/2026/10/07/nix-wrote-half-of-my-debugger",
-      "is_new": false
-    },
-    {
-      "title": "Show HN: Happy Hangul Day! An RNN for Generating Korean Handwriting Strokes",
-      "link": "https://hangul.ink/blog/hangul-day",
-      "is_new": false
-    },
-    {
-      "title": "Five months treating bugs like patients and coding agents like a medical team",
-      "link": "https://www.cockroachlabs.com/blog/experiment-running-hospital-code/",
-      "is_new": false
-    },
-    {
-      "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
-      "link": "https://github.com/rociiu/talorys",
-      "is_new": false
-    },
-    {
-      "title": "When Ldaxr Doesn't Work: Exclusive Accesses and Cacheability on AArch64",
-      "link": "https://joelsiks.com/posts/aarch64-exclusive-access-cacheability/",
-      "is_new": true
-    },
-    {
-      "title": "Knuth reward check",
-      "link": "https://www.thomas-huehn.com/knuth-reward-check/",
-      "is_new": false
-    },
-    {
-      "title": "Mxc: Microsoft Execution Containers version 1.0.0",
-      "link": "https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/",
-      "is_new": false
     }
   ]
 }
