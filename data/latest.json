@@ -1,15 +1,15 @@
 {
-  "crawled_at": "2026-10-12 15:54",
-  "prev_crawled_at": "2026-10-12 09:10",
+  "crawled_at": "2026-10-13 01:27",
+  "prev_crawled_at": "2026-10-12 15:54",
   "items": [
     {
-      "title": "Will Linux phones become a viable alternative to the Android/iOS duopoly?",
-      "link": "https://amosbbatto.wordpress.com/2026/10/05/linux-phones-alternative/",
+      "title": "GLM-Legal: Advancing Agentic Legal Intelligence",
+      "link": "https://z.ai/blog/glm-legal",
       "is_new": true
     },
     {
-      "title": "Type-safe HTML templating in Zig",
-      "link": "https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html",
+      "title": "The Making Of Super Mario 64 – full Giles Goddard interview (2001)",
+      "link": "https://pixelatron.com/blog/the-making-of-super-mario-64-full-giles-goddard-interview-ngc/",
       "is_new": true
     },
     {
@@ -18,19 +18,79 @@
       "is_new": false
     },
     {
+      "title": "Show HN: PS2 games statically recompiled to WebAssembly",
+      "link": "https://github.com/snuri00/ps2-web-recomp",
+      "is_new": true
+    },
+    {
+      "title": "French supermarkets suffer fridge shutdown after 'unprecedented' cyberattack",
+      "link": "https://uk.finance.yahoo.com/news/french-supermarket-chains-cyberattack-forced-115141288.html",
+      "is_new": true
+    },
+    {
+      "title": "Incident with Actions, Pull Requests and Issues",
+      "link": "https://www.githubstatus.com/incidents/93njd414rpbx",
+      "is_new": true
+    },
+    {
+      "title": "Type-safe HTML templating in Zig",
+      "link": "https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html",
+      "is_new": false
+    },
+    {
+      "title": "Secret of Orange Cats Revealed After 60-Year Search",
+      "link": "https://www.sciencealert.com/secret-of-orange-cats-finally-revealed-after-60-year-search",
+      "is_new": true
+    },
+    {
       "title": "Total Annihilation, rebuilt for modern computers",
       "link": "https://nanolathe.gg",
       "is_new": false
     },
     {
-      "title": "Calculus with Julia",
-      "link": "https://jverzani.github.io/CalculusWithJuliaNotes.jl/",
+      "title": "An Unmade Film Shaped Hayao Miyazaki",
+      "link": "https://animationobsessive.substack.com/p/an-unmade-film-shaped-hayao-miyazaki",
       "is_new": true
     },
     {
-      "title": "Whatever became of holography? (2011)",
-      "link": "https://www.americanscientist.org/article/whatever-became-of-holography",
+      "title": "QGIS bans AI assisted contributions",
+      "link": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
+      "is_new": true
+    },
+    {
+      "title": "Calculus with Julia",
+      "link": "https://jverzani.github.io/CalculusWithJuliaNotes.jl/",
       "is_new": false
+    },
+    {
+      "title": "Running the unmodified Linux amdgpu driver on an iPad",
+      "link": "https://github.com/Geramy/LemonSeed-Studio",
+      "is_new": true
+    },
+    {
+      "title": "Choreographic Programming in Rust",
+      "link": "https://github.com/hibanaworks/hibana",
+      "is_new": true
+    },
+    {
+      "title": "Living in the Weimar Era of Ruby",
+      "link": "https://blog.julik.nl/2026/10/the-weimar-of-ruby",
+      "is_new": true
+    },
+    {
+      "title": "I Found a $90k Remote Code Execution Vulnerability in Google",
+      "link": "https://simonkoeck.com/writeups/google-devsite-flask-session-pickle-rce",
+      "is_new": true
+    },
+    {
+      "title": "Bag of Decisions Reranker",
+      "link": "https://softwaredoug.com/blog/2026/10/08/bag-of-decisions.html",
+      "is_new": true
+    },
+    {
+      "title": "Terence Tao: Math 2.0 [pdf]",
+      "link": "https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf",
+      "is_new": true
     },
     {
       "title": "Cartographers of North Korea (2019)",
@@ -38,18 +98,18 @@
       "is_new": false
     },
     {
-      "title": "No portable way to detect string-to-float conversion errors in standard C",
-      "link": "https://sebsite.pw/w/20261009-strtod.html",
+      "title": "AI less regulated than milk, Microsoft president says in warning over safety",
+      "link": "https://www.theguardian.com/technology/2026/oct/12/ai-less-regulated-than-milk-microsoft-president-calls-for-tougher-rules",
       "is_new": true
     },
     {
       "title": "Doory – Open-Source Canva",
       "link": "https://github.com/shaongitbd/doory",
-      "is_new": true
+      "is_new": false
     },
     {
-      "title": "Every US Electrical Outlet Explained [video]",
-      "link": "https://www.youtube.com/watch?v=n_1wzYQwnts",
+      "title": "Ask HN: Do you want a router that has DD-WRT pre-installed?",
+      "link": "https://news.ycombinator.com/item?id=50039291",
       "is_new": true
     },
     {
@@ -58,14 +118,14 @@
       "is_new": false
     },
     {
-      "title": "Google is illegaly cutting forest to build data centers",
-      "link": "https://www.theguardian.com/technology/2026/oct/06/google-datacentres-finland-temporary-halt-environmental-impact-assessment",
-      "is_new": false
+      "title": "Deep dive into Azure Maia 300 architecture",
+      "link": "https://azure.microsoft.com/en-us/blog/deep-dive-into-azure-maia-300-architecture/",
+      "is_new": true
     },
     {
-      "title": "Illustration Beyond Proof",
-      "link": "https://terrytao.wordpress.com/2026/10/11/illustration-beyond-proof/",
-      "is_new": false
+      "title": "Deloitte falsified documents to evade tax on Abramovich's wealth",
+      "link": "https://www.bbc.com/news/articles/c64g1l5389kvo",
+      "is_new": true
     },
     {
       "title": "Passkeys are a trap",
@@ -75,11 +135,53 @@
     {
       "title": "Local Indexing to reduce tool calling and token usage",
       "link": "https://tedhaley.ca/pensieve/",
+      "is_new": false
+    },
+    {
+      "title": "Fridges in French supermarkets hit by cyber attack",
+      "link": "https://www.bbc.com/news/articles/crq5nzxv9q4yo",
+      "is_new": true
+    },
+    {
+      "title": "Why aren't AI companies being charged for hacking?",
+      "link": "https://mortoray.com/why-arent-ai-companies-being-charged-for-hacking/",
       "is_new": true
     },
     {
       "title": "Chapter 1 of \"Ways of Seeing\" by John Berger (1972)",
       "link": "https://www.ways-of-seeing.com/ch1",
+      "is_new": false
+    }
+  ],
+  "removed": [
+    {
+      "title": "Will Linux phones become a viable alternative to the Android/iOS duopoly?",
+      "link": "https://amosbbatto.wordpress.com/2026/10/05/linux-phones-alternative/",
+      "is_new": true
+    },
+    {
+      "title": "Whatever became of holography? (2011)",
+      "link": "https://www.americanscientist.org/article/whatever-became-of-holography",
+      "is_new": false
+    },
+    {
+      "title": "No portable way to detect string-to-float conversion errors in standard C",
+      "link": "https://sebsite.pw/w/20261009-strtod.html",
+      "is_new": true
+    },
+    {
+      "title": "Every US Electrical Outlet Explained [video]",
+      "link": "https://www.youtube.com/watch?v=n_1wzYQwnts",
+      "is_new": true
+    },
+    {
+      "title": "Google is illegaly cutting forest to build data centers",
+      "link": "https://www.theguardian.com/technology/2026/oct/06/google-datacentres-finland-temporary-halt-environmental-impact-assessment",
+      "is_new": false
+    },
+    {
+      "title": "Illustration Beyond Proof",
+      "link": "https://terrytao.wordpress.com/2026/10/11/illustration-beyond-proof/",
       "is_new": false
     },
     {
@@ -150,78 +252,6 @@
     {
       "title": "Safe SIMD in Rust, even on the inside",
       "link": "https://shnatsel.github.io/safe-simd-in-rust-even-on-the-inside/",
-      "is_new": false
-    }
-  ],
-  "removed": [
-    {
-      "title": "Google Data Centers around the world",
-      "link": "https://datacenters.google/locations/",
-      "is_new": true
-    },
-    {
-      "title": "Terence Tao: Math 2.0 [pdf]",
-      "link": "https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf",
-      "is_new": false
-    },
-    {
-      "title": "Show HN: Plimsoll, a self-hosted sandbox for code your AI agent writes",
-      "link": "https://github.com/plimsollmark/plimsoll",
-      "is_new": true
-    },
-    {
-      "title": "Ask HN: Do you want a router that has DD-WRT pre-installed?",
-      "link": "https://news.ycombinator.com/item?id=50039291",
-      "is_new": true
-    },
-    {
-      "title": "A Remote Employee Refused 160 Webcam Photos a Day. Her Employer Fired Her",
-      "link": "https://www.inc.com/chloe-rosenberg/a-remote-employee-refused-160-webcam-photos-a-day-her-employer-fired-her/91415963",
-      "is_new": true
-    },
-    {
-      "title": "IRCv3",
-      "link": "https://ircv3.net/",
-      "is_new": false
-    },
-    {
-      "title": "Governments are mishandling the affordability crisis",
-      "link": "https://www.economist.com/finance-and-economics/2026/10/08/governments-are-mishandling-the-affordability-crisis",
-      "is_new": true
-    },
-    {
-      "title": "The tilde in your PATH may not be your HOME",
-      "link": "https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/",
-      "is_new": false
-    },
-    {
-      "title": "500B tokens later: Letting AI agents decompile a first-person shooter",
-      "link": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
-      "is_new": true
-    },
-    {
-      "title": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
-      "link": "https://jobs.ashbyhq.com/weave-os",
-      "is_new": false
-    },
-    {
-      "title": "FlowCE: Calculus on your TI-84 Plus CE",
-      "link": "https://tommyb3ll.github.io/FlowCE/",
-      "is_new": true
-    },
-    {
-      "title": "Rubber Duck: An AI interviewer for the knowledge in your head",
-      "link": "https://rubberduck.talk/sign-in",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: BetterWispr – Free, open-source dictation for Mac",
-      "link": "https://betterwispr.com/",
-      "is_new": false
-    },
-    {
-      "title": "How I reverse engineered a commercial spatial audio effect",
-      "link": "http://epestr.com/blog/reverse-engineering-a-commercial-spatial-audio-effect/",
       "is_new": false
     }
   ]
