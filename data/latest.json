@@ -1,55 +1,167 @@
 {
-  "crawled_at": "2026-10-12 09:10",
-  "prev_crawled_at": "2026-10-12 05:45",
+  "crawled_at": "2026-10-12 15:54",
+  "prev_crawled_at": "2026-10-12 09:10",
   "items": [
+    {
+      "title": "Will Linux phones become a viable alternative to the Android/iOS duopoly?",
+      "link": "https://amosbbatto.wordpress.com/2026/10/05/linux-phones-alternative/",
+      "is_new": true
+    },
+    {
+      "title": "Type-safe HTML templating in Zig",
+      "link": "https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html",
+      "is_new": true
+    },
+    {
+      "title": "Fingerprints are the new cookies",
+      "link": "https://royfish.dev/fingerprints-are-the-new-cookies",
+      "is_new": false
+    },
     {
       "title": "Total Annihilation, rebuilt for modern computers",
       "link": "https://nanolathe.gg",
       "is_new": false
     },
     {
-      "title": "Whatever became of holography? (2011)",
-      "link": "https://www.americanscientist.org/article/whatever-became-of-holography",
+      "title": "Calculus with Julia",
+      "link": "https://jverzani.github.io/CalculusWithJuliaNotes.jl/",
       "is_new": true
     },
     {
-      "title": "Cartographers of North Korea",
+      "title": "Whatever became of holography? (2011)",
+      "link": "https://www.americanscientist.org/article/whatever-became-of-holography",
+      "is_new": false
+    },
+    {
+      "title": "Cartographers of North Korea (2019)",
       "link": "https://cartographers-nk.wonyoung.so/",
       "is_new": false
     },
     {
-      "title": "Recursive self-improvement through collective intelligence",
-      "link": "https://pub.sakana.ai/mass/",
+      "title": "No portable way to detect string-to-float conversion errors in standard C",
+      "link": "https://sebsite.pw/w/20261009-strtod.html",
       "is_new": true
     },
+    {
+      "title": "Doory – Open-Source Canva",
+      "link": "https://github.com/shaongitbd/doory",
+      "is_new": true
+    },
+    {
+      "title": "Every US Electrical Outlet Explained [video]",
+      "link": "https://www.youtube.com/watch?v=n_1wzYQwnts",
+      "is_new": true
+    },
+    {
+      "title": "The gap in shared understanding of LLM capability is widening",
+      "link": "https://twitter.com/karpathy/status/2109361546505966046",
+      "is_new": false
+    },
+    {
+      "title": "Google is illegaly cutting forest to build data centers",
+      "link": "https://www.theguardian.com/technology/2026/oct/06/google-datacentres-finland-temporary-halt-environmental-impact-assessment",
+      "is_new": false
+    },
+    {
+      "title": "Illustration Beyond Proof",
+      "link": "https://terrytao.wordpress.com/2026/10/11/illustration-beyond-proof/",
+      "is_new": false
+    },
+    {
+      "title": "Passkeys are a trap",
+      "link": "https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them",
+      "is_new": false
+    },
+    {
+      "title": "Local Indexing to reduce tool calling and token usage",
+      "link": "https://tedhaley.ca/pensieve/",
+      "is_new": true
+    },
+    {
+      "title": "Chapter 1 of \"Ways of Seeing\" by John Berger (1972)",
+      "link": "https://www.ways-of-seeing.com/ch1",
+      "is_new": false
+    },
+    {
+      "title": "Vectorized CLZ and CTZ",
+      "link": "https://purplesyringa.moe/blog/vectorized-clz-and-ctz/",
+      "is_new": true
+    },
+    {
+      "title": "Recursive self-improvement through collective intelligence",
+      "link": "https://pub.sakana.ai/mass/",
+      "is_new": false
+    },
+    {
+      "title": "Programmable pigments: Photochromic nanoparticle inks for rewritable tattoos",
+      "link": "https://www.cell.com/matter-light/fulltext/S3117-5848(26)00119-5",
+      "is_new": true
+    },
+    {
+      "title": "So, You’d Like To Sell Your Print Issues Of The Onion?",
+      "link": "https://theonion.com/archivehunt/",
+      "is_new": false
+    },
+    {
+      "title": "NYC's \"Click to Cancel\" rule is now in effect",
+      "link": "https://www.nyc.gov/main/click-to-cancel",
+      "is_new": false
+    },
+    {
+      "title": "ClickHouse C – Talk to ClickHouse using its native binary protocol",
+      "link": "https://github.com/ClickHouse/clickhouse-c",
+      "is_new": false
+    },
+    {
+      "title": "I guess I'm using WebP now?",
+      "link": "https://anderegg.ca/2026/10/08/i-guess-im-using-webp-now",
+      "is_new": false
+    },
+    {
+      "title": "Crest – an Arc-inspired open-source browser for Mac",
+      "link": "https://crestbrowser.com/",
+      "is_new": true
+    },
+    {
+      "title": "Tattoos you can turn on and off",
+      "link": "https://www.livescience.com/technology/cool-chemistry-trick-allows-new-tattoos-to-turn-on-and-off",
+      "is_new": true
+    },
+    {
+      "title": "apsw: Another Python SQLite Wrapper",
+      "link": "https://github.com/rogerbinns/apsw",
+      "is_new": false
+    },
+    {
+      "title": "Valen's Memory Safety: A New Kind of Borrow Checking",
+      "link": "https://verdagon.dev/blog/valen-group-borrowing",
+      "is_new": true
+    },
+    {
+      "title": "Shredding JSON columns gave Logfire up to 1000x faster queries",
+      "link": "https://pydantic.dev/articles/dynamic-shredding-2026-01-26",
+      "is_new": true
+    },
+    {
+      "title": "HashiCorp archives the Boundary open source repo",
+      "link": "https://github.com/hashicorp/boundary",
+      "is_new": true
+    },
+    {
+      "title": "Safe SIMD in Rust, even on the inside",
+      "link": "https://shnatsel.github.io/safe-simd-in-rust-even-on-the-inside/",
+      "is_new": false
+    }
+  ],
+  "removed": [
     {
       "title": "Google Data Centers around the world",
       "link": "https://datacenters.google/locations/",
       "is_new": true
     },
     {
-      "title": "The gap in shared understanding of LLM capability is widening",
-      "link": "https://twitter.com/karpathy/status/2109361546505966046",
-      "is_new": true
-    },
-    {
-      "title": "So, You’d Like To Sell Your Print Issues Of The Onion?",
-      "link": "https://theonion.com/archivehunt/",
-      "is_new": true
-    },
-    {
-      "title": "Fingerprints Are the New Cookies",
-      "link": "https://royfish.dev/fingerprints-are-the-new-cookies",
-      "is_new": true
-    },
-    {
       "title": "Terence Tao: Math 2.0 [pdf]",
       "link": "https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf",
-      "is_new": false
-    },
-    {
-      "title": "Chapter 1 of Ways of Seeing by John Berger",
-      "link": "https://www.ways-of-seeing.com/ch1",
       "is_new": false
     },
     {
@@ -60,11 +172,6 @@
     {
       "title": "Ask HN: Do you want a router that has DD-WRT pre-installed?",
       "link": "https://news.ycombinator.com/item?id=50039291",
-      "is_new": true
-    },
-    {
-      "title": "Passkeys are a trap. Do not use them",
-      "link": "https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them",
       "is_new": true
     },
     {
@@ -83,31 +190,6 @@
       "is_new": true
     },
     {
-      "title": "NYC's \"Click to Cancel\" rule is now in effect",
-      "link": "https://www.nyc.gov/main/click-to-cancel",
-      "is_new": false
-    },
-    {
-      "title": "Google is illegaly cutting forest to build data centers",
-      "link": "https://www.theguardian.com/technology/2026/oct/06/google-datacentres-finland-temporary-halt-environmental-impact-assessment",
-      "is_new": true
-    },
-    {
-      "title": "I guess I'm using WebP now?",
-      "link": "https://anderegg.ca/2026/10/08/i-guess-im-using-webp-now",
-      "is_new": false
-    },
-    {
-      "title": "Illustration Beyond Proof",
-      "link": "https://terrytao.wordpress.com/2026/10/11/illustration-beyond-proof/",
-      "is_new": true
-    },
-    {
-      "title": "Safe SIMD in Rust, even on the inside",
-      "link": "https://shnatsel.github.io/safe-simd-in-rust-even-on-the-inside/",
-      "is_new": true
-    },
-    {
       "title": "The tilde in your PATH may not be your HOME",
       "link": "https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/",
       "is_new": false
@@ -115,11 +197,6 @@
     {
       "title": "500B tokens later: Letting AI agents decompile a first-person shooter",
       "link": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
-      "is_new": true
-    },
-    {
-      "title": "ClickHouse C – Talk to ClickHouse using its native binary protocol",
-      "link": "https://github.com/ClickHouse/clickhouse-c",
       "is_new": true
     },
     {
@@ -138,11 +215,6 @@
       "is_new": true
     },
     {
-      "title": "apsw: Another Python SQLite Wrapper",
-      "link": "https://github.com/rogerbinns/apsw",
-      "is_new": false
-    },
-    {
       "title": "Show HN: BetterWispr – Free, open-source dictation for Mac",
       "link": "https://betterwispr.com/",
       "is_new": false
@@ -151,98 +223,6 @@
       "title": "How I reverse engineered a commercial spatial audio effect",
       "link": "http://epestr.com/blog/reverse-engineering-a-commercial-spatial-audio-effect/",
       "is_new": false
-    }
-  ],
-  "removed": [
-    {
-      "title": "Be The Onion's Hero for Once",
-      "link": "https://mailchi.mp/email.theonion.com/archivehunt",
-      "is_new": true
-    },
-    {
-      "title": "Artificial Insanity",
-      "link": "https://richwhitehouse.com/index.php?postid=78",
-      "is_new": true
-    },
-    {
-      "title": "LineageOS 24.0",
-      "link": "https://lineageos.org/Changelog-32/",
-      "is_new": false
-    },
-    {
-      "title": "The Unreasonable Effectiveness of Vex in NixOS",
-      "link": "https://blog.kammel.dev/post/nixos_vex/",
-      "is_new": true
-    },
-    {
-      "title": "Akhetonics Photonic Computing: 1,000x Faster CPUs",
-      "link": "https://medium.com/@timventura/akhetonics-photonic-computing-1-000x-faster-cpus-b9e91c470079",
-      "is_new": true
-    },
-    {
-      "title": "Playgrnd – tiny tools for making weird, beautiful things",
-      "link": "https://www.playgrnd.tools/",
-      "is_new": true
-    },
-    {
-      "title": "Shape-sensing sheet digitally tracks its own movement as it bends and twists",
-      "link": "https://news.mit.edu/2026/shape-sensing-sheet-digitally-tracks-movement-bends-twists-1008",
-      "is_new": true
-    },
-    {
-      "title": "Valen's Memory Safety: A New Kind of Borrow Checking",
-      "link": "https://verdagon.dev/blog/valen-group-borrowing",
-      "is_new": false
-    },
-    {
-      "title": "I paid people to try and follow my README",
-      "link": "https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/",
-      "is_new": false
-    },
-    {
-      "title": "The RAM shortage is bringing back DDR4",
-      "link": "https://www.theverge.com/games/1009140/ram-shortage-intel-amd-ddr4-comeback",
-      "is_new": false
-    },
-    {
-      "title": "I'm sorry, but you still have to think",
-      "link": "https://itsallaboutthebit.com/i-am-sorry-but-you-still-have-to-think/",
-      "is_new": true
-    },
-    {
-      "title": "A Cray-1 supercomputer replica from 30 \"obsolete\" Mac Minis",
-      "link": "https://arstechnica.com/gadgets/2026/10/a-cray-1-supercomputer-replica-from-30-obsolete-mac-minis/",
-      "is_new": true
-    },
-    {
-      "title": "A city-building game in which the city would prefer you didn't",
-      "link": "https://housing.over.pizza/",
-      "is_new": false
-    },
-    {
-      "title": "3rd Yandex Cloud Data Center Was Hit",
-      "link": "https://status.yandex.cloud/en/incidents/2136",
-      "is_new": true
-    },
-    {
-      "title": "Build your own decision model",
-      "link": "https://nishtahir.com/build-your-own-decision-model/",
-      "is_new": false
-    },
-    {
-      "title": "Nitter: Update Oct 10th seeking funding and legal help",
-      "link": "https://nitter.net",
-      "is_new": false
-    },
-    {
-      "title": "Plumbers, chains, and famous painters: The history of the pipe operator in R",
-      "link": "http://adolfoalvarez.cl/blog/2021-09-16-plumbers-chains-and-famous-painters-the-history-of-the-pipe-operator-in-r/",
-      "is_new": false
-    },
-    {
-      "title": "Cognitive Decline or Sanity Incline?",
-      "link": "https://mdelcaro.substack.com/p/cognitive-decline-or-sanity-incline",
-      "is_new": true
     }
   ]
 }
