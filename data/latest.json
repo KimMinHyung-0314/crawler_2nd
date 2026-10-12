@@ -1,26 +1,163 @@
 {
-  "crawled_at": "2026-10-13 01:27",
-  "prev_crawled_at": "2026-10-12 15:54",
+  "crawled_at": "2026-10-13 08:27",
+  "prev_crawled_at": "2026-10-13 01:27",
   "items": [
     {
-      "title": "GLM-Legal: Advancing Agentic Legal Intelligence",
+      "title": "AI Is a Tool. Using It Well Takes Skill.",
+      "link": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
+      "is_new": true
+    },
+    {
+      "title": "GLM-Legal",
       "link": "https://z.ai/blog/glm-legal",
+      "is_new": false
+    },
+    {
+      "title": "Who Is Vfmaddrnd231pd?",
+      "link": "https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/",
+      "is_new": true
+    },
+    {
+      "title": "A Modern Web App in C",
+      "link": "https://prophitt.me/writing/a-modern-web-app-in-c",
+      "is_new": true
+    },
+    {
+      "title": "Phreak.ing – Internet Phone Switch",
+      "link": "https://phreak.ing/",
+      "is_new": true
+    },
+    {
+      "title": "Writing a Demoscene Intro for the ZX Spectrum",
+      "link": "https://www.markround.com/blog/2026/zx-spectrum-intro",
+      "is_new": true
+    },
+    {
+      "title": "Hackers activate automatic defrosting in supermarket fridges across Europe",
+      "link": "https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident",
+      "is_new": true
+    },
+    {
+      "title": "Making big downloads resumable in Firefox",
+      "link": "https://lunarwatcher.codeberg.page/til/firefox/resumable-big-downloads.html",
+      "is_new": true
+    },
+    {
+      "title": "Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents",
+      "link": "https://news.ycombinator.com/item?id=50059096",
+      "is_new": true
+    },
+    {
+      "title": "Turn a WiFi 7 Router into a 320Msps Software Defined Radio Receiver",
+      "link": "https://github.com/h0m3us3r/w1700k-sdr",
+      "is_new": true
+    },
+    {
+      "title": "Codex CLI installs a persistent, self-updating background daemon by default",
+      "link": "https://github.com/openai/codex/issues/48195",
+      "is_new": true
+    },
+    {
+      "title": "Citroen revives the 2CV for an electric age",
+      "link": "https://www.bbc.com/news/articles/c620r33plgppo",
       "is_new": true
     },
     {
       "title": "The Making Of Super Mario 64 – full Giles Goddard interview (2001)",
       "link": "https://pixelatron.com/blog/the-making-of-super-mario-64-full-giles-goddard-interview-ngc/",
+      "is_new": false
+    },
+    {
+      "title": "Muse Wonder",
+      "link": "https://research.meta.ai/blog/muse-wonder",
       "is_new": true
     },
     {
-      "title": "Fingerprints are the new cookies",
-      "link": "https://royfish.dev/fingerprints-are-the-new-cookies",
+      "title": "Secret of Orange Cats Revealed After 60-Year Search",
+      "link": "https://www.sciencealert.com/secret-of-orange-cats-finally-revealed-after-60-year-search",
       "is_new": false
+    },
+    {
+      "title": "Breaking Bad star RJ Mitte dies aged 34",
+      "link": "https://news.sky.com/story/breaking-bad-star-rj-mitte-dies-aged-34-13598332",
+      "is_new": true
+    },
+    {
+      "title": "Kevin Kelly's 2016 AI Predictions, 10 Years Later",
+      "link": "https://taylor.town/kk-ai-2026",
+      "is_new": true
+    },
+    {
+      "title": "Solar panels that plug into your wall",
+      "link": "https://www.nationalgeographic.com/environment/article/balcony-plug-in-solar-panels-renewable-energy",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: Brickbrag – A multiplayer brick-building world in the browser",
+      "link": "https://brickbrag.com/",
+      "is_new": true
     },
     {
       "title": "Show HN: PS2 games statically recompiled to WebAssembly",
       "link": "https://github.com/snuri00/ps2-web-recomp",
+      "is_new": false
+    },
+    {
+      "title": "Thinking will become a hobby",
+      "link": "https://www.spinellis.gr/blog/20261008/?li261008",
       "is_new": true
+    },
+    {
+      "title": "AI coding agents generate more code, but not more software",
+      "link": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
+      "is_new": true
+    },
+    {
+      "title": "'AI' Is Not a Tool by Rich Hickey",
+      "link": "https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: Atticus – Hold-to-talk voice assistant for macOS that runs on Claude -p",
+      "link": "https://github.com/SaarthurR/atticus-mac",
+      "is_new": true
+    },
+    {
+      "title": "Publishers Killed the Paperback, Then Blamed Readers",
+      "link": "https://jacobin.com/2026/10/books-publishing-reading-mass-market-paperback",
+      "is_new": true
+    },
+    {
+      "title": "America's Longest Highway Tunnel (2025)",
+      "link": "https://www.thetravel.com/americas-longest-highway-tunnel-not-for-faint-of-heart/",
+      "is_new": true
+    },
+    {
+      "title": "Type-safe HTML templating in Zig",
+      "link": "https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html",
+      "is_new": false
+    },
+    {
+      "title": "My Reddit AMA on the Law of Web Scraping",
+      "link": "https://blog.ericgoldman.org/archives/2026/10/my-reddit-ama-on-the-law-of-web-scraping.htm",
+      "is_new": true
+    },
+    {
+      "title": "No portable way to detect string-to-float conversion errors in standard C",
+      "link": "https://sebsite.pw/w/20261009-strtod.html",
+      "is_new": true
+    },
+    {
+      "title": "QGIS enacts moratorium on AI contributions",
+      "link": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
+      "is_new": false
+    }
+  ],
+  "removed": [
+    {
+      "title": "Fingerprints are the new cookies",
+      "link": "https://royfish.dev/fingerprints-are-the-new-cookies",
+      "is_new": false
     },
     {
       "title": "French supermarkets suffer fridge shutdown after 'unprecedented' cyberattack",
@@ -33,16 +170,6 @@
       "is_new": true
     },
     {
-      "title": "Type-safe HTML templating in Zig",
-      "link": "https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html",
-      "is_new": false
-    },
-    {
-      "title": "Secret of Orange Cats Revealed After 60-Year Search",
-      "link": "https://www.sciencealert.com/secret-of-orange-cats-finally-revealed-after-60-year-search",
-      "is_new": true
-    },
-    {
       "title": "Total Annihilation, rebuilt for modern computers",
       "link": "https://nanolathe.gg",
       "is_new": false
@@ -50,11 +177,6 @@
     {
       "title": "An Unmade Film Shaped Hayao Miyazaki",
       "link": "https://animationobsessive.substack.com/p/an-unmade-film-shaped-hayao-miyazaki",
-      "is_new": true
-    },
-    {
-      "title": "QGIS bans AI assisted contributions",
-      "link": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
       "is_new": true
     },
     {
@@ -150,108 +272,6 @@
     {
       "title": "Chapter 1 of \"Ways of Seeing\" by John Berger (1972)",
       "link": "https://www.ways-of-seeing.com/ch1",
-      "is_new": false
-    }
-  ],
-  "removed": [
-    {
-      "title": "Will Linux phones become a viable alternative to the Android/iOS duopoly?",
-      "link": "https://amosbbatto.wordpress.com/2026/10/05/linux-phones-alternative/",
-      "is_new": true
-    },
-    {
-      "title": "Whatever became of holography? (2011)",
-      "link": "https://www.americanscientist.org/article/whatever-became-of-holography",
-      "is_new": false
-    },
-    {
-      "title": "No portable way to detect string-to-float conversion errors in standard C",
-      "link": "https://sebsite.pw/w/20261009-strtod.html",
-      "is_new": true
-    },
-    {
-      "title": "Every US Electrical Outlet Explained [video]",
-      "link": "https://www.youtube.com/watch?v=n_1wzYQwnts",
-      "is_new": true
-    },
-    {
-      "title": "Google is illegaly cutting forest to build data centers",
-      "link": "https://www.theguardian.com/technology/2026/oct/06/google-datacentres-finland-temporary-halt-environmental-impact-assessment",
-      "is_new": false
-    },
-    {
-      "title": "Illustration Beyond Proof",
-      "link": "https://terrytao.wordpress.com/2026/10/11/illustration-beyond-proof/",
-      "is_new": false
-    },
-    {
-      "title": "Vectorized CLZ and CTZ",
-      "link": "https://purplesyringa.moe/blog/vectorized-clz-and-ctz/",
-      "is_new": true
-    },
-    {
-      "title": "Recursive self-improvement through collective intelligence",
-      "link": "https://pub.sakana.ai/mass/",
-      "is_new": false
-    },
-    {
-      "title": "Programmable pigments: Photochromic nanoparticle inks for rewritable tattoos",
-      "link": "https://www.cell.com/matter-light/fulltext/S3117-5848(26)00119-5",
-      "is_new": true
-    },
-    {
-      "title": "So, You’d Like To Sell Your Print Issues Of The Onion?",
-      "link": "https://theonion.com/archivehunt/",
-      "is_new": false
-    },
-    {
-      "title": "NYC's \"Click to Cancel\" rule is now in effect",
-      "link": "https://www.nyc.gov/main/click-to-cancel",
-      "is_new": false
-    },
-    {
-      "title": "ClickHouse C – Talk to ClickHouse using its native binary protocol",
-      "link": "https://github.com/ClickHouse/clickhouse-c",
-      "is_new": false
-    },
-    {
-      "title": "I guess I'm using WebP now?",
-      "link": "https://anderegg.ca/2026/10/08/i-guess-im-using-webp-now",
-      "is_new": false
-    },
-    {
-      "title": "Crest – an Arc-inspired open-source browser for Mac",
-      "link": "https://crestbrowser.com/",
-      "is_new": true
-    },
-    {
-      "title": "Tattoos you can turn on and off",
-      "link": "https://www.livescience.com/technology/cool-chemistry-trick-allows-new-tattoos-to-turn-on-and-off",
-      "is_new": true
-    },
-    {
-      "title": "apsw: Another Python SQLite Wrapper",
-      "link": "https://github.com/rogerbinns/apsw",
-      "is_new": false
-    },
-    {
-      "title": "Valen's Memory Safety: A New Kind of Borrow Checking",
-      "link": "https://verdagon.dev/blog/valen-group-borrowing",
-      "is_new": true
-    },
-    {
-      "title": "Shredding JSON columns gave Logfire up to 1000x faster queries",
-      "link": "https://pydantic.dev/articles/dynamic-shredding-2026-01-26",
-      "is_new": true
-    },
-    {
-      "title": "HashiCorp archives the Boundary open source repo",
-      "link": "https://github.com/hashicorp/boundary",
-      "is_new": true
-    },
-    {
-      "title": "Safe SIMD in Rust, even on the inside",
-      "link": "https://shnatsel.github.io/safe-simd-in-rust-even-on-the-inside/",
       "is_new": false
     }
   ]
