@@ -1,32 +1,159 @@
 {
-  "crawled_at": "2026-10-13 22:28",
-  "prev_crawled_at": "2026-10-13 14:17",
+  "crawled_at": "2026-10-14 05:03",
+  "prev_crawled_at": "2026-10-13 22:28",
   "items": [
+    {
+      "title": "Gemini 4 Argon",
+      "link": "https://deepmind.google/models/gemini/",
+      "is_new": true
+    },
+    {
+      "title": "Apple HomeView",
+      "link": "https://www.apple.com/apple-homeview/",
+      "is_new": false
+    },
+    {
+      "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
+      "link": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
+      "is_new": true
+    },
+    {
+      "title": "A plea not to use uv-build",
+      "link": "https://blogs.gentoo.org/mgorny/2026/10/12/a-plea-not-to-use-uv-build/",
+      "is_new": true
+    },
+    {
+      "title": "Thunderbird for iOS",
+      "link": "https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/",
+      "is_new": true
+    },
+    {
+      "title": "Redesigning source control at Anthropic",
+      "link": "https://www.anthropic.com/engineering/redesigning-source-control",
+      "is_new": true
+    },
     {
       "title": "11 year old unsoundness bugs found in Rust borrow checker",
       "link": "https://github.com/rust-lang/rust/issues/164250",
+      "is_new": false
+    },
+    {
+      "title": "I posted to HN, and then my website was flooded with AI bot traffic",
+      "link": "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic",
       "is_new": true
     },
     {
-      "title": "An hour of audio transcribed in about 13s on MacBook Air",
+      "title": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
+      "link": "https://guitoro.com/",
+      "is_new": true
+    },
+    {
+      "title": "Firefox Enterprise",
+      "link": "https://www.firefox.com/en-US/enterprise/",
+      "is_new": false
+    },
+    {
+      "title": "We turned EmbeddingGemma 2 into a speech-to-text model",
       "link": "https://eg2.haku.sh/",
+      "is_new": false
+    },
+    {
+      "title": "Coris (YC S22) Is Hiring Back End Engineer",
+      "link": "https://www.ycombinator.com/companies/coris/jobs/h0nDly8-backend-engineer-ai-native-risk-infrastructure-integrations",
       "is_new": true
     },
     {
-      "title": "Apple's Minions: A virtual GPU cloud built from idle Apple Silicon Macs",
+      "title": "New Apple TV 4K",
+      "link": "https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/",
+      "is_new": true
+    },
+    {
+      "title": "Gemini 4 Argon for Robotics",
+      "link": "https://developers.googleblog.com/gemini-4-argon-for-robotics/",
+      "is_new": true
+    },
+    {
+      "title": "MIT class project turns into an FDA-cleared treatment for tremors",
+      "link": "https://news.mit.edu/2026/mit-class-project-turns-into-fda-cleared-treatment-for-tremors-1002",
+      "is_new": true
+    },
+    {
+      "title": "The United Kingdom generates less electricity per person than in the 1970s",
+      "link": "https://ourworldindata.org/data-insights/electricity-generation-per-person-in-the-united-kingdom-has-fallen-by-a-third-from-its-early-2000s-peak",
+      "is_new": true
+    },
+    {
+      "title": "A Dynamic and Distributed Virtual GPU Cloud Built on Idle Apple Silicon Devices",
       "link": "https://machinelearning.apple.com/research/distributed-gpu-cloud",
+      "is_new": false
+    },
+    {
+      "title": "Apple's new 'Switch to Safari' campaign details why you should ditch Chrome",
+      "link": "https://9to5mac.com/2026/10/12/apples-new-switch-to-safari-campaign-details-why-you-should-ditch-chrome/",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: How Random Are You?",
+      "link": "https://lab.specr.net/rigged-draw/",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: Spotatui, a Spotify TUI/GUI without web API rate limits",
+      "link": "https://github.com/LargeModGames/spotatui",
+      "is_new": true
+    },
+    {
+      "title": "Zero to Calc in Six Days: Inside XBOW's Chrome Full Chain",
+      "link": "https://xbow.com/labs/research/zero-to-calc-in-six-days-inside-xbow-chrome-full-chain",
+      "is_new": true
+    },
+    {
+      "title": "Hiking the world in search of rare cheeses",
+      "link": "https://www.bbc.com/travel/article/20261007-the-man-hiking-the-world-in-search-of-rare-cheeses",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: XY Music Notation",
+      "link": "https://music.xy.dev/",
+      "is_new": true
+    },
+    {
+      "title": "Launch HN: Consus (YC F24) – LLM gateway for companies handling sensitive data",
+      "link": "https://news.ycombinator.com/item?id=50073471",
+      "is_new": true
+    },
+    {
+      "title": "The Four Colour Theorem: The first time machines mogged mathematicians",
+      "link": "https://newsletter.pessimistsarchive.org/p/the-1st-time-machines-mogged-mathematicians",
+      "is_new": true
+    },
+    {
+      "title": "How to engineer an AI harness for game development",
+      "link": "https://kylekukshtel.com/ai-harness-engineering-game-development-claude-code",
+      "is_new": true
+    },
+    {
+      "title": "Worlds more habitable than Earth?",
+      "link": "https://www.nytimes.com/2026/10/13/science/inhabitable-planets-solar-system.html",
+      "is_new": true
+    },
+    {
+      "title": "Character.ai has initiated voluntary Chapter 11 bankruptcy",
+      "link": "https://blog.character.ai/an-update-on-character-ai/",
+      "is_new": false
+    },
+    {
+      "title": "Show HN: Stream live open data in two commands",
+      "link": "https://docs.hypermass.io/docs/cli/",
       "is_new": true
     },
     {
       "title": "Hittite royal archive found in Turkey",
       "link": "https://www.thehistoryblog.com/archives/77107",
-      "is_new": true
-    },
-    {
-      "title": "Mozilla Introduces Firefox Enterprise",
-      "link": "https://www.firefox.com/en-US/enterprise/",
-      "is_new": true
-    },
+      "is_new": false
+    }
+  ],
+  "removed": [
     {
       "title": "Show HN: Use your OpenAI subscription to create audiobooks",
       "link": "https://pdftomp3.com/connect-ai/",
@@ -73,19 +200,9 @@
       "is_new": true
     },
     {
-      "title": "Character.ai files for Chapter 11 bankruptcy",
-      "link": "https://blog.character.ai/an-update-on-character-ai/",
-      "is_new": true
-    },
-    {
       "title": "Janas: Run LLMs larger than RAM by streaming experts from SSD",
       "link": "https://github.com/prabanta-dev/janas",
       "is_new": false
-    },
-    {
-      "title": "Apple HomeView",
-      "link": "https://www.apple.com/apple-homeview/",
-      "is_new": true
     },
     {
       "title": "Making big downloads resumable in Firefox",
@@ -150,78 +267,6 @@
     {
       "title": "Auto Research: Integer multiplication below n log n",
       "link": "https://app.getsupers.com/auto-research",
-      "is_new": false
-    }
-  ],
-  "removed": [
-    {
-      "title": "AI Models Can Provably Hide Arbitrary Capabilities",
-      "link": "https://arxiv.org/abs/2610.13928",
-      "is_new": true
-    },
-    {
-      "title": "The Dock on Mac, from OS 10 to macOS 27",
-      "link": "https://blog.jim-nielsen.com/2026/macos-dock-icons-over-time/",
-      "is_new": true
-    },
-    {
-      "title": "Phreak.ing – Internet Phone Switch",
-      "link": "https://phreak.ing/",
-      "is_new": false
-    },
-    {
-      "title": "Solar panels that plug into your wall",
-      "link": "https://www.nationalgeographic.com/environment/article/balcony-plug-in-solar-panels-renewable-energy",
-      "is_new": false
-    },
-    {
-      "title": "Secret of Orange Cats Revealed After 60-Year Search",
-      "link": "https://www.sciencealert.com/secret-of-orange-cats-finally-revealed-after-60-year-search",
-      "is_new": false
-    },
-    {
-      "title": "China Overtakes U.S. For First Time as Top Spender on R&D in 2024",
-      "link": "https://japannews.yomiuri.co.jp/science-nature/science/20260908-347742/",
-      "is_new": true
-    },
-    {
-      "title": "Kevin Kelly's 2016 AI Predictions, 10 Years Later",
-      "link": "https://taylor.town/kk-ai-2026",
-      "is_new": false
-    },
-    {
-      "title": "The Making Of Super Mario 64 – full Giles Goddard interview (2001)",
-      "link": "https://pixelatron.com/blog/the-making-of-super-mario-64-full-giles-goddard-interview-ngc/",
-      "is_new": false
-    },
-    {
-      "title": "Codex CLI installs a persistent, self-updating background daemon by default",
-      "link": "https://github.com/openai/codex/issues/48195",
-      "is_new": false
-    },
-    {
-      "title": "Show HN: An experimental pattern-first DAW that supports MCP",
-      "link": "https://github.com/andrewfader/blokkily",
-      "is_new": true
-    },
-    {
-      "title": "Blood cells from 80-year-old donor become stem cells with molecular age under 20",
-      "link": "https://doi.org/10.1111/acel.70751",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: Brickbrag – A multiplayer brick-building world in the browser",
-      "link": "https://brickbrag.com/",
-      "is_new": false
-    },
-    {
-      "title": "Muse Wonder",
-      "link": "https://research.meta.ai/blog/muse-wonder",
-      "is_new": false
-    },
-    {
-      "title": "Show HN: Atticus – Hold-to-talk voice assistant for macOS that runs on Claude -p",
-      "link": "https://github.com/SaarthurR/atticus-mac",
       "is_new": false
     }
   ]
