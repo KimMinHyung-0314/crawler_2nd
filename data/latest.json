@@ -1,10 +1,15 @@
 {
-  "crawled_at": "2026-10-13 08:27",
-  "prev_crawled_at": "2026-10-13 01:27",
+  "crawled_at": "2026-10-13 14:17",
+  "prev_crawled_at": "2026-10-13 08:27",
   "items": [
     {
-      "title": "AI Is a Tool. Using It Well Takes Skill.",
-      "link": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
+      "title": "AI Models Can Provably Hide Arbitrary Capabilities",
+      "link": "https://arxiv.org/abs/2610.13928",
+      "is_new": true
+    },
+    {
+      "title": "The baffling intelligence of a single cell (2024)",
+      "link": "https://jsomers.net/e-coli-chemotaxis/",
       "is_new": true
     },
     {
@@ -13,64 +18,84 @@
       "is_new": false
     },
     {
-      "title": "Who Is Vfmaddrnd231pd?",
-      "link": "https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/",
+      "title": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
+      "link": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
       "is_new": true
     },
     {
       "title": "A Modern Web App in C",
       "link": "https://prophitt.me/writing/a-modern-web-app-in-c",
-      "is_new": true
-    },
-    {
-      "title": "Phreak.ing – Internet Phone Switch",
-      "link": "https://phreak.ing/",
-      "is_new": true
-    },
-    {
-      "title": "Writing a Demoscene Intro for the ZX Spectrum",
-      "link": "https://www.markround.com/blog/2026/zx-spectrum-intro",
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Hackers activate automatic defrosting in supermarket fridges across Europe",
       "link": "https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident",
+      "is_new": false
+    },
+    {
+      "title": "Who is vfmaddrnd231pd?",
+      "link": "https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/",
+      "is_new": false
+    },
+    {
+      "title": "A look at OpenAI’s math that’s claimed computes faster Fourier transforms",
+      "link": "https://www.argmin.net/p/faster-fourier-transforms",
+      "is_new": true
+    },
+    {
+      "title": "Janas: Run LLMs larger than RAM by streaming experts from SSD",
+      "link": "https://github.com/prabanta-dev/janas",
       "is_new": true
     },
     {
       "title": "Making big downloads resumable in Firefox",
       "link": "https://lunarwatcher.codeberg.page/til/firefox/resumable-big-downloads.html",
+      "is_new": false
+    },
+    {
+      "title": "Auto Research: Integer multiplication below n log n",
+      "link": "https://app.getsupers.com/auto-research",
       "is_new": true
     },
     {
-      "title": "Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents",
-      "link": "https://news.ycombinator.com/item?id=50059096",
-      "is_new": true
+      "title": "AI is a tool and using it well takes skill",
+      "link": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
+      "is_new": false
     },
     {
       "title": "Turn a WiFi 7 Router into a 320Msps Software Defined Radio Receiver",
       "link": "https://github.com/h0m3us3r/w1700k-sdr",
+      "is_new": false
+    },
+    {
+      "title": "Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents",
+      "link": "https://news.ycombinator.com/item?id=50059096",
+      "is_new": false
+    },
+    {
+      "title": "The Dock on Mac, from OS 10 to macOS 27",
+      "link": "https://blog.jim-nielsen.com/2026/macos-dock-icons-over-time/",
       "is_new": true
     },
     {
-      "title": "Codex CLI installs a persistent, self-updating background daemon by default",
-      "link": "https://github.com/openai/codex/issues/48195",
-      "is_new": true
+      "title": "Phreak.ing – Internet Phone Switch",
+      "link": "https://phreak.ing/",
+      "is_new": false
     },
     {
       "title": "Citroen revives the 2CV for an electric age",
       "link": "https://www.bbc.com/news/articles/c620r33plgppo",
-      "is_new": true
-    },
-    {
-      "title": "The Making Of Super Mario 64 – full Giles Goddard interview (2001)",
-      "link": "https://pixelatron.com/blog/the-making-of-super-mario-64-full-giles-goddard-interview-ngc/",
       "is_new": false
     },
     {
-      "title": "Muse Wonder",
-      "link": "https://research.meta.ai/blog/muse-wonder",
-      "is_new": true
+      "title": "Writing a Demoscene Intro for the ZX Spectrum",
+      "link": "https://www.markround.com/blog/2026/zx-spectrum-intro",
+      "is_new": false
+    },
+    {
+      "title": "Solar panels that plug into your wall",
+      "link": "https://www.nationalgeographic.com/environment/article/balcony-plug-in-solar-panels-renewable-energy",
+      "is_new": false
     },
     {
       "title": "Secret of Orange Cats Revealed After 60-Year Search",
@@ -78,23 +103,60 @@
       "is_new": false
     },
     {
-      "title": "Breaking Bad star RJ Mitte dies aged 34",
-      "link": "https://news.sky.com/story/breaking-bad-star-rj-mitte-dies-aged-34-13598332",
+      "title": "China Overtakes U.S. For First Time as Top Spender on R&D in 2024",
+      "link": "https://japannews.yomiuri.co.jp/science-nature/science/20260908-347742/",
       "is_new": true
     },
     {
       "title": "Kevin Kelly's 2016 AI Predictions, 10 Years Later",
       "link": "https://taylor.town/kk-ai-2026",
+      "is_new": false
+    },
+    {
+      "title": "The Making Of Super Mario 64 – full Giles Goddard interview (2001)",
+      "link": "https://pixelatron.com/blog/the-making-of-super-mario-64-full-giles-goddard-interview-ngc/",
+      "is_new": false
+    },
+    {
+      "title": "Codex CLI installs a persistent, self-updating background daemon by default",
+      "link": "https://github.com/openai/codex/issues/48195",
+      "is_new": false
+    },
+    {
+      "title": "Show HN: An experimental pattern-first DAW that supports MCP",
+      "link": "https://github.com/andrewfader/blokkily",
       "is_new": true
     },
     {
-      "title": "Solar panels that plug into your wall",
-      "link": "https://www.nationalgeographic.com/environment/article/balcony-plug-in-solar-panels-renewable-energy",
+      "title": "Blood cells from 80-year-old donor become stem cells with molecular age under 20",
+      "link": "https://doi.org/10.1111/acel.70751",
       "is_new": true
     },
     {
       "title": "Show HN: Brickbrag – A multiplayer brick-building world in the browser",
       "link": "https://brickbrag.com/",
+      "is_new": false
+    },
+    {
+      "title": "Show HN: SolidCraft – Open-Source Parametric CAD in Rust (With MCP Support)",
+      "link": "https://github.com/bherbruck/solidcraft",
+      "is_new": true
+    },
+    {
+      "title": "Muse Wonder",
+      "link": "https://research.meta.ai/blog/muse-wonder",
+      "is_new": false
+    },
+    {
+      "title": "Show HN: Atticus – Hold-to-talk voice assistant for macOS that runs on Claude -p",
+      "link": "https://github.com/SaarthurR/atticus-mac",
+      "is_new": false
+    }
+  ],
+  "removed": [
+    {
+      "title": "Breaking Bad star RJ Mitte dies aged 34",
+      "link": "https://news.sky.com/story/breaking-bad-star-rj-mitte-dies-aged-34-13598332",
       "is_new": true
     },
     {
@@ -115,11 +177,6 @@
     {
       "title": "'AI' Is Not a Tool by Rich Hickey",
       "link": "https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: Atticus – Hold-to-talk voice assistant for macOS that runs on Claude -p",
-      "link": "https://github.com/SaarthurR/atticus-mac",
       "is_new": true
     },
     {
@@ -150,128 +207,6 @@
     {
       "title": "QGIS enacts moratorium on AI contributions",
       "link": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
-      "is_new": false
-    }
-  ],
-  "removed": [
-    {
-      "title": "Fingerprints are the new cookies",
-      "link": "https://royfish.dev/fingerprints-are-the-new-cookies",
-      "is_new": false
-    },
-    {
-      "title": "French supermarkets suffer fridge shutdown after 'unprecedented' cyberattack",
-      "link": "https://uk.finance.yahoo.com/news/french-supermarket-chains-cyberattack-forced-115141288.html",
-      "is_new": true
-    },
-    {
-      "title": "Incident with Actions, Pull Requests and Issues",
-      "link": "https://www.githubstatus.com/incidents/93njd414rpbx",
-      "is_new": true
-    },
-    {
-      "title": "Total Annihilation, rebuilt for modern computers",
-      "link": "https://nanolathe.gg",
-      "is_new": false
-    },
-    {
-      "title": "An Unmade Film Shaped Hayao Miyazaki",
-      "link": "https://animationobsessive.substack.com/p/an-unmade-film-shaped-hayao-miyazaki",
-      "is_new": true
-    },
-    {
-      "title": "Calculus with Julia",
-      "link": "https://jverzani.github.io/CalculusWithJuliaNotes.jl/",
-      "is_new": false
-    },
-    {
-      "title": "Running the unmodified Linux amdgpu driver on an iPad",
-      "link": "https://github.com/Geramy/LemonSeed-Studio",
-      "is_new": true
-    },
-    {
-      "title": "Choreographic Programming in Rust",
-      "link": "https://github.com/hibanaworks/hibana",
-      "is_new": true
-    },
-    {
-      "title": "Living in the Weimar Era of Ruby",
-      "link": "https://blog.julik.nl/2026/10/the-weimar-of-ruby",
-      "is_new": true
-    },
-    {
-      "title": "I Found a $90k Remote Code Execution Vulnerability in Google",
-      "link": "https://simonkoeck.com/writeups/google-devsite-flask-session-pickle-rce",
-      "is_new": true
-    },
-    {
-      "title": "Bag of Decisions Reranker",
-      "link": "https://softwaredoug.com/blog/2026/10/08/bag-of-decisions.html",
-      "is_new": true
-    },
-    {
-      "title": "Terence Tao: Math 2.0 [pdf]",
-      "link": "https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf",
-      "is_new": true
-    },
-    {
-      "title": "Cartographers of North Korea (2019)",
-      "link": "https://cartographers-nk.wonyoung.so/",
-      "is_new": false
-    },
-    {
-      "title": "AI less regulated than milk, Microsoft president says in warning over safety",
-      "link": "https://www.theguardian.com/technology/2026/oct/12/ai-less-regulated-than-milk-microsoft-president-calls-for-tougher-rules",
-      "is_new": true
-    },
-    {
-      "title": "Doory – Open-Source Canva",
-      "link": "https://github.com/shaongitbd/doory",
-      "is_new": false
-    },
-    {
-      "title": "Ask HN: Do you want a router that has DD-WRT pre-installed?",
-      "link": "https://news.ycombinator.com/item?id=50039291",
-      "is_new": true
-    },
-    {
-      "title": "The gap in shared understanding of LLM capability is widening",
-      "link": "https://twitter.com/karpathy/status/2109361546505966046",
-      "is_new": false
-    },
-    {
-      "title": "Deep dive into Azure Maia 300 architecture",
-      "link": "https://azure.microsoft.com/en-us/blog/deep-dive-into-azure-maia-300-architecture/",
-      "is_new": true
-    },
-    {
-      "title": "Deloitte falsified documents to evade tax on Abramovich's wealth",
-      "link": "https://www.bbc.com/news/articles/c64g1l5389kvo",
-      "is_new": true
-    },
-    {
-      "title": "Passkeys are a trap",
-      "link": "https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them",
-      "is_new": false
-    },
-    {
-      "title": "Local Indexing to reduce tool calling and token usage",
-      "link": "https://tedhaley.ca/pensieve/",
-      "is_new": false
-    },
-    {
-      "title": "Fridges in French supermarkets hit by cyber attack",
-      "link": "https://www.bbc.com/news/articles/crq5nzxv9q4yo",
-      "is_new": true
-    },
-    {
-      "title": "Why aren't AI companies being charged for hacking?",
-      "link": "https://mortoray.com/why-arent-ai-companies-being-charged-for-hacking/",
-      "is_new": true
-    },
-    {
-      "title": "Chapter 1 of \"Ways of Seeing\" by John Berger (1972)",
-      "link": "https://www.ways-of-seeing.com/ch1",
       "is_new": false
     }
   ]
