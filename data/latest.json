@@ -1,16 +1,51 @@
 {
-  "crawled_at": "2026-10-13 14:17",
-  "prev_crawled_at": "2026-10-13 08:27",
+  "crawled_at": "2026-10-13 22:28",
+  "prev_crawled_at": "2026-10-13 14:17",
   "items": [
     {
-      "title": "AI Models Can Provably Hide Arbitrary Capabilities",
-      "link": "https://arxiv.org/abs/2610.13928",
+      "title": "11 year old unsoundness bugs found in Rust borrow checker",
+      "link": "https://github.com/rust-lang/rust/issues/164250",
+      "is_new": true
+    },
+    {
+      "title": "An hour of audio transcribed in about 13s on MacBook Air",
+      "link": "https://eg2.haku.sh/",
+      "is_new": true
+    },
+    {
+      "title": "Apple's Minions: A virtual GPU cloud built from idle Apple Silicon Macs",
+      "link": "https://machinelearning.apple.com/research/distributed-gpu-cloud",
+      "is_new": true
+    },
+    {
+      "title": "Hittite royal archive found in Turkey",
+      "link": "https://www.thehistoryblog.com/archives/77107",
+      "is_new": true
+    },
+    {
+      "title": "Mozilla Introduces Firefox Enterprise",
+      "link": "https://www.firefox.com/en-US/enterprise/",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: Use your OpenAI subscription to create audiobooks",
+      "link": "https://pdftomp3.com/connect-ai/",
+      "is_new": true
+    },
+    {
+      "title": "CFTC Staff Were Told to Retract Analysis of Suspicious Oil Trades",
+      "link": "https://www.bloomberg.com/news/features/2026-10-13/cftc-staff-told-to-retract-analysis-of-suspicious-oil-trades-on-iran",
+      "is_new": true
+    },
+    {
+      "title": "Character.ai Files for Bankruptcy",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney",
       "is_new": true
     },
     {
       "title": "The baffling intelligence of a single cell (2024)",
       "link": "https://jsomers.net/e-coli-chemotaxis/",
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "GLM-Legal",
@@ -20,11 +55,6 @@
     {
       "title": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
       "link": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
-      "is_new": true
-    },
-    {
-      "title": "A Modern Web App in C",
-      "link": "https://prophitt.me/writing/a-modern-web-app-in-c",
       "is_new": false
     },
     {
@@ -33,18 +63,28 @@
       "is_new": false
     },
     {
-      "title": "Who is vfmaddrnd231pd?",
-      "link": "https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/",
+      "title": "A Modern Web App in C",
+      "link": "https://prophitt.me/writing/a-modern-web-app-in-c",
       "is_new": false
     },
     {
-      "title": "A look at OpenAI’s math that’s claimed computes faster Fourier transforms",
-      "link": "https://www.argmin.net/p/faster-fourier-transforms",
+      "title": "Document Review with Unsiloed and TypeSafe Jev",
+      "link": "https://www.unsiloed.ai/blog/document-review-unsiloed-typesafe-jev",
+      "is_new": true
+    },
+    {
+      "title": "Character.ai files for Chapter 11 bankruptcy",
+      "link": "https://blog.character.ai/an-update-on-character-ai/",
       "is_new": true
     },
     {
       "title": "Janas: Run LLMs larger than RAM by streaming experts from SSD",
       "link": "https://github.com/prabanta-dev/janas",
+      "is_new": false
+    },
+    {
+      "title": "Apple HomeView",
+      "link": "https://www.apple.com/apple-homeview/",
       "is_new": true
     },
     {
@@ -53,13 +93,8 @@
       "is_new": false
     },
     {
-      "title": "Auto Research: Integer multiplication below n log n",
-      "link": "https://app.getsupers.com/auto-research",
-      "is_new": true
-    },
-    {
-      "title": "AI is a tool and using it well takes skill",
-      "link": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
+      "title": "Who is vfmaddrnd231pd?",
+      "link": "https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/",
       "is_new": false
     },
     {
@@ -68,9 +103,61 @@
       "is_new": false
     },
     {
+      "title": "AWS Lambda Web Functions",
+      "link": "https://aws.amazon.com/blogs/aws/announcing-aws-lambda-web-functions-for-fast-consistent-web-app-performance-anywhere/",
+      "is_new": true
+    },
+    {
+      "title": "DishwasherBench – Can Frontier Models Stack a Dishwasher?",
+      "link": "https://github.com/composo-ai/DishwasherBench",
+      "is_new": true
+    },
+    {
+      "title": "Citroen revives the 2CV for an electric age",
+      "link": "https://www.bbc.com/news/articles/c620r33plgppo",
+      "is_new": false
+    },
+    {
       "title": "Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents",
       "link": "https://news.ycombinator.com/item?id=50059096",
       "is_new": false
+    },
+    {
+      "title": "Writing a Demoscene Intro for the ZX Spectrum",
+      "link": "https://www.markround.com/blog/2026/zx-spectrum-intro",
+      "is_new": false
+    },
+    {
+      "title": "Crypto thieves sell hardware wallets with secret eSIM",
+      "link": "https://www.heise.de/en/news/Crypto-thieves-sell-hardware-wallets-with-secret-eSIM-11485188.html",
+      "is_new": true
+    },
+    {
+      "title": "AI is a tool and using it well takes skill",
+      "link": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
+      "is_new": false
+    },
+    {
+      "title": "Show HN: SolidCraft – Open-Source Parametric CAD in Rust (With MCP Support)",
+      "link": "https://github.com/bherbruck/solidcraft",
+      "is_new": false
+    },
+    {
+      "title": "A look at the math that OpenAI claims computes faster Fourier transforms",
+      "link": "https://www.argmin.net/p/faster-fourier-transforms",
+      "is_new": false
+    },
+    {
+      "title": "Auto Research: Integer multiplication below n log n",
+      "link": "https://app.getsupers.com/auto-research",
+      "is_new": false
+    }
+  ],
+  "removed": [
+    {
+      "title": "AI Models Can Provably Hide Arbitrary Capabilities",
+      "link": "https://arxiv.org/abs/2610.13928",
+      "is_new": true
     },
     {
       "title": "The Dock on Mac, from OS 10 to macOS 27",
@@ -80,16 +167,6 @@
     {
       "title": "Phreak.ing – Internet Phone Switch",
       "link": "https://phreak.ing/",
-      "is_new": false
-    },
-    {
-      "title": "Citroen revives the 2CV for an electric age",
-      "link": "https://www.bbc.com/news/articles/c620r33plgppo",
-      "is_new": false
-    },
-    {
-      "title": "Writing a Demoscene Intro for the ZX Spectrum",
-      "link": "https://www.markround.com/blog/2026/zx-spectrum-intro",
       "is_new": false
     },
     {
@@ -138,11 +215,6 @@
       "is_new": false
     },
     {
-      "title": "Show HN: SolidCraft – Open-Source Parametric CAD in Rust (With MCP Support)",
-      "link": "https://github.com/bherbruck/solidcraft",
-      "is_new": true
-    },
-    {
       "title": "Muse Wonder",
       "link": "https://research.meta.ai/blog/muse-wonder",
       "is_new": false
@@ -150,63 +222,6 @@
     {
       "title": "Show HN: Atticus – Hold-to-talk voice assistant for macOS that runs on Claude -p",
       "link": "https://github.com/SaarthurR/atticus-mac",
-      "is_new": false
-    }
-  ],
-  "removed": [
-    {
-      "title": "Breaking Bad star RJ Mitte dies aged 34",
-      "link": "https://news.sky.com/story/breaking-bad-star-rj-mitte-dies-aged-34-13598332",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: PS2 games statically recompiled to WebAssembly",
-      "link": "https://github.com/snuri00/ps2-web-recomp",
-      "is_new": false
-    },
-    {
-      "title": "Thinking will become a hobby",
-      "link": "https://www.spinellis.gr/blog/20261008/?li261008",
-      "is_new": true
-    },
-    {
-      "title": "AI coding agents generate more code, but not more software",
-      "link": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
-      "is_new": true
-    },
-    {
-      "title": "'AI' Is Not a Tool by Rich Hickey",
-      "link": "https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e",
-      "is_new": true
-    },
-    {
-      "title": "Publishers Killed the Paperback, Then Blamed Readers",
-      "link": "https://jacobin.com/2026/10/books-publishing-reading-mass-market-paperback",
-      "is_new": true
-    },
-    {
-      "title": "America's Longest Highway Tunnel (2025)",
-      "link": "https://www.thetravel.com/americas-longest-highway-tunnel-not-for-faint-of-heart/",
-      "is_new": true
-    },
-    {
-      "title": "Type-safe HTML templating in Zig",
-      "link": "https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html",
-      "is_new": false
-    },
-    {
-      "title": "My Reddit AMA on the Law of Web Scraping",
-      "link": "https://blog.ericgoldman.org/archives/2026/10/my-reddit-ama-on-the-law-of-web-scraping.htm",
-      "is_new": true
-    },
-    {
-      "title": "No portable way to detect string-to-float conversion errors in standard C",
-      "link": "https://sebsite.pw/w/20261009-strtod.html",
-      "is_new": true
-    },
-    {
-      "title": "QGIS enacts moratorium on AI contributions",
-      "link": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
       "is_new": false
     }
   ]
