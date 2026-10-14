@@ -1,30 +1,55 @@
 {
-  "crawled_at": "2026-10-15 05:25",
-  "prev_crawled_at": "2026-10-15 01:26",
+  "crawled_at": "2026-10-15 08:38",
+  "prev_crawled_at": "2026-10-15 05:25",
   "items": [
+    {
+      "title": "Things to know when you get cancer – 2026 Edition",
+      "link": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
+      "is_new": false
+    },
+    {
+      "title": "OpenCode 2.0",
+      "link": "https://anoma.ly/notes/opencode-2-0/",
+      "is_new": true
+    },
+    {
+      "title": "We’re releasing Jev 1.14.0 along with experimental features for dreamers",
+      "link": "https://typesafe.ai/blog/jev-1-14",
+      "is_new": true
+    },
+    {
+      "title": "Tiny Little Office",
+      "link": "https://tinylittleoffice.com/",
+      "is_new": true
+    },
+    {
+      "title": "Passkeys are not a trap",
+      "link": "https://scotthelme.co.uk/passkeys-are-not-a-trap/",
+      "is_new": true
+    },
+    {
+      "title": "Do dentists know what they're doing?",
+      "link": "https://mapwriting.substack.com/p/dentists",
+      "is_new": false
+    },
     {
       "title": "Better HTTP/1 connection reuse in Go 1.27",
       "link": "https://go.dev/blog/http-connection-reuse",
-      "is_new": true
+      "is_new": false
     },
     {
-      "title": "Fire at Starlink site in Bulgaria after suspected sabotage in Poland",
-      "link": "https://dpa-international.com/politics/urn:newsml:dpa.com:20090101:261014-930-839530/",
-      "is_new": true
+      "title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
+      "link": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
+      "is_new": false
     },
     {
-      "title": "Things to know if you get cancer in 2026",
-      "link": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
-      "is_new": true
+      "title": "Fancy Curl Sites",
+      "link": "https://nytpu.com/gemlog/2026-03-18",
+      "is_new": false
     },
     {
-      "title": "Phloem: Git history grown like a slime mold",
-      "link": "https://phloem.stemdeck.app/",
-      "is_new": true
-    },
-    {
-      "title": "Neckbeard – a DevOps/platform/SRE plugin for your agent",
-      "link": "https://github.com/bealesh/neckbeard",
+      "title": "Americans' social activity has steeply declined in the past 30 years",
+      "link": "https://www.dataforprogress.org/blog/2026/9/29/americans-social-activity-has-steeply-declined-in-the-past-30-years",
       "is_new": true
     },
     {
@@ -33,13 +58,33 @@
       "is_new": false
     },
     {
+      "title": "Anthropic's Scion is heavily inspired by Mononoke",
+      "link": "https://sunshowers.io/posts/anthropic-mononoke/",
+      "is_new": true
+    },
+    {
       "title": "Show HN: Petal, open-source CoScreen/ScreenHero finally free",
       "link": "https://petal.live/",
-      "is_new": true
+      "is_new": false
+    },
+    {
+      "title": "Fire at Starlink site in Bulgaria after suspected sabotage in Poland",
+      "link": "https://dpa-international.com/politics/urn:newsml:dpa.com:20090101:261014-930-839530/",
+      "is_new": false
+    },
+    {
+      "title": "Phloem: Git history grown like a slime mold",
+      "link": "https://phloem.stemdeck.app/",
+      "is_new": false
     },
     {
       "title": "Banks are now trying to offload the AI data center debt they just underwrote",
       "link": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/",
+      "is_new": false
+    },
+    {
+      "title": "Yandex outage: data shows that instead of going dark, malicious bots moved",
+      "link": "https://blog.cloudflare.com/yandex-outage/",
       "is_new": true
     },
     {
@@ -48,29 +93,29 @@
       "is_new": false
     },
     {
+      "title": "Has AI tells",
+      "link": "https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1",
+      "is_new": true
+    },
+    {
+      "title": "Virtual Oxide Labs: Emulating a Full Oxide Rack",
+      "link": "https://oxide.computer/blog/voxel-labs",
+      "is_new": true
+    },
+    {
       "title": "Suicide rates highest ever among middle-aged men",
       "link": "https://www.telegraph.co.uk/news/2026/10/13/suicide-rates-highest-ever-among-middle-aged-men/",
-      "is_new": true
-    },
-    {
-      "title": "Fancy Curl Sites",
-      "link": "https://nytpu.com/gemlog/2026-03-18",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: Timur's Chess – A 14th century chess variant with giraffes",
-      "link": "https://timurschess.com",
-      "is_new": true
-    },
-    {
-      "title": "LittleJS is 2D and 3D now",
-      "link": "https://frankforce.com/littlejs-is-2d-and-3d-now/",
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Google is silently linking your phone number across all signed-in accounts",
       "link": "https://www.androidauthority.com/google-auto-phone-number-verification-android-3723117/",
-      "is_new": true
+      "is_new": false
+    },
+    {
+      "title": "LittleJS is 2D and 3D now",
+      "link": "https://frankforce.com/littlejs-is-2d-and-3d-now/",
+      "is_new": false
     },
     {
       "title": "Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW",
@@ -78,23 +123,45 @@
       "is_new": false
     },
     {
+      "title": "How I manage persistent Claude Code loops: Spool",
+      "link": "https://github.com/enes-alatas/spool",
+      "is_new": true
+    },
+    {
       "title": "Show HN: I wrote an email app that accepts only one sender per inbox",
       "link": "https://clova.email/",
+      "is_new": false
+    },
+    {
+      "title": "Webster’s Dictionary: The pleasure of finding things out (2014)",
+      "link": "https://jsomers.net/blog/dictionary",
       "is_new": true
     },
     {
-      "title": "AI agents aren't 'going rogue.' Frontier labs are skipping security basics",
-      "link": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
-      "is_new": true
-    },
-    {
-      "title": "Amazon pushes up prices across the Internet",
+      "title": "How Amazon pushes up prices all across the Internet",
       "link": "https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/",
       "is_new": false
     },
     {
-      "title": "America Didn't Lose Its Rare Earth Industry. It Sold It",
+      "title": "America didn't lose its rare earth industry, it sold it",
       "link": "https://www.lawfaremedia.org/article/america-didn-t-lose-its-rare-earth-industry.-it-sold-it",
+      "is_new": false
+    },
+    {
+      "title": "Why is every rationalist blog post way too long?",
+      "link": "https://alexwennerberg.com/blog/2026-10-13-long.html",
+      "is_new": true
+    }
+  ],
+  "removed": [
+    {
+      "title": "Neckbeard – a DevOps/platform/SRE plugin for your agent",
+      "link": "https://github.com/bealesh/neckbeard",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: Timur's Chess – A 14th century chess variant with giraffes",
+      "link": "https://timurschess.com",
       "is_new": true
     },
     {
@@ -146,108 +213,6 @@
       "title": "TV4 postpones show after AI agent erases edited material",
       "link": "https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage",
       "is_new": false
-    },
-    {
-      "title": "Do dentists know what they're doing?",
-      "link": "https://mapwriting.substack.com/p/dentists",
-      "is_new": true
-    }
-  ],
-  "removed": [
-    {
-      "title": "ASML's strong orders ease fears AI spending boom is running out of steam",
-      "link": "https://www.reuters.com/business/asml-forecasts-q4-sales-above-expectations-ai-chip-demand-2026-10-14/",
-      "is_new": true
-    },
-    {
-      "title": "Character.ai's Bankruptcy Documents Show the Economics of AI Don't Work",
-      "link": "https://www.404media.co/character-ais-bankruptcy-documents-show-the-economics-of-ai-dont-work/",
-      "is_new": true
-    },
-    {
-      "title": "Passkeys Are Not a Trap",
-      "link": "https://scotthelme.co.uk/passkeys-are-not-a-trap/",
-      "is_new": true
-    },
-    {
-      "title": "Sound – Bartosz Ciechanowski (2022)",
-      "link": "https://ciechanow.ski/sound/",
-      "is_new": false
-    },
-    {
-      "title": "Shit Flow Diagram",
-      "link": "https://en.wikipedia.org/wiki/Shit_flow_diagram",
-      "is_new": true
-    },
-    {
-      "title": "Apple Keynote now showing ads in its UI",
-      "link": "https://mastodon.social/@marioguzman/117436264149891011",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: A guided 3D Leonardo da Vinci museum, built in code",
-      "link": "https://museumofages.org/w/vinci",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
-      "link": "https://guitoro.com/",
-      "is_new": false
-    },
-    {
-      "title": "Pulsar at ESUG 2026 (new Smalltalk IDE)",
-      "link": "https://blog.lorenzano.eu/pulsar-at-esug-2026/",
-      "is_new": false
-    },
-    {
-      "title": "900-Page Pre-Pantone Guide to Color from 1692 (With Complete High-Res Scan)",
-      "link": "https://www.openculture.com/2026/10/a-900-page-pre-pantone-guide-to-color-from-1692.html",
-      "is_new": false
-    },
-    {
-      "title": "How Tabasco Became the World's Hot Sauce",
-      "link": "https://www.weareravenous.com/how-tabasco-accidentally-on-purpose-became-the-worlds-hot-sauce/",
-      "is_new": true
-    },
-    {
-      "title": "The Genealogy of Eliza",
-      "link": "https://elizagen.org/genealogy.html",
-      "is_new": true
-    },
-    {
-      "title": "Gemini 4 Argon",
-      "link": "https://deepmind.google/models/gemini/",
-      "is_new": false
-    },
-    {
-      "title": "Same Job, Two Engines: InnoDB and Iceberg Internals",
-      "link": "https://marcpaul.io/logs/same-job-two-engines-innodb-and-iceberg-internals/",
-      "is_new": false
-    },
-    {
-      "title": "AI is mass decompiling games. That's both awesome and scary",
-      "link": "https://popcar.bearblog.dev/ai-is-mass-decompiling-games-thats-both-awesome-and-scary/",
-      "is_new": true
-    },
-    {
-      "title": "AOSP Source Releases Are So Late Developers Disassemble Libraries to Report Bugs",
-      "link": "https://github.com/android/ndk/issues/2260",
-      "is_new": false
-    },
-    {
-      "title": "Recreational Programming",
-      "link": "https://www.cphiri.dev/presentations/recreational-programming",
-      "is_new": false
-    },
-    {
-      "title": "Zuckerberg's new toy is a parasite. Please don't fall for it",
-      "link": "https://www.sfgate.com/bayarea/article/mark-zuckerberg-muse-parasite-22468893.php",
-      "is_new": true
-    },
-    {
-      "title": "RIP Eric Binnion",
-      "link": "https://ma.tt/2026/10/rip-eric/",
-      "is_new": true
     }
   ]
 }
