@@ -1,11 +1,26 @@
 {
-  "crawled_at": "2026-10-14 05:03",
-  "prev_crawled_at": "2026-10-13 22:28",
+  "crawled_at": "2026-10-14 09:06",
+  "prev_crawled_at": "2026-10-14 05:03",
   "items": [
     {
       "title": "Gemini 4 Argon",
       "link": "https://deepmind.google/models/gemini/",
-      "is_new": true
+      "is_new": false
+    },
+    {
+      "title": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
+      "link": "https://guitoro.com/",
+      "is_new": false
+    },
+    {
+      "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
+      "link": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
+      "is_new": false
+    },
+    {
+      "title": "Redesigning source control at Anthropic",
+      "link": "https://www.anthropic.com/engineering/redesigning-source-control",
+      "is_new": false
     },
     {
       "title": "Apple HomeView",
@@ -13,23 +28,13 @@
       "is_new": false
     },
     {
-      "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
-      "link": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
-      "is_new": true
-    },
-    {
-      "title": "A plea not to use uv-build",
-      "link": "https://blogs.gentoo.org/mgorny/2026/10/12/a-plea-not-to-use-uv-build/",
-      "is_new": true
-    },
-    {
       "title": "Thunderbird for iOS",
       "link": "https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/",
-      "is_new": true
+      "is_new": false
     },
     {
-      "title": "Redesigning source control at Anthropic",
-      "link": "https://www.anthropic.com/engineering/redesigning-source-control",
+      "title": "AlphaNIST",
+      "link": "https://alpha-nist.github.io/",
       "is_new": true
     },
     {
@@ -38,18 +43,53 @@
       "is_new": false
     },
     {
-      "title": "I posted to HN, and then my website was flooded with AI bot traffic",
-      "link": "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
-      "link": "https://guitoro.com/",
-      "is_new": true
-    },
-    {
       "title": "Firefox Enterprise",
       "link": "https://www.firefox.com/en-US/enterprise/",
+      "is_new": false
+    },
+    {
+      "title": "Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine",
+      "link": "https://pulseos.finance",
+      "is_new": true
+    },
+    {
+      "title": "OpenAI engineer arrested in bugging of executive conference room",
+      "link": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/",
+      "is_new": true
+    },
+    {
+      "title": "PostEra (YC W20) Is Hiring AI Researchers for Drug Discovery",
+      "link": "https://jobs.lever.co/postera/c7d50a36-db0a-4574-bfe4-8700b74a22c0",
+      "is_new": true
+    },
+    {
+      "title": "I posted to HN, and then my website was flooded with AI bot traffic",
+      "link": "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic",
+      "is_new": false
+    },
+    {
+      "title": "The United Kingdom generates less electricity per person than in the 1970s",
+      "link": "https://ourworldindata.org/data-insights/electricity-generation-per-person-in-the-united-kingdom-has-fallen-by-a-third-from-its-early-2000s-peak",
+      "is_new": false
+    },
+    {
+      "title": "Apple's new 'Switch to Safari' campaign details why you should ditch Chrome",
+      "link": "https://9to5mac.com/2026/10/12/apples-new-switch-to-safari-campaign-details-why-you-should-ditch-chrome/",
+      "is_new": false
+    },
+    {
+      "title": "900-Page Pre-Pantone Guide to Color from 1692 (With Complete High-Res Scan)",
+      "link": "https://www.openculture.com/2026/10/a-900-page-pre-pantone-guide-to-color-from-1692.html",
+      "is_new": true
+    },
+    {
+      "title": "Recreational Programming",
+      "link": "https://www.cphiri.dev/presentations/recreational-programming",
+      "is_new": true
+    },
+    {
+      "title": "New Apple TV 4K",
+      "link": "https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/",
       "is_new": false
     },
     {
@@ -58,29 +98,24 @@
       "is_new": false
     },
     {
-      "title": "Coris (YC S22) Is Hiring Back End Engineer",
-      "link": "https://www.ycombinator.com/companies/coris/jobs/h0nDly8-backend-engineer-ai-native-risk-infrastructure-integrations",
-      "is_new": true
-    },
-    {
-      "title": "New Apple TV 4K",
-      "link": "https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/",
-      "is_new": true
-    },
-    {
-      "title": "Gemini 4 Argon for Robotics",
-      "link": "https://developers.googleblog.com/gemini-4-argon-for-robotics/",
+      "title": "Physical Intelligence API Beta: Frontier Models for Every Robot",
+      "link": "https://www.pi.website/blog/api-beta",
       "is_new": true
     },
     {
       "title": "MIT class project turns into an FDA-cleared treatment for tremors",
       "link": "https://news.mit.edu/2026/mit-class-project-turns-into-fda-cleared-treatment-for-tremors-1002",
+      "is_new": false
+    },
+    {
+      "title": "Show HN: Parsimony – an open-source benchmark for how much code AI models add",
+      "link": "https://parsimony.lasu.dev/",
       "is_new": true
     },
     {
-      "title": "The United Kingdom generates less electricity per person than in the 1970s",
-      "link": "https://ourworldindata.org/data-insights/electricity-generation-per-person-in-the-united-kingdom-has-fallen-by-a-third-from-its-early-2000s-peak",
-      "is_new": true
+      "title": "Show HN: Spotatui, a Spotify TUI/GUI without web API rate limits",
+      "link": "https://github.com/LargeModGames/spotatui",
+      "is_new": false
     },
     {
       "title": "A Dynamic and Distributed Virtual GPU Cloud Built on Idle Apple Silicon Devices",
@@ -88,8 +123,45 @@
       "is_new": false
     },
     {
-      "title": "Apple's new 'Switch to Safari' campaign details why you should ditch Chrome",
-      "link": "https://9to5mac.com/2026/10/12/apples-new-switch-to-safari-campaign-details-why-you-should-ditch-chrome/",
+      "title": "Hiking the world in search of rare cheeses",
+      "link": "https://www.bbc.com/travel/article/20261007-the-man-hiking-the-world-in-search-of-rare-cheeses",
+      "is_new": false
+    },
+    {
+      "title": "Maybe a better way to track the release history of a Git repo",
+      "link": "https://blog.plover.com/prog/git/history-proposal.html",
+      "is_new": true
+    },
+    {
+      "title": "The Four Colour Theorem: The first time machines mogged mathematicians",
+      "link": "https://newsletter.pessimistsarchive.org/p/the-1st-time-machines-mogged-mathematicians",
+      "is_new": false
+    },
+    {
+      "title": "Gemini 4 Argon for Robotics",
+      "link": "https://developers.googleblog.com/gemini-4-argon-for-robotics/",
+      "is_new": false
+    },
+    {
+      "title": "How to engineer an AI harness for game development",
+      "link": "https://kylekukshtel.com/ai-harness-engineering-game-development-claude-code",
+      "is_new": false
+    },
+    {
+      "title": "Character.ai has initiated voluntary Chapter 11 bankruptcy",
+      "link": "https://blog.character.ai/an-update-on-character-ai/",
+      "is_new": false
+    }
+  ],
+  "removed": [
+    {
+      "title": "A plea not to use uv-build",
+      "link": "https://blogs.gentoo.org/mgorny/2026/10/12/a-plea-not-to-use-uv-build/",
+      "is_new": true
+    },
+    {
+      "title": "Coris (YC S22) Is Hiring Back End Engineer",
+      "link": "https://www.ycombinator.com/companies/coris/jobs/h0nDly8-backend-engineer-ai-native-risk-infrastructure-integrations",
       "is_new": true
     },
     {
@@ -98,18 +170,8 @@
       "is_new": true
     },
     {
-      "title": "Show HN: Spotatui, a Spotify TUI/GUI without web API rate limits",
-      "link": "https://github.com/LargeModGames/spotatui",
-      "is_new": true
-    },
-    {
       "title": "Zero to Calc in Six Days: Inside XBOW's Chrome Full Chain",
       "link": "https://xbow.com/labs/research/zero-to-calc-in-six-days-inside-xbow-chrome-full-chain",
-      "is_new": true
-    },
-    {
-      "title": "Hiking the world in search of rare cheeses",
-      "link": "https://www.bbc.com/travel/article/20261007-the-man-hiking-the-world-in-search-of-rare-cheeses",
       "is_new": true
     },
     {
@@ -123,24 +185,9 @@
       "is_new": true
     },
     {
-      "title": "The Four Colour Theorem: The first time machines mogged mathematicians",
-      "link": "https://newsletter.pessimistsarchive.org/p/the-1st-time-machines-mogged-mathematicians",
-      "is_new": true
-    },
-    {
-      "title": "How to engineer an AI harness for game development",
-      "link": "https://kylekukshtel.com/ai-harness-engineering-game-development-claude-code",
-      "is_new": true
-    },
-    {
       "title": "Worlds more habitable than Earth?",
       "link": "https://www.nytimes.com/2026/10/13/science/inhabitable-planets-solar-system.html",
       "is_new": true
-    },
-    {
-      "title": "Character.ai has initiated voluntary Chapter 11 bankruptcy",
-      "link": "https://blog.character.ai/an-update-on-character-ai/",
-      "is_new": false
     },
     {
       "title": "Show HN: Stream live open data in two commands",
@@ -150,123 +197,6 @@
     {
       "title": "Hittite royal archive found in Turkey",
       "link": "https://www.thehistoryblog.com/archives/77107",
-      "is_new": false
-    }
-  ],
-  "removed": [
-    {
-      "title": "Show HN: Use your OpenAI subscription to create audiobooks",
-      "link": "https://pdftomp3.com/connect-ai/",
-      "is_new": true
-    },
-    {
-      "title": "CFTC Staff Were Told to Retract Analysis of Suspicious Oil Trades",
-      "link": "https://www.bloomberg.com/news/features/2026-10-13/cftc-staff-told-to-retract-analysis-of-suspicious-oil-trades-on-iran",
-      "is_new": true
-    },
-    {
-      "title": "Character.ai Files for Bankruptcy",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney",
-      "is_new": true
-    },
-    {
-      "title": "The baffling intelligence of a single cell (2024)",
-      "link": "https://jsomers.net/e-coli-chemotaxis/",
-      "is_new": false
-    },
-    {
-      "title": "GLM-Legal",
-      "link": "https://z.ai/blog/glm-legal",
-      "is_new": false
-    },
-    {
-      "title": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
-      "link": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
-      "is_new": false
-    },
-    {
-      "title": "Hackers activate automatic defrosting in supermarket fridges across Europe",
-      "link": "https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident",
-      "is_new": false
-    },
-    {
-      "title": "A Modern Web App in C",
-      "link": "https://prophitt.me/writing/a-modern-web-app-in-c",
-      "is_new": false
-    },
-    {
-      "title": "Document Review with Unsiloed and TypeSafe Jev",
-      "link": "https://www.unsiloed.ai/blog/document-review-unsiloed-typesafe-jev",
-      "is_new": true
-    },
-    {
-      "title": "Janas: Run LLMs larger than RAM by streaming experts from SSD",
-      "link": "https://github.com/prabanta-dev/janas",
-      "is_new": false
-    },
-    {
-      "title": "Making big downloads resumable in Firefox",
-      "link": "https://lunarwatcher.codeberg.page/til/firefox/resumable-big-downloads.html",
-      "is_new": false
-    },
-    {
-      "title": "Who is vfmaddrnd231pd?",
-      "link": "https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/",
-      "is_new": false
-    },
-    {
-      "title": "Turn a WiFi 7 Router into a 320Msps Software Defined Radio Receiver",
-      "link": "https://github.com/h0m3us3r/w1700k-sdr",
-      "is_new": false
-    },
-    {
-      "title": "AWS Lambda Web Functions",
-      "link": "https://aws.amazon.com/blogs/aws/announcing-aws-lambda-web-functions-for-fast-consistent-web-app-performance-anywhere/",
-      "is_new": true
-    },
-    {
-      "title": "DishwasherBench – Can Frontier Models Stack a Dishwasher?",
-      "link": "https://github.com/composo-ai/DishwasherBench",
-      "is_new": true
-    },
-    {
-      "title": "Citroen revives the 2CV for an electric age",
-      "link": "https://www.bbc.com/news/articles/c620r33plgppo",
-      "is_new": false
-    },
-    {
-      "title": "Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents",
-      "link": "https://news.ycombinator.com/item?id=50059096",
-      "is_new": false
-    },
-    {
-      "title": "Writing a Demoscene Intro for the ZX Spectrum",
-      "link": "https://www.markround.com/blog/2026/zx-spectrum-intro",
-      "is_new": false
-    },
-    {
-      "title": "Crypto thieves sell hardware wallets with secret eSIM",
-      "link": "https://www.heise.de/en/news/Crypto-thieves-sell-hardware-wallets-with-secret-eSIM-11485188.html",
-      "is_new": true
-    },
-    {
-      "title": "AI is a tool and using it well takes skill",
-      "link": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
-      "is_new": false
-    },
-    {
-      "title": "Show HN: SolidCraft – Open-Source Parametric CAD in Rust (With MCP Support)",
-      "link": "https://github.com/bherbruck/solidcraft",
-      "is_new": false
-    },
-    {
-      "title": "A look at the math that OpenAI claims computes faster Fourier transforms",
-      "link": "https://www.argmin.net/p/faster-fourier-transforms",
-      "is_new": false
-    },
-    {
-      "title": "Auto Research: Integer multiplication below n log n",
-      "link": "https://app.getsupers.com/auto-research",
       "is_new": false
     }
   ]
