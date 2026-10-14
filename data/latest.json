@@ -1,21 +1,163 @@
 {
-  "crawled_at": "2026-10-14 20:06",
-  "prev_crawled_at": "2026-10-14 14:45",
+  "crawled_at": "2026-10-15 01:26",
+  "prev_crawled_at": "2026-10-14 20:06",
   "items": [
     {
       "title": "Iosevka is an open-source, sans-serif and slab-serif, monospace font",
       "link": "https://typeof.net/Iosevka/",
+      "is_new": false
+    },
+    {
+      "title": "Running Windows desktop tests from Linux with disposable VMs",
+      "link": "https://www.qawolf.com/blog/how-we-solved-windows-desktop-automation",
       "is_new": true
     },
     {
-      "title": "Agent erased full season of \"The Challenge Swe\": \"Hundreds of days of work gone\"",
-      "link": "https://www.aviaduct.com/?l=og+en&u=https%3A%2F%2Fwww.aftonbladet.se%2Fnojesbladet%2Fa%2F31oE8A%2Fthe-challenge-sverige-raderad-av-ai-bara-veckor-innan-premiaren",
+      "title": "Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW",
+      "link": "https://github.com/timescale/pg_vectorsearch",
+      "is_new": true
+    },
+    {
+      "title": "ASML's strong orders ease fears AI spending boom is running out of steam",
+      "link": "https://www.reuters.com/business/asml-forecasts-q4-sales-above-expectations-ai-chip-demand-2026-10-14/",
+      "is_new": true
+    },
+    {
+      "title": "Submarine Cable Resilience",
+      "link": "https://blog.apnic.net/2026/10/14/submarine-cable-resilience/",
+      "is_new": true
+    },
+    {
+      "title": "Amazon pushes up prices across the Internet",
+      "link": "https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/",
+      "is_new": false
+    },
+    {
+      "title": "Character.ai's Bankruptcy Documents Show the Economics of AI Don't Work",
+      "link": "https://www.404media.co/character-ais-bankruptcy-documents-show-the-economics-of-ai-dont-work/",
+      "is_new": true
+    },
+    {
+      "title": "Passkeys Are Not a Trap",
+      "link": "https://scotthelme.co.uk/passkeys-are-not-a-trap/",
+      "is_new": true
+    },
+    {
+      "title": "Sound – Bartosz Ciechanowski (2022)",
+      "link": "https://ciechanow.ski/sound/",
+      "is_new": false
+    },
+    {
+      "title": "Shit Flow Diagram",
+      "link": "https://en.wikipedia.org/wiki/Shit_flow_diagram",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: Graphicle, a Rust port of Graphify with memory for coding agents",
+      "link": "https://github.com/graphicle-ai/graphicle",
+      "is_new": true
+    },
+    {
+      "title": "The Gold-Bug: Edgar Allan Poe's story that taught me about cryptography (2024)",
+      "link": "https://robotsinplainenglish.com/e/2024-01-21-gold-bug.html",
+      "is_new": true
+    },
+    {
+      "title": "Apple Keynote now showing ads in its UI",
+      "link": "https://mastodon.social/@marioguzman/117436264149891011",
+      "is_new": true
+    },
+    {
+      "title": "The Origin Story of Kid Pix",
+      "link": "http://red-green-blue.com/kid-pix-the-early-years",
+      "is_new": true
+    },
+    {
+      "title": "TV4 postpones show after AI agent erases edited material",
+      "link": "https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: A guided 3D Leonardo da Vinci museum, built in code",
+      "link": "https://museumofages.org/w/vinci",
+      "is_new": true
+    },
+    {
+      "title": "Strands Decider: Why Not an Encoder?",
+      "link": "https://brooker.co.za:443/blog/2026/10/04/encoders.html",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
+      "link": "https://guitoro.com/",
+      "is_new": false
+    },
+    {
+      "title": "Pulsar at ESUG 2026 (new Smalltalk IDE)",
+      "link": "https://blog.lorenzano.eu/pulsar-at-esug-2026/",
+      "is_new": false
+    },
+    {
+      "title": "900-Page Pre-Pantone Guide to Color from 1692 (With Complete High-Res Scan)",
+      "link": "https://www.openculture.com/2026/10/a-900-page-pre-pantone-guide-to-color-from-1692.html",
+      "is_new": false
+    },
+    {
+      "title": "How Tabasco Became the World's Hot Sauce",
+      "link": "https://www.weareravenous.com/how-tabasco-accidentally-on-purpose-became-the-worlds-hot-sauce/",
+      "is_new": true
+    },
+    {
+      "title": "The Genealogy of Eliza",
+      "link": "https://elizagen.org/genealogy.html",
+      "is_new": true
+    },
+    {
+      "title": "Nvidia's first GPU: GeForce 256",
+      "link": "https://dfarq.homeip.net/nvidias-first-gpu-geforce-256/",
       "is_new": true
     },
     {
       "title": "Gemini 4 Argon",
       "link": "https://deepmind.google/models/gemini/",
       "is_new": false
+    },
+    {
+      "title": "Same Job, Two Engines: InnoDB and Iceberg Internals",
+      "link": "https://marcpaul.io/logs/same-job-two-engines-innodb-and-iceberg-internals/",
+      "is_new": false
+    },
+    {
+      "title": "AI is mass decompiling games. That's both awesome and scary",
+      "link": "https://popcar.bearblog.dev/ai-is-mass-decompiling-games-thats-both-awesome-and-scary/",
+      "is_new": true
+    },
+    {
+      "title": "AOSP Source Releases Are So Late Developers Disassemble Libraries to Report Bugs",
+      "link": "https://github.com/android/ndk/issues/2260",
+      "is_new": false
+    },
+    {
+      "title": "Recreational Programming",
+      "link": "https://www.cphiri.dev/presentations/recreational-programming",
+      "is_new": false
+    },
+    {
+      "title": "Zuckerberg's new toy is a parasite. Please don't fall for it",
+      "link": "https://www.sfgate.com/bayarea/article/mark-zuckerberg-muse-parasite-22468893.php",
+      "is_new": true
+    },
+    {
+      "title": "RIP Eric Binnion",
+      "link": "https://ma.tt/2026/10/rip-eric/",
+      "is_new": true
+    }
+  ],
+  "removed": [
+    {
+      "title": "Agent erased full season of \"The Challenge Swe\": \"Hundreds of days of work gone\"",
+      "link": "https://www.aviaduct.com/?l=og+en&u=https%3A%2F%2Fwww.aftonbladet.se%2Fnojesbladet%2Fa%2F31oE8A%2Fthe-challenge-sverige-raderad-av-ai-bara-veckor-innan-premiaren",
+      "is_new": true
     },
     {
       "title": "Show HN: Building an LLM from Scratch in TypeScript",
@@ -25,16 +167,6 @@
     {
       "title": "I let an AI run my startup for a week",
       "link": "https://daily.tinyprojects.dev/221",
-      "is_new": true
-    },
-    {
-      "title": "Sound – Bartosz Ciechanowski (2022)",
-      "link": "https://ciechanow.ski/sound/",
-      "is_new": false
-    },
-    {
-      "title": "Pulsar at ESUG 2026 (new Smalltalk IDE)",
-      "link": "https://blog.lorenzano.eu/pulsar-at-esug-2026/",
       "is_new": true
     },
     {
@@ -53,34 +185,14 @@
       "is_new": true
     },
     {
-      "title": "Same Job, Two Engines: InnoDB and Iceberg Internals",
-      "link": "https://marcpaul.io/logs/same-job-two-engines-innodb-and-iceberg-internals/",
-      "is_new": true
-    },
-    {
       "title": "Redesigning source control at Anthropic",
       "link": "https://www.anthropic.com/engineering/redesigning-source-control",
       "is_new": false
     },
     {
-      "title": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
-      "link": "https://guitoro.com/",
-      "is_new": false
-    },
-    {
-      "title": "AOSP Source Releases Are So Late Developers Disassemble Libraries to Report Bugs",
-      "link": "https://github.com/android/ndk/issues/2260",
-      "is_new": true
-    },
-    {
       "title": "Who Taught the Machines Mathematics?",
       "link": "https://nisheethvishnoi.com/2026/10/09/who-taught-the-machines-mathematics/",
       "is_new": true
-    },
-    {
-      "title": "900-Page Pre-Pantone Guide to Color from 1692 (With Complete High-Res Scan)",
-      "link": "https://www.openculture.com/2026/10/a-900-page-pre-pantone-guide-to-color-from-1692.html",
-      "is_new": false
     },
     {
       "title": "Who Is Planting Backdoors in Ledger Crypto Wallets?",
@@ -93,18 +205,8 @@
       "is_new": false
     },
     {
-      "title": "Amazon pushes up prices across the Internet",
-      "link": "https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/",
-      "is_new": true
-    },
-    {
       "title": "The United Kingdom generates less electricity per person than in the 1970s",
       "link": "https://ourworldindata.org/data-insights/electricity-generation-per-person-in-the-united-kingdom-has-fallen-by-a-third-from-its-early-2000s-peak",
-      "is_new": false
-    },
-    {
-      "title": "Recreational Programming",
-      "link": "https://www.cphiri.dev/presentations/recreational-programming",
       "is_new": false
     },
     {
@@ -151,93 +253,6 @@
       "title": "Maybe a better way to track the release history of a Git repo",
       "link": "https://blog.plover.com/prog/git/history-proposal.html",
       "is_new": false
-    }
-  ],
-  "removed": [
-    {
-      "title": "Is 'Attention' the Essence of Intelligence?",
-      "link": "https://www.quantamagazine.org/is-attention-the-essence-of-intelligence-20261012/",
-      "is_new": true
-    },
-    {
-      "title": "I built a tool to track what AI leaders say and how their views change on video",
-      "link": "https://blumify.io/people",
-      "is_new": true
-    },
-    {
-      "title": "Grace Hopper Celebration Cancelled",
-      "link": "https://anitab.org/press-release",
-      "is_new": true
-    },
-    {
-      "title": "Thunderbird for iOS",
-      "link": "https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/",
-      "is_new": false
-    },
-    {
-      "title": "Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine",
-      "link": "https://pulseos.finance",
-      "is_new": false
-    },
-    {
-      "title": "I posted to HN, and then my website was flooded with AI bot traffic",
-      "link": "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic",
-      "is_new": false
-    },
-    {
-      "title": "Apple's new 'Switch to Safari' campaign details why you should ditch Chrome",
-      "link": "https://9to5mac.com/2026/10/12/apples-new-switch-to-safari-campaign-details-why-you-should-ditch-chrome/",
-      "is_new": false
-    },
-    {
-      "title": "New Apple TV 4K",
-      "link": "https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/",
-      "is_new": false
-    },
-    {
-      "title": "AlphaNIST",
-      "link": "https://alpha-nist.github.io/",
-      "is_new": false
-    },
-    {
-      "title": "Do Frameworks Matter Anymore?",
-      "link": "https://brookslybrand.com/posts/do-frameworks-matter-anymore/",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: XY Music Notation",
-      "link": "https://music.xy.dev/",
-      "is_new": true
-    },
-    {
-      "title": "OpenAI engineer arrested in bugging of executive conference room",
-      "link": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/",
-      "is_new": false
-    },
-    {
-      "title": "Apple HomeView",
-      "link": "https://www.apple.com/apple-homeview/",
-      "is_new": false
-    },
-    {
-      "title": "Hiking the world in search of rare cheeses",
-      "link": "https://www.bbc.com/travel/article/20261007-the-man-hiking-the-world-in-search-of-rare-cheeses",
-      "is_new": false
-    },
-    {
-      "title": "A Strongly Aperiodic Monotile in Three Dimensions",
-      "link": "https://arxiv.org/abs/2609.19214",
-      "is_new": true
-    },
-    {
-      "title": "11 year old unsoundness bugs found in Rust borrow checker",
-      "link": "https://github.com/rust-lang/rust/issues/164250",
-      "is_new": false
-    },
-    {
-      "title": "Hittite royal archive found in Turkey",
-      "link": "https://www.thehistoryblog.com/archives/77107",
-      "is_new": true
     }
   ]
 }
