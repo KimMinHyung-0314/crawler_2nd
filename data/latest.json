@@ -1,16 +1,21 @@
 {
-  "crawled_at": "2026-10-14 09:06",
-  "prev_crawled_at": "2026-10-14 05:03",
+  "crawled_at": "2026-10-14 14:45",
+  "prev_crawled_at": "2026-10-14 09:06",
   "items": [
+    {
+      "title": "Felix Rieseberg Homepage",
+      "link": "https://felixrieseberg.com/",
+      "is_new": true
+    },
     {
       "title": "Gemini 4 Argon",
       "link": "https://deepmind.google/models/gemini/",
       "is_new": false
     },
     {
-      "title": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
-      "link": "https://guitoro.com/",
-      "is_new": false
+      "title": "Sound – Bartosz Ciechanowski (2022)",
+      "link": "https://ciechanow.ski/sound/",
+      "is_new": true
     },
     {
       "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
@@ -18,14 +23,34 @@
       "is_new": false
     },
     {
+      "title": "Is 'Attention' the Essence of Intelligence?",
+      "link": "https://www.quantamagazine.org/is-attention-the-essence-of-intelligence-20261012/",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
+      "link": "https://guitoro.com/",
+      "is_new": false
+    },
+    {
+      "title": "I built a tool to track what AI leaders say and how their views change on video",
+      "link": "https://blumify.io/people",
+      "is_new": true
+    },
+    {
       "title": "Redesigning source control at Anthropic",
       "link": "https://www.anthropic.com/engineering/redesigning-source-control",
       "is_new": false
     },
     {
-      "title": "Apple HomeView",
-      "link": "https://www.apple.com/apple-homeview/",
+      "title": "900-Page Pre-Pantone Guide to Color from 1692 (With Complete High-Res Scan)",
+      "link": "https://www.openculture.com/2026/10/a-900-page-pre-pantone-guide-to-color-from-1692.html",
       "is_new": false
+    },
+    {
+      "title": "Grace Hopper Celebration Cancelled",
+      "link": "https://anitab.org/press-release",
+      "is_new": true
     },
     {
       "title": "Thunderbird for iOS",
@@ -33,38 +58,8 @@
       "is_new": false
     },
     {
-      "title": "AlphaNIST",
-      "link": "https://alpha-nist.github.io/",
-      "is_new": true
-    },
-    {
-      "title": "11 year old unsoundness bugs found in Rust borrow checker",
-      "link": "https://github.com/rust-lang/rust/issues/164250",
-      "is_new": false
-    },
-    {
-      "title": "Firefox Enterprise",
-      "link": "https://www.firefox.com/en-US/enterprise/",
-      "is_new": false
-    },
-    {
-      "title": "Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine",
-      "link": "https://pulseos.finance",
-      "is_new": true
-    },
-    {
-      "title": "OpenAI engineer arrested in bugging of executive conference room",
-      "link": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/",
-      "is_new": true
-    },
-    {
-      "title": "PostEra (YC W20) Is Hiring AI Researchers for Drug Discovery",
-      "link": "https://jobs.lever.co/postera/c7d50a36-db0a-4574-bfe4-8700b74a22c0",
-      "is_new": true
-    },
-    {
-      "title": "I posted to HN, and then my website was flooded with AI bot traffic",
-      "link": "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic",
+      "title": "Recreational Programming",
+      "link": "https://www.cphiri.dev/presentations/recreational-programming",
       "is_new": false
     },
     {
@@ -73,23 +68,95 @@
       "is_new": false
     },
     {
+      "title": "Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine",
+      "link": "https://pulseos.finance",
+      "is_new": false
+    },
+    {
+      "title": "Show HN: How random are you?",
+      "link": "https://lab.specr.net/rigged-draw/",
+      "is_new": true
+    },
+    {
+      "title": "I posted to HN, and then my website was flooded with AI bot traffic",
+      "link": "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic",
+      "is_new": false
+    },
+    {
       "title": "Apple's new 'Switch to Safari' campaign details why you should ditch Chrome",
       "link": "https://9to5mac.com/2026/10/12/apples-new-switch-to-safari-campaign-details-why-you-should-ditch-chrome/",
       "is_new": false
     },
     {
-      "title": "900-Page Pre-Pantone Guide to Color from 1692 (With Complete High-Res Scan)",
-      "link": "https://www.openculture.com/2026/10/a-900-page-pre-pantone-guide-to-color-from-1692.html",
-      "is_new": true
-    },
-    {
-      "title": "Recreational Programming",
-      "link": "https://www.cphiri.dev/presentations/recreational-programming",
-      "is_new": true
-    },
-    {
       "title": "New Apple TV 4K",
       "link": "https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/",
+      "is_new": false
+    },
+    {
+      "title": "MIT class project turns into an FDA-cleared treatment for tremors",
+      "link": "https://news.mit.edu/2026/mit-class-project-turns-into-fda-cleared-treatment-for-tremors-1002",
+      "is_new": false
+    },
+    {
+      "title": "Maybe a better way to track the release history of a Git repo",
+      "link": "https://blog.plover.com/prog/git/history-proposal.html",
+      "is_new": false
+    },
+    {
+      "title": "AlphaNIST",
+      "link": "https://alpha-nist.github.io/",
+      "is_new": false
+    },
+    {
+      "title": "Do Frameworks Matter Anymore?",
+      "link": "https://brookslybrand.com/posts/do-frameworks-matter-anymore/",
+      "is_new": true
+    },
+    {
+      "title": "PostEra (YC W20) Is Hiring AI Researchers for Drug Discovery",
+      "link": "https://jobs.lever.co/postera/c7d50a36-db0a-4574-bfe4-8700b74a22c0",
+      "is_new": false
+    },
+    {
+      "title": "Show HN: XY Music Notation",
+      "link": "https://music.xy.dev/",
+      "is_new": true
+    },
+    {
+      "title": "OpenAI engineer arrested in bugging of executive conference room",
+      "link": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/",
+      "is_new": false
+    },
+    {
+      "title": "Apple HomeView",
+      "link": "https://www.apple.com/apple-homeview/",
+      "is_new": false
+    },
+    {
+      "title": "Hiking the world in search of rare cheeses",
+      "link": "https://www.bbc.com/travel/article/20261007-the-man-hiking-the-world-in-search-of-rare-cheeses",
+      "is_new": false
+    },
+    {
+      "title": "A Strongly Aperiodic Monotile in Three Dimensions",
+      "link": "https://arxiv.org/abs/2609.19214",
+      "is_new": true
+    },
+    {
+      "title": "11 year old unsoundness bugs found in Rust borrow checker",
+      "link": "https://github.com/rust-lang/rust/issues/164250",
+      "is_new": false
+    },
+    {
+      "title": "Hittite royal archive found in Turkey",
+      "link": "https://www.thehistoryblog.com/archives/77107",
+      "is_new": true
+    }
+  ],
+  "removed": [
+    {
+      "title": "Firefox Enterprise",
+      "link": "https://www.firefox.com/en-US/enterprise/",
       "is_new": false
     },
     {
@@ -101,11 +168,6 @@
       "title": "Physical Intelligence API Beta: Frontier Models for Every Robot",
       "link": "https://www.pi.website/blog/api-beta",
       "is_new": true
-    },
-    {
-      "title": "MIT class project turns into an FDA-cleared treatment for tremors",
-      "link": "https://news.mit.edu/2026/mit-class-project-turns-into-fda-cleared-treatment-for-tremors-1002",
-      "is_new": false
     },
     {
       "title": "Show HN: Parsimony – an open-source benchmark for how much code AI models add",
@@ -121,16 +183,6 @@
       "title": "A Dynamic and Distributed Virtual GPU Cloud Built on Idle Apple Silicon Devices",
       "link": "https://machinelearning.apple.com/research/distributed-gpu-cloud",
       "is_new": false
-    },
-    {
-      "title": "Hiking the world in search of rare cheeses",
-      "link": "https://www.bbc.com/travel/article/20261007-the-man-hiking-the-world-in-search-of-rare-cheeses",
-      "is_new": false
-    },
-    {
-      "title": "Maybe a better way to track the release history of a Git repo",
-      "link": "https://blog.plover.com/prog/git/history-proposal.html",
-      "is_new": true
     },
     {
       "title": "The Four Colour Theorem: The first time machines mogged mathematicians",
@@ -150,53 +202,6 @@
     {
       "title": "Character.ai has initiated voluntary Chapter 11 bankruptcy",
       "link": "https://blog.character.ai/an-update-on-character-ai/",
-      "is_new": false
-    }
-  ],
-  "removed": [
-    {
-      "title": "A plea not to use uv-build",
-      "link": "https://blogs.gentoo.org/mgorny/2026/10/12/a-plea-not-to-use-uv-build/",
-      "is_new": true
-    },
-    {
-      "title": "Coris (YC S22) Is Hiring Back End Engineer",
-      "link": "https://www.ycombinator.com/companies/coris/jobs/h0nDly8-backend-engineer-ai-native-risk-infrastructure-integrations",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: How Random Are You?",
-      "link": "https://lab.specr.net/rigged-draw/",
-      "is_new": true
-    },
-    {
-      "title": "Zero to Calc in Six Days: Inside XBOW's Chrome Full Chain",
-      "link": "https://xbow.com/labs/research/zero-to-calc-in-six-days-inside-xbow-chrome-full-chain",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: XY Music Notation",
-      "link": "https://music.xy.dev/",
-      "is_new": true
-    },
-    {
-      "title": "Launch HN: Consus (YC F24) – LLM gateway for companies handling sensitive data",
-      "link": "https://news.ycombinator.com/item?id=50073471",
-      "is_new": true
-    },
-    {
-      "title": "Worlds more habitable than Earth?",
-      "link": "https://www.nytimes.com/2026/10/13/science/inhabitable-planets-solar-system.html",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: Stream live open data in two commands",
-      "link": "https://docs.hypermass.io/docs/cli/",
-      "is_new": true
-    },
-    {
-      "title": "Hittite royal archive found in Turkey",
-      "link": "https://www.thehistoryblog.com/archives/77107",
       "is_new": false
     }
   ]
