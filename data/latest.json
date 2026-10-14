@@ -1,36 +1,163 @@
 {
-  "crawled_at": "2026-10-15 01:26",
-  "prev_crawled_at": "2026-10-14 20:06",
+  "crawled_at": "2026-10-15 05:25",
+  "prev_crawled_at": "2026-10-15 01:26",
   "items": [
     {
-      "title": "Iosevka is an open-source, sans-serif and slab-serif, monospace font",
+      "title": "Better HTTP/1 connection reuse in Go 1.27",
+      "link": "https://go.dev/blog/http-connection-reuse",
+      "is_new": true
+    },
+    {
+      "title": "Fire at Starlink site in Bulgaria after suspected sabotage in Poland",
+      "link": "https://dpa-international.com/politics/urn:newsml:dpa.com:20090101:261014-930-839530/",
+      "is_new": true
+    },
+    {
+      "title": "Things to know if you get cancer in 2026",
+      "link": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
+      "is_new": true
+    },
+    {
+      "title": "Phloem: Git history grown like a slime mold",
+      "link": "https://phloem.stemdeck.app/",
+      "is_new": true
+    },
+    {
+      "title": "Neckbeard – a DevOps/platform/SRE plugin for your agent",
+      "link": "https://github.com/bealesh/neckbeard",
+      "is_new": true
+    },
+    {
+      "title": "Iosevka is an open-source, sans-serif and slab-serif monospace font",
       "link": "https://typeof.net/Iosevka/",
       "is_new": false
     },
     {
-      "title": "Running Windows desktop tests from Linux with disposable VMs",
-      "link": "https://www.qawolf.com/blog/how-we-solved-windows-desktop-automation",
+      "title": "Show HN: Petal, open-source CoScreen/ScreenHero finally free",
+      "link": "https://petal.live/",
+      "is_new": true
+    },
+    {
+      "title": "Banks are now trying to offload the AI data center debt they just underwrote",
+      "link": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/",
+      "is_new": true
+    },
+    {
+      "title": "Submarine cable resilience",
+      "link": "https://blog.apnic.net/2026/10/14/submarine-cable-resilience/",
+      "is_new": false
+    },
+    {
+      "title": "Suicide rates highest ever among middle-aged men",
+      "link": "https://www.telegraph.co.uk/news/2026/10/13/suicide-rates-highest-ever-among-middle-aged-men/",
+      "is_new": true
+    },
+    {
+      "title": "Fancy Curl Sites",
+      "link": "https://nytpu.com/gemlog/2026-03-18",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: Timur's Chess – A 14th century chess variant with giraffes",
+      "link": "https://timurschess.com",
+      "is_new": true
+    },
+    {
+      "title": "LittleJS is 2D and 3D now",
+      "link": "https://frankforce.com/littlejs-is-2d-and-3d-now/",
+      "is_new": true
+    },
+    {
+      "title": "Google is silently linking your phone number across all signed-in accounts",
+      "link": "https://www.androidauthority.com/google-auto-phone-number-verification-android-3723117/",
       "is_new": true
     },
     {
       "title": "Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW",
       "link": "https://github.com/timescale/pg_vectorsearch",
+      "is_new": false
+    },
+    {
+      "title": "Show HN: I wrote an email app that accepts only one sender per inbox",
+      "link": "https://clova.email/",
       "is_new": true
     },
     {
-      "title": "ASML's strong orders ease fears AI spending boom is running out of steam",
-      "link": "https://www.reuters.com/business/asml-forecasts-q4-sales-above-expectations-ai-chip-demand-2026-10-14/",
-      "is_new": true
-    },
-    {
-      "title": "Submarine Cable Resilience",
-      "link": "https://blog.apnic.net/2026/10/14/submarine-cable-resilience/",
+      "title": "AI agents aren't 'going rogue.' Frontier labs are skipping security basics",
+      "link": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
       "is_new": true
     },
     {
       "title": "Amazon pushes up prices across the Internet",
       "link": "https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/",
       "is_new": false
+    },
+    {
+      "title": "America Didn't Lose Its Rare Earth Industry. It Sold It",
+      "link": "https://www.lawfaremedia.org/article/america-didn-t-lose-its-rare-earth-industry.-it-sold-it",
+      "is_new": true
+    },
+    {
+      "title": "ICE Planning $100M 'Nightmare' Domestic Spy Program",
+      "link": "https://prospect.org/2026/10/14/ice-planning-nightmare-domestic-spy-program-ero-one/",
+      "is_new": true
+    },
+    {
+      "title": "Running Windows desktop tests from Linux with disposable VMs",
+      "link": "https://www.qawolf.com/blog/how-we-solved-windows-desktop-automation",
+      "is_new": false
+    },
+    {
+      "title": "Show HN: Graphicle, a Rust port of Graphify with memory for coding agents",
+      "link": "https://github.com/graphicle-ai/graphicle",
+      "is_new": false
+    },
+    {
+      "title": "The Gold-Bug: Edgar Allan Poe's story that taught me about cryptography (2024)",
+      "link": "https://robotsinplainenglish.com/e/2024-01-21-gold-bug.html",
+      "is_new": false
+    },
+    {
+      "title": "Nvidia's first GPU: GeForce 256",
+      "link": "https://dfarq.homeip.net/nvidias-first-gpu-geforce-256/",
+      "is_new": false
+    },
+    {
+      "title": "The Origin Story of Kid Pix",
+      "link": "http://red-green-blue.com/kid-pix-the-early-years",
+      "is_new": false
+    },
+    {
+      "title": "Strands Decider: Why Not an Encoder?",
+      "link": "https://brooker.co.za:443/blog/2026/10/04/encoders.html",
+      "is_new": false
+    },
+    {
+      "title": "Tesla's Robotaxis Blow Through School Zones, NHTSA Petition Alleges",
+      "link": "https://www.extremetech.com/cars/teslas-robotaxis-blow-through-school-zones-nhtsa-petition-alleges",
+      "is_new": true
+    },
+    {
+      "title": "Scientists Are Teaching Birds to Sing Lost Songs",
+      "link": "https://e360.yale.edu/digest/teaching-birds-lost-songs",
+      "is_new": true
+    },
+    {
+      "title": "TV4 postpones show after AI agent erases edited material",
+      "link": "https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage",
+      "is_new": false
+    },
+    {
+      "title": "Do dentists know what they're doing?",
+      "link": "https://mapwriting.substack.com/p/dentists",
+      "is_new": true
+    }
+  ],
+  "removed": [
+    {
+      "title": "ASML's strong orders ease fears AI spending boom is running out of steam",
+      "link": "https://www.reuters.com/business/asml-forecasts-q4-sales-above-expectations-ai-chip-demand-2026-10-14/",
+      "is_new": true
     },
     {
       "title": "Character.ai's Bankruptcy Documents Show the Economics of AI Don't Work",
@@ -53,38 +180,13 @@
       "is_new": true
     },
     {
-      "title": "Show HN: Graphicle, a Rust port of Graphify with memory for coding agents",
-      "link": "https://github.com/graphicle-ai/graphicle",
-      "is_new": true
-    },
-    {
-      "title": "The Gold-Bug: Edgar Allan Poe's story that taught me about cryptography (2024)",
-      "link": "https://robotsinplainenglish.com/e/2024-01-21-gold-bug.html",
-      "is_new": true
-    },
-    {
       "title": "Apple Keynote now showing ads in its UI",
       "link": "https://mastodon.social/@marioguzman/117436264149891011",
       "is_new": true
     },
     {
-      "title": "The Origin Story of Kid Pix",
-      "link": "http://red-green-blue.com/kid-pix-the-early-years",
-      "is_new": true
-    },
-    {
-      "title": "TV4 postpones show after AI agent erases edited material",
-      "link": "https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage",
-      "is_new": true
-    },
-    {
       "title": "Show HN: A guided 3D Leonardo da Vinci museum, built in code",
       "link": "https://museumofages.org/w/vinci",
-      "is_new": true
-    },
-    {
-      "title": "Strands Decider: Why Not an Encoder?",
-      "link": "https://brooker.co.za:443/blog/2026/10/04/encoders.html",
       "is_new": true
     },
     {
@@ -110,11 +212,6 @@
     {
       "title": "The Genealogy of Eliza",
       "link": "https://elizagen.org/genealogy.html",
-      "is_new": true
-    },
-    {
-      "title": "Nvidia's first GPU: GeForce 256",
-      "link": "https://dfarq.homeip.net/nvidias-first-gpu-geforce-256/",
       "is_new": true
     },
     {
@@ -151,108 +248,6 @@
       "title": "RIP Eric Binnion",
       "link": "https://ma.tt/2026/10/rip-eric/",
       "is_new": true
-    }
-  ],
-  "removed": [
-    {
-      "title": "Agent erased full season of \"The Challenge Swe\": \"Hundreds of days of work gone\"",
-      "link": "https://www.aviaduct.com/?l=og+en&u=https%3A%2F%2Fwww.aftonbladet.se%2Fnojesbladet%2Fa%2F31oE8A%2Fthe-challenge-sverige-raderad-av-ai-bara-veckor-innan-premiaren",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: Building an LLM from Scratch in TypeScript",
-      "link": "https://book.humanexperiences.io/",
-      "is_new": true
-    },
-    {
-      "title": "I let an AI run my startup for a week",
-      "link": "https://daily.tinyprojects.dev/221",
-      "is_new": true
-    },
-    {
-      "title": "AI Laser Locking for Quantum Computers: How QuEra Automates It",
-      "link": "https://www.quera.com/blog-posts/holding-the-light-teaching-an-ai-to-lock-and-tune-our-quantum-computers-lasers",
-      "is_new": true
-    },
-    {
-      "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
-      "link": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
-      "is_new": false
-    },
-    {
-      "title": "What agents mean for Rust (and vice versa)",
-      "link": "https://smallcultfollowing.com/babysteps/blog/2026/10/14/agentic-dev-and-rust/",
-      "is_new": true
-    },
-    {
-      "title": "Redesigning source control at Anthropic",
-      "link": "https://www.anthropic.com/engineering/redesigning-source-control",
-      "is_new": false
-    },
-    {
-      "title": "Who Taught the Machines Mathematics?",
-      "link": "https://nisheethvishnoi.com/2026/10/09/who-taught-the-machines-mathematics/",
-      "is_new": true
-    },
-    {
-      "title": "Who Is Planting Backdoors in Ledger Crypto Wallets?",
-      "link": "https://www.zetter-zeroday.com/who-is-planting-backdoors-in-ledger-crypto-wallets/",
-      "is_new": true
-    },
-    {
-      "title": "Felix Rieseberg Homepage",
-      "link": "https://felixrieseberg.com/",
-      "is_new": false
-    },
-    {
-      "title": "The United Kingdom generates less electricity per person than in the 1970s",
-      "link": "https://ourworldindata.org/data-insights/electricity-generation-per-person-in-the-united-kingdom-has-fallen-by-a-third-from-its-early-2000s-peak",
-      "is_new": false
-    },
-    {
-      "title": "Strafe: A new open-source, E2E Encrypted, and federated alternative to Discord",
-      "link": "https://strafe.chat/",
-      "is_new": true
-    },
-    {
-      "title": "Ask HN: What is the current trajectory of a senior engineer?",
-      "link": "https://news.ycombinator.com/item?id=50084969",
-      "is_new": true
-    },
-    {
-      "title": "Why is every rationalist blog post way too long?",
-      "link": "https://alexwennerberg.com/blog/2026-10-13-long.html",
-      "is_new": true
-    },
-    {
-      "title": "Kcgi – minimal CGI and FastCGI library for C/C++",
-      "link": "https://kristaps.bsd.lv/kcgi/",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: How random are you?",
-      "link": "https://lab.specr.net/rigged-draw/",
-      "is_new": false
-    },
-    {
-      "title": "MIT class project turns into an FDA-cleared treatment for tremors",
-      "link": "https://news.mit.edu/2026/mit-class-project-turns-into-fda-cleared-treatment-for-tremors-1002",
-      "is_new": false
-    },
-    {
-      "title": "PostEra (YC W20) Is Hiring AI Researchers for Drug Discovery",
-      "link": "https://jobs.lever.co/postera/c7d50a36-db0a-4574-bfe4-8700b74a22c0",
-      "is_new": false
-    },
-    {
-      "title": "Arena Allocators in C",
-      "link": "https://eliasebner.com/blog/guides/arena-allocators-in-c/",
-      "is_new": true
-    },
-    {
-      "title": "Maybe a better way to track the release history of a Git repo",
-      "link": "https://blog.plover.com/prog/git/history-proposal.html",
-      "is_new": false
     }
   ]
 }
