@@ -1,11 +1,21 @@
 {
-  "crawled_at": "2026-10-15 12:00",
-  "prev_crawled_at": "2026-10-15 08:38",
+  "crawled_at": "2026-10-15 17:47",
+  "prev_crawled_at": "2026-10-15 12:00",
   "items": [
     {
       "title": "Things to know when you get cancer",
       "link": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
       "is_new": false
+    },
+    {
+      "title": "Wanted to download an ISO, ended up writing a kernel exploit",
+      "link": "https://blog.dfb.sh/blog/eap770-root-for-two-zeros/",
+      "is_new": true
+    },
+    {
+      "title": "Creating a Garmin \"MCP\"",
+      "link": "https://jackantico.io/garmin-mcp",
+      "is_new": true
     },
     {
       "title": "OpenCode 2.0",
@@ -20,11 +30,6 @@
     {
       "title": "LFM2.5-24B-A2B: Built for fast on-device agents",
       "link": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
-      "is_new": true
-    },
-    {
-      "title": "We’re releasing Jev 1.14.0 along with experimental features for dreamers",
-      "link": "https://typesafe.ai/blog/jev-1-14",
       "is_new": false
     },
     {
@@ -33,9 +38,14 @@
       "is_new": false
     },
     {
-      "title": "The Double Headed Stack Allocator",
-      "link": "https://blog.demofox.org/2026/10/03/the-double-headed-stack-allocator/",
+      "title": "Show HN: Indigene – Native plants for where you stand",
+      "link": "https://indigene.app/",
       "is_new": true
+    },
+    {
+      "title": "Catch a Bird – I made it for my own sanity",
+      "link": "https://catchabird.com",
+      "is_new": false
     },
     {
       "title": "Americans' social activity has steeply declined in the past 30 years",
@@ -43,18 +53,73 @@
       "is_new": false
     },
     {
-      "title": "your C is not standard C",
-      "link": "https://sebsite.pw/w/20261012-notstdc.html",
+      "title": "Donaldson Futuro House in Idyllwild, California, USA",
+      "link": "https://www.wowhaus.co.uk/2026/10/12/donaldson-futuro-house-in-idyllwild-california-usa/",
       "is_new": true
     },
     {
-      "title": "Catch a Bird – I made it for my own sanity",
-      "link": "https://catchabird.com",
+      "title": "It took me nine years to hack my Xbox 360",
+      "link": "https://kennedn.com/blog/posts/glitching/",
       "is_new": true
+    },
+    {
+      "title": "Aidlc: Adaptive workflow steering rules for AI coding agents",
+      "link": "https://github.com/awslabs/aidlc-workflows",
+      "is_new": true
+    },
+    {
+      "title": "The Toftwood Male Voice Choir: A Mystery Pressed in Vinyl",
+      "link": "https://ei3lh.eu/2026/10/11/the-toftwood-male-voice-choir-a-mystery-pressed-in-vinyl/",
+      "is_new": true
+    },
+    {
+      "title": "Sticky alpine flower confirms Darwin's 150-year-old carnivorous plant prediction",
+      "link": "https://phys.org/news/2026-08-sticky-alpine-darwin-year-carnivorous.html",
+      "is_new": true
+    },
+    {
+      "title": "The Double Headed Stack Allocator",
+      "link": "https://blog.demofox.org/2026/10/03/the-double-headed-stack-allocator/",
+      "is_new": false
     },
     {
       "title": "Better HTTP/1 connection reuse in Go 1.27",
       "link": "https://go.dev/blog/http-connection-reuse",
+      "is_new": false
+    },
+    {
+      "title": "Your C is not standard C",
+      "link": "https://sebsite.pw/w/20261012-notstdc.html",
+      "is_new": false
+    },
+    {
+      "title": "Show HN: Ito – Build Terminal UIs in Lua",
+      "link": "https://uji.sh/ito/",
+      "is_new": true
+    },
+    {
+      "title": "David Rudnick on \"borderline impossible\" process of designing Arsenal typeface",
+      "link": "https://www.itsnicethat.com/features/david-rudnick-johnnie-campbell-arsenal-rocastle-typeface-graphic-design-spotlight-121026",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: Flipflop, Iroh-powered persistent tunnels for filesharing",
+      "link": "https://github.com/andunieee/flipflop",
+      "is_new": true
+    },
+    {
+      "title": "Why is every rationalist blog post way too long?",
+      "link": "https://alexwennerberg.com/blog/2026-10-13-long.html",
+      "is_new": false
+    },
+    {
+      "title": "We’re releasing Jev 1.14.0 along with experimental features for dreamers",
+      "link": "https://typesafe.ai/blog/jev-1-14",
+      "is_new": false
+    },
+    {
+      "title": "Show HN: Petal, open-source CoScreen/ScreenHero finally free",
+      "link": "https://petal.live/",
       "is_new": false
     },
     {
@@ -63,20 +128,32 @@
       "is_new": false
     },
     {
+      "title": "AI was great until it was not",
+      "link": "https://thetheorygirlie.substack.com/p/ai-was-great-until-it-was-not",
+      "is_new": true
+    },
+    {
+      "title": "Ask HN: CAD for wood working with LLM support?",
+      "link": "https://news.ycombinator.com/item?id=50067325",
+      "is_new": false
+    },
+    {
+      "title": "How Amazon pushes up prices all across the Internet",
+      "link": "https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/",
+      "is_new": false
+    },
+    {
       "title": "Fancy Curl Sites",
       "link": "https://nytpu.com/gemlog/2026-03-18",
       "is_new": false
     },
     {
-      "title": "Ask HN: CAD for wood working with LLM support?",
-      "link": "https://news.ycombinator.com/item?id=50067325",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: Petal, open-source CoScreen/ScreenHero finally free",
-      "link": "https://petal.live/",
+      "title": "Phloem: Git history grown like a slime mold",
+      "link": "https://phloem.stemdeck.app/",
       "is_new": false
-    },
+    }
+  ],
+  "removed": [
     {
       "title": "Banks are now trying to offload the AI data center debt they just underwrote",
       "link": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/",
@@ -85,11 +162,6 @@
     {
       "title": "Fire at Starlink site in Bulgaria after suspected sabotage in Poland",
       "link": "https://dpa-international.com/politics/urn:newsml:dpa.com:20090101:261014-930-839530/",
-      "is_new": false
-    },
-    {
-      "title": "Phloem: Git history grown like a slime mold",
-      "link": "https://phloem.stemdeck.app/",
       "is_new": false
     },
     {
@@ -118,16 +190,6 @@
       "is_new": false
     },
     {
-      "title": "How Amazon pushes up prices all across the Internet",
-      "link": "https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/",
-      "is_new": false
-    },
-    {
-      "title": "Why is every rationalist blog post way too long?",
-      "link": "https://alexwennerberg.com/blog/2026-10-13-long.html",
-      "is_new": false
-    },
-    {
       "title": "Suicide rates highest ever among middle-aged men",
       "link": "https://www.telegraph.co.uk/news/2026/10/13/suicide-rates-highest-ever-among-middle-aged-men/",
       "is_new": false
@@ -150,33 +212,6 @@
     {
       "title": "Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW",
       "link": "https://github.com/timescale/pg_vectorsearch",
-      "is_new": false
-    }
-  ],
-  "removed": [
-    {
-      "title": "Iosevka is an open-source, sans-serif and slab-serif monospace font",
-      "link": "https://typeof.net/Iosevka/",
-      "is_new": false
-    },
-    {
-      "title": "LittleJS is 2D and 3D now",
-      "link": "https://frankforce.com/littlejs-is-2d-and-3d-now/",
-      "is_new": false
-    },
-    {
-      "title": "How I manage persistent Claude Code loops: Spool",
-      "link": "https://github.com/enes-alatas/spool",
-      "is_new": true
-    },
-    {
-      "title": "Webster’s Dictionary: The pleasure of finding things out (2014)",
-      "link": "https://jsomers.net/blog/dictionary",
-      "is_new": true
-    },
-    {
-      "title": "America didn't lose its rare earth industry, it sold it",
-      "link": "https://www.lawfaremedia.org/article/america-didn-t-lose-its-rare-earth-industry.-it-sold-it",
       "is_new": false
     }
   ]
