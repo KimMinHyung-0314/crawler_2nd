@@ -1,25 +1,100 @@
 {
-  "crawled_at": "2026-10-15 22:53",
-  "prev_crawled_at": "2026-10-15 17:47",
+  "crawled_at": "2026-10-16 02:58",
+  "prev_crawled_at": "2026-10-15 22:53",
   "items": [
+    {
+      "title": "Neural Networks Are Already Clean",
+      "link": "https://already-clean.goodfire.com/",
+      "is_new": true
+    },
+    {
+      "title": "Muse Spark Open",
+      "link": "https://research.meta.ai/blog/muse-spark-open",
+      "is_new": true
+    },
+    {
+      "title": "Wayland desktop for Linux with skeuomorphic design",
+      "link": "https://github.com/fyzugx/DEsk",
+      "is_new": true
+    },
+    {
+      "title": "Krea 3 – Frontier Image Model 4× faster than Nano Banana Pro",
+      "link": "https://www.krea.ai/krea-3",
+      "is_new": true
+    },
+    {
+      "title": "More on Anthropic's Scion ripping off Mononoke",
+      "link": "https://sunshowers.io/posts/anthropic-mononoke-2/",
+      "is_new": true
+    },
+    {
+      "title": "I Know Why the Mathematicians Weep",
+      "link": "https://www.derekthompson.org/p/i-know-why-the-mathematicians-weep",
+      "is_new": true
+    },
     {
       "title": "Libreboot 26.10 \"Ominous Olive\" released with UEFI, Chromebook support",
       "link": "https://libreboot.org/news/libreboot2610.html",
+      "is_new": false
+    },
+    {
+      "title": "Celebrating 70 Years of Fortran",
+      "link": "https://fortran-lang.org/news/2026/09-15-Fortran-birthday/",
+      "is_new": true
+    },
+    {
+      "title": "Simons Foundation launches $15M effort to help mathematicians navigate AI era",
+      "link": "https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/",
+      "is_new": true
+    },
+    {
+      "title": "Zero-Click Spyware Delivered via Targeted Ads: AdFection",
+      "link": "https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/",
       "is_new": true
     },
     {
       "title": "Show HN: Unfenced – Land for sale that borders public land",
       "link": "https://unfenced.land/",
+      "is_new": false
+    },
+    {
+      "title": "The technical actions needed to ensure the continuity of UTC",
+      "link": "https://www.bipm.org/en/cgpm-2026/resolution-5",
       "is_new": true
     },
     {
-      "title": "Israeli firm's digital ads enabling installation of 'zero-click' spyware",
-      "link": "https://www.theguardian.com/technology/2026/oct/15/israeli-firm-digital-ads-enabling-installation-of-zero-click-spyware-researchers-say",
+      "title": "Biscoff Cookies Were Supposed to Be Temporary. Then Passengers Fell in Love",
+      "link": "https://www.seriouseats.com/biscoff-history-12168161",
       "is_new": true
     },
     {
-      "title": "Things to know when you get cancer",
-      "link": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
+      "title": "Show HN: Proa – a Rust web framework with fast SSR and multi-target rendering",
+      "link": "https://proa.so/",
+      "is_new": true
+    },
+    {
+      "title": "Steam Client Is Now Faster Than Epic's New Vibe Coded Launcher",
+      "link": "https://respawnfirst.com/steam-client-is-now-faster-than-epics-new-vibe-coded-launcher/",
+      "is_new": true
+    },
+    {
+      "title": "Anthropic Update on Independent Evaluators",
+      "link": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
+      "is_new": true
+    },
+    {
+      "title": "Prompt injection in HTTP headers: what 217M web responses show",
+      "link": "https://www.signalscorps.com/blog/prompt-injection-in-http-headers/",
+      "is_new": true
+    },
+    {
+      "title": "An Israeli firm is sending zero-click spyware through online ads",
+      "link": "https://www.theverge.com/tech/1011956/discover-tech-zero-click-ads-spyware",
+      "is_new": true
+    },
+    {
+      "title": "C++26 Contracts: Introduction to Preconditions and Postconditions",
+      "link": "https://www.cppstories.com/2026/cpp26_contracts/",
       "is_new": false
     },
     {
@@ -28,8 +103,18 @@
       "is_new": false
     },
     {
-      "title": "The Haunted Toys R Us",
-      "link": "https://www.retroist.com/p/the-haunted-toys-r-us",
+      "title": "The largest eagle hunted unlike any other bird of prey (2021)",
+      "link": "https://www.nhm.ac.uk/discover/news/2021/december/worlds-largest-eagle-hunted-unlike-any-other-bird-of-prey.html",
+      "is_new": true
+    },
+    {
+      "title": "Game of Life – But Multiplayer, Hypermedia and Python",
+      "link": "https://stario.dev/apps/life",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: Sygal – Convert PDFs, scans and web pages to Markdown, locally",
+      "link": "https://sygal.app",
       "is_new": true
     },
     {
@@ -38,18 +123,40 @@
       "is_new": false
     },
     {
-      "title": "The First Social Network: In rural Argentina residents send messages w AM radio",
-      "link": "https://www.newyorker.com/magazine/2026/10/19/the-first-social-network",
-      "is_new": true
-    },
-    {
       "title": "Tiny Little Office",
       "link": "https://tinylittleoffice.com/",
       "is_new": false
     },
     {
-      "title": "C++26 Contracts: Introduction to Preconditions and Postconditions",
-      "link": "https://www.cppstories.com/2026/cpp26_contracts/",
+      "title": "The Haunted Toys R Us",
+      "link": "https://www.retroist.com/p/the-haunted-toys-r-us",
+      "is_new": false
+    },
+    {
+      "title": "GridSnap – an open-source Divvy-style window snapper for macOS",
+      "link": "https://github.com/konieczkow/gridsnap",
+      "is_new": true
+    },
+    {
+      "title": "The First Social Network: In rural Argentina residents send messages w AM radio",
+      "link": "https://www.newyorker.com/magazine/2026/10/19/the-first-social-network",
+      "is_new": false
+    },
+    {
+      "title": "Jev Meets the Trolley Problem",
+      "link": "https://zachlandes.com/trolley-problem/",
+      "is_new": true
+    },
+    {
+      "title": "Things to know when you get cancer",
+      "link": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
+      "is_new": false
+    }
+  ],
+  "removed": [
+    {
+      "title": "Israeli firm's digital ads enabling installation of 'zero-click' spyware",
+      "link": "https://www.theguardian.com/technology/2026/oct/15/israeli-firm-digital-ads-enabling-installation-of-zero-click-spyware-researchers-say",
       "is_new": true
     },
     {
@@ -150,53 +257,6 @@
     {
       "title": "Ask HN: CAD for wood working with LLM support?",
       "link": "https://news.ycombinator.com/item?id=50067325",
-      "is_new": false
-    }
-  ],
-  "removed": [
-    {
-      "title": "Creating a Garmin \"MCP\"",
-      "link": "https://jackantico.io/garmin-mcp",
-      "is_new": true
-    },
-    {
-      "title": "Aidlc: Adaptive workflow steering rules for AI coding agents",
-      "link": "https://github.com/awslabs/aidlc-workflows",
-      "is_new": true
-    },
-    {
-      "title": "The Toftwood Male Voice Choir: A Mystery Pressed in Vinyl",
-      "link": "https://ei3lh.eu/2026/10/11/the-toftwood-male-voice-choir-a-mystery-pressed-in-vinyl/",
-      "is_new": true
-    },
-    {
-      "title": "Why is every rationalist blog post way too long?",
-      "link": "https://alexwennerberg.com/blog/2026-10-13-long.html",
-      "is_new": false
-    },
-    {
-      "title": "We’re releasing Jev 1.14.0 along with experimental features for dreamers",
-      "link": "https://typesafe.ai/blog/jev-1-14",
-      "is_new": false
-    },
-    {
-      "title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
-      "link": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
-      "is_new": false
-    },
-    {
-      "title": "AI was great until it was not",
-      "link": "https://thetheorygirlie.substack.com/p/ai-was-great-until-it-was-not",
-      "is_new": true
-    },
-    {
-      "title": "Fancy Curl Sites",
-      "link": "https://nytpu.com/gemlog/2026-03-18",
-      "is_new": false
-    },
-    {
-      "title": "Phloem: Git history grown like a slime mold",
-      "link": "https://phloem.stemdeck.app/",
       "is_new": false
     }
   ]
