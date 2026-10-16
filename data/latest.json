@@ -1,6 +1,6 @@
 {
-  "crawled_at": "2026-10-16 06:09",
-  "prev_crawled_at": "2026-10-16 02:58",
+  "crawled_at": "2026-10-16 09:02",
+  "prev_crawled_at": "2026-10-16 06:09",
   "items": [
     {
       "title": "Muse Spark Open",
@@ -8,9 +8,9 @@
       "is_new": false
     },
     {
-      "title": "Why are we even doing all this?",
-      "link": "https://terrytao.wordpress.com/2026/10/15/why-are-we-even-doing-all-this/",
-      "is_new": true
+      "title": "What I Self-Host",
+      "link": "https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/",
+      "is_new": false
     },
     {
       "title": "Neural networks are clean",
@@ -18,14 +18,9 @@
       "is_new": false
     },
     {
-      "title": "New Withings Users Must Pay $99/Year for Apple Health Syncing",
-      "link": "https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts",
-      "is_new": true
-    },
-    {
-      "title": "E Ink Kaleido 4",
-      "link": "https://www.eink.com/news/detail/EInk-Launches-Latest-Version-of-Color-ePaper-Platform-E-Ink-Kaleido-4",
-      "is_new": true
+      "title": "Someone on Torrent Sites Kept Fucking with My Sonarr",
+      "link": "https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup",
+      "is_new": false
     },
     {
       "title": "Wayland desktop for Linux with skeuomorphic design",
@@ -33,8 +28,8 @@
       "is_new": false
     },
     {
-      "title": "Krea 3 – An image model built for editing at scale",
-      "link": "https://www.krea.ai/krea-3",
+      "title": "Jev meets the Trolley Problem",
+      "link": "https://zachlandes.com/trolley-problem/",
       "is_new": false
     },
     {
@@ -43,13 +38,23 @@
       "is_new": false
     },
     {
-      "title": "What I Self-Host",
-      "link": "https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/",
+      "title": "Krea 3 – An image model built for editing at scale",
+      "link": "https://www.krea.ai/krea-3",
+      "is_new": false
+    },
+    {
+      "title": "The 8-mile hole in a Hawaii national park that no one can explain",
+      "link": "https://www.sfgate.com/national-parks/article/hawaii-volcanoes-park-great-crack-22358849.php",
       "is_new": true
     },
     {
-      "title": "Jev meets the Trolley Problem",
-      "link": "https://zachlandes.com/trolley-problem/",
+      "title": "E Ink Kaleido 4",
+      "link": "https://www.eink.com/news/detail/EInk-Launches-Latest-Version-of-Color-ePaper-Platform-E-Ink-Kaleido-4",
+      "is_new": false
+    },
+    {
+      "title": "New Withings Users Must Pay $99/Year for Apple Health Syncing",
+      "link": "https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts",
       "is_new": false
     },
     {
@@ -58,14 +63,14 @@
       "is_new": false
     },
     {
-      "title": "Why I Wrote PGP (1991, revised 1999)",
-      "link": "https://philzimmermann.com/EN/essays/WhyIWrotePGP.html",
+      "title": "Major ICQ security hole (1998)",
+      "link": "https://opennet.ru/base/maillist/169.txt.html",
       "is_new": true
     },
     {
-      "title": "Someone on Torrent Sites Kept Fucking with My Sonarr",
-      "link": "https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup",
-      "is_new": true
+      "title": "Why I Wrote PGP (1991, revised 1999)",
+      "link": "https://philzimmermann.com/EN/essays/WhyIWrotePGP.html",
+      "is_new": false
     },
     {
       "title": "Delta’s Biscoff cookies were supposed to be temporary",
@@ -80,7 +85,7 @@
     {
       "title": "The engineering that allows articulated buses to bend",
       "link": "https://www.theautopian.com/you-wont-believe-the-incredible-engineering-that-allows-articulated-buses-to-bend/",
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Show HN: Unfenced – Land for sale that borders public land",
@@ -88,24 +93,9 @@
       "is_new": false
     },
     {
-      "title": "We are entering a period of overlapping crises",
-      "link": "https://hamishcampbell.com/we-are-entering-a-period-of-overlapping-crises/",
+      "title": "Using AI to reverse engineer hardware",
+      "link": "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/",
       "is_new": true
-    },
-    {
-      "title": "Simons Foundation launches $15M effort to help mathematicians navigate AI era",
-      "link": "https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/",
-      "is_new": false
-    },
-    {
-      "title": "The technical actions needed to ensure the continuity of UTC",
-      "link": "https://www.bipm.org/en/cgpm-2026/resolution-5",
-      "is_new": false
-    },
-    {
-      "title": "Show HN: Proa – A Rust web framework with fast SSR and multi-target rendering",
-      "link": "https://proa.so/",
-      "is_new": false
     },
     {
       "title": "Steam Client is now faster than Epic's new vibe coded launcher",
@@ -113,18 +103,18 @@
       "is_new": false
     },
     {
+      "title": "An Apology",
+      "link": "https://www.elevationlab.com/blogs/news/an-apology",
+      "is_new": false
+    },
+    {
       "title": "Show HN: Flipflop – Iroh-powered persistent tunnels for filesharing",
       "link": "https://github.com/andunieee/flipflop",
-      "is_new": true
+      "is_new": false
     },
     {
-      "title": "Rediscovering the Romance of Travel Clocks",
-      "link": "https://www.acollectedman.com/blogs/journal/rediscovering-travel-clocks",
-      "is_new": true
-    },
-    {
-      "title": "C++26 Contracts: Introduction to Preconditions and Postconditions",
-      "link": "https://www.cppstories.com/2026/cpp26_contracts/",
+      "title": "Simons Foundation launches $15M effort to help mathematicians navigate AI era",
+      "link": "https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/",
       "is_new": false
     },
     {
@@ -133,9 +123,14 @@
       "is_new": false
     },
     {
-      "title": "An Apology",
-      "link": "https://www.elevationlab.com/blogs/news/an-apology",
-      "is_new": true
+      "title": "Show HN: Proa – A Rust web framework with fast SSR and multi-target rendering",
+      "link": "https://proa.so/",
+      "is_new": false
+    },
+    {
+      "title": "C++26 Contracts: Introduction to Preconditions and Postconditions",
+      "link": "https://www.cppstories.com/2026/cpp26_contracts/",
+      "is_new": false
     },
     {
       "title": "I know why the mathematicians weep",
@@ -148,71 +143,41 @@
       "is_new": false
     },
     {
-      "title": "Show HN: My Terminal Themes Web App",
-      "link": "https://news.ycombinator.com/item?id=50098454",
-      "is_new": true
-    }
-  ],
-  "removed": [
-    {
-      "title": "More on Anthropic's Scion ripping off Mononoke",
-      "link": "https://sunshowers.io/posts/anthropic-mononoke-2/",
-      "is_new": true
-    },
-    {
-      "title": "Anthropic Update on Independent Evaluators",
-      "link": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
-      "is_new": true
-    },
-    {
       "title": "Prompt injection in HTTP headers: what 217M web responses show",
       "link": "https://www.signalscorps.com/blog/prompt-injection-in-http-headers/",
       "is_new": true
     },
     {
-      "title": "An Israeli firm is sending zero-click spyware through online ads",
-      "link": "https://www.theverge.com/tech/1011956/discover-tech-zero-click-ads-spyware",
-      "is_new": true
-    },
-    {
-      "title": "The largest eagle hunted unlike any other bird of prey (2021)",
-      "link": "https://www.nhm.ac.uk/discover/news/2021/december/worlds-largest-eagle-hunted-unlike-any-other-bird-of-prey.html",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: Sygal – Convert PDFs, scans and web pages to Markdown, locally",
-      "link": "https://sygal.app",
-      "is_new": true
-    },
-    {
-      "title": "OpenCode 2.0",
-      "link": "https://anoma.ly/notes/opencode-2-0/",
-      "is_new": false
-    },
-    {
-      "title": "Tiny Little Office",
-      "link": "https://tinylittleoffice.com/",
-      "is_new": false
-    },
-    {
-      "title": "The Haunted Toys R Us",
-      "link": "https://www.retroist.com/p/the-haunted-toys-r-us",
-      "is_new": false
-    },
-    {
-      "title": "GridSnap – an open-source Divvy-style window snapper for macOS",
-      "link": "https://github.com/konieczkow/gridsnap",
-      "is_new": true
-    },
-    {
-      "title": "The First Social Network: In rural Argentina residents send messages w AM radio",
-      "link": "https://www.newyorker.com/magazine/2026/10/19/the-first-social-network",
-      "is_new": false
-    },
-    {
       "title": "Things to know when you get cancer",
       "link": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
+      "is_new": true
+    }
+  ],
+  "removed": [
+    {
+      "title": "Why are we even doing all this?",
+      "link": "https://terrytao.wordpress.com/2026/10/15/why-are-we-even-doing-all-this/",
+      "is_new": true
+    },
+    {
+      "title": "We are entering a period of overlapping crises",
+      "link": "https://hamishcampbell.com/we-are-entering-a-period-of-overlapping-crises/",
+      "is_new": true
+    },
+    {
+      "title": "The technical actions needed to ensure the continuity of UTC",
+      "link": "https://www.bipm.org/en/cgpm-2026/resolution-5",
       "is_new": false
+    },
+    {
+      "title": "Rediscovering the Romance of Travel Clocks",
+      "link": "https://www.acollectedman.com/blogs/journal/rediscovering-travel-clocks",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: My Terminal Themes Web App",
+      "link": "https://news.ycombinator.com/item?id=50098454",
+      "is_new": true
     }
   ]
 }
