@@ -1,15 +1,70 @@
 {
-  "crawled_at": "2026-10-16 19:36",
-  "prev_crawled_at": "2026-10-16 14:23",
+  "crawled_at": "2026-10-17 00:09",
+  "prev_crawled_at": "2026-10-16 19:36",
   "items": [
     {
-      "title": "Meta’s new commercial terms will allow the scraping of news sites: experts",
-      "link": "https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/",
+      "title": "Hello Toronto – Waymo Is En Route",
+      "link": "https://waymo.com/blog/2026/10/waymo-in-toronto/",
+      "is_new": true
+    },
+    {
+      "title": "I Love Software Rendering",
+      "link": "https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/",
+      "is_new": true
+    },
+    {
+      "title": "Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD",
+      "link": "https://calif.io/research/big-fish",
+      "is_new": true
+    },
+    {
+      "title": "Redesigning Source Control at Anthropic",
+      "link": "https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic/",
+      "is_new": true
+    },
+    {
+      "title": "Gyroscopes Got So Small [video]",
+      "link": "https://www.youtube.com/watch?v=0Zc_6xB5W3Y",
+      "is_new": true
+    },
+    {
+      "title": "Apple ML Research: Muse Spark Open with MLX on Mac Studio",
+      "link": "https://machinelearning.apple.com/research/mlx-distributed-inference",
+      "is_new": true
+    },
+    {
+      "title": "Is Liquid Metal Killing Our PCs? Scientific Analysis and a 2-Year Test [video]",
+      "link": "https://www.youtube.com/watch?v=eF6bMSjPepM",
+      "is_new": true
+    },
+    {
+      "title": "Yet another way to invoke functions without parentheses",
+      "link": "https://blog.ikaes.de/yet-another-way-to-invoke-functions-without-parentheses/",
       "is_new": false
+    },
+    {
+      "title": "Show HN: Gemini 4 Argon plays StarCraft",
+      "link": "https://starskirmish.com/bench/v0-2/",
+      "is_new": true
+    },
+    {
+      "title": "How to Formalize All of Mathematics",
+      "link": "https://xenaproject.wordpress.com/2026/10/16/how-to-formalize-all-of-mathematics/",
+      "is_new": true
     },
     {
       "title": "Woman who rescued injured crow keeps getting 'thank-you gifts' from birds [video]",
       "link": "https://www.youtube.com/watch?v=sjNpfz4UzqU",
+      "is_new": false
+    },
+    {
+      "title": "The Economic Complexity of the Western Roman Empire",
+      "link": "https://www.michelecoscia.com/?p=2613",
+      "is_new": false
+    },
+    {
+      "title": "Meta’s new commercial terms will allow the scraping of news sites: experts",
+      "link": "https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/",
       "is_new": false
     },
     {
@@ -18,29 +73,49 @@
       "is_new": false
     },
     {
-      "title": "Yet another way to invoke functions without parentheses",
-      "link": "https://blog.ikaes.de/yet-another-way-to-invoke-functions-without-parentheses/",
+      "title": "RFC8950: Announce IPv4 with an IPv6 next-hop",
+      "link": "https://anuragbhatia.com/post/2026/06/rfc8950-announce-ipv4-with-ipv6-next-hop/",
       "is_new": true
     },
     {
-      "title": "The Economic Complexity of the Western Roman Empire",
-      "link": "https://www.michelecoscia.com/?p=2613",
+      "title": "AI-assisted PCB design for KiCad 10",
+      "link": "https://github.com/mixelpixx/Konnect",
       "is_new": true
     },
     {
-      "title": "The insider trading you're allowed to do",
-      "link": "https://coached.com/essays/the-insider-trading-youre-allowed-to-do/",
+      "title": "MS Paint Adds Freeform Rotation (2026)",
+      "link": "https://blogs.windows.com/windows-insider/2026/02/20/announcing-windows-11-insider-preview-build-28020-1619-canary-channel/",
       "is_new": true
     },
     {
-      "title": "RPKI now protects 70% of internet routes",
-      "link": "https://ipinfo.io/blog/rpki-protects-70-internet-routes",
-      "is_new": false
+      "title": "Bark: The Toll-Free BBS for 90s Teens",
+      "link": "https://blog.bityard.net/articles/2026/October/bark-the-toll-free-bbs-for-90s-teens",
+      "is_new": true
+    },
+    {
+      "title": "What was a Token Ring network?",
+      "link": "https://dfarq.homeip.net/what-was-a-token-ring-network/",
+      "is_new": true
+    },
+    {
+      "title": "How to make System 1 LLMs show System 2 competencies?",
+      "link": "https://onlinelibrary.wiley.com/doi/epdf/10.1002/aaai.70113",
+      "is_new": true
     },
     {
       "title": "Two-Stack Sliding-Window Aggregation",
       "link": "https://orlp.net/blog/two-stack-sliding-window-aggregation/",
+      "is_new": false
+    },
+    {
+      "title": "New 'Super Ice' 10 Times Stronger, Bringing It Close to the Strength of Concrete",
+      "link": "https://www.sciencealert.com/a-new-super-ice-is-10-times-stronger-bringing-it-close-to-the-strength-of-concrete",
       "is_new": true
+    },
+    {
+      "title": "The Folders Programming Language",
+      "link": "https://danieltemkin.com/esolangs/folders",
+      "is_new": false
     },
     {
       "title": "Neural networks are clean",
@@ -48,8 +123,40 @@
       "is_new": false
     },
     {
-      "title": "The Folders Programming Language",
-      "link": "https://danieltemkin.com/esolangs/folders",
+      "title": "RPKI now protects 70% of internet routes",
+      "link": "https://ipinfo.io/blog/rpki-protects-70-internet-routes",
+      "is_new": false
+    },
+    {
+      "title": "Jev meets the Trolley Problem",
+      "link": "https://zachlandes.com/trolley-problem/",
+      "is_new": false
+    },
+    {
+      "title": "Wayland desktop for Linux with skeuomorphic design",
+      "link": "https://github.com/fyzugx/DEsk",
+      "is_new": false
+    },
+    {
+      "title": "Seized server Autistici/Inventati (A/I) in Amsterdam for U.S. authorities",
+      "link": "https://nltimes.nl/2026/10/14/amsterdam-server-seized-request-us-authorities-antifa-allegations",
+      "is_new": true
+    },
+    {
+      "title": "Apple routed a graphite pipe through the iPhone Duo's hinge to dissipate heat",
+      "link": "https://www.pcmag.com/news/apple-routed-a-graphite-pipe-through-the-iphone-duos-hinge",
+      "is_new": false
+    },
+    {
+      "title": "Any window from your Mac, on your iPhone and iPad",
+      "link": "https://github.com/Saffsanity/sill",
+      "is_new": false
+    }
+  ],
+  "removed": [
+    {
+      "title": "The insider trading you're allowed to do",
+      "link": "https://coached.com/essays/the-insider-trading-youre-allowed-to-do/",
       "is_new": true
     },
     {
@@ -65,26 +172,6 @@
     {
       "title": "What I self-host",
       "link": "https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/",
-      "is_new": false
-    },
-    {
-      "title": "Wayland desktop for Linux with skeuomorphic design",
-      "link": "https://github.com/fyzugx/DEsk",
-      "is_new": false
-    },
-    {
-      "title": "Apple routed a graphite pipe through the iPhone Duo's hinge to dissipate heat",
-      "link": "https://www.pcmag.com/news/apple-routed-a-graphite-pipe-through-the-iphone-duos-hinge",
-      "is_new": false
-    },
-    {
-      "title": "Jev meets the Trolley Problem",
-      "link": "https://zachlandes.com/trolley-problem/",
-      "is_new": false
-    },
-    {
-      "title": "Any window from your Mac, on your iPhone and iPad",
-      "link": "https://github.com/Saffsanity/sill",
       "is_new": false
     },
     {
@@ -150,38 +237,6 @@
     {
       "title": "BeBox is a Haiku application that emulates Be Inc.'s BeBox",
       "link": "https://github.com/johnrash/bebox",
-      "is_new": false
-    }
-  ],
-  "removed": [
-    {
-      "title": "AdFection: Targeted ads turned into a pipeline for zero-click mercenary spyware",
-      "link": "https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/",
-      "is_new": false
-    },
-    {
-      "title": "Non-Determinism Doesn't Matter",
-      "link": "https://sklar.rocks/non-determinism-doesnt-matter/",
-      "is_new": true
-    },
-    {
-      "title": "4 Years of Ludicon",
-      "link": "https://www.ludicon.com/castano/blog/2026/10/4-years-of-ludicon/",
-      "is_new": true
-    },
-    {
-      "title": "E Ink Kaleido 4",
-      "link": "https://www.eink.com/news/detail/EInk-Launches-Latest-Version-of-Color-ePaper-Platform-E-Ink-Kaleido-4",
-      "is_new": false
-    },
-    {
-      "title": "Tesla makes cars that fly? [video]",
-      "link": "https://www.youtube.com/watch?v=7p5LxFdc-Qg",
-      "is_new": true
-    },
-    {
-      "title": "The engineering that allows articulated buses to bend",
-      "link": "https://www.theautopian.com/you-wont-believe-the-incredible-engineering-that-allows-articulated-buses-to-bend/",
       "is_new": false
     }
   ]
