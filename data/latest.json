@@ -1,31 +1,66 @@
 {
-  "crawled_at": "2026-10-17 04:15",
-  "prev_crawled_at": "2026-10-17 00:09",
+  "crawled_at": "2026-10-17 07:27",
+  "prev_crawled_at": "2026-10-17 04:15",
   "items": [
+    {
+      "title": "Tesla Roadster",
+      "link": "https://www.tesla.com/roadster",
+      "is_new": false
+    },
     {
       "title": "Claude reveals ECDSA curve origins",
       "link": "https://www.anthropic.com/research/ecdsa-curve-origins",
-      "is_new": true
+      "is_new": false
     },
     {
-      "title": "eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear",
-      "link": "https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear",
+      "title": "FLUX 3 Image Klein",
+      "link": "https://bfl.ai/blog/flux-3-image-klein",
       "is_new": true
     },
     {
       "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
       "link": "https://github.com/cobanov/PS5LM",
+      "is_new": false
+    },
+    {
+      "title": "eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear",
+      "link": "https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear",
+      "is_new": false
+    },
+    {
+      "title": "Waymo in Toronto",
+      "link": "https://waymo.com/blog/2026/10/waymo-in-toronto/",
       "is_new": true
     },
     {
-      "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
-      "link": "https://www.mercor.com/research/labor-index/benchmark-map/",
+      "title": "Wireless magnetic millirobots that deliver medicine inside the beating heart",
+      "link": "https://hub.jhu.edu/2026/10/12/magnetic-millirobots-cardiac-treatment/",
+      "is_new": true
+    },
+    {
+      "title": "C++26: The New Debugging Header",
+      "link": "https://www.sandordargo.com/blog/2026/09/30/cpp26-debugging",
+      "is_new": true
+    },
+    {
+      "title": "Designing more efficient quantum circuits with Claude",
+      "link": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
+      "is_new": false
+    },
+    {
+      "title": "You could have invented transformers from memory",
+      "link": "https://alexwang.ai/posts/associative-memory/",
+      "is_new": true
+    },
+    {
+      "title": "How the Claude Code team does code review",
+      "link": "https://claude.dev/blog/solving-code-review-at-anthropic/",
       "is_new": true
     },
     {
       "title": "JPEG XL vs. AVIF for web use-cases",
       "link": "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Apple ML Research: Muse Spark Open with MLX on Mac Studio",
@@ -33,9 +68,34 @@
       "is_new": false
     },
     {
-      "title": "Designing more efficient quantum circuits with Claude",
-      "link": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
+      "title": "I never authorized an integration that scans my secrets",
+      "link": "https://github.com/home-assistant/home-assistant.io/issues/49314",
       "is_new": true
+    },
+    {
+      "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
+      "link": "https://www.mercor.com/research/labor-index/benchmark-map/",
+      "is_new": false
+    },
+    {
+      "title": "Monte-Carlo Simulations",
+      "link": "https://eli.thegreenplace.net/2026/monte-carlo-simulations/",
+      "is_new": true
+    },
+    {
+      "title": "Piramidal (YC W24) Is Hiring",
+      "link": "https://job-boards.greenhouse.io/piramidalinc/jobs/4443102009",
+      "is_new": false
+    },
+    {
+      "title": "PGO or not PGO this is the dilemma. Step 2",
+      "link": "https://www.percona.com/blog/pgo-or-not-pgo-this-is-the-dilemma-step-2/",
+      "is_new": true
+    },
+    {
+      "title": "/dev/null: social network for developers",
+      "link": "https://dev-null.sh",
+      "is_new": false
     },
     {
       "title": "Show HN: Gemini 4 Argon plays StarCraft",
@@ -48,19 +108,9 @@
       "is_new": false
     },
     {
-      "title": "Piramidal (YC W24) Is Hiring",
-      "link": "https://job-boards.greenhouse.io/piramidalinc/jobs/4443102009",
-      "is_new": true
-    },
-    {
-      "title": "What on Earth Is Dekton?",
-      "link": "https://www.worksinprogress.news/p/porcelain",
-      "is_new": true
-    },
-    {
-      "title": "/dev/null: social network for developers",
-      "link": "https://dev-null.sh",
-      "is_new": true
+      "title": "GifCities",
+      "link": "https://gifcities.org/",
+      "is_new": false
     },
     {
       "title": "I Love Software Rendering",
@@ -68,24 +118,46 @@
       "is_new": false
     },
     {
-      "title": "Stolen Renoir paintings found hidden, and damaged, behind cinder block wall",
-      "link": "https://www.cbsnews.com/news/stolen-renoir-paintings-found-behind-wall-france/",
+      "title": "Show HN: Wonderhop – A daily game: guess what most people say, or what none do",
+      "link": "https://wonderhop.io/en/",
       "is_new": true
-    },
-    {
-      "title": "Tesla Roadster",
-      "link": "https://www.tesla.com/roadster",
-      "is_new": true
-    },
-    {
-      "title": "RFC8950: Announce IPv4 with an IPv6 next-hop",
-      "link": "https://anuragbhatia.com/post/2026/06/rfc8950-announce-ipv4-with-ipv6-next-hop/",
-      "is_new": false
     },
     {
       "title": "Anthropic assigned highest junk credit rating in June",
       "link": "https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d",
+      "is_new": false
+    },
+    {
+      "title": "What was a Token Ring network?",
+      "link": "https://dfarq.homeip.net/what-was-a-token-ring-network/",
       "is_new": true
+    },
+    {
+      "title": "Why harnesses matter for energy (and token) efficiency",
+      "link": "https://neuralwatt.com/news/why-harnesses-matter-for-energy-efficiency",
+      "is_new": true
+    },
+    {
+      "title": "Stolen Renoir paintings found hidden, and damaged, behind cinder block wall",
+      "link": "https://www.cbsnews.com/news/stolen-renoir-paintings-found-behind-wall-france/",
+      "is_new": false
+    },
+    {
+      "title": "The Fatal Flaw of 911",
+      "link": "https://www.themarshallproject.org/2026/10/16/911-book-policing-mental-health",
+      "is_new": true
+    },
+    {
+      "title": "What on Earth Is Dekton?",
+      "link": "https://www.worksinprogress.news/p/porcelain",
+      "is_new": false
+    }
+  ],
+  "removed": [
+    {
+      "title": "RFC8950: Announce IPv4 with an IPv6 next-hop",
+      "link": "https://anuragbhatia.com/post/2026/06/rfc8950-announce-ipv4-with-ipv6-next-hop/",
+      "is_new": false
     },
     {
       "title": "Woman who rescued injured crow keeps getting 'thank-you gifts' from birds [video]",
@@ -133,11 +205,6 @@
       "is_new": true
     },
     {
-      "title": "GifCities",
-      "link": "https://gifcities.org/",
-      "is_new": true
-    },
-    {
       "title": "Anthropic Console overcharged my card 100x due to internationalization input bug",
       "link": "https://news.ycombinator.com/item?id=50121562",
       "is_new": true
@@ -150,103 +217,6 @@
     {
       "title": "How gyroscopes got so small [video]",
       "link": "https://www.youtube.com/watch?v=0Zc_6xB5W3Y",
-      "is_new": false
-    }
-  ],
-  "removed": [
-    {
-      "title": "Hello Toronto – Waymo Is En Route",
-      "link": "https://waymo.com/blog/2026/10/waymo-in-toronto/",
-      "is_new": true
-    },
-    {
-      "title": "Redesigning Source Control at Anthropic",
-      "link": "https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic/",
-      "is_new": true
-    },
-    {
-      "title": "How to Formalize All of Mathematics",
-      "link": "https://xenaproject.wordpress.com/2026/10/16/how-to-formalize-all-of-mathematics/",
-      "is_new": true
-    },
-    {
-      "title": "Meta’s new commercial terms will allow the scraping of news sites: experts",
-      "link": "https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/",
-      "is_new": false
-    },
-    {
-      "title": "Muse Spark Open",
-      "link": "https://research.meta.ai/blog/muse-spark-open",
-      "is_new": false
-    },
-    {
-      "title": "AI-assisted PCB design for KiCad 10",
-      "link": "https://github.com/mixelpixx/Konnect",
-      "is_new": true
-    },
-    {
-      "title": "MS Paint Adds Freeform Rotation (2026)",
-      "link": "https://blogs.windows.com/windows-insider/2026/02/20/announcing-windows-11-insider-preview-build-28020-1619-canary-channel/",
-      "is_new": true
-    },
-    {
-      "title": "Bark: The Toll-Free BBS for 90s Teens",
-      "link": "https://blog.bityard.net/articles/2026/October/bark-the-toll-free-bbs-for-90s-teens",
-      "is_new": true
-    },
-    {
-      "title": "What was a Token Ring network?",
-      "link": "https://dfarq.homeip.net/what-was-a-token-ring-network/",
-      "is_new": true
-    },
-    {
-      "title": "Two-Stack Sliding-Window Aggregation",
-      "link": "https://orlp.net/blog/two-stack-sliding-window-aggregation/",
-      "is_new": false
-    },
-    {
-      "title": "New 'Super Ice' 10 Times Stronger, Bringing It Close to the Strength of Concrete",
-      "link": "https://www.sciencealert.com/a-new-super-ice-is-10-times-stronger-bringing-it-close-to-the-strength-of-concrete",
-      "is_new": true
-    },
-    {
-      "title": "The Folders Programming Language",
-      "link": "https://danieltemkin.com/esolangs/folders",
-      "is_new": false
-    },
-    {
-      "title": "Neural networks are clean",
-      "link": "https://already-clean.goodfire.com/",
-      "is_new": false
-    },
-    {
-      "title": "RPKI now protects 70% of internet routes",
-      "link": "https://ipinfo.io/blog/rpki-protects-70-internet-routes",
-      "is_new": false
-    },
-    {
-      "title": "Jev meets the Trolley Problem",
-      "link": "https://zachlandes.com/trolley-problem/",
-      "is_new": false
-    },
-    {
-      "title": "Wayland desktop for Linux with skeuomorphic design",
-      "link": "https://github.com/fyzugx/DEsk",
-      "is_new": false
-    },
-    {
-      "title": "Seized server Autistici/Inventati (A/I) in Amsterdam for U.S. authorities",
-      "link": "https://nltimes.nl/2026/10/14/amsterdam-server-seized-request-us-authorities-antifa-allegations",
-      "is_new": true
-    },
-    {
-      "title": "Apple routed a graphite pipe through the iPhone Duo's hinge to dissipate heat",
-      "link": "https://www.pcmag.com/news/apple-routed-a-graphite-pipe-through-the-iphone-duos-hinge",
-      "is_new": false
-    },
-    {
-      "title": "Any window from your Mac, on your iPhone and iPad",
-      "link": "https://github.com/Saffsanity/sill",
       "is_new": false
     }
   ]
