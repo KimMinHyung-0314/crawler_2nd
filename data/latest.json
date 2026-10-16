@@ -1,30 +1,45 @@
 {
-  "crawled_at": "2026-10-16 14:23",
-  "prev_crawled_at": "2026-10-16 09:02",
+  "crawled_at": "2026-10-16 19:36",
+  "prev_crawled_at": "2026-10-16 14:23",
   "items": [
+    {
+      "title": "Meta’s new commercial terms will allow the scraping of news sites: experts",
+      "link": "https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/",
+      "is_new": false
+    },
+    {
+      "title": "Woman who rescued injured crow keeps getting 'thank-you gifts' from birds [video]",
+      "link": "https://www.youtube.com/watch?v=sjNpfz4UzqU",
+      "is_new": false
+    },
     {
       "title": "Muse Spark Open",
       "link": "https://research.meta.ai/blog/muse-spark-open",
       "is_new": false
     },
     {
-      "title": "Business accounts will consent to Meta scraping their websites Starting Oct. 30",
-      "link": "https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/",
+      "title": "Yet another way to invoke functions without parentheses",
+      "link": "https://blog.ikaes.de/yet-another-way-to-invoke-functions-without-parentheses/",
       "is_new": true
     },
     {
-      "title": "Any window from your Mac, on your iPhone and iPad",
-      "link": "https://github.com/Saffsanity/sill",
+      "title": "The Economic Complexity of the Western Roman Empire",
+      "link": "https://www.michelecoscia.com/?p=2613",
+      "is_new": true
+    },
+    {
+      "title": "The insider trading you're allowed to do",
+      "link": "https://coached.com/essays/the-insider-trading-youre-allowed-to-do/",
       "is_new": true
     },
     {
       "title": "RPKI now protects 70% of internet routes",
       "link": "https://ipinfo.io/blog/rpki-protects-70-internet-routes",
-      "is_new": true
+      "is_new": false
     },
     {
-      "title": "'500-hour' Order of the Sinking Star is as complex and exhausting as it sounds",
-      "link": "https://www.polygon.com/order-of-the-sinking-star-impressions/",
+      "title": "Two-Stack Sliding-Window Aggregation",
+      "link": "https://orlp.net/blog/two-stack-sliding-window-aggregation/",
       "is_new": true
     },
     {
@@ -33,18 +48,33 @@
       "is_new": false
     },
     {
+      "title": "The Folders Programming Language",
+      "link": "https://danieltemkin.com/esolangs/folders",
+      "is_new": true
+    },
+    {
+      "title": "New York City's iconic horse-drawn carriages expected to take their last trot",
+      "link": "https://www.cnn.com/2026/10/13/us/nyc-horse-carriage-ban",
+      "is_new": true
+    },
+    {
+      "title": "New Withings Users Must Pay $99/Year for Apple Health Syncing",
+      "link": "https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts",
+      "is_new": false
+    },
+    {
       "title": "What I self-host",
       "link": "https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/",
       "is_new": false
     },
     {
-      "title": "Apple routed a graphite pipe through the iPhone Duo's hinge to dissipate heat",
-      "link": "https://www.pcmag.com/news/apple-routed-a-graphite-pipe-through-the-iphone-duos-hinge",
-      "is_new": true
-    },
-    {
       "title": "Wayland desktop for Linux with skeuomorphic design",
       "link": "https://github.com/fyzugx/DEsk",
+      "is_new": false
+    },
+    {
+      "title": "Apple routed a graphite pipe through the iPhone Duo's hinge to dissipate heat",
+      "link": "https://www.pcmag.com/news/apple-routed-a-graphite-pipe-through-the-iphone-duos-hinge",
       "is_new": false
     },
     {
@@ -53,18 +83,18 @@
       "is_new": false
     },
     {
-      "title": "BIPM decides to stop adding leap seconds to UTC",
-      "link": "https://www.bipm.org/en/cgpm-2026/resolution-5",
-      "is_new": true
-    },
-    {
-      "title": "AdFection: Targeted ads turned into a pipeline for zero-click mercenary spyware",
-      "link": "https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/",
+      "title": "Any window from your Mac, on your iPhone and iPad",
+      "link": "https://github.com/Saffsanity/sill",
       "is_new": false
     },
     {
-      "title": "New Withings Users Must Pay $99/Year for Apple Health Syncing",
-      "link": "https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts",
+      "title": "BIPM decides to stop adding leap seconds to UTC",
+      "link": "https://www.bipm.org/en/cgpm-2026/resolution-5",
+      "is_new": false
+    },
+    {
+      "title": "'500-hour' Order of the Sinking Star is as complex and exhausting as it sounds",
+      "link": "https://www.polygon.com/order-of-the-sinking-star-impressions/",
       "is_new": false
     },
     {
@@ -73,23 +103,8 @@
       "is_new": false
     },
     {
-      "title": "Woman who rescued injured crow keeps getting 'thank-you gifts' from birds [video]",
-      "link": "https://www.youtube.com/watch?v=sjNpfz4UzqU",
-      "is_new": true
-    },
-    {
-      "title": "Non-Determinism Doesn't Matter",
-      "link": "https://sklar.rocks/non-determinism-doesnt-matter/",
-      "is_new": true
-    },
-    {
-      "title": "Comparing Chromium Development at Google and Igalia",
-      "link": "https://lwn.net/Articles/1094721/",
-      "is_new": true
-    },
-    {
-      "title": "Krea 3 – An image model built for editing at scale",
-      "link": "https://www.krea.ai/krea-3",
+      "title": "Thank You, Deno",
+      "link": "https://www.vlt.io/blog/competition-keeps-javascript-moving",
       "is_new": false
     },
     {
@@ -98,19 +113,14 @@
       "is_new": false
     },
     {
-      "title": "BeBox is a Haiku application that emulates Be Inc.'s BeBox",
-      "link": "https://github.com/johnrash/bebox",
-      "is_new": true
+      "title": "Krea 3 – An image model built for editing at scale",
+      "link": "https://www.krea.ai/krea-3",
+      "is_new": false
     },
     {
-      "title": "4 Years of Ludicon",
-      "link": "https://www.ludicon.com/castano/blog/2026/10/4-years-of-ludicon/",
-      "is_new": true
-    },
-    {
-      "title": "Thank You, Deno",
-      "link": "https://www.vlt.io/blog/competition-keeps-javascript-moving",
-      "is_new": true
+      "title": "Comparing Chromium Development at Google and Igalia",
+      "link": "https://lwn.net/Articles/1094721/",
+      "is_new": false
     },
     {
       "title": "Why I Wrote PGP (1991, revised 1999)",
@@ -123,18 +133,45 @@
       "is_new": false
     },
     {
+      "title": "Major ICQ security hole (1998)",
+      "link": "https://opennet.ru/base/maillist/169.txt.html",
+      "is_new": false
+    },
+    {
       "title": "Delta’s Biscoff cookies were supposed to be temporary",
       "link": "https://www.seriouseats.com/biscoff-history-12168161",
       "is_new": false
     },
     {
-      "title": "E Ink Kaleido 4",
-      "link": "https://www.eink.com/news/detail/EInk-Launches-Latest-Version-of-Color-ePaper-Platform-E-Ink-Kaleido-4",
+      "title": "Using AI to reverse engineer hardware",
+      "link": "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/",
       "is_new": false
     },
     {
-      "title": "Major ICQ security hole (1998)",
-      "link": "https://opennet.ru/base/maillist/169.txt.html",
+      "title": "BeBox is a Haiku application that emulates Be Inc.'s BeBox",
+      "link": "https://github.com/johnrash/bebox",
+      "is_new": false
+    }
+  ],
+  "removed": [
+    {
+      "title": "AdFection: Targeted ads turned into a pipeline for zero-click mercenary spyware",
+      "link": "https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/",
+      "is_new": false
+    },
+    {
+      "title": "Non-Determinism Doesn't Matter",
+      "link": "https://sklar.rocks/non-determinism-doesnt-matter/",
+      "is_new": true
+    },
+    {
+      "title": "4 Years of Ludicon",
+      "link": "https://www.ludicon.com/castano/blog/2026/10/4-years-of-ludicon/",
+      "is_new": true
+    },
+    {
+      "title": "E Ink Kaleido 4",
+      "link": "https://www.eink.com/news/detail/EInk-Launches-Latest-Version-of-Color-ePaper-Platform-E-Ink-Kaleido-4",
       "is_new": false
     },
     {
@@ -143,81 +180,9 @@
       "is_new": true
     },
     {
-      "title": "Using AI to reverse engineer hardware",
-      "link": "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/",
-      "is_new": false
-    },
-    {
       "title": "The engineering that allows articulated buses to bend",
       "link": "https://www.theautopian.com/you-wont-believe-the-incredible-engineering-that-allows-articulated-buses-to-bend/",
       "is_new": false
-    }
-  ],
-  "removed": [
-    {
-      "title": "The 8-mile hole in a Hawaii national park that no one can explain",
-      "link": "https://www.sfgate.com/national-parks/article/hawaii-volcanoes-park-great-crack-22358849.php",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: Unfenced – Land for sale that borders public land",
-      "link": "https://unfenced.land/",
-      "is_new": false
-    },
-    {
-      "title": "Steam Client is now faster than Epic's new vibe coded launcher",
-      "link": "https://respawnfirst.com/steam-client-is-now-faster-than-epics-new-vibe-coded-launcher/",
-      "is_new": false
-    },
-    {
-      "title": "An Apology",
-      "link": "https://www.elevationlab.com/blogs/news/an-apology",
-      "is_new": false
-    },
-    {
-      "title": "Show HN: Flipflop – Iroh-powered persistent tunnels for filesharing",
-      "link": "https://github.com/andunieee/flipflop",
-      "is_new": false
-    },
-    {
-      "title": "Simons Foundation launches $15M effort to help mathematicians navigate AI era",
-      "link": "https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/",
-      "is_new": false
-    },
-    {
-      "title": "Wanted to download an ISO, ended up writing a kernel exploit",
-      "link": "https://blog.dfb.sh/blog/eap770-root-for-two-zeros/",
-      "is_new": false
-    },
-    {
-      "title": "Show HN: Proa – A Rust web framework with fast SSR and multi-target rendering",
-      "link": "https://proa.so/",
-      "is_new": false
-    },
-    {
-      "title": "C++26 Contracts: Introduction to Preconditions and Postconditions",
-      "link": "https://www.cppstories.com/2026/cpp26_contracts/",
-      "is_new": false
-    },
-    {
-      "title": "I know why the mathematicians weep",
-      "link": "https://www.derekthompson.org/p/i-know-why-the-mathematicians-weep",
-      "is_new": false
-    },
-    {
-      "title": "Game of Life – But Multiplayer, Hypermedia and Python",
-      "link": "https://stario.dev/apps/life",
-      "is_new": false
-    },
-    {
-      "title": "Prompt injection in HTTP headers: what 217M web responses show",
-      "link": "https://www.signalscorps.com/blog/prompt-injection-in-http-headers/",
-      "is_new": true
-    },
-    {
-      "title": "Things to know when you get cancer",
-      "link": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
-      "is_new": true
     }
   ]
 }
