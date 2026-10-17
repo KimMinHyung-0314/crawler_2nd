@@ -1,15 +1,15 @@
 {
-  "crawled_at": "2026-10-17 10:00",
-  "prev_crawled_at": "2026-10-17 07:27",
+  "crawled_at": "2026-10-17 15:30",
+  "prev_crawled_at": "2026-10-17 10:00",
   "items": [
+    {
+      "title": "Ultramarine 1 Flash",
+      "link": "https://www.paperinstruments.com/ultramarine",
+      "is_new": true
+    },
     {
       "title": "Tesla Roadster",
       "link": "https://www.tesla.com/roadster",
-      "is_new": false
-    },
-    {
-      "title": "Claude reveals ECDSA curve origins",
-      "link": "https://www.anthropic.com/research/ecdsa-curve-origins",
       "is_new": false
     },
     {
@@ -18,13 +18,8 @@
       "is_new": false
     },
     {
-      "title": "FLUX 3 Image Klein",
-      "link": "https://bfl.ai/blog/flux-3-image-klein",
-      "is_new": false
-    },
-    {
-      "title": "Waymo in Toronto",
-      "link": "https://waymo.com/blog/2026/10/waymo-in-toronto/",
+      "title": "Claude reveals ECDSA curve origins",
+      "link": "https://www.anthropic.com/research/ecdsa-curve-origins",
       "is_new": false
     },
     {
@@ -33,18 +28,18 @@
       "is_new": false
     },
     {
-      "title": "eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear",
-      "link": "https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear",
-      "is_new": false
+      "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+      "link": "https://llmspeed.dev/",
+      "is_new": true
     },
     {
-      "title": "Wireless magnetic millirobots that deliver medicine inside the beating heart",
-      "link": "https://hub.jhu.edu/2026/10/12/magnetic-millirobots-cardiac-treatment/",
-      "is_new": false
+      "title": "California is building a $400M shield for Yosemite's most dangerous highway",
+      "link": "https://www.sfchronicle.com/california/article/yosemite-national-park-highway-140-22463847.php",
+      "is_new": true
     },
     {
-      "title": "Designing more efficient quantum circuits with Claude",
-      "link": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
+      "title": "FLUX 3 Image Klein",
+      "link": "https://bfl.ai/blog/flux-3-image-klein",
       "is_new": false
     },
     {
@@ -53,8 +48,58 @@
       "is_new": false
     },
     {
+      "title": "eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear",
+      "link": "https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear",
+      "is_new": false
+    },
+    {
+      "title": "Butlerian Jihad",
+      "link": "https://dune.fandom.com/wiki/Butlerian_Jihad",
+      "is_new": true
+    },
+    {
+      "title": "0/1 Knapsack Problem in PyTorch",
+      "link": "https://jedrzej.maczan.pl/2025_11_21_dp_knapsack_sliding_hirschberg",
+      "is_new": true
+    },
+    {
       "title": "JPEG XL vs. AVIF for web use-cases",
       "link": "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
+      "is_new": false
+    },
+    {
+      "title": "A story of WiFi secrets, UART lockdowns and a damaged flash memory chip",
+      "link": "https://adepts.of0x.cc/eufy-homestation2-firmware/",
+      "is_new": true
+    },
+    {
+      "title": "Designing more efficient quantum circuits with Claude",
+      "link": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
+      "is_new": false
+    },
+    {
+      "title": "I built the RealWorld app in Lean 4",
+      "link": "https://leangineer.com/blog/realworld-in-lean/",
+      "is_new": false
+    },
+    {
+      "title": "Flexport Is Hiring a Biz Ops Leader in Office of CEO",
+      "link": "https://www.flexport.com/company/careers/",
+      "is_new": true
+    },
+    {
+      "title": "Wireless magnetic millirobots that deliver medicine inside the beating heart",
+      "link": "https://hub.jhu.edu/2026/10/12/magnetic-millirobots-cardiac-treatment/",
+      "is_new": false
+    },
+    {
+      "title": "\"In every study that considered the question\"",
+      "link": "https://unsung.aresluna.org/in-every-study-that-considered-the-question/",
+      "is_new": true
+    },
+    {
+      "title": "Monte-Carlo Simulations",
+      "link": "https://eli.thegreenplace.net/2026/monte-carlo-simulations/",
       "is_new": false
     },
     {
@@ -63,9 +108,9 @@
       "is_new": false
     },
     {
-      "title": "Nine-Inch Snails",
-      "link": "https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/",
-      "is_new": true
+      "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
+      "link": "https://www.mercor.com/research/labor-index/benchmark-map/",
+      "is_new": false
     },
     {
       "title": "How the Claude Code team does code review",
@@ -73,23 +118,50 @@
       "is_new": false
     },
     {
-      "title": "Monte-Carlo Simulations",
-      "link": "https://eli.thegreenplace.net/2026/monte-carlo-simulations/",
-      "is_new": false
-    },
-    {
-      "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
-      "link": "https://www.mercor.com/research/labor-index/benchmark-map/",
-      "is_new": false
-    },
-    {
-      "title": "I never authorized an integration that scans my secrets",
-      "link": "https://github.com/home-assistant/home-assistant.io/issues/49314",
+      "title": "Show HN: Gemini 4 Argon plays StarCraft",
+      "link": "https://starskirmish.com/bench/v0-2/",
       "is_new": false
     },
     {
       "title": "Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD",
       "link": "https://calif.io/research/big-fish",
+      "is_new": false
+    },
+    {
+      "title": "Nine-Inch Snails",
+      "link": "https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/",
+      "is_new": false
+    },
+    {
+      "title": "I love software rendering",
+      "link": "https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/",
+      "is_new": false
+    },
+    {
+      "title": "New 'super ice' 10 times stronger, bringing it close to the strength of concrete",
+      "link": "https://www.sciencealert.com/a-new-super-ice-is-10-times-stronger-bringing-it-close-to-the-strength-of-concrete",
+      "is_new": true
+    },
+    {
+      "title": "Stolen Renoir paintings found hidden, and damaged, behind cinder block wall",
+      "link": "https://www.cbsnews.com/news/stolen-renoir-paintings-found-behind-wall-france/",
+      "is_new": false
+    },
+    {
+      "title": "Show HN: Wonderhop – A daily game: guess what most people say, or what none do",
+      "link": "https://wonderhop.io/en/",
+      "is_new": false
+    }
+  ],
+  "removed": [
+    {
+      "title": "Waymo in Toronto",
+      "link": "https://waymo.com/blog/2026/10/waymo-in-toronto/",
+      "is_new": false
+    },
+    {
+      "title": "I never authorized an integration that scans my secrets",
+      "link": "https://github.com/home-assistant/home-assistant.io/issues/49314",
       "is_new": false
     },
     {
@@ -103,38 +175,13 @@
       "is_new": false
     },
     {
-      "title": "Show HN: Gemini 4 Argon plays StarCraft",
-      "link": "https://starskirmish.com/bench/v0-2/",
-      "is_new": false
-    },
-    {
       "title": "Piramidal (YC W24) Is Hiring",
       "link": "https://job-boards.greenhouse.io/piramidalinc/jobs/4443102009",
       "is_new": false
     },
     {
-      "title": "I built the RealWorld app in Lean 4",
-      "link": "https://leangineer.com/blog/realworld-in-lean/",
-      "is_new": true
-    },
-    {
       "title": "PGO or not PGO this is the dilemma. Step 2",
       "link": "https://www.percona.com/blog/pgo-or-not-pgo-this-is-the-dilemma-step-2/",
-      "is_new": false
-    },
-    {
-      "title": "Stolen Renoir paintings found hidden, and damaged, behind cinder block wall",
-      "link": "https://www.cbsnews.com/news/stolen-renoir-paintings-found-behind-wall-france/",
-      "is_new": false
-    },
-    {
-      "title": "Show HN: Wonderhop – A daily game: guess what most people say, or what none do",
-      "link": "https://wonderhop.io/en/",
-      "is_new": false
-    },
-    {
-      "title": "I Love Software Rendering",
-      "link": "https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/",
       "is_new": false
     },
     {
@@ -151,18 +198,6 @@
       "title": "GifCities",
       "link": "https://gifcities.org/",
       "is_new": false
-    }
-  ],
-  "removed": [
-    {
-      "title": "Anthropic assigned highest junk credit rating in June",
-      "link": "https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d",
-      "is_new": false
-    },
-    {
-      "title": "The Fatal Flaw of 911",
-      "link": "https://www.themarshallproject.org/2026/10/16/911-book-policing-mental-health",
-      "is_new": true
     }
   ]
 }
