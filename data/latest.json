@@ -1,16 +1,46 @@
 {
-  "crawled_at": "2026-10-18 02:44",
-  "prev_crawled_at": "2026-10-17 23:53",
+  "crawled_at": "2026-10-18 05:02",
+  "prev_crawled_at": "2026-10-18 02:44",
   "items": [
     {
-      "title": "GLP-1 may slow biological aging",
-      "link": "https://www.universityofcalifornia.edu/news/new-study-shows-popular-glp-1-weight-loss-drug-may-slow-biological-aging",
+      "title": "Bleached corals thrive within days when touching healthy neighbour",
+      "link": "https://www.nature.com/articles/d41586-026-03266-x",
       "is_new": true
     },
     {
-      "title": "Making Chicken Transparent Using Dorito Dust",
+      "title": "Gold is now the top U.S. export",
+      "link": "https://www.numismaticnews.net/gold-now-top-u-s-export",
+      "is_new": true
+    },
+    {
+      "title": "Source code of the Estonian online voting system",
+      "link": "https://github.com/valimised/ivxv",
+      "is_new": true
+    },
+    {
+      "title": "The Commodore 64 hardware simulator: break chips and pins, see the results",
+      "link": "https://github.com/antirez/c64-hw-simulator",
+      "is_new": true
+    },
+    {
+      "title": "Furifont, a Japanese font that shows furigana",
+      "link": "https://furifont.antfu.me/",
+      "is_new": false
+    },
+    {
+      "title": "Making chicken transparent using Dorito dust",
       "link": "https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using",
       "is_new": false
+    },
+    {
+      "title": "Dam removals are bringing fish back across the northeastern United States",
+      "link": "https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/",
+      "is_new": true
+    },
+    {
+      "title": "Development statistics for the 7.2 kernel",
+      "link": "https://lwn.net/Articles/1088776/",
+      "is_new": true
     },
     {
       "title": "DeepSeek-v4.1-Flash-1017",
@@ -18,8 +48,38 @@
       "is_new": false
     },
     {
-      "title": "Furifont, a Japanese font that shows furigana",
-      "link": "https://furifont.antfu.me/",
+      "title": "Pele – Mermaid diagrams as themeable SVG",
+      "link": "https://pele.run/",
+      "is_new": true
+    },
+    {
+      "title": "AI Can Write the Code. Who Verifies It?",
+      "link": "https://mihaisplace.com/blog/ai-can-write-the-code-who-verifies-it",
+      "is_new": true
+    },
+    {
+      "title": "Artie (YC S23) Is Hiring Enterprise AES and Senior Engineers",
+      "link": "https://www.artie.com/careers",
+      "is_new": false
+    },
+    {
+      "title": "tsc-ts: TypeScript written in TypeScript",
+      "link": "https://github.com/vercel-labs/tsc-ts",
+      "is_new": true
+    },
+    {
+      "title": "Pattern Matching Beats Narrative Reasoning",
+      "link": "https://blog.scottstevenson.net/p/pattern-matching-beats-narrative",
+      "is_new": true
+    },
+    {
+      "title": "Microsoft and CMU Team Up to Train Early Career Software Engineers",
+      "link": "https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise",
+      "is_new": true
+    },
+    {
+      "title": "OpenCode Hacked: User credentials leaked",
+      "link": "https://twitter.com/opencode/status/2111516673953935833",
       "is_new": true
     },
     {
@@ -28,23 +88,80 @@
       "is_new": false
     },
     {
+      "title": "Vintage Cassettes: 1963-2010",
+      "link": "http://vintagecassettes.com/",
+      "is_new": true
+    },
+    {
+      "title": "I Became a Citizen of Japan",
+      "link": "https://www.derekwessman.com/blog-1/natural",
+      "is_new": true
+    },
+    {
+      "title": "Laser Fault Injection on a Budget: RP2350 Edition",
+      "link": "https://courk.cc/rp2350-challenge-laser",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: High-quality duck audio synthesizer",
+      "link": "https://celphase.github.io/duck-pond/",
+      "is_new": true
+    },
+    {
       "title": "Rendering pretty sky in Around The World game",
       "link": "https://frozenfractal.com/blog/2026/10/12/around-the-world-34-a-pretty-sky/",
       "is_new": false
     },
     {
-      "title": "Artie (YC S23) Is Hiring Enterprise AES and Senior Engineers",
-      "link": "https://www.artie.com/careers",
+      "title": "You could have invented transformers from memory",
+      "link": "https://alexwang.ai/posts/associative-memory/",
+      "is_new": false
+    },
+    {
+      "title": "Owner of Former UWS Barbecue Restaurant Indicted for Wage Theft: Manhattan DA",
+      "link": "https://www.westsiderag.com/2026/10/08/owner-of-former-uws-barbecue-restaurant-indicted-for-wage-theft-manhattan-da",
+      "is_new": true
+    },
+    {
+      "title": "A skeptic's first contact with Kubernetes (2024)",
+      "link": "https://blog.davidv.dev/posts/first-contact-with-k8s/",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: Parin – A 2D game engine between raylib and Godot, written in Dlang",
+      "link": "https://github.com/Kapendev/parin",
+      "is_new": true
+    },
+    {
+      "title": "A Tudor life in the time of plague (2020)",
+      "link": "https://www.historytoday.com/archive/history-matters/tudor-life-time-plague",
+      "is_new": false
+    },
+    {
+      "title": "Show HN: Esp32sim – Run ESP32 firmware in the browser",
+      "link": "https://github.com/mikroverk/esp32sim",
+      "is_new": false
+    },
+    {
+      "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+      "link": "https://llmspeed.dev/",
+      "is_new": false
+    },
+    {
+      "title": "Show HN: Things to Do API",
+      "link": "https://thingstodoapi.com/",
+      "is_new": true
+    }
+  ],
+  "removed": [
+    {
+      "title": "GLP-1 may slow biological aging",
+      "link": "https://www.universityofcalifornia.edu/news/new-study-shows-popular-glp-1-weight-loss-drug-may-slow-biological-aging",
       "is_new": true
     },
     {
       "title": "Amazon uses union-busting AI surveillance to monitor union risk in UK warehouses",
       "link": "https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/",
-      "is_new": true
-    },
-    {
-      "title": "A Tudor Life in the Time of Plague",
-      "link": "https://www.historytoday.com/archive/history-matters/tudor-life-time-plague",
       "is_new": true
     },
     {
@@ -61,16 +178,6 @@
       "title": "The First Candid",
       "link": "https://www.newyorker.com/magazine/2026/10/19/the-first-candid",
       "is_new": false
-    },
-    {
-      "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
-      "link": "https://llmspeed.dev/",
-      "is_new": false
-    },
-    {
-      "title": "Show HN: Esp32sim – Run ESP32 firmware in the browser",
-      "link": "https://github.com/mikroverk/esp32sim",
-      "is_new": true
     },
     {
       "title": "MapQuest will now show you where Flock cameras are in your neighborhood",
@@ -101,11 +208,6 @@
       "title": "Tell HN: Remember to migrate away from .name domain",
       "link": "https://news.ycombinator.com/item?id=50089577",
       "is_new": true
-    },
-    {
-      "title": "You could have invented transformers from memory",
-      "link": "https://alexwang.ai/posts/associative-memory/",
-      "is_new": false
     },
     {
       "title": "\"Tame\" boar and deer are instinctively adapting to the wolf in the Netherlands",
@@ -150,73 +252,6 @@
     {
       "title": "The cryptoint library (2025) [pdf]",
       "link": "https://cr.yp.to/papers/cryptoint-20250424.pdf",
-      "is_new": false
-    }
-  ],
-  "removed": [
-    {
-      "title": "DeepSeek: DeepSeek v4.1 Flash 1017",
-      "link": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
-      "is_new": false
-    },
-    {
-      "title": "Tesla Roadster",
-      "link": "https://www.tesla.com/roadster",
-      "is_new": false
-    },
-    {
-      "title": "Orbital Angular Momentum of Light",
-      "link": "https://en.wikipedia.org/wiki/Orbital_angular_momentum_of_light",
-      "is_new": true
-    },
-    {
-      "title": "JPEG XL vs. AVIF for web use-cases",
-      "link": "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
-      "is_new": false
-    },
-    {
-      "title": "Designing more efficient quantum circuits with Claude",
-      "link": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
-      "is_new": false
-    },
-    {
-      "title": "Nine-Inch Snails",
-      "link": "https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/",
-      "is_new": false
-    },
-    {
-      "title": "0/1 Knapsack Problem in PyTorch",
-      "link": "https://jedrzej.maczan.pl/2025_11_21_dp_knapsack_sliding_hirschberg",
-      "is_new": false
-    },
-    {
-      "title": "Monte-Carlo Simulations",
-      "link": "https://eli.thegreenplace.net/2026/monte-carlo-simulations/",
-      "is_new": false
-    },
-    {
-      "title": "Butlerian Jihad",
-      "link": "https://dune.fandom.com/wiki/Butlerian_Jihad",
-      "is_new": false
-    },
-    {
-      "title": "I built the RealWorld app in Lean 4",
-      "link": "https://leangineer.com/blog/realworld-in-lean/",
-      "is_new": false
-    },
-    {
-      "title": "Flexport Is Hiring a Biz Ops Leader in Office of CEO",
-      "link": "https://www.flexport.com/company/careers/",
-      "is_new": false
-    },
-    {
-      "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
-      "link": "https://www.mercor.com/research/labor-index/benchmark-map/",
-      "is_new": false
-    },
-    {
-      "title": "How the Claude Code team does code review",
-      "link": "https://claude.dev/blog/solving-code-review-at-anthropic/",
       "is_new": false
     }
   ]
