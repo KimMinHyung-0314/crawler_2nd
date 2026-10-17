@@ -1,16 +1,36 @@
 {
-  "crawled_at": "2026-10-17 20:19",
-  "prev_crawled_at": "2026-10-17 15:30",
+  "crawled_at": "2026-10-17 23:53",
+  "prev_crawled_at": "2026-10-17 20:19",
   "items": [
     {
       "title": "DeepSeek: DeepSeek v4.1 Flash 1017",
       "link": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
+      "is_new": false
+    },
+    {
+      "title": "Solar surpasses nuclear power globally for first time – pv magazine Global",
+      "link": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/",
+      "is_new": true
+    },
+    {
+      "title": "Making Chicken Transparent Using Dorito Dust",
+      "link": "https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using",
       "is_new": true
     },
     {
       "title": "Ultramarine 1 Flash",
       "link": "https://www.paperinstruments.com/ultramarine",
       "is_new": false
+    },
+    {
+      "title": "The First Candid",
+      "link": "https://www.newyorker.com/magazine/2026/10/19/the-first-candid",
+      "is_new": true
+    },
+    {
+      "title": "Rendering pretty sky in Around The World game",
+      "link": "https://frozenfractal.com/blog/2026/10/12/around-the-world-34-a-pretty-sky/",
+      "is_new": true
     },
     {
       "title": "Tesla Roadster",
@@ -25,27 +45,12 @@
     {
       "title": "DeepSeek-v4.1-Flash-1017",
       "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
-      "is_new": true
-    },
-    {
-      "title": "Intuitive concurrent programming in any language",
-      "link": "https://www.lf-lang.org/",
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
       "link": "https://github.com/cobanov/PS5LM",
       "is_new": false
-    },
-    {
-      "title": "Tell HN: Remember to migrate away from .name domain",
-      "link": "https://news.ycombinator.com/item?id=50089577",
-      "is_new": true
-    },
-    {
-      "title": "We Still Use Paper",
-      "link": "https://humanpro.co/articles/we-still-use-paper/",
-      "is_new": true
     },
     {
       "title": "You could have invented transformers from memory",
@@ -55,12 +60,32 @@
     {
       "title": "Recipes Are Moving from Maven Central to the Code Genome Project",
       "link": "https://docs.openrewrite.org/reference/latest-versions-of-every-openrewrite-module",
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Claude reveals ECDSA curve origins",
       "link": "https://www.anthropic.com/research/ecdsa-curve-origins",
       "is_new": false
+    },
+    {
+      "title": "Intuitive concurrent programming in any language",
+      "link": "https://www.lf-lang.org/",
+      "is_new": false
+    },
+    {
+      "title": "The cryptoint library (2025) [pdf]",
+      "link": "https://cr.yp.to/papers/cryptoint-20250424.pdf",
+      "is_new": true
+    },
+    {
+      "title": "MapQuest will now show you where Flock cameras are in your neighborhood",
+      "link": "https://www.engadget.com/2288729/mapquest-will-now-show-you-where-flock-cameras-are-in-your-neighborhood/",
+      "is_new": true
+    },
+    {
+      "title": "Orbital Angular Momentum of Light",
+      "link": "https://en.wikipedia.org/wiki/Orbital_angular_momentum_of_light",
+      "is_new": true
     },
     {
       "title": "FLUX 3 Image Klein",
@@ -78,8 +103,8 @@
       "is_new": false
     },
     {
-      "title": "0/1 Knapsack Problem in PyTorch",
-      "link": "https://jedrzej.maczan.pl/2025_11_21_dp_knapsack_sliding_hirschberg",
+      "title": "JPEG XL vs. AVIF for web use-cases",
+      "link": "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
       "is_new": false
     },
     {
@@ -88,8 +113,18 @@
       "is_new": false
     },
     {
-      "title": "JPEG XL vs. AVIF for web use-cases",
-      "link": "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
+      "title": "Nine-Inch Snails",
+      "link": "https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/",
+      "is_new": false
+    },
+    {
+      "title": "0/1 Knapsack Problem in PyTorch",
+      "link": "https://jedrzej.maczan.pl/2025_11_21_dp_knapsack_sliding_hirschberg",
+      "is_new": false
+    },
+    {
+      "title": "Monte-Carlo Simulations",
+      "link": "https://eli.thegreenplace.net/2026/monte-carlo-simulations/",
       "is_new": false
     },
     {
@@ -103,9 +138,31 @@
       "is_new": false
     },
     {
-      "title": "Monte-Carlo Simulations",
-      "link": "https://eli.thegreenplace.net/2026/monte-carlo-simulations/",
+      "title": "Flexport Is Hiring a Biz Ops Leader in Office of CEO",
+      "link": "https://www.flexport.com/company/careers/",
       "is_new": false
+    },
+    {
+      "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
+      "link": "https://www.mercor.com/research/labor-index/benchmark-map/",
+      "is_new": false
+    },
+    {
+      "title": "How the Claude Code team does code review",
+      "link": "https://claude.dev/blog/solving-code-review-at-anthropic/",
+      "is_new": false
+    }
+  ],
+  "removed": [
+    {
+      "title": "Tell HN: Remember to migrate away from .name domain",
+      "link": "https://news.ycombinator.com/item?id=50089577",
+      "is_new": true
+    },
+    {
+      "title": "We Still Use Paper",
+      "link": "https://humanpro.co/articles/we-still-use-paper/",
+      "is_new": true
     },
     {
       "title": "A story of WiFi secrets, UART lockdowns and a damaged flash memory chip",
@@ -116,26 +173,6 @@
       "title": "Show HN: I got tired of btop not seeing my Mac's chip, so I built siltop",
       "link": "https://github.com/CLoaKY233/siltop",
       "is_new": true
-    },
-    {
-      "title": "Nine-Inch Snails",
-      "link": "https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/",
-      "is_new": false
-    },
-    {
-      "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
-      "link": "https://www.mercor.com/research/labor-index/benchmark-map/",
-      "is_new": false
-    },
-    {
-      "title": "Flexport Is Hiring a Biz Ops Leader in Office of CEO",
-      "link": "https://www.flexport.com/company/careers/",
-      "is_new": false
-    },
-    {
-      "title": "How the Claude Code team does code review",
-      "link": "https://claude.dev/blog/solving-code-review-at-anthropic/",
-      "is_new": false
     },
     {
       "title": "Show HN: Gemini 4 Argon plays StarCraft",
@@ -150,43 +187,6 @@
     {
       "title": "New 'super ice' 10 times stronger, bringing it close to the strength of concrete",
       "link": "https://www.sciencealert.com/a-new-super-ice-is-10-times-stronger-bringing-it-close-to-the-strength-of-concrete",
-      "is_new": false
-    }
-  ],
-  "removed": [
-    {
-      "title": "California is building a $400M shield for Yosemite's most dangerous highway",
-      "link": "https://www.sfchronicle.com/california/article/yosemite-national-park-highway-140-22463847.php",
-      "is_new": true
-    },
-    {
-      "title": "\"In every study that considered the question\"",
-      "link": "https://unsung.aresluna.org/in-every-study-that-considered-the-question/",
-      "is_new": true
-    },
-    {
-      "title": "C++26: The New Debugging Header",
-      "link": "https://www.sandordargo.com/blog/2026/09/30/cpp26-debugging",
-      "is_new": false
-    },
-    {
-      "title": "Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD",
-      "link": "https://calif.io/research/big-fish",
-      "is_new": false
-    },
-    {
-      "title": "I love software rendering",
-      "link": "https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/",
-      "is_new": false
-    },
-    {
-      "title": "Stolen Renoir paintings found hidden, and damaged, behind cinder block wall",
-      "link": "https://www.cbsnews.com/news/stolen-renoir-paintings-found-behind-wall-france/",
-      "is_new": false
-    },
-    {
-      "title": "Show HN: Wonderhop – A daily game: guess what most people say, or what none do",
-      "link": "https://wonderhop.io/en/",
       "is_new": false
     }
   ]
