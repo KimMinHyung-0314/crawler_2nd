@@ -1,45 +1,55 @@
 {
-  "crawled_at": "2026-10-19 02:46",
-  "prev_crawled_at": "2026-10-18 23:16",
+  "crawled_at": "2026-10-19 05:01",
+  "prev_crawled_at": "2026-10-19 02:46",
   "items": [
+    {
+      "title": "Someone behind the software",
+      "link": "https://karrisaarinen.com/posts/someone-behind-the-software/",
+      "is_new": false
+    },
     {
       "title": "RepRapMicron",
       "link": "https://github.com/VikOlliver/RepRapMicron/wiki",
       "is_new": false
     },
     {
-      "title": "British Airways: Filming Crew W Meta Glasses Could Get Your Tickets Cancelled",
-      "link": "https://liveandletsfly.com/british-airways-meta-smart-glasses-filming/",
+      "title": "Free Pascal Compiler Now Supports Dynamic Packages",
+      "link": "https://www.getlazarus.org/dynamic/",
       "is_new": true
     },
     {
-      "title": "Someone Behind the Software",
-      "link": "https://karrisaarinen.com/posts/someone-behind-the-software/",
+      "title": "Personal software factories are a waste of time",
+      "link": "https://www.peterp.me/articles/personal-software-factories-are-a-waste-of-time/",
       "is_new": true
     },
     {
-      "title": "macOS 15.8.2 Breaks OpenGL",
-      "link": "https://developer.apple.com/forums/verify-human/verify.html?next=/forums/thread/850550",
+      "title": "Investing in the Public Benefit",
+      "link": "https://www.anthropic.com/news/public-benefit-fund",
       "is_new": true
     },
     {
-      "title": "The Intel 8087 chip: floating-point addition and subtraction",
-      "link": "https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html",
+      "title": "PalmOS Lemmings by Aaron Ardiri",
+      "link": "https://github.com/ardiri/palmos-lemmings",
       "is_new": true
     },
     {
       "title": "Java sealed classes and exhaustive pattern matching",
       "link": "https://neilmadden.blog/2026/04/24/java-sealed-classes-and-exhaustive-pattern-matching/",
+      "is_new": false
+    },
+    {
+      "title": "Mitos editor is a fork of Helix",
+      "link": "https://mitos.computer/",
       "is_new": true
+    },
+    {
+      "title": "The Intel 8087 chip: floating-point addition and subtraction",
+      "link": "https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html",
+      "is_new": false
     },
     {
       "title": "Sigsaly: Churchill's top secret hotline to the President",
       "link": "https://www.iwm.org.uk/history/iwm/cwr/telephone",
-      "is_new": true
-    },
-    {
-      "title": "Legal experts warn Meta's new terms still grant broad scraping permissions",
-      "link": "https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/",
       "is_new": false
     },
     {
@@ -48,9 +58,24 @@
       "is_new": false
     },
     {
+      "title": "Legal experts warn Meta's new terms still grant broad scraping permissions",
+      "link": "https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/",
+      "is_new": false
+    },
+    {
       "title": "Show HN: The Zelda timeline to catch up before the Ocarina of Time remake",
       "link": "https://legendofhyrule.com/",
+      "is_new": false
+    },
+    {
+      "title": "HOA's are making the home crisis worse",
+      "link": "https://hoaspy.com/hoa/fl/florida-hoa-housing-crisis.html",
       "is_new": true
+    },
+    {
+      "title": "Beyond Tetris: The Other Games of Alexey Pajitnov [video]",
+      "link": "https://www.youtube.com/watch?v=QH_LPimUJMs",
+      "is_new": false
     },
     {
       "title": "Open MicroManipulator – A sub-micrometer 3D motion control plattform",
@@ -58,14 +83,14 @@
       "is_new": false
     },
     {
-      "title": "The Electronic Disturbance Theater and Electronic Civil Disobedience (1998)",
-      "link": "https://www.thing.net/~rdom/ecd/EDTECD.html",
-      "is_new": true
+      "title": "I Electrified My Push Scooter with a Power Drill",
+      "link": "https://eddieabbondanz.io/post/shop/drill-powered-scooter/",
+      "is_new": false
     },
     {
-      "title": "Parser Combinators",
-      "link": "https://t3.at/blog/2026-10-17-parser-combinators/",
-      "is_new": false
+      "title": "Namecheap just seized and disabled all my domains",
+      "link": "https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/",
+      "is_new": true
     },
     {
       "title": "How the Elizabeth Holmes documentary “You Can See Everything” is deceiving",
@@ -73,18 +98,23 @@
       "is_new": false
     },
     {
-      "title": "Beyond Tetris: The Other Games of Alexey Pajitnov [video]",
-      "link": "https://www.youtube.com/watch?v=QH_LPimUJMs",
+      "title": "Parser Combinators",
+      "link": "https://t3.at/blog/2026-10-17-parser-combinators/",
+      "is_new": false
+    },
+    {
+      "title": "US threatens Europe over Starlink restrictions",
+      "link": "https://www.ft.com/content/d1e28d93-8574-4a46-946a-b261c401d6fa",
       "is_new": true
     },
     {
-      "title": "Voyage of the Paper Canoe: 2500 Miles from Quebec to the Gulf of Mexico, 1874-5",
-      "link": "http://www.ibiblio.org/eldritch/nhb/paperc/intro.html",
+      "title": "Geographical Fun: Being Humourous Outlines of Various Countries (1868)",
+      "link": "https://publicdomainreview.org/collection/geographical-fun-being-humourous-outlines-of-various-countries-1868/",
       "is_new": true
     },
     {
-      "title": "Bleached corals thrive within days when touching healthy neighbour",
-      "link": "https://www.nature.com/articles/d41586-026-03266-x",
+      "title": "Will it be a golden age or a dark age for mathematics (and science)?",
+      "link": "https://terrytao.wordpress.com/2026/10/18/will-it-be-a-golden-age-or-a-dark-age-for-mathematics-and-science/",
       "is_new": false
     },
     {
@@ -93,24 +123,51 @@
       "is_new": false
     },
     {
+      "title": "CFPB Opens Debanking Investigation into Nine Large National Banks",
+      "link": "https://www.forbes.com/sites/ajdhaliwal/2026/10/16/cfpb-opens-debanking-investigation-into-nine-large-national-banks/",
+      "is_new": true
+    },
+    {
+      "title": "macOS 15.8.2 Breaks OpenGL",
+      "link": "https://developer.apple.com/forums/verify-human/verify.html?next=/forums/thread/850550",
+      "is_new": false
+    },
+    {
+      "title": "CKKS – Addition and Multiplication",
+      "link": "https://www.jeremykun.com/2026/10/11/ckks-addition-and-multiplication/",
+      "is_new": true
+    },
+    {
+      "title": "The Electronic Disturbance Theater and Electronic Civil Disobedience (1998)",
+      "link": "https://www.thing.net/~rdom/ecd/EDTECD.html",
+      "is_new": false
+    },
+    {
       "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
       "link": "https://sphinx-six-theta.vercel.app/",
+      "is_new": false
+    },
+    {
+      "title": "Voyage of the Paper Canoe: 2500 Miles from Quebec to the Gulf of Mexico, 1874-5",
+      "link": "http://www.ibiblio.org/eldritch/nhb/paperc/intro.html",
+      "is_new": false
+    }
+  ],
+  "removed": [
+    {
+      "title": "British Airways: Filming Crew W Meta Glasses Could Get Your Tickets Cancelled",
+      "link": "https://liveandletsfly.com/british-airways-meta-smart-glasses-filming/",
+      "is_new": true
+    },
+    {
+      "title": "Bleached corals thrive within days when touching healthy neighbour",
+      "link": "https://www.nature.com/articles/d41586-026-03266-x",
       "is_new": false
     },
     {
       "title": "The Brain Sandwich",
       "link": "https://terriblesoftware.org/2026/10/02/the-brain-sandwich/",
       "is_new": false
-    },
-    {
-      "title": "Will it be a golden age or a dark age for mathematics (and science)?",
-      "link": "https://terrytao.wordpress.com/2026/10/18/will-it-be-a-golden-age-or-a-dark-age-for-mathematics-and-science/",
-      "is_new": true
-    },
-    {
-      "title": "I Electrified My Push Scooter with a Power Drill",
-      "link": "https://eddieabbondanz.io/post/shop/drill-powered-scooter/",
-      "is_new": true
     },
     {
       "title": "Hatching (Heraldry)",
@@ -151,83 +208,6 @@
       "title": "Chirp Pong – uses microphones and audio for networked game play",
       "link": "https://simonwillison.net/2026/Oct/15/chirp-pong/",
       "is_new": true
-    }
-  ],
-  "removed": [
-    {
-      "title": "DeepSeek-v4.1-Flash-1017",
-      "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
-      "is_new": false
-    },
-    {
-      "title": "A History of Curves and Surfaces in Computer Aided Geometric Design [pdf]",
-      "link": "https://math.pku.edu.cn/teachers/jiangm/courses/CG/Lectures/spline-history.pdf",
-      "is_new": true
-    },
-    {
-      "title": "Furifont, a Japanese font that shows furigana",
-      "link": "https://furifont.antfu.me/",
-      "is_new": false
-    },
-    {
-      "title": "Southern ground hornbill gets 3D printed beak prostheses at Artis Zoo",
-      "link": "https://nltimes.nl/2026/10/15/world-first-southern-ground-hornbill-gets-3d-printed-beak-prostheses-artis-zoo",
-      "is_new": false
-    },
-    {
-      "title": "Making chicken transparent using Dorito dust",
-      "link": "https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using",
-      "is_new": false
-    },
-    {
-      "title": "Gen Z Is the First Generation Dumber Than Their Parents",
-      "link": "https://www.vice.com/en/article/gen-z-is-the-first-generation-dumber-than-their-parents-neuroscientist-claims/",
-      "is_new": true
-    },
-    {
-      "title": "Interactive Linear Programming in the Browser",
-      "link": "https://lpviz.net/",
-      "is_new": false
-    },
-    {
-      "title": "Fun Extending the C Preprocessor",
-      "link": "https://www.davidpriver.com/Fun-Extending-the-C-Preprocessor.html",
-      "is_new": false
-    },
-    {
-      "title": "The Commodore 64 hardware simulator: break chips and pins, see the results",
-      "link": "https://github.com/antirez/c64-hw-simulator",
-      "is_new": false
-    },
-    {
-      "title": "You could have invented transformers from memory",
-      "link": "https://alexwang.ai/posts/associative-memory/",
-      "is_new": false
-    },
-    {
-      "title": "NY announces game ownership bill requiring ownership rather than licensing",
-      "link": "https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends",
-      "is_new": false
-    },
-    {
-      "title": "Lorenz and Little: How Much Does Your Tail Cost?",
-      "link": "https://brooker.co.za/blog/2026/07/29/lorenz-and-little.html",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: High-quality duck audio synthesizer",
-      "link": "https://celphase.github.io/duck-pond/",
-      "is_new": false
-    },
-    {
-      "title": "Codex Desktop continuously generates Crashpad pending dumps",
-      "link": "https://github.com/openai/codex/issues/25921",
-      "is_new": false
-    },
-    {
-      "title": "Gold is now the top U.S. export",
-      "link": "https://www.numismaticnews.net/gold-now-top-u-s-export",
-      "is_new": false
     }
   ]
 }
