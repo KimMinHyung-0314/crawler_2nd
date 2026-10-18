@@ -1,11 +1,46 @@
 {
-  "crawled_at": "2026-10-18 23:16",
-  "prev_crawled_at": "2026-10-18 19:19",
+  "crawled_at": "2026-10-19 02:46",
+  "prev_crawled_at": "2026-10-18 23:16",
   "items": [
     {
       "title": "RepRapMicron",
       "link": "https://github.com/VikOlliver/RepRapMicron/wiki",
+      "is_new": false
+    },
+    {
+      "title": "British Airways: Filming Crew W Meta Glasses Could Get Your Tickets Cancelled",
+      "link": "https://liveandletsfly.com/british-airways-meta-smart-glasses-filming/",
       "is_new": true
+    },
+    {
+      "title": "Someone Behind the Software",
+      "link": "https://karrisaarinen.com/posts/someone-behind-the-software/",
+      "is_new": true
+    },
+    {
+      "title": "macOS 15.8.2 Breaks OpenGL",
+      "link": "https://developer.apple.com/forums/verify-human/verify.html?next=/forums/thread/850550",
+      "is_new": true
+    },
+    {
+      "title": "The Intel 8087 chip: floating-point addition and subtraction",
+      "link": "https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html",
+      "is_new": true
+    },
+    {
+      "title": "Java sealed classes and exhaustive pattern matching",
+      "link": "https://neilmadden.blog/2026/04/24/java-sealed-classes-and-exhaustive-pattern-matching/",
+      "is_new": true
+    },
+    {
+      "title": "Sigsaly: Churchill's top secret hotline to the President",
+      "link": "https://www.iwm.org.uk/history/iwm/cwr/telephone",
+      "is_new": true
+    },
+    {
+      "title": "Legal experts warn Meta's new terms still grant broad scraping permissions",
+      "link": "https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/",
+      "is_new": false
     },
     {
       "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
@@ -13,13 +48,18 @@
       "is_new": false
     },
     {
-      "title": "Legal experts warn Meta's new terms still grant broad scraping permissions",
-      "link": "https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/",
+      "title": "Show HN: The Zelda timeline to catch up before the Ocarina of Time remake",
+      "link": "https://legendofhyrule.com/",
       "is_new": true
     },
     {
       "title": "Open MicroManipulator – A sub-micrometer 3D motion control plattform",
       "link": "https://github.com/0x23/MicroManipulatorStepper",
+      "is_new": false
+    },
+    {
+      "title": "The Electronic Disturbance Theater and Electronic Civil Disobedience (1998)",
+      "link": "https://www.thing.net/~rdom/ecd/EDTECD.html",
       "is_new": true
     },
     {
@@ -33,9 +73,14 @@
       "is_new": false
     },
     {
-      "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
-      "link": "https://sphinx-six-theta.vercel.app/",
-      "is_new": false
+      "title": "Beyond Tetris: The Other Games of Alexey Pajitnov [video]",
+      "link": "https://www.youtube.com/watch?v=QH_LPimUJMs",
+      "is_new": true
+    },
+    {
+      "title": "Voyage of the Paper Canoe: 2500 Miles from Quebec to the Gulf of Mexico, 1874-5",
+      "link": "http://www.ibiblio.org/eldritch/nhb/paperc/intro.html",
+      "is_new": true
     },
     {
       "title": "Bleached corals thrive within days when touching healthy neighbour",
@@ -43,29 +88,44 @@
       "is_new": false
     },
     {
-      "title": "Hatching (Heraldry)",
-      "link": "https://en.wikipedia.org/wiki/Hatching_(heraldry)",
-      "is_new": true
-    },
-    {
       "title": "Teal – A statically-typed dialect of Lua",
       "link": "https://teal-language.org/",
       "is_new": false
     },
     {
-      "title": "Regex visualized as 3D marble run",
-      "link": "https://www.regexmarblerun.com/",
+      "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+      "link": "https://sphinx-six-theta.vercel.app/",
+      "is_new": false
+    },
+    {
+      "title": "The Brain Sandwich",
+      "link": "https://terriblesoftware.org/2026/10/02/the-brain-sandwich/",
+      "is_new": false
+    },
+    {
+      "title": "Will it be a golden age or a dark age for mathematics (and science)?",
+      "link": "https://terrytao.wordpress.com/2026/10/18/will-it-be-a-golden-age-or-a-dark-age-for-mathematics-and-science/",
       "is_new": true
     },
     {
-      "title": "Lean now ships with verified kernels",
-      "link": "https://leodemoura.github.io/blog/2026-10-15-lean-now-ships-with-verified-kernels/",
+      "title": "I Electrified My Push Scooter with a Power Drill",
+      "link": "https://eddieabbondanz.io/post/shop/drill-powered-scooter/",
+      "is_new": true
+    },
+    {
+      "title": "Hatching (Heraldry)",
+      "link": "https://en.wikipedia.org/wiki/Hatching_(heraldry)",
       "is_new": false
     },
     {
-      "title": "DeepSeek-v4.1-Flash-1017",
-      "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
-      "is_new": false
+      "title": "How Far Will AI Assistants Go for a Refund They Can't Get?",
+      "link": "https://www.vals.ai/blogs/impossible-refund",
+      "is_new": true
+    },
+    {
+      "title": "Websites are closing their doors to AI agents",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+      "is_new": true
     },
     {
       "title": "Pele – Mermaid diagrams as themeable SVG",
@@ -73,8 +133,30 @@
       "is_new": false
     },
     {
+      "title": "Regex visualized as 3D marble run",
+      "link": "https://www.regexmarblerun.com/",
+      "is_new": false
+    },
+    {
       "title": "Dam removals are bringing fish back across the northeastern United States",
       "link": "https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/",
+      "is_new": false
+    },
+    {
+      "title": "Lean now ships with verified kernels",
+      "link": "https://leodemoura.github.io/blog/2026-10-15-lean-now-ships-with-verified-kernels/",
+      "is_new": false
+    },
+    {
+      "title": "Chirp Pong – uses microphones and audio for networked game play",
+      "link": "https://simonwillison.net/2026/Oct/15/chirp-pong/",
+      "is_new": true
+    }
+  ],
+  "removed": [
+    {
+      "title": "DeepSeek-v4.1-Flash-1017",
+      "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
       "is_new": false
     },
     {
@@ -128,11 +210,6 @@
       "is_new": false
     },
     {
-      "title": "The Brain Sandwich",
-      "link": "https://terriblesoftware.org/2026/10/02/the-brain-sandwich/",
-      "is_new": true
-    },
-    {
       "title": "Lorenz and Little: How Much Does Your Tail Cost?",
       "link": "https://brooker.co.za/blog/2026/07/29/lorenz-and-little.html",
       "is_new": true
@@ -150,53 +227,6 @@
     {
       "title": "Gold is now the top U.S. export",
       "link": "https://www.numismaticnews.net/gold-now-top-u-s-export",
-      "is_new": false
-    }
-  ],
-  "removed": [
-    {
-      "title": "Go Piss, Girl: The plight of the public potty",
-      "link": "https://thebaffler.com/latest/go-piss-girl-wagner",
-      "is_new": true
-    },
-    {
-      "title": "Matthew Prince on why Cloudflare offers a free version and always will (2016)",
-      "link": "https://webmasters.stackexchange.com/questions/88659/how-can-cloudflare-offer-a-free-cdn-with-unlimited-bandwidth/88685#88685",
-      "is_new": true
-    },
-    {
-      "title": "Custom server to revive neato bots",
-      "link": "https://github.com/vacuula/vacuula",
-      "is_new": false
-    },
-    {
-      "title": "Notes on the Complex Roots of Unity",
-      "link": "https://eli.thegreenplace.net/2026/notes-on-the-complex-roots-of-unity/",
-      "is_new": true
-    },
-    {
-      "title": "A Mole Infiltrated the Highest Ranks of American Militias (2025)",
-      "link": "https://www.propublica.org/article/ap3-oath-keepers-militia-mole",
-      "is_new": false
-    },
-    {
-      "title": "Superoptimizing an FPU Emulator",
-      "link": "https://purplesyringa.moe/blog/superoptimizing-an-fpu-emulator/",
-      "is_new": false
-    },
-    {
-      "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
-      "link": "https://llmspeed.dev/",
-      "is_new": false
-    },
-    {
-      "title": "Show HN: Esp32sim – Run ESP32 firmware in the browser",
-      "link": "https://github.com/mikroverk/esp32sim",
-      "is_new": false
-    },
-    {
-      "title": "Solar surpasses nuclear power globally for first time",
-      "link": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/",
       "is_new": false
     }
   ]
