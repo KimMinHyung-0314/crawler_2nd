@@ -1,20 +1,25 @@
 {
-  "crawled_at": "2026-10-18 09:35",
-  "prev_crawled_at": "2026-10-18 07:51",
+  "crawled_at": "2026-10-18 14:22",
+  "prev_crawled_at": "2026-10-18 09:35",
   "items": [
+    {
+      "title": "Show HN: Sphinx – a hook that quizzes you on your AI's code before shipping",
+      "link": "https://sphinx-six-theta.vercel.app/",
+      "is_new": true
+    },
     {
       "title": "Bleached corals thrive within days when touching healthy neighbour",
       "link": "https://www.nature.com/articles/d41586-026-03266-x",
       "is_new": false
     },
     {
-      "title": "Dam removals are bringing fish back across the northeastern United States",
-      "link": "https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/",
-      "is_new": false
+      "title": "Lean now ships with verified kernels",
+      "link": "https://leodemoura.github.io/blog/2026-10-15-lean-now-ships-with-verified-kernels/",
+      "is_new": true
     },
     {
-      "title": "Furifont, a Japanese font that shows furigana",
-      "link": "https://furifont.antfu.me/",
+      "title": "Dam removals are bringing fish back across the northeastern United States",
+      "link": "https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/",
       "is_new": false
     },
     {
@@ -28,9 +33,14 @@
       "is_new": false
     },
     {
-      "title": "The Commodore 64 hardware simulator: break chips and pins, see the results",
-      "link": "https://github.com/antirez/c64-hw-simulator",
+      "title": "Furifont, a Japanese font that shows furigana",
+      "link": "https://furifont.antfu.me/",
       "is_new": false
+    },
+    {
+      "title": "NY announces game ownership bill requiring ownership rather than licensing",
+      "link": "https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends",
+      "is_new": true
     },
     {
       "title": "Making chicken transparent using Dorito dust",
@@ -38,9 +48,19 @@
       "is_new": false
     },
     {
-      "title": "Types of types: Haskell's Kind system",
-      "link": "https://thunk.blog/posts/types-of-types-haskell-kind-system/",
+      "title": "The Commodore 64 hardware simulator: break chips and pins, see the results",
+      "link": "https://github.com/antirez/c64-hw-simulator",
       "is_new": false
+    },
+    {
+      "title": "My AI agent caught most of our sites saying sent while no email left the server",
+      "link": "https://iampneuma.com/the-function-returned-true/",
+      "is_new": true
+    },
+    {
+      "title": "How the Elizabeth Holmes Doc 'You Can See Everything' Is Deceiving You",
+      "link": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
+      "is_new": true
     },
     {
       "title": "Gold is now the top U.S. export",
@@ -53,14 +73,9 @@
       "is_new": false
     },
     {
-      "title": "Source code of the Estonian online voting system",
-      "link": "https://github.com/valimised/ivxv",
-      "is_new": false
-    },
-    {
-      "title": "Show HN: High-quality duck audio synthesizer",
-      "link": "https://celphase.github.io/duck-pond/",
-      "is_new": false
+      "title": "Superoptimizing an FPU Emulator",
+      "link": "https://purplesyringa.moe/blog/superoptimizing-an-fpu-emulator/",
+      "is_new": true
     },
     {
       "title": "You could have invented transformers from memory",
@@ -68,10 +83,77 @@
       "is_new": false
     },
     {
+      "title": "Custom server to revive neato bots",
+      "link": "https://github.com/vacuula/vacuula",
+      "is_new": true
+    },
+    {
+      "title": "A Mole Infiltrated the Highest Ranks of American Militias",
+      "link": "https://www.propublica.org/article/ap3-oath-keepers-militia-mole",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: High-quality duck audio synthesizer",
+      "link": "https://celphase.github.io/duck-pond/",
+      "is_new": false
+    },
+    {
+      "title": "Interactive Linear Programming in the Browser",
+      "link": "https://lpviz.net/",
+      "is_new": true
+    },
+    {
+      "title": "Types of types: Haskell's Kind system",
+      "link": "https://thunk.blog/posts/types-of-types-haskell-kind-system/",
+      "is_new": false
+    },
+    {
       "title": "Solar surpasses nuclear power globally for first time",
       "link": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/",
       "is_new": false
     },
+    {
+      "title": "Source code of the Estonian online voting system",
+      "link": "https://github.com/valimised/ivxv",
+      "is_new": false
+    },
+    {
+      "title": "Show HN: Esp32sim – Run ESP32 firmware in the browser",
+      "link": "https://github.com/mikroverk/esp32sim",
+      "is_new": false
+    },
+    {
+      "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+      "link": "https://llmspeed.dev/",
+      "is_new": false
+    },
+    {
+      "title": "I Became a Citizen of Japan",
+      "link": "https://www.derekwessman.com/blog-1/natural",
+      "is_new": false
+    },
+    {
+      "title": "A skeptic's first contact with Kubernetes (2024)",
+      "link": "https://blog.davidv.dev/posts/first-contact-with-k8s/",
+      "is_new": false
+    },
+    {
+      "title": "Artie (YC S23) Is Hiring Enterprise AES and Senior Engineers",
+      "link": "https://www.artie.com/careers",
+      "is_new": false
+    },
+    {
+      "title": "Show HN: Parin – A 2D game engine between raylib and Godot, written in Dlang",
+      "link": "https://github.com/Kapendev/parin",
+      "is_new": false
+    },
+    {
+      "title": "Laser Fault Injection on a Budget: RP2350 Edition",
+      "link": "https://courk.cc/rp2350-challenge-laser",
+      "is_new": false
+    }
+  ],
+  "removed": [
     {
       "title": "Chrome and Edge are removing XSLT: what breaks and what does not",
       "link": "https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/",
@@ -81,36 +163,6 @@
       "title": "An ESPN producer who quit because of sports gambling",
       "link": "https://www.cjr.org/the-interview/nicole-noren-espn-producer-quit-protest-sports-betting-gambling-addiction-draftkings-im-not-going-to-have-blood-on-my-hands.php",
       "is_new": true
-    },
-    {
-      "title": "Laser Fault Injection on a Budget: RP2350 Edition",
-      "link": "https://courk.cc/rp2350-challenge-laser",
-      "is_new": false
-    },
-    {
-      "title": "I Became a Citizen of Japan",
-      "link": "https://www.derekwessman.com/blog-1/natural",
-      "is_new": false
-    },
-    {
-      "title": "Show HN: Parin – A 2D game engine between raylib and Godot, written in Dlang",
-      "link": "https://github.com/Kapendev/parin",
-      "is_new": false
-    },
-    {
-      "title": "Artie (YC S23) Is Hiring Enterprise AES and Senior Engineers",
-      "link": "https://www.artie.com/careers",
-      "is_new": false
-    },
-    {
-      "title": "A skeptic's first contact with Kubernetes (2024)",
-      "link": "https://blog.davidv.dev/posts/first-contact-with-k8s/",
-      "is_new": false
-    },
-    {
-      "title": "Show HN: Esp32sim – Run ESP32 firmware in the browser",
-      "link": "https://github.com/mikroverk/esp32sim",
-      "is_new": false
     },
     {
       "title": "Rendering pretty sky in Around The World game",
@@ -138,11 +190,6 @@
       "is_new": true
     },
     {
-      "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
-      "link": "https://llmspeed.dev/",
-      "is_new": false
-    },
-    {
       "title": "The future of programming (1982)",
       "link": "https://dl.acm.org/doi/10.1145/358453.358459",
       "is_new": false
@@ -150,23 +197,6 @@
     {
       "title": "Microsoft and CMU team up to train early career software engineers",
       "link": "https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise",
-      "is_new": false
-    }
-  ],
-  "removed": [
-    {
-      "title": "Development statistics for the 7.2 kernel",
-      "link": "https://lwn.net/Articles/1088776/",
-      "is_new": false
-    },
-    {
-      "title": "Pattern matching beats narrative reasoning",
-      "link": "https://blog.scottstevenson.net/p/pattern-matching-beats-narrative",
-      "is_new": false
-    },
-    {
-      "title": "Show HN: Things to Do API",
-      "link": "https://thingstodoapi.com/",
       "is_new": false
     }
   ]
