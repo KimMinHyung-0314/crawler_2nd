@@ -1,11 +1,26 @@
 {
-  "crawled_at": "2026-10-19 05:01",
-  "prev_crawled_at": "2026-10-19 02:46",
+  "crawled_at": "2026-10-19 07:44",
+  "prev_crawled_at": "2026-10-19 05:01",
   "items": [
+    {
+      "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+      "link": "https://arxiv.org/abs/2610.18861",
+      "is_new": true
+    },
     {
       "title": "Someone behind the software",
       "link": "https://karrisaarinen.com/posts/someone-behind-the-software/",
       "is_new": false
+    },
+    {
+      "title": "Free Pascal compiler now supports dynamic packages",
+      "link": "https://www.getlazarus.org/dynamic/",
+      "is_new": false
+    },
+    {
+      "title": "There's never been a better time to go into math (by: 3blue1brown) [video]",
+      "link": "https://www.youtube.com/watch?v=LKrwhjOI8Nc",
+      "is_new": true
     },
     {
       "title": "RepRapMicron",
@@ -13,10 +28,132 @@
       "is_new": false
     },
     {
-      "title": "Free Pascal Compiler Now Supports Dynamic Packages",
-      "link": "https://www.getlazarus.org/dynamic/",
+      "title": "Dogs seem to agree with humans that 'bouba' is round and 'kiki' is spiky",
+      "link": "https://www.sciencealert.com/dogs-seem-to-agree-with-humans-that-bouba-is-round-and-kiki-is-spiky",
       "is_new": true
     },
+    {
+      "title": "PalmOS Lemmings",
+      "link": "https://github.com/ardiri/palmos-lemmings",
+      "is_new": false
+    },
+    {
+      "title": "I built a programming language that LLMs can't use",
+      "link": "https://blog.picheta.me/post/killswitch-lang/",
+      "is_new": true
+    },
+    {
+      "title": "One parser, two bugs, many routers: Exploiting Broadcom WiFi across eCos, Linux",
+      "link": "https://quentinkaiser.be/security/2026/10/16/one-parser-two-bugs/",
+      "is_new": true
+    },
+    {
+      "title": "16-bit fully functional DIY magnetic core memory",
+      "link": "https://www.youtube.com/watch?v=OJ1WYyO2jdY",
+      "is_new": true
+    },
+    {
+      "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
+      "link": "https://api-docs.deepseek.com/guides/search/",
+      "is_new": false
+    },
+    {
+      "title": "They war-gamed dimming the Sun. It went worse than you think",
+      "link": "https://www.wired.com/story/they-war-gamed-dimming-the-sun-it-went-even-worse-than-you-think/",
+      "is_new": true
+    },
+    {
+      "title": "Developing for Debugging (2025)",
+      "link": "https://www.davepacheco.net/blog/2025/developing-for-debugging-dns-propagation/",
+      "is_new": true
+    },
+    {
+      "title": "Java sealed classes and exhaustive pattern matching",
+      "link": "https://neilmadden.blog/2026/04/24/java-sealed-classes-and-exhaustive-pattern-matching/",
+      "is_new": false
+    },
+    {
+      "title": "SIGSALY: Churchill's top secret hotline to the president",
+      "link": "https://www.iwm.org.uk/history/iwm/cwr/telephone",
+      "is_new": false
+    },
+    {
+      "title": "The Intel 8087 chip: floating-point addition and subtraction",
+      "link": "https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html",
+      "is_new": false
+    },
+    {
+      "title": "Show HN: The Zelda timeline to catch up before the Ocarina of Time remake",
+      "link": "https://legendofhyrule.com/",
+      "is_new": false
+    },
+    {
+      "title": "Show HN: WhatsApp MCP running free on Cloudflare",
+      "link": "https://github.com/finereli/whatsapp-mcp",
+      "is_new": true
+    },
+    {
+      "title": "Namecheap just seized and disabled all my domains",
+      "link": "https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/",
+      "is_new": false
+    },
+    {
+      "title": "Beyond Tetris: The other games of Alexey Pajitnov [video]",
+      "link": "https://www.youtube.com/watch?v=QH_LPimUJMs",
+      "is_new": false
+    },
+    {
+      "title": "I electrified my push scooter with a power drill",
+      "link": "https://eddieabbondanz.io/post/shop/drill-powered-scooter/",
+      "is_new": false
+    },
+    {
+      "title": "Open MicroManipulator – A sub-micrometer 3D motion control plattform",
+      "link": "https://github.com/0x23/MicroManipulatorStepper",
+      "is_new": false
+    },
+    {
+      "title": "Types of types: Haskell's Kind system",
+      "link": "https://thunk.blog/posts/types-of-types-haskell-kind-system/",
+      "is_new": true
+    },
+    {
+      "title": "How the Elizabeth Holmes documentary “You Can See Everything” is deceiving",
+      "link": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
+      "is_new": false
+    },
+    {
+      "title": "Florida's HOAs and condo associations are making the housing crisis worse",
+      "link": "https://hoaspy.com/hoa/fl/florida-hoa-housing-crisis.html",
+      "is_new": false
+    },
+    {
+      "title": "Parser Combinators",
+      "link": "https://t3.at/blog/2026-10-17-parser-combinators/",
+      "is_new": false
+    },
+    {
+      "title": "Netflix vmaf: Perceptual video quality assessment based on multi-method fusion",
+      "link": "https://github.com/Netflix/vmaf",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+      "link": "https://sphinx-six-theta.vercel.app/",
+      "is_new": false
+    },
+    {
+      "title": "Show HN: Ranet3 – High performance policy routed IPsec mesh SD-WAN",
+      "link": "https://ranet3.com/",
+      "is_new": true
+    },
+    {
+      "title": "Teal – A statically-typed dialect of Lua",
+      "link": "https://teal-language.org/",
+      "is_new": false
+    }
+  ],
+  "removed": [
     {
       "title": "Personal software factories are a waste of time",
       "link": "https://www.peterp.me/articles/personal-software-factories-are-a-waste-of-time/",
@@ -28,78 +165,13 @@
       "is_new": true
     },
     {
-      "title": "PalmOS Lemmings by Aaron Ardiri",
-      "link": "https://github.com/ardiri/palmos-lemmings",
-      "is_new": true
-    },
-    {
-      "title": "Java sealed classes and exhaustive pattern matching",
-      "link": "https://neilmadden.blog/2026/04/24/java-sealed-classes-and-exhaustive-pattern-matching/",
-      "is_new": false
-    },
-    {
       "title": "Mitos editor is a fork of Helix",
       "link": "https://mitos.computer/",
       "is_new": true
     },
     {
-      "title": "The Intel 8087 chip: floating-point addition and subtraction",
-      "link": "https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html",
-      "is_new": false
-    },
-    {
-      "title": "Sigsaly: Churchill's top secret hotline to the President",
-      "link": "https://www.iwm.org.uk/history/iwm/cwr/telephone",
-      "is_new": false
-    },
-    {
-      "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
-      "link": "https://api-docs.deepseek.com/guides/search/",
-      "is_new": false
-    },
-    {
       "title": "Legal experts warn Meta's new terms still grant broad scraping permissions",
       "link": "https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/",
-      "is_new": false
-    },
-    {
-      "title": "Show HN: The Zelda timeline to catch up before the Ocarina of Time remake",
-      "link": "https://legendofhyrule.com/",
-      "is_new": false
-    },
-    {
-      "title": "HOA's are making the home crisis worse",
-      "link": "https://hoaspy.com/hoa/fl/florida-hoa-housing-crisis.html",
-      "is_new": true
-    },
-    {
-      "title": "Beyond Tetris: The Other Games of Alexey Pajitnov [video]",
-      "link": "https://www.youtube.com/watch?v=QH_LPimUJMs",
-      "is_new": false
-    },
-    {
-      "title": "Open MicroManipulator – A sub-micrometer 3D motion control plattform",
-      "link": "https://github.com/0x23/MicroManipulatorStepper",
-      "is_new": false
-    },
-    {
-      "title": "I Electrified My Push Scooter with a Power Drill",
-      "link": "https://eddieabbondanz.io/post/shop/drill-powered-scooter/",
-      "is_new": false
-    },
-    {
-      "title": "Namecheap just seized and disabled all my domains",
-      "link": "https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/",
-      "is_new": true
-    },
-    {
-      "title": "How the Elizabeth Holmes documentary “You Can See Everything” is deceiving",
-      "link": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
-      "is_new": false
-    },
-    {
-      "title": "Parser Combinators",
-      "link": "https://t3.at/blog/2026-10-17-parser-combinators/",
       "is_new": false
     },
     {
@@ -115,11 +187,6 @@
     {
       "title": "Will it be a golden age or a dark age for mathematics (and science)?",
       "link": "https://terrytao.wordpress.com/2026/10/18/will-it-be-a-golden-age-or-a-dark-age-for-mathematics-and-science/",
-      "is_new": false
-    },
-    {
-      "title": "Teal – A statically-typed dialect of Lua",
-      "link": "https://teal-language.org/",
       "is_new": false
     },
     {
@@ -143,71 +210,9 @@
       "is_new": false
     },
     {
-      "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
-      "link": "https://sphinx-six-theta.vercel.app/",
-      "is_new": false
-    },
-    {
       "title": "Voyage of the Paper Canoe: 2500 Miles from Quebec to the Gulf of Mexico, 1874-5",
       "link": "http://www.ibiblio.org/eldritch/nhb/paperc/intro.html",
       "is_new": false
-    }
-  ],
-  "removed": [
-    {
-      "title": "British Airways: Filming Crew W Meta Glasses Could Get Your Tickets Cancelled",
-      "link": "https://liveandletsfly.com/british-airways-meta-smart-glasses-filming/",
-      "is_new": true
-    },
-    {
-      "title": "Bleached corals thrive within days when touching healthy neighbour",
-      "link": "https://www.nature.com/articles/d41586-026-03266-x",
-      "is_new": false
-    },
-    {
-      "title": "The Brain Sandwich",
-      "link": "https://terriblesoftware.org/2026/10/02/the-brain-sandwich/",
-      "is_new": false
-    },
-    {
-      "title": "Hatching (Heraldry)",
-      "link": "https://en.wikipedia.org/wiki/Hatching_(heraldry)",
-      "is_new": false
-    },
-    {
-      "title": "How Far Will AI Assistants Go for a Refund They Can't Get?",
-      "link": "https://www.vals.ai/blogs/impossible-refund",
-      "is_new": true
-    },
-    {
-      "title": "Websites are closing their doors to AI agents",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
-      "is_new": true
-    },
-    {
-      "title": "Pele – Mermaid diagrams as themeable SVG",
-      "link": "https://pele.run/",
-      "is_new": false
-    },
-    {
-      "title": "Regex visualized as 3D marble run",
-      "link": "https://www.regexmarblerun.com/",
-      "is_new": false
-    },
-    {
-      "title": "Dam removals are bringing fish back across the northeastern United States",
-      "link": "https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/",
-      "is_new": false
-    },
-    {
-      "title": "Lean now ships with verified kernels",
-      "link": "https://leodemoura.github.io/blog/2026-10-15-lean-now-ships-with-verified-kernels/",
-      "is_new": false
-    },
-    {
-      "title": "Chirp Pong – uses microphones and audio for networked game play",
-      "link": "https://simonwillison.net/2026/Oct/15/chirp-pong/",
-      "is_new": true
     }
   ]
 }
