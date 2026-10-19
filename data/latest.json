@@ -1,6 +1,6 @@
 {
-  "crawled_at": "2026-10-19 09:45",
-  "prev_crawled_at": "2026-10-19 07:44",
+  "crawled_at": "2026-10-19 14:40",
+  "prev_crawled_at": "2026-10-19 09:45",
   "items": [
     {
       "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
@@ -10,11 +10,6 @@
     {
       "title": "William Gibson and the trademarking of cyberspace",
       "link": "https://colo.to/cyberspace.html",
-      "is_new": true
-    },
-    {
-      "title": "Someone behind the software",
-      "link": "https://karrisaarinen.com/posts/someone-behind-the-software/",
       "is_new": false
     },
     {
@@ -23,9 +18,34 @@
       "is_new": false
     },
     {
-      "title": "Free Pascal compiler now supports dynamic packages",
-      "link": "https://www.getlazarus.org/dynamic/",
+      "title": "Superlite: A Faster Alternatie to Superpowers",
+      "link": "https://contextfirst.blog/superlite-hand-an-agent-a-spec/",
+      "is_new": true
+    },
+    {
+      "title": "Verisign .com Domain Name Registry Consumer Class Action",
+      "link": "https://www.hbsslaw.com/cases/verisign-com-domain-name-registry-consumer-class-action",
+      "is_new": true
+    },
+    {
+      "title": "Someone behind the software",
+      "link": "https://karrisaarinen.com/posts/someone-behind-the-software/",
       "is_new": false
+    },
+    {
+      "title": "DeepSeek V4.1 Flash 1017 (Max)",
+      "link": "https://artificialanalysis.ai/models/deepseek-v4-1-flash-1017",
+      "is_new": true
+    },
+    {
+      "title": "Laptop Based on 6502 CPU",
+      "link": "https://www.maddox.pro/?p=448",
+      "is_new": false
+    },
+    {
+      "title": "Rabbits were a medieval royal luxury in England until the Black Death",
+      "link": "https://phys.org/news/2026-10-rabbits-medieval-royal-luxury-england.html",
+      "is_new": true
     },
     {
       "title": "RepRapMicron",
@@ -38,8 +58,28 @@
       "is_new": false
     },
     {
+      "title": "Free Pascal compiler now supports dynamic packages",
+      "link": "https://www.getlazarus.org/dynamic/",
+      "is_new": false
+    },
+    {
+      "title": "The DNS Museum",
+      "link": "https://dns.museum",
+      "is_new": true
+    },
+    {
       "title": "Show HN: WhatsApp MCP running free on Cloudflare",
       "link": "https://github.com/finereli/whatsapp-mcp",
+      "is_new": false
+    },
+    {
+      "title": "Show HN: Yila – A Codex for Scientific Research",
+      "link": "https://yila.ai",
+      "is_new": true
+    },
+    {
+      "title": "If you don't run your own LLM proxy, how do you know whats going on?",
+      "link": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
       "is_new": false
     },
     {
@@ -48,14 +88,9 @@
       "is_new": false
     },
     {
-      "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
-      "link": "https://api-docs.deepseek.com/guides/search/",
+      "title": "I built a programming language that LLMs can't use",
+      "link": "https://blog.picheta.me/post/killswitch-lang/",
       "is_new": false
-    },
-    {
-      "title": "\"Traditional, but Puzzling\"",
-      "link": "https://unsung.aresluna.org/traditional-but-puzzling/",
-      "is_new": true
     },
     {
       "title": "One parser, two bugs, many routers: Exploiting Broadcom WiFi across eCos, Linux",
@@ -63,23 +98,13 @@
       "is_new": false
     },
     {
-      "title": "Laptop Based on 6502 CPU",
-      "link": "https://www.maddox.pro/?p=448",
-      "is_new": true
-    },
-    {
-      "title": "16-bit fully functional DIY magnetic core memory",
-      "link": "https://www.youtube.com/watch?v=OJ1WYyO2jdY",
+      "title": "A new way to think about borrow checking (in reverse)",
+      "link": "https://verdagon.dev/blog/reverse-borrow-checking",
       "is_new": false
     },
     {
-      "title": "I built a programming language that LLMs can't use",
-      "link": "https://blog.picheta.me/post/killswitch-lang/",
-      "is_new": false
-    },
-    {
-      "title": "What the heck is /pkg?",
-      "link": "https://anderegg.ca/2026/10/18/what-the-heck-is-pkg",
+      "title": "How Quickly Can the DoD Rebuild and Recast the Munitions Industrial Base?",
+      "link": "https://www.csis.org/analysis/how-quickly-can-dod-rebuild-and-recast-munitions-industrial-base",
       "is_new": true
     },
     {
@@ -88,33 +113,28 @@
       "is_new": false
     },
     {
-      "title": "The Intel 8087 chip: floating-point addition and subtraction",
-      "link": "https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html",
+      "title": "Sanity's Edge – A voice BBS from 1994",
+      "link": "https://sanitys-edge.shouden.us",
+      "is_new": true
+    },
+    {
+      "title": "\"Traditional, but Puzzling\"",
+      "link": "https://unsung.aresluna.org/traditional-but-puzzling/",
       "is_new": false
     },
     {
-      "title": "If you don't run your own LLM proxy, how do you know whats going on?",
-      "link": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
+      "title": "Footage of the Flock search that a judge ruled was uncosntitutional",
+      "link": "https://www.404media.co/watch-footage-of-the-flock-search-a-judge-ruled-unconstitutional/",
       "is_new": true
     },
     {
       "title": "\"I'm on a war footing\": Terry Tao and the crisis in math",
       "link": "https://www.nytimes.com/2026/10/16/us/math-ai-terence-tao.html",
-      "is_new": true
-    },
-    {
-      "title": "Developing for Debugging (2025)",
-      "link": "https://www.davepacheco.net/blog/2025/developing-for-debugging-dns-propagation/",
       "is_new": false
     },
     {
-      "title": "Namecheap just seized and disabled all my domains",
-      "link": "https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/",
-      "is_new": false
-    },
-    {
-      "title": "SIGSALY: Churchill's top secret hotline to the president",
-      "link": "https://www.iwm.org.uk/history/iwm/cwr/telephone",
+      "title": "16-bit fully functional DIY magnetic core memory",
+      "link": "https://www.youtube.com/watch?v=OJ1WYyO2jdY",
       "is_new": false
     },
     {
@@ -123,9 +143,36 @@
       "is_new": false
     },
     {
-      "title": "A new way to think about borrow checking (in reverse)",
-      "link": "https://verdagon.dev/blog/reverse-borrow-checking",
+      "title": "The Intel 8087 chip: floating-point addition and subtraction",
+      "link": "https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html",
+      "is_new": false
+    },
+    {
+      "title": "Namecheap just seized and disabled all my domains",
+      "link": "https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/",
+      "is_new": false
+    }
+  ],
+  "removed": [
+    {
+      "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
+      "link": "https://api-docs.deepseek.com/guides/search/",
+      "is_new": false
+    },
+    {
+      "title": "What the heck is /pkg?",
+      "link": "https://anderegg.ca/2026/10/18/what-the-heck-is-pkg",
       "is_new": true
+    },
+    {
+      "title": "Developing for Debugging (2025)",
+      "link": "https://www.davepacheco.net/blog/2025/developing-for-debugging-dns-propagation/",
+      "is_new": false
+    },
+    {
+      "title": "SIGSALY: Churchill's top secret hotline to the president",
+      "link": "https://www.iwm.org.uk/history/iwm/cwr/telephone",
+      "is_new": false
     },
     {
       "title": "Show HN: The Zelda timeline to catch up before the Ocarina of Time remake",
@@ -150,48 +197,6 @@
     {
       "title": "Types of types: Haskell's Kind system",
       "link": "https://thunk.blog/posts/types-of-types-haskell-kind-system/",
-      "is_new": false
-    }
-  ],
-  "removed": [
-    {
-      "title": "They war-gamed dimming the Sun. It went worse than you think",
-      "link": "https://www.wired.com/story/they-war-gamed-dimming-the-sun-it-went-even-worse-than-you-think/",
-      "is_new": true
-    },
-    {
-      "title": "Beyond Tetris: The other games of Alexey Pajitnov [video]",
-      "link": "https://www.youtube.com/watch?v=QH_LPimUJMs",
-      "is_new": false
-    },
-    {
-      "title": "Florida's HOAs and condo associations are making the housing crisis worse",
-      "link": "https://hoaspy.com/hoa/fl/florida-hoa-housing-crisis.html",
-      "is_new": false
-    },
-    {
-      "title": "Parser Combinators",
-      "link": "https://t3.at/blog/2026-10-17-parser-combinators/",
-      "is_new": false
-    },
-    {
-      "title": "Netflix vmaf: Perceptual video quality assessment based on multi-method fusion",
-      "link": "https://github.com/Netflix/vmaf",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
-      "link": "https://sphinx-six-theta.vercel.app/",
-      "is_new": false
-    },
-    {
-      "title": "Show HN: Ranet3 – High performance policy routed IPsec mesh SD-WAN",
-      "link": "https://ranet3.com/",
-      "is_new": true
-    },
-    {
-      "title": "Teal – A statically-typed dialect of Lua",
-      "link": "https://teal-language.org/",
       "is_new": false
     }
   ]
