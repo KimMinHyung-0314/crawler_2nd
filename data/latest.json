@@ -1,11 +1,41 @@
 {
-  "crawled_at": "2026-10-19 14:40",
-  "prev_crawled_at": "2026-10-19 09:45",
+  "crawled_at": "2026-10-19 20:59",
+  "prev_crawled_at": "2026-10-19 14:40",
   "items": [
+    {
+      "title": "Linux 7.3 Released",
+      "link": "https://lwn.net/Articles/1101143/",
+      "is_new": true
+    },
+    {
+      "title": "Documents: Police officer gave her Flock login to her ICE agent husband",
+      "link": "https://www.wjcl.com/article/savannah-police-officer-ice-agent-flock-access/74135816",
+      "is_new": true
+    },
+    {
+      "title": "Timestral: Mistral release time-series foundation models",
+      "link": "https://mistral.ai/news/timestral/",
+      "is_new": true
+    },
+    {
+      "title": "Let's Encrypt is adding two additional remote perspectives for domain validation",
+      "link": "https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166",
+      "is_new": true
+    },
+    {
+      "title": "Gdynia and the Dream of a Maritime Poland",
+      "link": "https://engelsbergideas.com/notebook/gdynia-and-the-dream-of-a-maritime-poland/",
+      "is_new": true
+    },
     {
       "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
       "link": "https://arxiv.org/abs/2610.18861",
       "is_new": false
+    },
+    {
+      "title": "How to Train Your Robot",
+      "link": "https://www.construction-physics.com/p/how-to-train-your-robot",
+      "is_new": true
     },
     {
       "title": "William Gibson and the trademarking of cyberspace",
@@ -18,63 +48,13 @@
       "is_new": false
     },
     {
-      "title": "Superlite: A Faster Alternatie to Superpowers",
-      "link": "https://contextfirst.blog/superlite-hand-an-agent-a-spec/",
-      "is_new": true
-    },
-    {
-      "title": "Verisign .com Domain Name Registry Consumer Class Action",
-      "link": "https://www.hbsslaw.com/cases/verisign-com-domain-name-registry-consumer-class-action",
-      "is_new": true
-    },
-    {
-      "title": "Someone behind the software",
-      "link": "https://karrisaarinen.com/posts/someone-behind-the-software/",
-      "is_new": false
-    },
-    {
-      "title": "DeepSeek V4.1 Flash 1017 (Max)",
-      "link": "https://artificialanalysis.ai/models/deepseek-v4-1-flash-1017",
-      "is_new": true
-    },
-    {
-      "title": "Laptop Based on 6502 CPU",
-      "link": "https://www.maddox.pro/?p=448",
-      "is_new": false
-    },
-    {
       "title": "Rabbits were a medieval royal luxury in England until the Black Death",
       "link": "https://phys.org/news/2026-10-rabbits-medieval-royal-luxury-england.html",
-      "is_new": true
-    },
-    {
-      "title": "RepRapMicron",
-      "link": "https://github.com/VikOlliver/RepRapMicron/wiki",
       "is_new": false
     },
     {
-      "title": "Dogs seem to agree with humans that 'bouba' is round and 'kiki' is spiky",
-      "link": "https://www.sciencealert.com/dogs-seem-to-agree-with-humans-that-bouba-is-round-and-kiki-is-spiky",
-      "is_new": false
-    },
-    {
-      "title": "Free Pascal compiler now supports dynamic packages",
-      "link": "https://www.getlazarus.org/dynamic/",
-      "is_new": false
-    },
-    {
-      "title": "The DNS Museum",
-      "link": "https://dns.museum",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: WhatsApp MCP running free on Cloudflare",
-      "link": "https://github.com/finereli/whatsapp-mcp",
-      "is_new": false
-    },
-    {
-      "title": "Show HN: Yila – A Codex for Scientific Research",
-      "link": "https://yila.ai",
+      "title": "Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
+      "link": "https://crystl.dev/guides/tmux-for-ai-agents/",
       "is_new": true
     },
     {
@@ -83,18 +63,73 @@
       "is_new": false
     },
     {
+      "title": "Someone behind the software",
+      "link": "https://karrisaarinen.com/posts/someone-behind-the-software/",
+      "is_new": false
+    },
+    {
+      "title": "Dogs seem to agree with humans that 'bouba' is round and 'kiki' is spiky",
+      "link": "https://www.sciencealert.com/dogs-seem-to-agree-with-humans-that-bouba-is-round-and-kiki-is-spiky",
+      "is_new": false
+    },
+    {
+      "title": "Laptop Based on 6502 CPU",
+      "link": "https://www.maddox.pro/?p=448",
+      "is_new": false
+    },
+    {
+      "title": "RepRapMicron",
+      "link": "https://github.com/VikOlliver/RepRapMicron/wiki",
+      "is_new": false
+    },
+    {
+      "title": "The DNS Museum",
+      "link": "https://dns.museum",
+      "is_new": false
+    },
+    {
+      "title": "Superlite: A Faster Alternatie to Superpowers",
+      "link": "https://contextfirst.blog/superlite-hand-an-agent-a-spec/",
+      "is_new": false
+    },
+    {
+      "title": "How Quickly Can the DoD Rebuild and Recast the Munitions Industrial Base?",
+      "link": "https://www.csis.org/analysis/how-quickly-can-dod-rebuild-and-recast-munitions-industrial-base",
+      "is_new": false
+    },
+    {
+      "title": "Free Pascal compiler now supports dynamic packages",
+      "link": "https://www.getlazarus.org/dynamic/",
+      "is_new": false
+    },
+    {
+      "title": "Show HN: WhatsApp MCP running free on Cloudflare",
+      "link": "https://github.com/finereli/whatsapp-mcp",
+      "is_new": false
+    },
+    {
+      "title": "Show HN: Ranet3 – High performance policy routed IPsec mesh SD-WAN",
+      "link": "https://ranet3.com/",
+      "is_new": true
+    },
+    {
       "title": "PalmOS Lemmings",
       "link": "https://github.com/ardiri/palmos-lemmings",
       "is_new": false
     },
     {
-      "title": "I built a programming language that LLMs can't use",
-      "link": "https://blog.picheta.me/post/killswitch-lang/",
-      "is_new": false
+      "title": "HOL Light Tutorial",
+      "link": "https://hol-light.github.io/tutorial/HTML/tutorial.html",
+      "is_new": true
     },
     {
-      "title": "One parser, two bugs, many routers: Exploiting Broadcom WiFi across eCos, Linux",
-      "link": "https://quentinkaiser.be/security/2026/10/16/one-parser-two-bugs/",
+      "title": "Lant – The Forgotten Resource",
+      "link": "https://sites.udel.edu/materialmatters/2018/04/11/lant-the-forgotten-resource/",
+      "is_new": true
+    },
+    {
+      "title": "I built a programming language that LLMs can't use",
+      "link": "https://blog.picheta.me/post/killswitch-lang/",
       "is_new": false
     },
     {
@@ -103,14 +138,36 @@
       "is_new": false
     },
     {
-      "title": "How Quickly Can the DoD Rebuild and Recast the Munitions Industrial Base?",
-      "link": "https://www.csis.org/analysis/how-quickly-can-dod-rebuild-and-recast-munitions-industrial-base",
-      "is_new": true
-    },
-    {
       "title": "Java sealed classes and exhaustive pattern matching",
       "link": "https://neilmadden.blog/2026/04/24/java-sealed-classes-and-exhaustive-pattern-matching/",
       "is_new": false
+    },
+    {
+      "title": "One parser, two bugs, many routers: Exploiting Broadcom WiFi across eCos, Linux",
+      "link": "https://quentinkaiser.be/security/2026/10/16/one-parser-two-bugs/",
+      "is_new": false
+    },
+    {
+      "title": "Open MicroManipulator – A sub-micrometer 3D motion control plattform",
+      "link": "https://github.com/0x23/MicroManipulatorStepper",
+      "is_new": false
+    }
+  ],
+  "removed": [
+    {
+      "title": "Verisign .com Domain Name Registry Consumer Class Action",
+      "link": "https://www.hbsslaw.com/cases/verisign-com-domain-name-registry-consumer-class-action",
+      "is_new": true
+    },
+    {
+      "title": "DeepSeek V4.1 Flash 1017 (Max)",
+      "link": "https://artificialanalysis.ai/models/deepseek-v4-1-flash-1017",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: Yila – A Codex for Scientific Research",
+      "link": "https://yila.ai",
+      "is_new": true
     },
     {
       "title": "Sanity's Edge – A voice BBS from 1994",
@@ -138,11 +195,6 @@
       "is_new": false
     },
     {
-      "title": "Open MicroManipulator – A sub-micrometer 3D motion control plattform",
-      "link": "https://github.com/0x23/MicroManipulatorStepper",
-      "is_new": false
-    },
-    {
       "title": "The Intel 8087 chip: floating-point addition and subtraction",
       "link": "https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html",
       "is_new": false
@@ -150,53 +202,6 @@
     {
       "title": "Namecheap just seized and disabled all my domains",
       "link": "https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/",
-      "is_new": false
-    }
-  ],
-  "removed": [
-    {
-      "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
-      "link": "https://api-docs.deepseek.com/guides/search/",
-      "is_new": false
-    },
-    {
-      "title": "What the heck is /pkg?",
-      "link": "https://anderegg.ca/2026/10/18/what-the-heck-is-pkg",
-      "is_new": true
-    },
-    {
-      "title": "Developing for Debugging (2025)",
-      "link": "https://www.davepacheco.net/blog/2025/developing-for-debugging-dns-propagation/",
-      "is_new": false
-    },
-    {
-      "title": "SIGSALY: Churchill's top secret hotline to the president",
-      "link": "https://www.iwm.org.uk/history/iwm/cwr/telephone",
-      "is_new": false
-    },
-    {
-      "title": "Show HN: The Zelda timeline to catch up before the Ocarina of Time remake",
-      "link": "https://legendofhyrule.com/",
-      "is_new": false
-    },
-    {
-      "title": "How RC2's π table was made",
-      "link": "https://khalidhamadeh.com/writing/rc2-pi-table",
-      "is_new": true
-    },
-    {
-      "title": "I electrified my push scooter with a power drill",
-      "link": "https://eddieabbondanz.io/post/shop/drill-powered-scooter/",
-      "is_new": false
-    },
-    {
-      "title": "The Elizabeth Holmes documentary “You Can See Everything” is deceiving",
-      "link": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
-      "is_new": false
-    },
-    {
-      "title": "Types of types: Haskell's Kind system",
-      "link": "https://thunk.blog/posts/types-of-types-haskell-kind-system/",
       "is_new": false
     }
   ]
