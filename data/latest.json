@@ -1,11 +1,16 @@
 {
-  "crawled_at": "2026-10-21 03:18",
-  "prev_crawled_at": "2026-10-20 22:16",
+  "crawled_at": "2026-10-21 07:03",
+  "prev_crawled_at": "2026-10-21 03:18",
   "items": [
+    {
+      "title": "SimCity, but with Permits",
+      "link": "https://permit.petercai.com/",
+      "is_new": true
+    },
     {
       "title": "Voxtral 3",
       "link": "https://mistral.ai/news/voxtral-3/",
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "DeepInfer: High-performance inference framework for DeepSeek models",
@@ -13,33 +18,145 @@
       "is_new": false
     },
     {
-      "title": "EMudhra Intermediate CA Compromise",
-      "link": "https://emudhra.we-have-a-problem.com/",
-      "is_new": true
+      "title": "What shall I teach my son?",
+      "link": "https://stevekrouse.com/ends",
+      "is_new": false
     },
     {
       "title": "Google open-sources TorchTPU, a native PyTorch back end for TPUs",
       "link": "https://github.com/google-pytorch/torch_tpu",
+      "is_new": false
+    },
+    {
+      "title": "SlopCodeBench 10/2026 – Opus 5.5, Astra wins overall, xhigh considered harmful",
+      "link": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-new-models-on-slop-code-bench.md",
       "is_new": true
     },
     {
       "title": "Apple broke an essential presentation feature of iPads",
       "link": "https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/",
+      "is_new": false
+    },
+    {
+      "title": "Ofcom concedes defeat in 4chan case",
+      "link": "https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat/",
+      "is_new": false
+    },
+    {
+      "title": "Meta's GB{2,3}00 Cluster",
+      "link": "https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster/",
       "is_new": true
     },
     {
-      "title": "Publish fake stats, get cited in LLMs",
-      "link": "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web",
+      "title": "On AI writing",
+      "link": "https://www.bolkunov.com/p/on-ai-writing",
       "is_new": true
     },
     {
-      "title": "Facebook Pages require paid subscription to post more than two links per month",
-      "link": "https://mastodon.gamedev.place/@AshleyGullen/117473851565913919",
+      "title": "EMudhra Intermediate CA Compromise",
+      "link": "https://emudhra.we-have-a-problem.com/",
+      "is_new": false
+    },
+    {
+      "title": "Sixteen Years After Deepwater Horizon, Deep Sea Life Shows Few Signs of Recovery",
+      "link": "https://e360.yale.edu/digest/deepwater-horizon-deep-sea-recovery",
+      "is_new": true
+    },
+    {
+      "title": "Tsrs: A Port of TypeScript to Rust",
+      "link": "https://blog.cloudflare.com/typescript-rust-port/",
+      "is_new": false
+    },
+    {
+      "title": "Claude designed protein binders against scorpion neurotoxins",
+      "link": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design",
+      "is_new": true
+    },
+    {
+      "title": "Making Solar Panels with a Microwave [video]",
+      "link": "https://www.youtube.com/watch?v=zcWkApGjyGM",
       "is_new": true
     },
     {
       "title": "How I got over 300 Tor exit nodes removed",
       "link": "https://kaba.cx/posts/20261020_Tor/",
+      "is_new": false
+    },
+    {
+      "title": "Google Cloud outage affects almost all banking and other operations in Europe",
+      "link": "https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/",
+      "is_new": false
+    },
+    {
+      "title": "IKEA – 3D Guide",
+      "link": "https://sael.net/flatpack/",
+      "is_new": false
+    },
+    {
+      "title": "Jepsen: Orkes Conductor 5.3.2",
+      "link": "https://jepsen.io/analyses/orkes-conductor-5.3.2",
+      "is_new": true
+    },
+    {
+      "title": "'Der Viener Schlinger': The meat cannon that launched 20k hot dogs",
+      "link": "https://flatwaterfreepress.org/der-viener-schlinger-the-meat-cannon-that-launched-20000-hot-dogs/",
+      "is_new": true
+    },
+    {
+      "title": "JAXA is about to perform a Phobos sample return mission",
+      "link": "https://www.science.org/content/article/audacious-space-heist-japan-aims-bring-home-bits-martian-moon",
+      "is_new": false
+    },
+    {
+      "title": "Archive of Our Own",
+      "link": "https://archiveofourown.org/",
+      "is_new": false
+    },
+    {
+      "title": "My Friend Bob Cringely",
+      "link": "https://tyma.com/my-cringe-story/",
+      "is_new": false
+    },
+    {
+      "title": "Facebook Pages require paid subscription to post more than two links per month",
+      "link": "https://mastodon.gamedev.place/@AshleyGullen/117473851565913919",
+      "is_new": false
+    },
+    {
+      "title": "Launch HN: Respan (YC W24) – Open-source Rust AI gateway built around plugins",
+      "link": "https://news.ycombinator.com/item?id=50167583",
+      "is_new": false
+    },
+    {
+      "title": "Hazel (YC W24) Is Hiring",
+      "link": "https://www.ycombinator.com/companies/hazel-2/jobs/PpNKYBS-full-stack-engineer-ts-sci",
+      "is_new": false
+    },
+    {
+      "title": "MicroG: Free-libre re-implementation of Google's proprietary Android user space",
+      "link": "https://github.com/microg/GmsCore/wiki",
+      "is_new": false
+    },
+    {
+      "title": "2026 is an exciting year for the Rust compiler (and me)",
+      "link": "https://yoyo-code.com/2026-is-exciting-year-for-rust-compiler-and-me/",
+      "is_new": false
+    },
+    {
+      "title": "Academics have a duty to defend open knowledge systems like Wikipedia",
+      "link": "https://blogs.lse.ac.uk/impactofsocialsciences/2026/10/19/academics-have-a-duty-to-defend-open-knowledge-systems-like-wikipedia/",
+      "is_new": true
+    },
+    {
+      "title": "Nordwand Mono – A monospace font for coders and adventurers",
+      "link": "https://github.com/tywr/Nordwand-Mono",
+      "is_new": false
+    }
+  ],
+  "removed": [
+    {
+      "title": "Publish fake stats, get cited in LLMs",
+      "link": "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web",
       "is_new": true
     },
     {
@@ -48,74 +165,9 @@
       "is_new": true
     },
     {
-      "title": "JAXA is about to perform a Phobos sample return mission",
-      "link": "https://www.science.org/content/article/audacious-space-heist-japan-aims-bring-home-bits-martian-moon",
-      "is_new": true
-    },
-    {
-      "title": "My Friend Bob Cringely",
-      "link": "https://tyma.com/my-cringe-story/",
-      "is_new": true
-    },
-    {
-      "title": "2026 is an exciting year for the Rust compiler (and me)",
-      "link": "https://yoyo-code.com/2026-is-exciting-year-for-rust-compiler-and-me/",
-      "is_new": true
-    },
-    {
-      "title": "Archive of Our Own",
-      "link": "https://archiveofourown.org/",
-      "is_new": true
-    },
-    {
-      "title": "Tsrs: A Port of TypeScript to Rust",
-      "link": "https://blog.cloudflare.com/typescript-rust-port/",
-      "is_new": true
-    },
-    {
-      "title": "IKEA – 3D Guide",
-      "link": "https://sael.net/flatpack/",
-      "is_new": true
-    },
-    {
       "title": "Advanced coding in low-resource programming languages",
       "link": "https://openai.com/index/low-resource-programming-languages/",
       "is_new": true
-    },
-    {
-      "title": "Google Cloud outage affects almost all banking and other operations in Europe",
-      "link": "https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/",
-      "is_new": false
-    },
-    {
-      "title": "Ofcom Concedes Defeat in the 4chan Case",
-      "link": "https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat/",
-      "is_new": true
-    },
-    {
-      "title": "Hazel (YC W24) Is Hiring",
-      "link": "https://www.ycombinator.com/companies/hazel-2/jobs/PpNKYBS-full-stack-engineer-ts-sci",
-      "is_new": false
-    },
-    {
-      "title": "What shall I teach my son?",
-      "link": "https://stevekrouse.com/ends",
-      "is_new": true
-    },
-    {
-      "title": "MicroG: Free-libre re-implementation of Google's proprietary Android user space",
-      "link": "https://github.com/microg/GmsCore/wiki",
-      "is_new": false
-    },
-    {
-      "title": "Launch HN: Respan (YC W24) – Open-source Rust AI gateway built around plugins",
-      "link": "https://news.ycombinator.com/item?id=50167583",
-      "is_new": true
-    },
-    {
-      "title": "Nordwand Mono – A monospace font for coders and adventurers",
-      "link": "https://github.com/tywr/Nordwand-Mono",
-      "is_new": false
     },
     {
       "title": "Steam Users Beg for \"No AI\" Filter as Vibecoders Flood Next Fest",
@@ -151,118 +203,6 @@
       "title": "One Manhattan power room took down FAA air traffic control in 1991",
       "link": "https://matthorn.io/posts/2026-10-18-33-thomas-street/",
       "is_new": true
-    }
-  ],
-  "removed": [
-    {
-      "title": "Demographic \"Doomsday\" Misses the Mark",
-      "link": "https://www.science.org/doi/10.1126/science.ael8752",
-      "is_new": true
-    },
-    {
-      "title": "Making a 88x31 button book using ImageMagick",
-      "link": "https://k.sosnierz.me/08-11-24/",
-      "is_new": true
-    },
-    {
-      "title": "'Der Viener Schlinger': The meat cannon that launched 20k hot dogs",
-      "link": "https://flatwaterfreepress.org/der-viener-schlinger-the-meat-cannon-that-launched-20000-hot-dogs/",
-      "is_new": true
-    },
-    {
-      "title": "Restoration of Retinal Regenerative Potential (2025)",
-      "link": "https://www.nature.com/articles/s41467-025-58290-8",
-      "is_new": false
-    },
-    {
-      "title": "MiniMax M3.1 Flash",
-      "link": "https://www.minimax.io/blog/minimax-m31f",
-      "is_new": false
-    },
-    {
-      "title": "There Are over 1M New York City Street Signs. Here's How They Are Made.",
-      "link": "https://www.nytimes.com/2026/08/15/nyregion/nyc-street-sign-shop.html",
-      "is_new": true
-    },
-    {
-      "title": "An ad-free Android TV",
-      "link": "https://cretezy.com/2026/ad-free-android-tv",
-      "is_new": false
-    },
-    {
-      "title": "Weball: Play Katamari on Websites",
-      "link": "https://www.funwithcomputervision.com/weball/",
-      "is_new": false
-    },
-    {
-      "title": "I built a drone with only one motor [video]",
-      "link": "https://www.youtube.com/watch?v=Ndftcft6XhU",
-      "is_new": false
-    },
-    {
-      "title": "Why Is Speculative Decoding Fast?",
-      "link": "https://jbarrow.ai/2026-10-08-why-is-speculative-decoding-fast/",
-      "is_new": true
-    },
-    {
-      "title": "Wine ported to OpenBSD",
-      "link": "https://marc.info/?l=openbsd-ports&m=179236125692175",
-      "is_new": false
-    },
-    {
-      "title": "Spending 10 months building the most human-like chess bot",
-      "link": "https://mbuffett.com/posts/most-human-chess-bot",
-      "is_new": true
-    },
-    {
-      "title": "It's still ok to enjoy programming",
-      "link": "https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming",
-      "is_new": false
-    },
-    {
-      "title": "France's supermarket fridges were vulnerable online for months",
-      "link": "https://ipinfo.io/blog/france-fridges-hack",
-      "is_new": false
-    },
-    {
-      "title": "Ukraine claims first drone evacuation of wounded soldier",
-      "link": "https://www.nbcnews.com/world/ukraine/ukraine-first-drone-evacuation-wounded-soldier-frontlines-hexacopter-rcna604310",
-      "is_new": false
-    },
-    {
-      "title": "How abliterated models can get you pwned",
-      "link": "https://projectdiscovery.io/research/how-abliterated-models-can-get-you-pwned",
-      "is_new": false
-    },
-    {
-      "title": "Maxwell: A new kind of model that sits between code and hardware",
-      "link": "https://heymaxwell.ai/",
-      "is_new": true
-    },
-    {
-      "title": "Starcraft: Ashfall",
-      "link": "https://starcraft-shooter-2026.pages.dev/",
-      "is_new": false
-    },
-    {
-      "title": "RuneScape Bench: MMOs for Agents [video]",
-      "link": "https://www.youtube.com/watch?v=cNm4zyUtWj0",
-      "is_new": false
-    },
-    {
-      "title": "Ask HN: How to deal with shipping AI-written code you don't understand?",
-      "link": "https://news.ycombinator.com/item?id=50151036",
-      "is_new": false
-    },
-    {
-      "title": "OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18",
-      "link": "https://bsd.network/@brynet/117407035545900963",
-      "is_new": false
-    },
-    {
-      "title": "One Hash Bloom Filters",
-      "link": "https://calabro.io/ohbf",
-      "is_new": false
     }
   ]
 }
