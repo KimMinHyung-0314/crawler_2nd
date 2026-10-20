@@ -1,15 +1,40 @@
 {
-  "crawled_at": "2026-10-20 10:31",
-  "prev_crawled_at": "2026-10-20 07:47",
+  "crawled_at": "2026-10-20 16:05",
+  "prev_crawled_at": "2026-10-20 10:31",
   "items": [
     {
-      "title": "France's supermarket fridges were vulnerable online for months",
-      "link": "https://ipinfo.io/blog/france-fridges-hack",
+      "title": "Nordwand Mono – A monospace font for coders and adventurers",
+      "link": "https://github.com/tywr/Nordwand-Mono",
       "is_new": true
     },
     {
-      "title": "Lula supporters protest against Meta to denounce its 'electoral interference'",
-      "link": "https://efe.com/english/latest-news/2026-10-20/lula-supporters-protest-against-meta-to-denounce-its-electoral-interference/",
+      "title": "OpenBSD 8.0",
+      "link": "https://www.openbsd.org/80.html",
+      "is_new": true
+    },
+    {
+      "title": "Vite+ an excellent toolchain for AI agent development",
+      "link": "https://janmichalek.com/blog/vite-plus-agentni-vyvoj?lang=en",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: Death Plan Switch, a self-hosted dead man's switch for solo devs",
+      "link": "https://deathplanswitch.com/",
+      "is_new": true
+    },
+    {
+      "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
+      "link": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
+      "is_new": true
+    },
+    {
+      "title": "Restoration of Retinal Regenerative Potential",
+      "link": "https://www.nature.com/articles/s41467-025-58290-8",
+      "is_new": true
+    },
+    {
+      "title": "Go will reject certificate chains containing eight distrusted SPKIs",
+      "link": "https://github.com/golang/go/issues/82345",
       "is_new": true
     },
     {
@@ -18,9 +43,24 @@
       "is_new": false
     },
     {
+      "title": "Weball: Play Katamari on Websites",
+      "link": "https://www.funwithcomputervision.com/weball/",
+      "is_new": false
+    },
+    {
+      "title": "France's supermarket fridges were vulnerable online for months",
+      "link": "https://ipinfo.io/blog/france-fridges-hack",
+      "is_new": false
+    },
+    {
       "title": "I built a drone with only one motor [video]",
       "link": "https://www.youtube.com/watch?v=Ndftcft6XhU",
       "is_new": false
+    },
+    {
+      "title": "An ad-free Android TV",
+      "link": "https://cretezy.com/2026/ad-free-android-tv",
+      "is_new": true
     },
     {
       "title": "Wine ported to OpenBSD",
@@ -28,9 +68,19 @@
       "is_new": false
     },
     {
-      "title": "Weball: Play Katamari on Websites",
-      "link": "https://www.funwithcomputervision.com/weball/",
+      "title": "DeepSeek banned from U.S. federal civilian agencies under new DHS order",
+      "link": "https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/",
       "is_new": true
+    },
+    {
+      "title": "It's still ok to enjoy programming",
+      "link": "https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming",
+      "is_new": false
+    },
+    {
+      "title": "Ukraine claims first drone evacuation of wounded soldier",
+      "link": "https://www.nbcnews.com/world/ukraine/ukraine-first-drone-evacuation-wounded-soldier-frontlines-hexacopter-rcna604310",
+      "is_new": false
     },
     {
       "title": "OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18",
@@ -43,33 +93,13 @@
       "is_new": false
     },
     {
-      "title": "Android apps running native on macOS",
-      "link": "https://github.com/kksimp/Mac.apk",
-      "is_new": false
-    },
-    {
-      "title": "It's still ok to enjoy programming",
-      "link": "https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming",
-      "is_new": false
-    },
-    {
-      "title": "One Hash Bloom Filters",
-      "link": "https://calabro.io/ohbf",
-      "is_new": false
-    },
-    {
-      "title": "Putting Linux on my RTX Spark laptop because I don't have a Microsoft account",
-      "link": "https://josie.lol/blog/linux-rtx-spark",
-      "is_new": false
-    },
-    {
-      "title": "Ukraine claims first drone evacuation of wounded soldier",
-      "link": "https://www.nbcnews.com/world/ukraine/ukraine-first-drone-evacuation-wounded-soldier-frontlines-hexacopter-rcna604310",
+      "title": "How Do Fungi Keep the Planet Healthy?",
+      "link": "https://www.quantamagazine.org/how-do-fungi-keep-the-planet-healthy-20261015/",
       "is_new": true
     },
     {
-      "title": "Timestral: Mistral's time-series foundation models",
-      "link": "https://mistral.ai/news/timestral/",
+      "title": "Android apps running native on macOS",
+      "link": "https://github.com/kksimp/Mac.apk",
       "is_new": false
     },
     {
@@ -78,14 +108,66 @@
       "is_new": false
     },
     {
-      "title": "Alternatives to animal testing are finally taking off",
-      "link": "https://spectrum.ieee.org/alternatives-to-animal-testing",
+      "title": "How abliterated models can get you pwned",
+      "link": "https://projectdiscovery.io/research/how-abliterated-models-can-get-you-pwned",
       "is_new": false
     },
     {
-      "title": "“bonsoir, Elliot”: How abliterated models can get you pwned",
-      "link": "https://projectdiscovery.io/research/how-abliterated-models-can-get-you-pwned",
+      "title": "One Hash Bloom Filters",
+      "link": "https://calabro.io/ohbf",
+      "is_new": false
+    },
+    {
+      "title": "Developing Taste",
+      "link": "https://emilkowal.ski/ui/developing-taste",
       "is_new": true
+    },
+    {
+      "title": "Porting video games to VHS",
+      "link": "https://gardinerbryant.com/what-if-video-games-came-on-vhs/",
+      "is_new": true
+    },
+    {
+      "title": "Ask HN: How to deal with shipping AI-written code you don't understand?",
+      "link": "https://news.ycombinator.com/item?id=50151036",
+      "is_new": false
+    },
+    {
+      "title": "Refurb weekend II: Alpha Micro Eagle 300 and friends",
+      "link": "http://oldvcr.blogspot.com/2026/10/refurb-weekend-ii-alpha-micro-eagle-300.html",
+      "is_new": true
+    },
+    {
+      "title": "Putting Linux on my RTX Spark laptop because I don't have a Microsoft account",
+      "link": "https://josie.lol/blog/linux-rtx-spark",
+      "is_new": false
+    },
+    {
+      "title": "Agentic Monitoring",
+      "link": "https://benjamincongdon.me/blog/2026/10/19/Agentic-Monitoring/",
+      "is_new": false
+    },
+    {
+      "title": "Plex vulnerabilities being exploited in the wild to drop a cryptominer",
+      "link": "http://www.boredhackerblog.info/2026/10/plex-vulnerabilities-being-exploited-in.html",
+      "is_new": false
+    }
+  ],
+  "removed": [
+    {
+      "title": "Lula supporters protest against Meta to denounce its 'electoral interference'",
+      "link": "https://efe.com/english/latest-news/2026-10-20/lula-supporters-protest-against-meta-to-denounce-its-electoral-interference/",
+      "is_new": true
+    },
+    {
+      "title": "Timestral: Mistral's time-series foundation models",
+      "link": "https://mistral.ai/news/timestral/",
+      "is_new": false
+    },
+    {
+      "title": "Alternatives to animal testing are finally taking off",
+      "link": "https://spectrum.ieee.org/alternatives-to-animal-testing",
+      "is_new": false
     },
     {
       "title": "The fire retardant in the seafood chain",
@@ -98,11 +180,6 @@
       "is_new": true
     },
     {
-      "title": "Ask HN: How to deal with shipping AI-written code you don't understand?",
-      "link": "https://news.ycombinator.com/item?id=50151036",
-      "is_new": false
-    },
-    {
       "title": "The End of Rationing",
       "link": "https://sanketsaurav.com/writing/end-of-rationing",
       "is_new": false
@@ -110,11 +187,6 @@
     {
       "title": "Evidence (YC S21) Is Hiring Software Engineers",
       "link": "https://evidence.dev/jobs",
-      "is_new": false
-    },
-    {
-      "title": "Agentic Monitoring",
-      "link": "https://benjamincongdon.me/blog/2026/10/19/Agentic-Monitoring/",
       "is_new": false
     },
     {
@@ -143,51 +215,9 @@
       "is_new": false
     },
     {
-      "title": "Plex vulnerabilities being exploited in the wild to drop a cryptominer",
-      "link": "http://www.boredhackerblog.info/2026/10/plex-vulnerabilities-being-exploited-in.html",
-      "is_new": false
-    },
-    {
       "title": "Launch HN: Laminar (YC S24) – RL-trained model that finds errors in agent traces",
       "link": "https://news.ycombinator.com/item?id=50154029",
       "is_new": false
-    }
-  ],
-  "removed": [
-    {
-      "title": "Mercury 3: Diffusion at scale",
-      "link": "https://www.inceptionlabs.ai/blog/introducing-mercury-3",
-      "is_new": false
-    },
-    {
-      "title": "Detecting model weight tampering in GPU memory (Rome attacks)",
-      "link": "https://stealthium.io/blog/hands-off-detecting-model-weight-tampering",
-      "is_new": true
-    },
-    {
-      "title": "Chicago O'Hare digs up 50-ton boulder under airfield, asks public for name ideas",
-      "link": "https://simpleflying.com/chicago-ohare-digs-up-50-ton-boulder-public-names/",
-      "is_new": true
-    },
-    {
-      "title": "Code is clay now",
-      "link": "https://www.albertodenia.com/writing/code-is-clay-now",
-      "is_new": true
-    },
-    {
-      "title": "Galois Finite Fields and the Advanced Encryption Standard (AES)",
-      "link": "https://www.cs.uaf.edu/2015/spring/cs463/lecture/03_23_AES.html",
-      "is_new": false
-    },
-    {
-      "title": "My Neighbor, Me, and a Grand Principle",
-      "link": "https://lastwordonnothing.com/2026/10/19/my-neighbor-me-and-a-grand-principle/",
-      "is_new": true
-    },
-    {
-      "title": "Most lookups are for things that don't exist",
-      "link": "https://cristicretan.ro/articles/2026/10/16/most-lookups-are-for-things-that-dont-exist/",
-      "is_new": true
     }
   ]
 }
