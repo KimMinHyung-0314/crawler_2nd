@@ -1,20 +1,115 @@
 {
-  "crawled_at": "2026-10-20 22:16",
-  "prev_crawled_at": "2026-10-20 16:05",
+  "crawled_at": "2026-10-21 03:18",
+  "prev_crawled_at": "2026-10-20 22:16",
   "items": [
     {
-      "title": "DeepSeek just open-sourced its inference engine",
-      "link": "https://github.com/deepseek-ai/DeepInfer",
+      "title": "Voxtral 3",
+      "link": "https://mistral.ai/news/voxtral-3/",
       "is_new": true
     },
     {
-      "title": "Demographic \"Doomsday\" Misses the Mark",
-      "link": "https://www.science.org/doi/10.1126/science.ael8752",
+      "title": "DeepInfer: High-performance inference framework for DeepSeek models",
+      "link": "https://github.com/deepseek-ai/DeepInfer",
+      "is_new": false
+    },
+    {
+      "title": "EMudhra Intermediate CA Compromise",
+      "link": "https://emudhra.we-have-a-problem.com/",
+      "is_new": true
+    },
+    {
+      "title": "Google open-sources TorchTPU, a native PyTorch back end for TPUs",
+      "link": "https://github.com/google-pytorch/torch_tpu",
+      "is_new": true
+    },
+    {
+      "title": "Apple broke an essential presentation feature of iPads",
+      "link": "https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/",
+      "is_new": true
+    },
+    {
+      "title": "Publish fake stats, get cited in LLMs",
+      "link": "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web",
+      "is_new": true
+    },
+    {
+      "title": "Facebook Pages require paid subscription to post more than two links per month",
+      "link": "https://mastodon.gamedev.place/@AshleyGullen/117473851565913919",
+      "is_new": true
+    },
+    {
+      "title": "How I got over 300 Tor exit nodes removed",
+      "link": "https://kaba.cx/posts/20261020_Tor/",
+      "is_new": true
+    },
+    {
+      "title": "Triplet of 'ghostly' galaxies hints at what dark matter is and isn't",
+      "link": "https://www.quantamagazine.org/triplet-of-ghostly-galaxies-hints-at-what-dark-matter-is-and-isnt-20261014/",
+      "is_new": true
+    },
+    {
+      "title": "JAXA is about to perform a Phobos sample return mission",
+      "link": "https://www.science.org/content/article/audacious-space-heist-japan-aims-bring-home-bits-martian-moon",
+      "is_new": true
+    },
+    {
+      "title": "My Friend Bob Cringely",
+      "link": "https://tyma.com/my-cringe-story/",
+      "is_new": true
+    },
+    {
+      "title": "2026 is an exciting year for the Rust compiler (and me)",
+      "link": "https://yoyo-code.com/2026-is-exciting-year-for-rust-compiler-and-me/",
+      "is_new": true
+    },
+    {
+      "title": "Archive of Our Own",
+      "link": "https://archiveofourown.org/",
+      "is_new": true
+    },
+    {
+      "title": "Tsrs: A Port of TypeScript to Rust",
+      "link": "https://blog.cloudflare.com/typescript-rust-port/",
+      "is_new": true
+    },
+    {
+      "title": "IKEA – 3D Guide",
+      "link": "https://sael.net/flatpack/",
+      "is_new": true
+    },
+    {
+      "title": "Advanced coding in low-resource programming languages",
+      "link": "https://openai.com/index/low-resource-programming-languages/",
+      "is_new": true
+    },
+    {
+      "title": "Google Cloud outage affects almost all banking and other operations in Europe",
+      "link": "https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/",
+      "is_new": false
+    },
+    {
+      "title": "Ofcom Concedes Defeat in the 4chan Case",
+      "link": "https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat/",
+      "is_new": true
+    },
+    {
+      "title": "Hazel (YC W24) Is Hiring",
+      "link": "https://www.ycombinator.com/companies/hazel-2/jobs/PpNKYBS-full-stack-engineer-ts-sci",
+      "is_new": false
+    },
+    {
+      "title": "What shall I teach my son?",
+      "link": "https://stevekrouse.com/ends",
       "is_new": true
     },
     {
       "title": "MicroG: Free-libre re-implementation of Google's proprietary Android user space",
       "link": "https://github.com/microg/GmsCore/wiki",
+      "is_new": false
+    },
+    {
+      "title": "Launch HN: Respan (YC W24) – Open-source Rust AI gateway built around plugins",
+      "link": "https://news.ycombinator.com/item?id=50167583",
       "is_new": true
     },
     {
@@ -23,9 +118,9 @@
       "is_new": false
     },
     {
-      "title": "OpenBSD 8.0",
-      "link": "https://www.openbsd.org/80.html",
-      "is_new": false
+      "title": "Steam Users Beg for \"No AI\" Filter as Vibecoders Flood Next Fest",
+      "link": "https://www.ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop",
+      "is_new": true
     },
     {
       "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
@@ -33,9 +128,14 @@
       "is_new": false
     },
     {
-      "title": "Making a 88x31 button book using ImageMagick",
-      "link": "https://k.sosnierz.me/08-11-24/",
+      "title": "Show HN: Penmentor – Claude marks up your handwritten math like a teacher",
+      "link": "https://github.com/AbdullahAlhariri/penmentor",
       "is_new": true
+    },
+    {
+      "title": "OpenBSD 8.0",
+      "link": "https://www.openbsd.org/80.html",
+      "is_new": false
     },
     {
       "title": "DeepSeek banned from U.S. federal civilian agencies under new DHS order",
@@ -43,13 +143,25 @@
       "is_new": false
     },
     {
-      "title": "Hazel (YC W24) Is Hiring",
-      "link": "https://www.ycombinator.com/companies/hazel-2/jobs/PpNKYBS-full-stack-engineer-ts-sci",
+      "title": "Show HN: Jev Cards, Can you beat a vision model at a picture quiz?",
+      "link": "https://jevcards.com",
       "is_new": true
     },
     {
-      "title": "Google cloud outage takes down banks",
-      "link": "https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/",
+      "title": "One Manhattan power room took down FAA air traffic control in 1991",
+      "link": "https://matthorn.io/posts/2026-10-18-33-thomas-street/",
+      "is_new": true
+    }
+  ],
+  "removed": [
+    {
+      "title": "Demographic \"Doomsday\" Misses the Mark",
+      "link": "https://www.science.org/doi/10.1126/science.ael8752",
+      "is_new": true
+    },
+    {
+      "title": "Making a 88x31 button book using ImageMagick",
+      "link": "https://k.sosnierz.me/08-11-24/",
       "is_new": true
     },
     {
@@ -150,63 +262,6 @@
     {
       "title": "One Hash Bloom Filters",
       "link": "https://calabro.io/ohbf",
-      "is_new": false
-    }
-  ],
-  "removed": [
-    {
-      "title": "Vite+ an excellent toolchain for AI agent development",
-      "link": "https://janmichalek.com/blog/vite-plus-agentni-vyvoj?lang=en",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: Death Plan Switch, a self-hosted dead man's switch for solo devs",
-      "link": "https://deathplanswitch.com/",
-      "is_new": true
-    },
-    {
-      "title": "Go will reject certificate chains containing eight distrusted SPKIs",
-      "link": "https://github.com/golang/go/issues/82345",
-      "is_new": true
-    },
-    {
-      "title": "How Do Fungi Keep the Planet Healthy?",
-      "link": "https://www.quantamagazine.org/how-do-fungi-keep-the-planet-healthy-20261015/",
-      "is_new": true
-    },
-    {
-      "title": "Android apps running native on macOS",
-      "link": "https://github.com/kksimp/Mac.apk",
-      "is_new": false
-    },
-    {
-      "title": "Developing Taste",
-      "link": "https://emilkowal.ski/ui/developing-taste",
-      "is_new": true
-    },
-    {
-      "title": "Porting video games to VHS",
-      "link": "https://gardinerbryant.com/what-if-video-games-came-on-vhs/",
-      "is_new": true
-    },
-    {
-      "title": "Refurb weekend II: Alpha Micro Eagle 300 and friends",
-      "link": "http://oldvcr.blogspot.com/2026/10/refurb-weekend-ii-alpha-micro-eagle-300.html",
-      "is_new": true
-    },
-    {
-      "title": "Putting Linux on my RTX Spark laptop because I don't have a Microsoft account",
-      "link": "https://josie.lol/blog/linux-rtx-spark",
-      "is_new": false
-    },
-    {
-      "title": "Agentic Monitoring",
-      "link": "https://benjamincongdon.me/blog/2026/10/19/Agentic-Monitoring/",
-      "is_new": false
-    },
-    {
-      "title": "Plex vulnerabilities being exploited in the wild to drop a cryptominer",
-      "link": "http://www.boredhackerblog.info/2026/10/plex-vulnerabilities-being-exploited-in.html",
       "is_new": false
     }
   ]
