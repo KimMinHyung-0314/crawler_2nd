@@ -1,11 +1,21 @@
 {
-  "crawled_at": "2026-10-21 07:03",
-  "prev_crawled_at": "2026-10-21 03:18",
+  "crawled_at": "2026-10-21 10:14",
+  "prev_crawled_at": "2026-10-21 07:03",
   "items": [
     {
       "title": "SimCity, but with Permits",
       "link": "https://permit.petercai.com/",
+      "is_new": false
+    },
+    {
+      "title": "Feds suspect ransom negotiator ran ShinyHunters extortion site",
+      "link": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
       "is_new": true
+    },
+    {
+      "title": "DeepInfer: High-performance inference framework for DeepSeek models",
+      "link": "https://github.com/deepseek-ai/DeepInfer",
+      "is_new": false
     },
     {
       "title": "Voxtral 3",
@@ -13,8 +23,13 @@
       "is_new": false
     },
     {
-      "title": "DeepInfer: High-performance inference framework for DeepSeek models",
-      "link": "https://github.com/deepseek-ai/DeepInfer",
+      "title": "The Other Epidemic: Trying to get off benzodiazepines",
+      "link": "https://www.thebeliever.net/the-other-epidemic/",
+      "is_new": true
+    },
+    {
+      "title": "Google open-sources TorchTPU, a native PyTorch back end for TPUs",
+      "link": "https://github.com/google-pytorch/torch_tpu",
       "is_new": false
     },
     {
@@ -23,18 +38,23 @@
       "is_new": false
     },
     {
-      "title": "Google open-sources TorchTPU, a native PyTorch back end for TPUs",
-      "link": "https://github.com/google-pytorch/torch_tpu",
+      "title": "SlopCodeBench 10/2026 – Opus 5.5, Astra wins overall, xhigh considered harmful",
+      "link": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-new-models-on-slop-code-bench.md",
       "is_new": false
     },
     {
-      "title": "SlopCodeBench 10/2026 – Opus 5.5, Astra wins overall, xhigh considered harmful",
-      "link": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-new-models-on-slop-code-bench.md",
-      "is_new": true
+      "title": "Academics have a duty to defend open knowledge systems like Wikipedia",
+      "link": "https://blogs.lse.ac.uk/impactofsocialsciences/2026/10/19/academics-have-a-duty-to-defend-open-knowledge-systems-like-wikipedia/",
+      "is_new": false
     },
     {
       "title": "Apple broke an essential presentation feature of iPads",
       "link": "https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/",
+      "is_new": false
+    },
+    {
+      "title": "Sixteen Years After Deepwater Horizon, Deep Sea Life Shows Few Signs of Recovery",
+      "link": "https://e360.yale.edu/digest/deepwater-horizon-deep-sea-recovery",
       "is_new": false
     },
     {
@@ -43,23 +63,18 @@
       "is_new": false
     },
     {
-      "title": "Meta's GB{2,3}00 Cluster",
-      "link": "https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster/",
-      "is_new": true
-    },
-    {
-      "title": "On AI writing",
-      "link": "https://www.bolkunov.com/p/on-ai-writing",
-      "is_new": true
-    },
-    {
       "title": "EMudhra Intermediate CA Compromise",
       "link": "https://emudhra.we-have-a-problem.com/",
       "is_new": false
     },
     {
-      "title": "Sixteen Years After Deepwater Horizon, Deep Sea Life Shows Few Signs of Recovery",
-      "link": "https://e360.yale.edu/digest/deepwater-horizon-deep-sea-recovery",
+      "title": "Microagi: Accelerating Embodied AGI",
+      "link": "https://www.microagi.ai/",
+      "is_new": true
+    },
+    {
+      "title": "Benchmarking Bot Detection Systems Against Modern AI Agents in 2026",
+      "link": "https://research.poh.org/bot-benchmarking-2026/",
       "is_new": true
     },
     {
@@ -68,13 +83,28 @@
       "is_new": false
     },
     {
-      "title": "Claude designed protein binders against scorpion neurotoxins",
-      "link": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design",
+      "title": "Making Solar Panels with a Microwave [video]",
+      "link": "https://www.youtube.com/watch?v=zcWkApGjyGM",
+      "is_new": false
+    },
+    {
+      "title": "Shipping a LaTeX Compiler Behind an Edge App",
+      "link": "https://bhargav.dev/writing/shipping-a-latex-compiler-behind-an-edge-app",
       "is_new": true
     },
     {
-      "title": "Making Solar Panels with a Microwave [video]",
-      "link": "https://www.youtube.com/watch?v=zcWkApGjyGM",
+      "title": "Show HN: Dovepass – can I legally fly a drone along this exact path in SF?",
+      "link": "https://dovepass.com",
+      "is_new": true
+    },
+    {
+      "title": "Google Cloud outage affects almost all banking and other operations in Europe",
+      "link": "https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/",
+      "is_new": false
+    },
+    {
+      "title": "What the heck is /pkg?",
+      "link": "https://anderegg.ca/2026/10/18/what-the-heck-is-pkg",
       "is_new": true
     },
     {
@@ -83,8 +113,8 @@
       "is_new": false
     },
     {
-      "title": "Google Cloud outage affects almost all banking and other operations in Europe",
-      "link": "https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/",
+      "title": "Meta's GB{2,3}00 Cluster",
+      "link": "https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster/",
       "is_new": false
     },
     {
@@ -93,23 +123,8 @@
       "is_new": false
     },
     {
-      "title": "Jepsen: Orkes Conductor 5.3.2",
-      "link": "https://jepsen.io/analyses/orkes-conductor-5.3.2",
-      "is_new": true
-    },
-    {
-      "title": "'Der Viener Schlinger': The meat cannon that launched 20k hot dogs",
-      "link": "https://flatwaterfreepress.org/der-viener-schlinger-the-meat-cannon-that-launched-20000-hot-dogs/",
-      "is_new": true
-    },
-    {
-      "title": "JAXA is about to perform a Phobos sample return mission",
-      "link": "https://www.science.org/content/article/audacious-space-heist-japan-aims-bring-home-bits-martian-moon",
-      "is_new": false
-    },
-    {
-      "title": "Archive of Our Own",
-      "link": "https://archiveofourown.org/",
+      "title": "Launch HN: Respan (YC W24) – Open-source Rust AI gateway built around plugins",
+      "link": "https://news.ycombinator.com/item?id=50167583",
       "is_new": false
     },
     {
@@ -118,13 +133,45 @@
       "is_new": false
     },
     {
-      "title": "Facebook Pages require paid subscription to post more than two links per month",
-      "link": "https://mastodon.gamedev.place/@AshleyGullen/117473851565913919",
+      "title": "JAXA is about to perform a Phobos sample return mission",
+      "link": "https://www.science.org/content/article/audacious-space-heist-japan-aims-bring-home-bits-martian-moon",
       "is_new": false
     },
     {
-      "title": "Launch HN: Respan (YC W24) – Open-source Rust AI gateway built around plugins",
-      "link": "https://news.ycombinator.com/item?id=50167583",
+      "title": "'Der Viener Schlinger': The meat cannon that launched 20k hot dogs",
+      "link": "https://flatwaterfreepress.org/der-viener-schlinger-the-meat-cannon-that-launched-20000-hot-dogs/",
+      "is_new": false
+    },
+    {
+      "title": "2026 is an exciting year for the Rust compiler (and me)",
+      "link": "https://yoyo-code.com/2026-is-exciting-year-for-rust-compiler-and-me/",
+      "is_new": false
+    },
+    {
+      "title": "Facebook Pages require paid subscription to post more than two links per month",
+      "link": "https://mastodon.gamedev.place/@AshleyGullen/117473851565913919",
+      "is_new": false
+    }
+  ],
+  "removed": [
+    {
+      "title": "On AI writing",
+      "link": "https://www.bolkunov.com/p/on-ai-writing",
+      "is_new": true
+    },
+    {
+      "title": "Claude designed protein binders against scorpion neurotoxins",
+      "link": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design",
+      "is_new": true
+    },
+    {
+      "title": "Jepsen: Orkes Conductor 5.3.2",
+      "link": "https://jepsen.io/analyses/orkes-conductor-5.3.2",
+      "is_new": true
+    },
+    {
+      "title": "Archive of Our Own",
+      "link": "https://archiveofourown.org/",
       "is_new": false
     },
     {
@@ -138,71 +185,9 @@
       "is_new": false
     },
     {
-      "title": "2026 is an exciting year for the Rust compiler (and me)",
-      "link": "https://yoyo-code.com/2026-is-exciting-year-for-rust-compiler-and-me/",
-      "is_new": false
-    },
-    {
-      "title": "Academics have a duty to defend open knowledge systems like Wikipedia",
-      "link": "https://blogs.lse.ac.uk/impactofsocialsciences/2026/10/19/academics-have-a-duty-to-defend-open-knowledge-systems-like-wikipedia/",
-      "is_new": true
-    },
-    {
       "title": "Nordwand Mono – A monospace font for coders and adventurers",
       "link": "https://github.com/tywr/Nordwand-Mono",
       "is_new": false
-    }
-  ],
-  "removed": [
-    {
-      "title": "Publish fake stats, get cited in LLMs",
-      "link": "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web",
-      "is_new": true
-    },
-    {
-      "title": "Triplet of 'ghostly' galaxies hints at what dark matter is and isn't",
-      "link": "https://www.quantamagazine.org/triplet-of-ghostly-galaxies-hints-at-what-dark-matter-is-and-isnt-20261014/",
-      "is_new": true
-    },
-    {
-      "title": "Advanced coding in low-resource programming languages",
-      "link": "https://openai.com/index/low-resource-programming-languages/",
-      "is_new": true
-    },
-    {
-      "title": "Steam Users Beg for \"No AI\" Filter as Vibecoders Flood Next Fest",
-      "link": "https://www.ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop",
-      "is_new": true
-    },
-    {
-      "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
-      "link": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
-      "is_new": false
-    },
-    {
-      "title": "Show HN: Penmentor – Claude marks up your handwritten math like a teacher",
-      "link": "https://github.com/AbdullahAlhariri/penmentor",
-      "is_new": true
-    },
-    {
-      "title": "OpenBSD 8.0",
-      "link": "https://www.openbsd.org/80.html",
-      "is_new": false
-    },
-    {
-      "title": "DeepSeek banned from U.S. federal civilian agencies under new DHS order",
-      "link": "https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/",
-      "is_new": false
-    },
-    {
-      "title": "Show HN: Jev Cards, Can you beat a vision model at a picture quiz?",
-      "link": "https://jevcards.com",
-      "is_new": true
-    },
-    {
-      "title": "One Manhattan power room took down FAA air traffic control in 1991",
-      "link": "https://matthorn.io/posts/2026-10-18-33-thomas-street/",
-      "is_new": true
     }
   ]
 }
