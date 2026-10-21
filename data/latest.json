@@ -1,20 +1,25 @@
 {
-  "crawled_at": "2026-10-21 10:14",
-  "prev_crawled_at": "2026-10-21 07:03",
+  "crawled_at": "2026-10-21 15:59",
+  "prev_crawled_at": "2026-10-21 10:14",
   "items": [
     {
-      "title": "SimCity, but with Permits",
+      "title": "The Future of CSS",
+      "link": "https://www.joshwcomeau.com/css/interop-2027/",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: SimCity, but with Permits",
       "link": "https://permit.petercai.com/",
       "is_new": false
     },
     {
-      "title": "Feds suspect ransom negotiator ran ShinyHunters extortion site",
-      "link": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
+      "title": "In Hilbert space, all things are quantumly possible",
+      "link": "https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/",
       "is_new": true
     },
     {
-      "title": "DeepInfer: High-performance inference framework for DeepSeek models",
-      "link": "https://github.com/deepseek-ai/DeepInfer",
+      "title": "Feds suspect ransom negotiator ran ShinyHunters extortion site",
+      "link": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
       "is_new": false
     },
     {
@@ -23,8 +28,58 @@
       "is_new": false
     },
     {
+      "title": "Battlezone Online: BZFlag in the Browser",
+      "link": "https://github.com/timriker/bzo",
+      "is_new": true
+    },
+    {
+      "title": "eMudhra intermediate CA compromise",
+      "link": "https://emudhra.we-have-a-problem.com/",
+      "is_new": false
+    },
+    {
+      "title": "Muse exposes users' personal and business secrets when they share conversations",
+      "link": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
+      "is_new": true
+    },
+    {
+      "title": "Upcoming critical PHP security release (CVE-2026-109618 / -109619)",
+      "link": "https://news-web.php.net/php.announce/509",
+      "is_new": true
+    },
+    {
+      "title": "Pillowfort Is Closing",
+      "link": "https://www.pillowfort.social/posts/8413273",
+      "is_new": true
+    },
+    {
+      "title": "Good type against all odds",
+      "link": "https://unsung.aresluna.org/good-type-against-all-odds/",
+      "is_new": true
+    },
+    {
+      "title": "Ship Your Interpreter",
+      "link": "https://www.basis.ai/blog/ship-your-interpreters/",
+      "is_new": true
+    },
+    {
       "title": "The Other Epidemic: Trying to get off benzodiazepines",
       "link": "https://www.thebeliever.net/the-other-epidemic/",
+      "is_new": false
+    },
+    {
+      "title": "Four Years with Decker",
+      "link": "https://beyondloom.com/blog/fouryearsdecker.html",
+      "is_new": true
+    },
+    {
+      "title": "Borrow Checking Zero-Cost Cyclic Mutability",
+      "link": "https://antelang.org/blog/safe_cyclic_mutability/",
+      "is_new": true
+    },
+    {
+      "title": "ZX Spectrum Next Laptop",
+      "link": "https://www.dorchester3d.com/printing/blog/2020/11/zx-spectrum-next-laptop-version-2",
       "is_new": true
     },
     {
@@ -33,18 +88,18 @@
       "is_new": false
     },
     {
-      "title": "What shall I teach my son?",
-      "link": "https://stevekrouse.com/ends",
-      "is_new": false
-    },
-    {
       "title": "SlopCodeBench 10/2026 – Opus 5.5, Astra wins overall, xhigh considered harmful",
       "link": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-new-models-on-slop-code-bench.md",
       "is_new": false
     },
     {
-      "title": "Academics have a duty to defend open knowledge systems like Wikipedia",
-      "link": "https://blogs.lse.ac.uk/impactofsocialsciences/2026/10/19/academics-have-a-duty-to-defend-open-knowledge-systems-like-wikipedia/",
+      "title": "Setting Up SSH Keys on macOS with Touch ID",
+      "link": "https://nmattia.com/posts/2026-10-19-setting-up-ssh-keys-touch-id/",
+      "is_new": true
+    },
+    {
+      "title": "What shall I teach my son?",
+      "link": "https://stevekrouse.com/ends",
       "is_new": false
     },
     {
@@ -53,9 +108,14 @@
       "is_new": false
     },
     {
-      "title": "Sixteen Years After Deepwater Horizon, Deep Sea Life Shows Few Signs of Recovery",
-      "link": "https://e360.yale.edu/digest/deepwater-horizon-deep-sea-recovery",
+      "title": "DeepInfer: High-performance inference framework for DeepSeek models",
+      "link": "https://github.com/deepseek-ai/DeepInfer",
       "is_new": false
+    },
+    {
+      "title": "Using Claude to reduce the attack surface of code",
+      "link": "https://www.anthropic.com/research/attack-surface-reduction",
+      "is_new": true
     },
     {
       "title": "Ofcom concedes defeat in 4chan case",
@@ -63,8 +123,40 @@
       "is_new": false
     },
     {
-      "title": "EMudhra Intermediate CA Compromise",
-      "link": "https://emudhra.we-have-a-problem.com/",
+      "title": "To Make, or to Buy: The Economics of Decision Models",
+      "link": "https://pncnmnp.github.io/blogs/economics-decision-models.html",
+      "is_new": true
+    },
+    {
+      "title": "Tsrs: A Port of TypeScript to Rust",
+      "link": "https://blog.cloudflare.com/typescript-rust-port/",
+      "is_new": false
+    },
+    {
+      "title": "Sixteen years after Deepwater Horizon, deep sea life shows few signs of recovery",
+      "link": "https://e360.yale.edu/digest/deepwater-horizon-deep-sea-recovery",
+      "is_new": false
+    },
+    {
+      "title": "C# now beats Rust on WASM size",
+      "link": "https://github.com/zion-sati/NetWasm",
+      "is_new": true
+    },
+    {
+      "title": "Advanced coding in low-resource programming languages",
+      "link": "https://openai.com/index/low-resource-programming-languages/",
+      "is_new": true
+    },
+    {
+      "title": "Nexus-CLI – Pure Go Bridge to DeepSeek R1/V3 with Claude Code and Ollama Support",
+      "link": "https://github.com/xamrayev/nexus-cli",
+      "is_new": true
+    }
+  ],
+  "removed": [
+    {
+      "title": "Academics have a duty to defend open knowledge systems like Wikipedia",
+      "link": "https://blogs.lse.ac.uk/impactofsocialsciences/2026/10/19/academics-have-a-duty-to-defend-open-knowledge-systems-like-wikipedia/",
       "is_new": false
     },
     {
@@ -76,11 +168,6 @@
       "title": "Benchmarking Bot Detection Systems Against Modern AI Agents in 2026",
       "link": "https://research.poh.org/bot-benchmarking-2026/",
       "is_new": true
-    },
-    {
-      "title": "Tsrs: A Port of TypeScript to Rust",
-      "link": "https://blog.cloudflare.com/typescript-rust-port/",
-      "is_new": false
     },
     {
       "title": "Making Solar Panels with a Microwave [video]",
@@ -150,43 +237,6 @@
     {
       "title": "Facebook Pages require paid subscription to post more than two links per month",
       "link": "https://mastodon.gamedev.place/@AshleyGullen/117473851565913919",
-      "is_new": false
-    }
-  ],
-  "removed": [
-    {
-      "title": "On AI writing",
-      "link": "https://www.bolkunov.com/p/on-ai-writing",
-      "is_new": true
-    },
-    {
-      "title": "Claude designed protein binders against scorpion neurotoxins",
-      "link": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design",
-      "is_new": true
-    },
-    {
-      "title": "Jepsen: Orkes Conductor 5.3.2",
-      "link": "https://jepsen.io/analyses/orkes-conductor-5.3.2",
-      "is_new": true
-    },
-    {
-      "title": "Archive of Our Own",
-      "link": "https://archiveofourown.org/",
-      "is_new": false
-    },
-    {
-      "title": "Hazel (YC W24) Is Hiring",
-      "link": "https://www.ycombinator.com/companies/hazel-2/jobs/PpNKYBS-full-stack-engineer-ts-sci",
-      "is_new": false
-    },
-    {
-      "title": "MicroG: Free-libre re-implementation of Google's proprietary Android user space",
-      "link": "https://github.com/microg/GmsCore/wiki",
-      "is_new": false
-    },
-    {
-      "title": "Nordwand Mono – A monospace font for coders and adventurers",
-      "link": "https://github.com/tywr/Nordwand-Mono",
       "is_new": false
     }
   ]
