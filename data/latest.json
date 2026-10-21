@@ -1,50 +1,162 @@
 {
-  "crawled_at": "2026-10-22 02:52",
-  "prev_crawled_at": "2026-10-21 21:51",
+  "crawled_at": "2026-10-22 06:12",
+  "prev_crawled_at": "2026-10-22 02:52",
   "items": [
     {
-      "title": "PHP 8.2.35",
-      "link": "https://github.com/php/php-src/releases/tag/php-8.2.35",
+      "title": "Mistral Large 4",
+      "link": "https://docs.mistral.ai/models/mistral-large-4-0",
+      "is_new": true
+    },
+    {
+      "title": "Meta hit with $25B penalty for deceiving users about privacy on Facebook",
+      "link": "https://nmdoj.gov/press-release/the-new-mexico-department-of-justice-secures-another-landmark-victory-against-big-tech-with-historic-25-billion-penalty-against-facebook/",
       "is_new": true
     },
     {
       "title": "Today's PHP security release, and how we're strengthening security",
       "link": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
+      "is_new": false
+    },
+    {
+      "title": "GitLab Remote Code Execution - Integer Overflow issue",
+      "link": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
+      "is_new": true
+    },
+    {
+      "title": "Why Windows 11 still ships with Windows 95's memory manager hidden inside it",
+      "link": "https://www.windowslatest.com/2026/10/19/why-windows-11-still-ships-with-windows-95s-memory-manager-hidden-inside-it/",
       "is_new": true
     },
     {
       "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
       "link": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
+      "is_new": false
+    },
+    {
+      "title": "After automation: Solo founding will be the default",
+      "link": "https://every.to/thesis-statements/julian-weisser",
       "is_new": true
     },
     {
-      "title": "Rust off Rails: The opinionated web stack for the AI era",
-      "link": "https://rustoffrails.org/",
-      "is_new": true
+      "title": "Eight Bits of Trust: eMudhra's CA keys cracked in milliseconds",
+      "link": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
+      "is_new": false
     },
     {
       "title": "DuckDB 2.0.0 LTS “Cinnamon Teal”",
       "link": "https://duckdb.org/2026/10/21/announcing-duckdb-200",
-      "is_new": true
+      "is_new": false
+    },
+    {
+      "title": "EA is shutting down BioWare",
+      "link": "https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware",
+      "is_new": false
     },
     {
       "title": "Patch the Planet: global response coordination as agents uncover vulnerabilities",
       "link": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
-      "is_new": true
-    },
-    {
-      "title": "Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds",
-      "link": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
       "is_new": false
     },
     {
       "title": "Tiny possum and glider thought extinct for 6000 years found in remote West Papua",
       "link": "https://www.bbc.com/news/articles/cp814l80pw2o",
+      "is_new": false
+    },
+    {
+      "title": "Claude Duet",
+      "link": "https://claude.com/product/claude-duet",
       "is_new": true
+    },
+    {
+      "title": "New plastic pollution discovered: 'Plasticorals' coral rubble fused with plastic",
+      "link": "https://www.oist.jp/news-center/news/2026/9/18/new-form-plastic-pollution-discovered-shores-vulnerable-coral-reefs",
+      "is_new": false
     },
     {
       "title": "Oregon lawmakers approve money to buy an iconic waterfall listed on Redfin",
       "link": "https://apnews.com/article/oregon-waterfall-for-sale-lawmakers-996de63462d49ec3ad9bee1629fb9488",
+      "is_new": false
+    },
+    {
+      "title": "PHP 8.2.35",
+      "link": "https://github.com/php/php-src/releases/tag/php-8.2.35",
+      "is_new": false
+    },
+    {
+      "title": "Google's Rust Style Guide",
+      "link": "https://google.github.io/styleguide/rustguide.html",
+      "is_new": true
+    },
+    {
+      "title": "OpenAI models are coming to Google Cloud",
+      "link": "https://openai.com/index/openai-models-google-cloud/",
+      "is_new": false
+    },
+    {
+      "title": "A Place Among the Fiddlers",
+      "link": "https://longreads.com/2026/10/01/galax-old-fiddlers-convention-music/",
+      "is_new": true
+    },
+    {
+      "title": "Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case",
+      "link": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
+      "is_new": true
+    },
+    {
+      "title": "Canary Tokens",
+      "link": "https://canarytokens.org/",
+      "is_new": true
+    },
+    {
+      "title": "Using thousands of AI agents to uncover new leads in biological data",
+      "link": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/",
+      "is_new": false
+    },
+    {
+      "title": "Drupal is now light-years ahead of its reputation",
+      "link": "https://dri.es/state-of-drupal-presentation-september-2026",
+      "is_new": false
+    },
+    {
+      "title": "9 Mothers (YC P26) Is Hiring in Austin, TX",
+      "link": "https://9mothers.com/careers",
+      "is_new": false
+    },
+    {
+      "title": "The bridge to agent-scale Git infrastructure",
+      "link": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/",
+      "is_new": false
+    },
+    {
+      "title": "Your MCU likely escaped the eMudhra intermediate CA compromise",
+      "link": "https://danielmangum.com/posts/mcu-emudhra-intermediate-ca-compromise/",
+      "is_new": false
+    },
+    {
+      "title": "Show HN: I told people I'm a convicted felon after 20 years of hiding it",
+      "link": "https://buford.bg/",
+      "is_new": true
+    },
+    {
+      "title": "Potential third critical PHP CVE",
+      "link": "https://elk.zone/m.webtoo.ls/@elise@katze.sh/117479383721672027",
+      "is_new": true
+    },
+    {
+      "title": "Claude Duet",
+      "link": "https://claude.com/resources/articles/claude-duet",
+      "is_new": true
+    },
+    {
+      "title": "Way to Play Super Mario 64: On Apple Vision Pro",
+      "link": "https://www.pagetable.com/303",
+      "is_new": false
+    }
+  ],
+  "removed": [
+    {
+      "title": "Rust off Rails: The opinionated web stack for the AI era",
+      "link": "https://rustoffrails.org/",
       "is_new": true
     },
     {
@@ -53,44 +165,14 @@
       "is_new": true
     },
     {
-      "title": "Using thousands of AI agents to uncover new leads in biological data",
-      "link": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/",
-      "is_new": true
-    },
-    {
-      "title": "Drupal is now light-years ahead of its reputation",
-      "link": "https://dri.es/state-of-drupal-presentation-september-2026",
-      "is_new": true
-    },
-    {
-      "title": "OpenAI models are coming to Google Cloud",
-      "link": "https://openai.com/index/openai-models-google-cloud/",
-      "is_new": true
-    },
-    {
-      "title": "Your MCU Likely Escaped the eMudhra Intermediate CA Compromise",
-      "link": "https://danielmangum.com/posts/mcu-emudhra-intermediate-ca-compromise/",
-      "is_new": true
-    },
-    {
       "title": "Launch HN: Alter (YC S25) – Access control for multi-user agents",
       "link": "https://alterauth.com/",
-      "is_new": true
-    },
-    {
-      "title": "New plastic pollution discovered: 'Plasticorals' coral rubble fused with plastic",
-      "link": "https://www.oist.jp/news-center/news/2026/9/18/new-form-plastic-pollution-discovered-shores-vulnerable-coral-reefs",
       "is_new": true
     },
     {
       "title": "C++ futures part 1: The mental model",
       "link": "https://devblogs.microsoft.com/oldnewthing/20261012-00/?p=112767/",
       "is_new": true
-    },
-    {
-      "title": "9 Mothers (YC P26) Is Hiring in Austin, TX",
-      "link": "https://9mothers.com/careers",
-      "is_new": false
     },
     {
       "title": "Trials and Tribulations of Native Lua Compilation",
@@ -101,11 +183,6 @@
       "title": "Show HN: ULDA – Client-side encryption with a simple JavaScript API",
       "link": "https://demo.ulda.io/",
       "is_new": true
-    },
-    {
-      "title": "Way to Play Super Mario 64: On Apple Vision Pro",
-      "link": "https://www.pagetable.com/303",
-      "is_new": false
     },
     {
       "title": "Show HN: Sumi.css – CSS Framework",
@@ -121,11 +198,6 @@
       "title": "Whatever Happened to Fire Escapes",
       "link": "https://practical.engineering/blog/2026/10/20/whatever-happened-to-fire-escapes",
       "is_new": false
-    },
-    {
-      "title": "EA is shutting down BioWare",
-      "link": "https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware",
-      "is_new": true
     },
     {
       "title": "The Decoherence Trap",
@@ -145,128 +217,6 @@
     {
       "title": "The Lucrative World of Literary Scams",
       "link": "https://www.thedial.world/articles/news/ai-book-scams",
-      "is_new": false
-    },
-    {
-      "title": "The bridge to agent-scale Git infrastructure",
-      "link": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/",
-      "is_new": true
-    }
-  ],
-  "removed": [
-    {
-      "title": "The Future of CSS",
-      "link": "https://www.joshwcomeau.com/css/interop-2027/",
-      "is_new": false
-    },
-    {
-      "title": "The 1.5°C goal of the Paris Agreement is no longer viable",
-      "link": "https://unric.org/en/unep-emissions-gap-report-2026-1-5-degree-overshoot/",
-      "is_new": true
-    },
-    {
-      "title": "Dutch National Cyber Security Center is Offline because it uses PHP",
-      "link": "https://www.ncsc.nl/actueel",
-      "is_new": true
-    },
-    {
-      "title": "Upcoming critical PHP security release (CVE-2026-109618 / -109619)",
-      "link": "https://news-web.php.net/php.announce/509",
-      "is_new": false
-    },
-    {
-      "title": "Show HN: SimCity, but with Permits",
-      "link": "https://permit.petercai.com/",
-      "is_new": false
-    },
-    {
-      "title": "eMudhra intermediate CA compromise",
-      "link": "https://emudhra.we-have-a-problem.com/",
-      "is_new": false
-    },
-    {
-      "title": "Voxtral 3",
-      "link": "https://mistral.ai/news/voxtral-3/",
-      "is_new": false
-    },
-    {
-      "title": "Feds suspect ransom negotiator ran ShinyHunters extortion site",
-      "link": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
-      "is_new": false
-    },
-    {
-      "title": "Good type against all odds",
-      "link": "https://unsung.aresluna.org/good-type-against-all-odds/",
-      "is_new": false
-    },
-    {
-      "title": "In Hilbert space, all things are quantumly possible",
-      "link": "https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/",
-      "is_new": false
-    },
-    {
-      "title": "The Other Epidemic: Trying to get off benzodiazepines",
-      "link": "https://www.thebeliever.net/the-other-epidemic/",
-      "is_new": false
-    },
-    {
-      "title": "C# now beats Rust on WASM size",
-      "link": "https://github.com/zion-sati/NetWasm",
-      "is_new": false
-    },
-    {
-      "title": "Google open-sources TorchTPU, a native PyTorch back end for TPUs",
-      "link": "https://github.com/google-pytorch/torch_tpu",
-      "is_new": false
-    },
-    {
-      "title": "ZX Spectrum Next Laptop",
-      "link": "https://www.dorchester3d.com/printing/blog/2020/11/zx-spectrum-next-laptop-version-2",
-      "is_new": false
-    },
-    {
-      "title": "Bonanza of new dates rewrites the history of the Inca",
-      "link": "https://www.science.org/content/article/bonanza-new-dates-rewrites-history-inca",
-      "is_new": true
-    },
-    {
-      "title": "What shall I teach my son?",
-      "link": "https://stevekrouse.com/ends",
-      "is_new": false
-    },
-    {
-      "title": "Apple broke an essential presentation feature of iPads",
-      "link": "https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/",
-      "is_new": false
-    },
-    {
-      "title": "SlopCodeBench 10/2026 – Opus 5.5, Astra wins overall, xhigh considered harmful",
-      "link": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-new-models-on-slop-code-bench.md",
-      "is_new": false
-    },
-    {
-      "title": "Using Claude to reduce the attack surface of code",
-      "link": "https://www.anthropic.com/research/attack-surface-reduction",
-      "is_new": false
-    },
-    {
-      "title": "DeepInfer: High-performance inference framework for DeepSeek models",
-      "link": "https://github.com/deepseek-ai/DeepInfer",
-      "is_new": false
-    },
-    {
-      "title": "Does Ruby on Rails still make sense?",
-      "link": "https://tech.dirkjonker.nl/does-ruby-on-rails-make-sense/",
-      "is_new": true
-    },
-    {
-      "title": "Composite objects and C++26 the std:polymorphic type",
-      "link": "https://mariusbancila.ro/blog/2026/10/18/composite-objects-and-cpp26-the-stdpolymorphic-type/",
-      "is_new": true
-    },
-    {
-      "title": "Ofcom concedes defeat in 4chan case",
-      "link": "https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat/",
       "is_new": false
     }
   ]
