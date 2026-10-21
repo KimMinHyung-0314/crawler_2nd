@@ -1,17 +1,159 @@
 {
-  "crawled_at": "2026-10-21 21:51",
-  "prev_crawled_at": "2026-10-21 15:59",
+  "crawled_at": "2026-10-22 02:52",
+  "prev_crawled_at": "2026-10-21 21:51",
   "items": [
+    {
+      "title": "PHP 8.2.35",
+      "link": "https://github.com/php/php-src/releases/tag/php-8.2.35",
+      "is_new": true
+    },
+    {
+      "title": "Today's PHP security release, and how we're strengthening security",
+      "link": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
+      "is_new": true
+    },
+    {
+      "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
+      "link": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
+      "is_new": true
+    },
+    {
+      "title": "Rust off Rails: The opinionated web stack for the AI era",
+      "link": "https://rustoffrails.org/",
+      "is_new": true
+    },
+    {
+      "title": "DuckDB 2.0.0 LTS “Cinnamon Teal”",
+      "link": "https://duckdb.org/2026/10/21/announcing-duckdb-200",
+      "is_new": true
+    },
+    {
+      "title": "Patch the Planet: global response coordination as agents uncover vulnerabilities",
+      "link": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
+      "is_new": true
+    },
     {
       "title": "Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds",
       "link": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
+      "is_new": false
+    },
+    {
+      "title": "Tiny possum and glider thought extinct for 6000 years found in remote West Papua",
+      "link": "https://www.bbc.com/news/articles/cp814l80pw2o",
       "is_new": true
+    },
+    {
+      "title": "Oregon lawmakers approve money to buy an iconic waterfall listed on Redfin",
+      "link": "https://apnews.com/article/oregon-waterfall-for-sale-lawmakers-996de63462d49ec3ad9bee1629fb9488",
+      "is_new": true
+    },
+    {
+      "title": "What I learned from six months of being stupid on purpose",
+      "link": "https://wvez.org/blog/learning-to-be-stupid/",
+      "is_new": true
+    },
+    {
+      "title": "Using thousands of AI agents to uncover new leads in biological data",
+      "link": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/",
+      "is_new": true
+    },
+    {
+      "title": "Drupal is now light-years ahead of its reputation",
+      "link": "https://dri.es/state-of-drupal-presentation-september-2026",
+      "is_new": true
+    },
+    {
+      "title": "OpenAI models are coming to Google Cloud",
+      "link": "https://openai.com/index/openai-models-google-cloud/",
+      "is_new": true
+    },
+    {
+      "title": "Your MCU Likely Escaped the eMudhra Intermediate CA Compromise",
+      "link": "https://danielmangum.com/posts/mcu-emudhra-intermediate-ca-compromise/",
+      "is_new": true
+    },
+    {
+      "title": "Launch HN: Alter (YC S25) – Access control for multi-user agents",
+      "link": "https://alterauth.com/",
+      "is_new": true
+    },
+    {
+      "title": "New plastic pollution discovered: 'Plasticorals' coral rubble fused with plastic",
+      "link": "https://www.oist.jp/news-center/news/2026/9/18/new-form-plastic-pollution-discovered-shores-vulnerable-coral-reefs",
+      "is_new": true
+    },
+    {
+      "title": "C++ futures part 1: The mental model",
+      "link": "https://devblogs.microsoft.com/oldnewthing/20261012-00/?p=112767/",
+      "is_new": true
+    },
+    {
+      "title": "9 Mothers (YC P26) Is Hiring in Austin, TX",
+      "link": "https://9mothers.com/careers",
+      "is_new": false
+    },
+    {
+      "title": "Trials and Tribulations of Native Lua Compilation",
+      "link": "https://samyeyo.github.io/clx/blog.html",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: ULDA – Client-side encryption with a simple JavaScript API",
+      "link": "https://demo.ulda.io/",
+      "is_new": true
+    },
+    {
+      "title": "Way to Play Super Mario 64: On Apple Vision Pro",
+      "link": "https://www.pagetable.com/303",
+      "is_new": false
+    },
+    {
+      "title": "Show HN: Sumi.css – CSS Framework",
+      "link": "https://github.com/vladocar/Sumi.css",
+      "is_new": true
+    },
+    {
+      "title": "Muse exposes users' personal and business secrets when they share conversations",
+      "link": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
+      "is_new": false
     },
     {
       "title": "Whatever Happened to Fire Escapes",
       "link": "https://practical.engineering/blog/2026/10/20/whatever-happened-to-fire-escapes",
+      "is_new": false
+    },
+    {
+      "title": "EA is shutting down BioWare",
+      "link": "https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware",
       "is_new": true
     },
+    {
+      "title": "The Decoherence Trap",
+      "link": "https://maevyn.codes/decoherence",
+      "is_new": false
+    },
+    {
+      "title": "PHP2Shell: AI uncovers critical RCE in PHP",
+      "link": "https://www.wiz.io/blog/php2shell-php-rce",
+      "is_new": true
+    },
+    {
+      "title": "The phenomena that brighten dawn and dusk (2016)",
+      "link": "https://www.colorado.edu/asmagazine-archive/node/2039",
+      "is_new": true
+    },
+    {
+      "title": "The Lucrative World of Literary Scams",
+      "link": "https://www.thedial.world/articles/news/ai-book-scams",
+      "is_new": false
+    },
+    {
+      "title": "The bridge to agent-scale Git infrastructure",
+      "link": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/",
+      "is_new": true
+    }
+  ],
+  "removed": [
     {
       "title": "The Future of CSS",
       "link": "https://www.joshwcomeau.com/css/interop-2027/",
@@ -33,23 +175,8 @@
       "is_new": false
     },
     {
-      "title": "Way to Play Super Mario 64: On Apple Vision Pro",
-      "link": "https://www.pagetable.com/303",
-      "is_new": true
-    },
-    {
-      "title": "9 Mothers (YC P26) Is Hiring in Austin, TX",
-      "link": "https://9mothers.com/careers",
-      "is_new": true
-    },
-    {
       "title": "Show HN: SimCity, but with Permits",
       "link": "https://permit.petercai.com/",
-      "is_new": false
-    },
-    {
-      "title": "Muse exposes users' personal and business secrets when they share conversations",
-      "link": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
       "is_new": false
     },
     {
@@ -61,16 +188,6 @@
       "title": "Voxtral 3",
       "link": "https://mistral.ai/news/voxtral-3/",
       "is_new": false
-    },
-    {
-      "title": "The Lucrative World of Literary Scams",
-      "link": "https://www.thedial.world/articles/news/ai-book-scams",
-      "is_new": true
-    },
-    {
-      "title": "The Decoherence Trap",
-      "link": "https://maevyn.codes/decoherence",
-      "is_new": true
     },
     {
       "title": "Feds suspect ransom negotiator ran ShinyHunters extortion site",
@@ -151,63 +268,6 @@
       "title": "Ofcom concedes defeat in 4chan case",
       "link": "https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat/",
       "is_new": false
-    }
-  ],
-  "removed": [
-    {
-      "title": "Battlezone Online: BZFlag in the Browser",
-      "link": "https://github.com/timriker/bzo",
-      "is_new": true
-    },
-    {
-      "title": "Pillowfort Is Closing",
-      "link": "https://www.pillowfort.social/posts/8413273",
-      "is_new": true
-    },
-    {
-      "title": "Ship Your Interpreter",
-      "link": "https://www.basis.ai/blog/ship-your-interpreters/",
-      "is_new": true
-    },
-    {
-      "title": "Four Years with Decker",
-      "link": "https://beyondloom.com/blog/fouryearsdecker.html",
-      "is_new": true
-    },
-    {
-      "title": "Borrow Checking Zero-Cost Cyclic Mutability",
-      "link": "https://antelang.org/blog/safe_cyclic_mutability/",
-      "is_new": true
-    },
-    {
-      "title": "Setting Up SSH Keys on macOS with Touch ID",
-      "link": "https://nmattia.com/posts/2026-10-19-setting-up-ssh-keys-touch-id/",
-      "is_new": true
-    },
-    {
-      "title": "To Make, or to Buy: The Economics of Decision Models",
-      "link": "https://pncnmnp.github.io/blogs/economics-decision-models.html",
-      "is_new": true
-    },
-    {
-      "title": "Tsrs: A Port of TypeScript to Rust",
-      "link": "https://blog.cloudflare.com/typescript-rust-port/",
-      "is_new": false
-    },
-    {
-      "title": "Sixteen years after Deepwater Horizon, deep sea life shows few signs of recovery",
-      "link": "https://e360.yale.edu/digest/deepwater-horizon-deep-sea-recovery",
-      "is_new": false
-    },
-    {
-      "title": "Advanced coding in low-resource programming languages",
-      "link": "https://openai.com/index/low-resource-programming-languages/",
-      "is_new": true
-    },
-    {
-      "title": "Nexus-CLI – Pure Go Bridge to DeepSeek R1/V3 with Claude Code and Ollama Support",
-      "link": "https://github.com/xamrayev/nexus-cli",
-      "is_new": true
     }
   ]
 }
