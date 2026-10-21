@@ -1,10 +1,45 @@
 {
-  "crawled_at": "2026-10-21 15:59",
-  "prev_crawled_at": "2026-10-21 10:14",
+  "crawled_at": "2026-10-21 21:51",
+  "prev_crawled_at": "2026-10-21 15:59",
   "items": [
+    {
+      "title": "Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds",
+      "link": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
+      "is_new": true
+    },
+    {
+      "title": "Whatever Happened to Fire Escapes",
+      "link": "https://practical.engineering/blog/2026/10/20/whatever-happened-to-fire-escapes",
+      "is_new": true
+    },
     {
       "title": "The Future of CSS",
       "link": "https://www.joshwcomeau.com/css/interop-2027/",
+      "is_new": false
+    },
+    {
+      "title": "The 1.5°C goal of the Paris Agreement is no longer viable",
+      "link": "https://unric.org/en/unep-emissions-gap-report-2026-1-5-degree-overshoot/",
+      "is_new": true
+    },
+    {
+      "title": "Dutch National Cyber Security Center is Offline because it uses PHP",
+      "link": "https://www.ncsc.nl/actueel",
+      "is_new": true
+    },
+    {
+      "title": "Upcoming critical PHP security release (CVE-2026-109618 / -109619)",
+      "link": "https://news-web.php.net/php.announce/509",
+      "is_new": false
+    },
+    {
+      "title": "Way to Play Super Mario 64: On Apple Vision Pro",
+      "link": "https://www.pagetable.com/303",
+      "is_new": true
+    },
+    {
+      "title": "9 Mothers (YC P26) Is Hiring in Austin, TX",
+      "link": "https://9mothers.com/careers",
       "is_new": true
     },
     {
@@ -13,13 +48,13 @@
       "is_new": false
     },
     {
-      "title": "In Hilbert space, all things are quantumly possible",
-      "link": "https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/",
-      "is_new": true
+      "title": "Muse exposes users' personal and business secrets when they share conversations",
+      "link": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
+      "is_new": false
     },
     {
-      "title": "Feds suspect ransom negotiator ran ShinyHunters extortion site",
-      "link": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
+      "title": "eMudhra intermediate CA compromise",
+      "link": "https://emudhra.we-have-a-problem.com/",
       "is_new": false
     },
     {
@@ -28,39 +63,29 @@
       "is_new": false
     },
     {
-      "title": "Battlezone Online: BZFlag in the Browser",
-      "link": "https://github.com/timriker/bzo",
+      "title": "The Lucrative World of Literary Scams",
+      "link": "https://www.thedial.world/articles/news/ai-book-scams",
       "is_new": true
     },
     {
-      "title": "eMudhra intermediate CA compromise",
-      "link": "https://emudhra.we-have-a-problem.com/",
+      "title": "The Decoherence Trap",
+      "link": "https://maevyn.codes/decoherence",
+      "is_new": true
+    },
+    {
+      "title": "Feds suspect ransom negotiator ran ShinyHunters extortion site",
+      "link": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
       "is_new": false
-    },
-    {
-      "title": "Muse exposes users' personal and business secrets when they share conversations",
-      "link": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
-      "is_new": true
-    },
-    {
-      "title": "Upcoming critical PHP security release (CVE-2026-109618 / -109619)",
-      "link": "https://news-web.php.net/php.announce/509",
-      "is_new": true
-    },
-    {
-      "title": "Pillowfort Is Closing",
-      "link": "https://www.pillowfort.social/posts/8413273",
-      "is_new": true
     },
     {
       "title": "Good type against all odds",
       "link": "https://unsung.aresluna.org/good-type-against-all-odds/",
-      "is_new": true
+      "is_new": false
     },
     {
-      "title": "Ship Your Interpreter",
-      "link": "https://www.basis.ai/blog/ship-your-interpreters/",
-      "is_new": true
+      "title": "In Hilbert space, all things are quantumly possible",
+      "link": "https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/",
+      "is_new": false
     },
     {
       "title": "The Other Epidemic: Trying to get off benzodiazepines",
@@ -68,19 +93,9 @@
       "is_new": false
     },
     {
-      "title": "Four Years with Decker",
-      "link": "https://beyondloom.com/blog/fouryearsdecker.html",
-      "is_new": true
-    },
-    {
-      "title": "Borrow Checking Zero-Cost Cyclic Mutability",
-      "link": "https://antelang.org/blog/safe_cyclic_mutability/",
-      "is_new": true
-    },
-    {
-      "title": "ZX Spectrum Next Laptop",
-      "link": "https://www.dorchester3d.com/printing/blog/2020/11/zx-spectrum-next-laptop-version-2",
-      "is_new": true
+      "title": "C# now beats Rust on WASM size",
+      "link": "https://github.com/zion-sati/NetWasm",
+      "is_new": false
     },
     {
       "title": "Google open-sources TorchTPU, a native PyTorch back end for TPUs",
@@ -88,13 +103,13 @@
       "is_new": false
     },
     {
-      "title": "SlopCodeBench 10/2026 – Opus 5.5, Astra wins overall, xhigh considered harmful",
-      "link": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-new-models-on-slop-code-bench.md",
+      "title": "ZX Spectrum Next Laptop",
+      "link": "https://www.dorchester3d.com/printing/blog/2020/11/zx-spectrum-next-laptop-version-2",
       "is_new": false
     },
     {
-      "title": "Setting Up SSH Keys on macOS with Touch ID",
-      "link": "https://nmattia.com/posts/2026-10-19-setting-up-ssh-keys-touch-id/",
+      "title": "Bonanza of new dates rewrites the history of the Inca",
+      "link": "https://www.science.org/content/article/bonanza-new-dates-rewrites-history-inca",
       "is_new": true
     },
     {
@@ -108,19 +123,66 @@
       "is_new": false
     },
     {
-      "title": "DeepInfer: High-performance inference framework for DeepSeek models",
-      "link": "https://github.com/deepseek-ai/DeepInfer",
+      "title": "SlopCodeBench 10/2026 – Opus 5.5, Astra wins overall, xhigh considered harmful",
+      "link": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-new-models-on-slop-code-bench.md",
       "is_new": false
     },
     {
       "title": "Using Claude to reduce the attack surface of code",
       "link": "https://www.anthropic.com/research/attack-surface-reduction",
+      "is_new": false
+    },
+    {
+      "title": "DeepInfer: High-performance inference framework for DeepSeek models",
+      "link": "https://github.com/deepseek-ai/DeepInfer",
+      "is_new": false
+    },
+    {
+      "title": "Does Ruby on Rails still make sense?",
+      "link": "https://tech.dirkjonker.nl/does-ruby-on-rails-make-sense/",
+      "is_new": true
+    },
+    {
+      "title": "Composite objects and C++26 the std:polymorphic type",
+      "link": "https://mariusbancila.ro/blog/2026/10/18/composite-objects-and-cpp26-the-stdpolymorphic-type/",
       "is_new": true
     },
     {
       "title": "Ofcom concedes defeat in 4chan case",
       "link": "https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat/",
       "is_new": false
+    }
+  ],
+  "removed": [
+    {
+      "title": "Battlezone Online: BZFlag in the Browser",
+      "link": "https://github.com/timriker/bzo",
+      "is_new": true
+    },
+    {
+      "title": "Pillowfort Is Closing",
+      "link": "https://www.pillowfort.social/posts/8413273",
+      "is_new": true
+    },
+    {
+      "title": "Ship Your Interpreter",
+      "link": "https://www.basis.ai/blog/ship-your-interpreters/",
+      "is_new": true
+    },
+    {
+      "title": "Four Years with Decker",
+      "link": "https://beyondloom.com/blog/fouryearsdecker.html",
+      "is_new": true
+    },
+    {
+      "title": "Borrow Checking Zero-Cost Cyclic Mutability",
+      "link": "https://antelang.org/blog/safe_cyclic_mutability/",
+      "is_new": true
+    },
+    {
+      "title": "Setting Up SSH Keys on macOS with Touch ID",
+      "link": "https://nmattia.com/posts/2026-10-19-setting-up-ssh-keys-touch-id/",
+      "is_new": true
     },
     {
       "title": "To Make, or to Buy: The Economics of Decision Models",
@@ -138,11 +200,6 @@
       "is_new": false
     },
     {
-      "title": "C# now beats Rust on WASM size",
-      "link": "https://github.com/zion-sati/NetWasm",
-      "is_new": true
-    },
-    {
       "title": "Advanced coding in low-resource programming languages",
       "link": "https://openai.com/index/low-resource-programming-languages/",
       "is_new": true
@@ -151,93 +208,6 @@
       "title": "Nexus-CLI – Pure Go Bridge to DeepSeek R1/V3 with Claude Code and Ollama Support",
       "link": "https://github.com/xamrayev/nexus-cli",
       "is_new": true
-    }
-  ],
-  "removed": [
-    {
-      "title": "Academics have a duty to defend open knowledge systems like Wikipedia",
-      "link": "https://blogs.lse.ac.uk/impactofsocialsciences/2026/10/19/academics-have-a-duty-to-defend-open-knowledge-systems-like-wikipedia/",
-      "is_new": false
-    },
-    {
-      "title": "Microagi: Accelerating Embodied AGI",
-      "link": "https://www.microagi.ai/",
-      "is_new": true
-    },
-    {
-      "title": "Benchmarking Bot Detection Systems Against Modern AI Agents in 2026",
-      "link": "https://research.poh.org/bot-benchmarking-2026/",
-      "is_new": true
-    },
-    {
-      "title": "Making Solar Panels with a Microwave [video]",
-      "link": "https://www.youtube.com/watch?v=zcWkApGjyGM",
-      "is_new": false
-    },
-    {
-      "title": "Shipping a LaTeX Compiler Behind an Edge App",
-      "link": "https://bhargav.dev/writing/shipping-a-latex-compiler-behind-an-edge-app",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: Dovepass – can I legally fly a drone along this exact path in SF?",
-      "link": "https://dovepass.com",
-      "is_new": true
-    },
-    {
-      "title": "Google Cloud outage affects almost all banking and other operations in Europe",
-      "link": "https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/",
-      "is_new": false
-    },
-    {
-      "title": "What the heck is /pkg?",
-      "link": "https://anderegg.ca/2026/10/18/what-the-heck-is-pkg",
-      "is_new": true
-    },
-    {
-      "title": "How I got over 300 Tor exit nodes removed",
-      "link": "https://kaba.cx/posts/20261020_Tor/",
-      "is_new": false
-    },
-    {
-      "title": "Meta's GB{2,3}00 Cluster",
-      "link": "https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster/",
-      "is_new": false
-    },
-    {
-      "title": "IKEA – 3D Guide",
-      "link": "https://sael.net/flatpack/",
-      "is_new": false
-    },
-    {
-      "title": "Launch HN: Respan (YC W24) – Open-source Rust AI gateway built around plugins",
-      "link": "https://news.ycombinator.com/item?id=50167583",
-      "is_new": false
-    },
-    {
-      "title": "My Friend Bob Cringely",
-      "link": "https://tyma.com/my-cringe-story/",
-      "is_new": false
-    },
-    {
-      "title": "JAXA is about to perform a Phobos sample return mission",
-      "link": "https://www.science.org/content/article/audacious-space-heist-japan-aims-bring-home-bits-martian-moon",
-      "is_new": false
-    },
-    {
-      "title": "'Der Viener Schlinger': The meat cannon that launched 20k hot dogs",
-      "link": "https://flatwaterfreepress.org/der-viener-schlinger-the-meat-cannon-that-launched-20000-hot-dogs/",
-      "is_new": false
-    },
-    {
-      "title": "2026 is an exciting year for the Rust compiler (and me)",
-      "link": "https://yoyo-code.com/2026-is-exciting-year-for-rust-compiler-and-me/",
-      "is_new": false
-    },
-    {
-      "title": "Facebook Pages require paid subscription to post more than two links per month",
-      "link": "https://mastodon.gamedev.place/@AshleyGullen/117473851565913919",
-      "is_new": false
     }
   ]
 }
