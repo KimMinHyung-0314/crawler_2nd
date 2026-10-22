@@ -1,45 +1,100 @@
 {
-  "crawled_at": "2026-10-23 01:42",
-  "prev_crawled_at": "2026-10-22 20:05",
+  "crawled_at": "2026-10-23 05:24",
+  "prev_crawled_at": "2026-10-23 01:42",
   "items": [
     {
       "title": "Quad9 (DNS Resolver) to Exit France",
       "link": "https://quad9.net/news/blog/au-revoir-france/",
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "eMudhra to exit global SSL/TLS certificate business",
       "link": "https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business",
+      "is_new": false
+    },
+    {
+      "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
+      "link": "https://github.com/NVIDIA/OpenShell",
       "is_new": true
     },
     {
-      "title": "What's Getting Pwned",
-      "link": "https://pwn.watch/",
-      "is_new": true
+      "title": "Getting ready to operate GNU Taler in Germany",
+      "link": "https://www.taler.net/en/news/2026-13.html",
+      "is_new": false
     },
     {
       "title": "Show HN: Run full iOS 16.5 firmware on Android Devices",
       "link": "https://github.com/oosexgang/hackios-xnu-kernel",
+      "is_new": false
+    },
+    {
+      "title": "AI and the Enclosure of the Scientific Commons",
+      "link": "https://arxiv.org/abs/2610.27251",
       "is_new": true
     },
     {
-      "title": "Where Wealth Is Moving in America",
-      "link": "https://thestatedtruth.com/?p=28732",
+      "title": "Show HN: UI micro interactions prompts for AI",
+      "link": "https://www.typeui.sh/micro-interactions",
+      "is_new": true
+    },
+    {
+      "title": "Award-Winning AI Literature",
+      "link": "https://jamesyu.org/award-winning-ai-literature/",
       "is_new": true
     },
     {
       "title": "What Is Gridifcation",
       "link": "https://musicalform.substack.com/p/what-is-gridifcation",
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Jailbreaking the Switch 2",
       "link": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/",
+      "is_new": false
+    },
+    {
+      "title": "Hedra is a 3D open world game I wrote from scratch while in highschool",
+      "link": "https://github.com/maxilevi/project-hedra/tree/pre-ai",
+      "is_new": true
+    },
+    {
+      "title": "A farewell to Arc browser",
+      "link": "https://arc.net/",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: Turn regular JavaScript into a neural net",
+      "link": "https://chenglou.me/handwired/",
+      "is_new": true
+    },
+    {
+      "title": "Tell HN: I unknowingly broke the PHP RCE embargo. I am sorry.",
+      "link": "https://news.ycombinator.com/item?id=50193416",
       "is_new": true
     },
     {
       "title": "Google cleared 300 hectares of Finnish forest",
       "link": "https://www.techspot.com/news/114100-google-cleared-300-hectares-finnish-forest-data-center.html",
+      "is_new": false
+    },
+    {
+      "title": "What’s getting pwned right now",
+      "link": "https://pwn.watch/",
+      "is_new": false
+    },
+    {
+      "title": "Mini brain organoids 'reading' Braille key step towards biohybrid computing",
+      "link": "https://www.frontiersin.org/news/2026/10/16/mini-brain-organoids-reading-braille-biohybrid-computing-frontiers-artificial-intelligence",
+      "is_new": true
+    },
+    {
+      "title": "Dungeon Generation in the Gnomish Mines of NetHack",
+      "link": "https://www.boristhebrave.com/2026/10/18/dungeon-generation-in-the-gnomish-mines-of-nethack/",
+      "is_new": false
+    },
+    {
+      "title": "A complete bypass of eMudhra’s 1FA OTP login system",
+      "link": "https://mastodon.catgirl.cloud/@49016/117475976434068995",
       "is_new": true
     },
     {
@@ -48,19 +103,34 @@
       "is_new": false
     },
     {
-      "title": "Dungeon Generation in the Gnomish Mines of NetHack",
-      "link": "https://www.boristhebrave.com/2026/10/18/dungeon-generation-in-the-gnomish-mines-of-nethack/",
+      "title": "AI analysis of CT scans finds 42.9% of patients have coronary inflammation",
+      "link": "https://www.biograph.com/newsroom/biograph-completes-first-u.s.-study-with-caristo-diagnostics%E2%80%99-ai-powered-coronary-inflammation-detection-finding-risk-in-over-42-of-asymptomatic-patients",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: agent-usage-guard – a Claude Code mod to protect your usage window",
+      "link": "https://github.com/rbartoli/agent-usage-guard",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: Build a world on your phone, explore it in XR on Vision Pro and Quest",
+      "link": "https://3d.camilleworld.com/play/",
       "is_new": true
     },
     {
       "title": "Show HN: Uberblok – an interactive museum of ZFS internals",
       "link": "https://uberblok.storagebits.workers.dev/",
-      "is_new": true
+      "is_new": false
+    },
+    {
+      "title": "MPs moving to restrict gambling ads in Canada",
+      "link": "https://www.cbc.ca/news/investigates/gambling-ads-restrictions-canada-9.7388888",
+      "is_new": false
     },
     {
       "title": "The Last Museum: Semantic search across 5.8M artworks from major museums",
       "link": "https://lastmuseum.com/",
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
@@ -68,8 +138,25 @@
       "is_new": false
     },
     {
-      "title": "Getting ready to operate GNU Taler in Germany",
-      "link": "https://www.taler.net/en/news/2026-13.html",
+      "title": "Startup taps underwater volcano as energy source in \"proof point\" test",
+      "link": "https://arstechnica.com/science/2026/10/startup-taps-underwater-volcano-as-energy-source-in-proof-point-test/",
+      "is_new": false
+    },
+    {
+      "title": "Security Disclosure",
+      "link": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
+      "is_new": false
+    },
+    {
+      "title": "VMMouse for NT 3.x: QEMU/VMware mouse integration driver",
+      "link": "https://github.com/rhargreaves/vmmouse-nt3",
+      "is_new": false
+    }
+  ],
+  "removed": [
+    {
+      "title": "Where Wealth Is Moving in America",
+      "link": "https://thestatedtruth.com/?p=28732",
       "is_new": true
     },
     {
@@ -83,11 +170,6 @@
       "is_new": true
     },
     {
-      "title": "VMMouse for NT 3.x: QEMU/VMware mouse integration driver",
-      "link": "https://github.com/rhargreaves/vmmouse-nt3",
-      "is_new": true
-    },
-    {
       "title": "The recently proposed o(n log n) integer multiplication algorithm [pdf]",
       "link": "https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf",
       "is_new": false
@@ -95,21 +177,6 @@
     {
       "title": "The painter behind Manhattan’s Gilded Age interiors",
       "link": "https://engelsbergideas.com/notebook/the-unknown-painter-behind-manhattans-gilded-age-interiors/",
-      "is_new": true
-    },
-    {
-      "title": "Startup taps underwater volcano as energy source in \"proof point\" test",
-      "link": "https://arstechnica.com/science/2026/10/startup-taps-underwater-volcano-as-energy-source-in-proof-point-test/",
-      "is_new": false
-    },
-    {
-      "title": "Security Disclosure",
-      "link": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
-      "is_new": false
-    },
-    {
-      "title": "MPs moving to restrict gambling ads in Canada amid mounting harms",
-      "link": "https://www.cbc.ca/news/investigates/gambling-ads-restrictions-canada-9.7388888",
       "is_new": true
     },
     {
@@ -150,113 +217,6 @@
     {
       "title": "Using LLM for confidence scoring is a bad idea",
       "link": "https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html",
-      "is_new": false
-    }
-  ],
-  "removed": [
-    {
-      "title": "CVE-2026-111943: Compromised Intermediate Certificate Authority",
-      "link": "https://nvd.nist.gov/vuln/detail/cve-2026-111943",
-      "is_new": true
-    },
-    {
-      "title": "Achieving AI-style reasoning without an LLM",
-      "link": "https://fleetingswallow.com/minotaur-ai-deep-dive-achieving-reasoning-without-a-language-model/",
-      "is_new": true
-    },
-    {
-      "title": "Rust Style Guide",
-      "link": "https://google.github.io/styleguide/rustguide.html",
-      "is_new": false
-    },
-    {
-      "title": "GitLab critical patch release",
-      "link": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
-      "is_new": false
-    },
-    {
-      "title": "OpenAI CLI",
-      "link": "https://github.com/openai/openai-cli",
-      "is_new": true
-    },
-    {
-      "title": "The Robot I Didn't Expect to Build",
-      "link": "https://spectrum.ieee.org/agility-robotics-digit-5-redesign",
-      "is_new": true
-    },
-    {
-      "title": "PingCap TiDB Leaks",
-      "link": "https://fulcrumsec.vg/pingcap/",
-      "is_new": false
-    },
-    {
-      "title": "What Is the Karakoram Anomaly?",
-      "link": "https://nsidc.org/learn/ask-scientist/karakoram-anomaly-it-real",
-      "is_new": false
-    },
-    {
-      "title": "Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case",
-      "link": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
-      "is_new": false
-    },
-    {
-      "title": "Tiny possum and glider thought extinct for 6000 years found in remote West Papua",
-      "link": "https://www.bbc.com/news/articles/cp814l80pw2o",
-      "is_new": false
-    },
-    {
-      "title": "Code is clay now",
-      "link": "https://www.albertodenia.com/writing/code-is-clay-now",
-      "is_new": false
-    },
-    {
-      "title": "mitmproxy adds --emudhra option",
-      "link": "https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b",
-      "is_new": false
-    },
-    {
-      "title": "Beyond the &",
-      "link": "https://lwn.net/Articles/1096028/",
-      "is_new": false
-    },
-    {
-      "title": "OpenAI models are coming to Google Cloud",
-      "link": "https://openai.com/index/openai-models-google-cloud/",
-      "is_new": false
-    },
-    {
-      "title": "DuckDB 2.0.0 LTS “Cinnamon Teal”",
-      "link": "https://duckdb.org/2026/10/21/announcing-duckdb-200",
-      "is_new": false
-    },
-    {
-      "title": "I can't use generic lambdas at compile-time, now what?",
-      "link": "https://blog.ganets.ky/ClangGenericLambdas/",
-      "is_new": true
-    },
-    {
-      "title": "Today's PHP security release, and how we're strengthening security",
-      "link": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
-      "is_new": false
-    },
-    {
-      "title": "Chain of Thought for Humans",
-      "link": "https://www.boristhebrave.com/2026/10/18/chain-of-thought-for-humans/",
-      "is_new": false
-    },
-    {
-      "title": "Show HN: Omnara – Open-source alternative to Claude Managed Agents",
-      "link": "https://github.com/omnara-ai/omnara",
-      "is_new": false
-    },
-    {
-      "title": "ThinkPad I9990303 Error Catch-22",
-      "link": "http://www.os2museum.com/wp/thinkpad-i9990303-error-catch-22/",
-      "is_new": true
-    },
-    {
-      "title": "There isn't an easy exploit for this PHP vulnerability",
-      "link": "https://eliastaylor.com/noexploit/",
       "is_new": false
     }
   ]
