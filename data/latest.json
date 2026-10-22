@@ -1,30 +1,25 @@
 {
-  "crawled_at": "2026-10-22 14:43",
-  "prev_crawled_at": "2026-10-22 09:24",
+  "crawled_at": "2026-10-22 20:05",
+  "prev_crawled_at": "2026-10-22 14:43",
   "items": [
     {
-      "title": "The recently proposed o(n log n) integer multiplication algorithm [pdf]",
-      "link": "https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf",
+      "title": "CVE-2026-111943: Compromised Intermediate Certificate Authority",
+      "link": "https://nvd.nist.gov/vuln/detail/cve-2026-111943",
       "is_new": true
     },
     {
-      "title": "There isn't an easy exploit for this PHP vulnerability",
-      "link": "https://eliastaylor.com/noexploit/",
-      "is_new": false
+      "title": "Faster than earcut: triangulating 3.7M map polygons in 489 ms",
+      "link": "https://globus.software/blog/2026/10/16/cutting-map-polygons/",
+      "is_new": true
     },
     {
       "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
       "link": "https://simedw.com/2026/10/21/world-model-terminal/",
-      "is_new": true
-    },
-    {
-      "title": "GitLab critical patch release",
-      "link": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
       "is_new": false
     },
     {
-      "title": "Rust Style Guide",
-      "link": "https://google.github.io/styleguide/rustguide.html",
+      "title": "The recently proposed o(n log n) integer multiplication algorithm [pdf]",
+      "link": "https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf",
       "is_new": false
     },
     {
@@ -33,18 +28,13 @@
       "is_new": false
     },
     {
-      "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
-      "link": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
-      "is_new": false
-    },
-    {
-      "title": "Using LLM for confidence scoring is a bad idea",
-      "link": "https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html",
+      "title": "Achieving AI-style reasoning without an LLM",
+      "link": "https://fleetingswallow.com/minotaur-ai-deep-dive-achieving-reasoning-without-a-language-model/",
       "is_new": true
     },
     {
-      "title": "I can't believe PowerShell is good",
-      "link": "https://www.spacebar.news/powershell-is-actually-good/",
+      "title": "Claude Duet",
+      "link": "https://claude.com/product/claude-duet",
       "is_new": true
     },
     {
@@ -53,24 +43,49 @@
       "is_new": false
     },
     {
-      "title": "mitmproxy adds --emudhra option",
-      "link": "https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b",
+      "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
+      "link": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
+      "is_new": false
+    },
+    {
+      "title": "Rust Style Guide",
+      "link": "https://google.github.io/styleguide/rustguide.html",
+      "is_new": false
+    },
+    {
+      "title": "Using LLM for confidence scoring is a bad idea",
+      "link": "https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html",
+      "is_new": false
+    },
+    {
+      "title": "GitLab critical patch release",
+      "link": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
+      "is_new": false
+    },
+    {
+      "title": "OpenAI CLI",
+      "link": "https://github.com/openai/openai-cli",
+      "is_new": true
+    },
+    {
+      "title": "Startup taps underwater volcano as energy source in \"proof point\" test",
+      "link": "https://arstechnica.com/science/2026/10/startup-taps-underwater-volcano-as-energy-source-in-proof-point-test/",
+      "is_new": true
+    },
+    {
+      "title": "The Robot I Didn't Expect to Build",
+      "link": "https://spectrum.ieee.org/agility-robotics-digit-5-redesign",
+      "is_new": true
+    },
+    {
+      "title": "PingCap TiDB Leaks",
+      "link": "https://fulcrumsec.vg/pingcap/",
       "is_new": false
     },
     {
       "title": "What Is the Karakoram Anomaly?",
       "link": "https://nsidc.org/learn/ask-scientist/karakoram-anomaly-it-real",
-      "is_new": true
-    },
-    {
-      "title": "Chain of Thought for Humans",
-      "link": "https://www.boristhebrave.com/2026/10/18/chain-of-thought-for-humans/",
-      "is_new": true
-    },
-    {
-      "title": "Beyond the &",
-      "link": "https://lwn.net/Articles/1096028/",
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case",
@@ -78,28 +93,23 @@
       "is_new": false
     },
     {
-      "title": "PingCap TiDB Leaks",
-      "link": "https://fulcrumsec.vg/pingcap/",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: Omnara – Open-source alternative to Claude Managed Agents",
-      "link": "https://github.com/omnara-ai/omnara",
-      "is_new": true
-    },
-    {
       "title": "Tiny possum and glider thought extinct for 6000 years found in remote West Papua",
       "link": "https://www.bbc.com/news/articles/cp814l80pw2o",
       "is_new": false
     },
     {
-      "title": "LLM agents play Pokemon showdown",
-      "link": "https://olivergrabner.com/research/pokemon/",
-      "is_new": true
-    },
-    {
       "title": "Code is clay now",
       "link": "https://www.albertodenia.com/writing/code-is-clay-now",
+      "is_new": false
+    },
+    {
+      "title": "mitmproxy adds --emudhra option",
+      "link": "https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b",
+      "is_new": false
+    },
+    {
+      "title": "Beyond the &",
+      "link": "https://lwn.net/Articles/1096028/",
       "is_new": false
     },
     {
@@ -108,14 +118,51 @@
       "is_new": false
     },
     {
+      "title": "DuckDB 2.0.0 LTS “Cinnamon Teal”",
+      "link": "https://duckdb.org/2026/10/21/announcing-duckdb-200",
+      "is_new": false
+    },
+    {
+      "title": "I can't use generic lambdas at compile-time, now what?",
+      "link": "https://blog.ganets.ky/ClangGenericLambdas/",
+      "is_new": true
+    },
+    {
       "title": "Today's PHP security release, and how we're strengthening security",
       "link": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
       "is_new": false
     },
     {
-      "title": "DuckDB 2.0.0 LTS “Cinnamon Teal”",
-      "link": "https://duckdb.org/2026/10/21/announcing-duckdb-200",
+      "title": "Chain of Thought for Humans",
+      "link": "https://www.boristhebrave.com/2026/10/18/chain-of-thought-for-humans/",
       "is_new": false
+    },
+    {
+      "title": "Show HN: Omnara – Open-source alternative to Claude Managed Agents",
+      "link": "https://github.com/omnara-ai/omnara",
+      "is_new": false
+    },
+    {
+      "title": "ThinkPad I9990303 Error Catch-22",
+      "link": "http://www.os2museum.com/wp/thinkpad-i9990303-error-catch-22/",
+      "is_new": true
+    },
+    {
+      "title": "There isn't an easy exploit for this PHP vulnerability",
+      "link": "https://eliastaylor.com/noexploit/",
+      "is_new": false
+    }
+  ],
+  "removed": [
+    {
+      "title": "I can't believe PowerShell is good",
+      "link": "https://www.spacebar.news/powershell-is-actually-good/",
+      "is_new": true
+    },
+    {
+      "title": "LLM agents play Pokemon showdown",
+      "link": "https://olivergrabner.com/research/pokemon/",
+      "is_new": true
     },
     {
       "title": "Clockwork Mechanics, Maintenance, and Metaphors in the Late Middle Ages",
@@ -150,68 +197,6 @@
     {
       "title": "PHP 8.2.35",
       "link": "https://github.com/php/php-src/releases/tag/php-8.2.35",
-      "is_new": false
-    }
-  ],
-  "removed": [
-    {
-      "title": "Eight Bits of Trust: eMudhra's CA keys cracked in milliseconds",
-      "link": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
-      "is_new": false
-    },
-    {
-      "title": "Claude Duet",
-      "link": "https://claude.com/product/claude-duet",
-      "is_new": false
-    },
-    {
-      "title": "EA is shutting down BioWare",
-      "link": "https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware",
-      "is_new": false
-    },
-    {
-      "title": "The Rise and Fall of the Plasma Screen",
-      "link": "https://www.construction-physics.com/p/the-rise-and-fall-of-the-plasma-screen",
-      "is_new": true
-    },
-    {
-      "title": "New plastic pollution discovered: 'Plasticorals' coral rubble fused with plastic",
-      "link": "https://www.oist.jp/news-center/news/2026/9/18/new-form-plastic-pollution-discovered-shores-vulnerable-coral-reefs",
-      "is_new": false
-    },
-    {
-      "title": "PHP web runtimes (CVE-2026-109618 and CVE-2026-109619)",
-      "link": "https://aws.amazon.com/security/security-bulletins/2026-143-aws/",
-      "is_new": true
-    },
-    {
-      "title": "Κ = 0.003 for integer multiplication crossed",
-      "link": "https://github.com/CrocSwap/integer-mult-bounds/pull/4441",
-      "is_new": true
-    },
-    {
-      "title": "Qpack amplification attacks against HTTP/3 servers",
-      "link": "https://foxio.io/blog/header-accordions-qpack-amplification-attacks-against-http-3-servers",
-      "is_new": true
-    },
-    {
-      "title": "Airbnb bans making guests do dishes and take out the trash",
-      "link": "https://www.theverge.com/tech/1015844/airbnb-chores-house-rules-update",
-      "is_new": true
-    },
-    {
-      "title": "CleanFrame: A quieter home screen for Samsung The Frame",
-      "link": "https://github.com/nthnclrk/CleanFrame",
-      "is_new": true
-    },
-    {
-      "title": "Using thousands of AI agents to uncover new leads in biological data",
-      "link": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/",
-      "is_new": false
-    },
-    {
-      "title": "Drupal is now light-years ahead of its reputation",
-      "link": "https://dri.es/state-of-drupal-presentation-september-2026",
       "is_new": false
     }
   ]
