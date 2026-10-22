@@ -1,15 +1,20 @@
 {
-  "crawled_at": "2026-10-22 06:12",
-  "prev_crawled_at": "2026-10-22 02:52",
+  "crawled_at": "2026-10-22 09:24",
+  "prev_crawled_at": "2026-10-22 06:12",
   "items": [
     {
-      "title": "Mistral Large 4",
-      "link": "https://docs.mistral.ai/models/mistral-large-4-0",
+      "title": "Railway Security Disclosure",
+      "link": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
       "is_new": true
     },
     {
-      "title": "Meta hit with $25B penalty for deceiving users about privacy on Facebook",
-      "link": "https://nmdoj.gov/press-release/the-new-mexico-department-of-justice-secures-another-landmark-victory-against-big-tech-with-historic-25-billion-penalty-against-facebook/",
+      "title": "mitmproxy adds --emudhra option",
+      "link": "https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b",
+      "is_new": true
+    },
+    {
+      "title": "There isn't an easy exploit for this PHP vulnerability",
+      "link": "https://eliastaylor.com/noexploit/",
       "is_new": true
     },
     {
@@ -18,14 +23,14 @@
       "is_new": false
     },
     {
-      "title": "GitLab Remote Code Execution - Integer Overflow issue",
+      "title": "GitLab Critical Patch Release",
       "link": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
-      "is_new": true
+      "is_new": false
     },
     {
-      "title": "Why Windows 11 still ships with Windows 95's memory manager hidden inside it",
-      "link": "https://www.windowslatest.com/2026/10/19/why-windows-11-still-ships-with-windows-95s-memory-manager-hidden-inside-it/",
-      "is_new": true
+      "title": "Google's Rust Style Guide",
+      "link": "https://google.github.io/styleguide/rustguide.html",
+      "is_new": false
     },
     {
       "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
@@ -33,8 +38,8 @@
       "is_new": false
     },
     {
-      "title": "After automation: Solo founding will be the default",
-      "link": "https://every.to/thesis-statements/julian-weisser",
+      "title": "No More Icons in Every Menu by Default",
+      "link": "https://blog.jim-nielsen.com/2026/icons-in-every-menu/",
       "is_new": true
     },
     {
@@ -43,13 +48,13 @@
       "is_new": false
     },
     {
-      "title": "DuckDB 2.0.0 LTS “Cinnamon Teal”",
-      "link": "https://duckdb.org/2026/10/21/announcing-duckdb-200",
+      "title": "Why Windows 11 still ships with Windows 95's memory manager hidden inside it",
+      "link": "https://www.windowslatest.com/2026/10/19/why-windows-11-still-ships-with-windows-95s-memory-manager-hidden-inside-it/",
       "is_new": false
     },
     {
-      "title": "EA is shutting down BioWare",
-      "link": "https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware",
+      "title": "Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case",
+      "link": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
       "is_new": false
     },
     {
@@ -65,26 +70,16 @@
     {
       "title": "Claude Duet",
       "link": "https://claude.com/product/claude-duet",
-      "is_new": true
-    },
-    {
-      "title": "New plastic pollution discovered: 'Plasticorals' coral rubble fused with plastic",
-      "link": "https://www.oist.jp/news-center/news/2026/9/18/new-form-plastic-pollution-discovered-shores-vulnerable-coral-reefs",
       "is_new": false
     },
     {
-      "title": "Oregon lawmakers approve money to buy an iconic waterfall listed on Redfin",
-      "link": "https://apnews.com/article/oregon-waterfall-for-sale-lawmakers-996de63462d49ec3ad9bee1629fb9488",
+      "title": "DuckDB 2.0.0 LTS “Cinnamon Teal”",
+      "link": "https://duckdb.org/2026/10/21/announcing-duckdb-200",
       "is_new": false
     },
     {
-      "title": "PHP 8.2.35",
-      "link": "https://github.com/php/php-src/releases/tag/php-8.2.35",
-      "is_new": false
-    },
-    {
-      "title": "Google's Rust Style Guide",
-      "link": "https://google.github.io/styleguide/rustguide.html",
+      "title": "Code is clay now",
+      "link": "https://www.albertodenia.com/writing/code-is-clay-now",
       "is_new": true
     },
     {
@@ -93,18 +88,58 @@
       "is_new": false
     },
     {
-      "title": "A Place Among the Fiddlers",
-      "link": "https://longreads.com/2026/10/01/galax-old-fiddlers-convention-music/",
+      "title": "EA is shutting down BioWare",
+      "link": "https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware",
+      "is_new": false
+    },
+    {
+      "title": "Oregon lawmakers approve money to buy an iconic waterfall listed on Redfin",
+      "link": "https://apnews.com/article/oregon-waterfall-for-sale-lawmakers-996de63462d49ec3ad9bee1629fb9488",
+      "is_new": false
+    },
+    {
+      "title": "Launch HN: Alter (YC S25) – Access control for multi-user agents",
+      "link": "https://alterauth.com/",
       "is_new": true
     },
     {
-      "title": "Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case",
-      "link": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
+      "title": "The Rise and Fall of the Plasma Screen",
+      "link": "https://www.construction-physics.com/p/the-rise-and-fall-of-the-plasma-screen",
       "is_new": true
     },
     {
-      "title": "Canary Tokens",
-      "link": "https://canarytokens.org/",
+      "title": "PHP 8.2.35",
+      "link": "https://github.com/php/php-src/releases/tag/php-8.2.35",
+      "is_new": false
+    },
+    {
+      "title": "New plastic pollution discovered: 'Plasticorals' coral rubble fused with plastic",
+      "link": "https://www.oist.jp/news-center/news/2026/9/18/new-form-plastic-pollution-discovered-shores-vulnerable-coral-reefs",
+      "is_new": false
+    },
+    {
+      "title": "PHP web runtimes (CVE-2026-109618 and CVE-2026-109619)",
+      "link": "https://aws.amazon.com/security/security-bulletins/2026-143-aws/",
+      "is_new": true
+    },
+    {
+      "title": "Κ = 0.003 for integer multiplication crossed",
+      "link": "https://github.com/CrocSwap/integer-mult-bounds/pull/4441",
+      "is_new": true
+    },
+    {
+      "title": "Qpack amplification attacks against HTTP/3 servers",
+      "link": "https://foxio.io/blog/header-accordions-qpack-amplification-attacks-against-http-3-servers",
+      "is_new": true
+    },
+    {
+      "title": "Airbnb bans making guests do dishes and take out the trash",
+      "link": "https://www.theverge.com/tech/1015844/airbnb-chores-house-rules-update",
+      "is_new": true
+    },
+    {
+      "title": "CleanFrame: A quieter home screen for Samsung The Frame",
+      "link": "https://github.com/nthnclrk/CleanFrame",
       "is_new": true
     },
     {
@@ -116,6 +151,33 @@
       "title": "Drupal is now light-years ahead of its reputation",
       "link": "https://dri.es/state-of-drupal-presentation-september-2026",
       "is_new": false
+    }
+  ],
+  "removed": [
+    {
+      "title": "Mistral Large 4",
+      "link": "https://docs.mistral.ai/models/mistral-large-4-0",
+      "is_new": true
+    },
+    {
+      "title": "Meta hit with $25B penalty for deceiving users about privacy on Facebook",
+      "link": "https://nmdoj.gov/press-release/the-new-mexico-department-of-justice-secures-another-landmark-victory-against-big-tech-with-historic-25-billion-penalty-against-facebook/",
+      "is_new": true
+    },
+    {
+      "title": "After automation: Solo founding will be the default",
+      "link": "https://every.to/thesis-statements/julian-weisser",
+      "is_new": true
+    },
+    {
+      "title": "A Place Among the Fiddlers",
+      "link": "https://longreads.com/2026/10/01/galax-old-fiddlers-convention-music/",
+      "is_new": true
+    },
+    {
+      "title": "Canary Tokens",
+      "link": "https://canarytokens.org/",
+      "is_new": true
     },
     {
       "title": "9 Mothers (YC P26) Is Hiring in Austin, TX",
@@ -150,73 +212,6 @@
     {
       "title": "Way to Play Super Mario 64: On Apple Vision Pro",
       "link": "https://www.pagetable.com/303",
-      "is_new": false
-    }
-  ],
-  "removed": [
-    {
-      "title": "Rust off Rails: The opinionated web stack for the AI era",
-      "link": "https://rustoffrails.org/",
-      "is_new": true
-    },
-    {
-      "title": "What I learned from six months of being stupid on purpose",
-      "link": "https://wvez.org/blog/learning-to-be-stupid/",
-      "is_new": true
-    },
-    {
-      "title": "Launch HN: Alter (YC S25) – Access control for multi-user agents",
-      "link": "https://alterauth.com/",
-      "is_new": true
-    },
-    {
-      "title": "C++ futures part 1: The mental model",
-      "link": "https://devblogs.microsoft.com/oldnewthing/20261012-00/?p=112767/",
-      "is_new": true
-    },
-    {
-      "title": "Trials and Tribulations of Native Lua Compilation",
-      "link": "https://samyeyo.github.io/clx/blog.html",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: ULDA – Client-side encryption with a simple JavaScript API",
-      "link": "https://demo.ulda.io/",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: Sumi.css – CSS Framework",
-      "link": "https://github.com/vladocar/Sumi.css",
-      "is_new": true
-    },
-    {
-      "title": "Muse exposes users' personal and business secrets when they share conversations",
-      "link": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
-      "is_new": false
-    },
-    {
-      "title": "Whatever Happened to Fire Escapes",
-      "link": "https://practical.engineering/blog/2026/10/20/whatever-happened-to-fire-escapes",
-      "is_new": false
-    },
-    {
-      "title": "The Decoherence Trap",
-      "link": "https://maevyn.codes/decoherence",
-      "is_new": false
-    },
-    {
-      "title": "PHP2Shell: AI uncovers critical RCE in PHP",
-      "link": "https://www.wiz.io/blog/php2shell-php-rce",
-      "is_new": true
-    },
-    {
-      "title": "The phenomena that brighten dawn and dusk (2016)",
-      "link": "https://www.colorado.edu/asmagazine-archive/node/2039",
-      "is_new": true
-    },
-    {
-      "title": "The Lucrative World of Literary Scams",
-      "link": "https://www.thedial.world/articles/news/ai-book-scams",
       "is_new": false
     }
   ]
