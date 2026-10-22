@@ -1,35 +1,35 @@
 {
-  "crawled_at": "2026-10-22 09:24",
-  "prev_crawled_at": "2026-10-22 06:12",
+  "crawled_at": "2026-10-22 14:43",
+  "prev_crawled_at": "2026-10-22 09:24",
   "items": [
     {
-      "title": "Railway Security Disclosure",
-      "link": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
-      "is_new": true
-    },
-    {
-      "title": "mitmproxy adds --emudhra option",
-      "link": "https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b",
+      "title": "The recently proposed o(n log n) integer multiplication algorithm [pdf]",
+      "link": "https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf",
       "is_new": true
     },
     {
       "title": "There isn't an easy exploit for this PHP vulnerability",
       "link": "https://eliastaylor.com/noexploit/",
-      "is_new": true
-    },
-    {
-      "title": "Today's PHP security release, and how we're strengthening security",
-      "link": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
       "is_new": false
     },
     {
-      "title": "GitLab Critical Patch Release",
+      "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
+      "link": "https://simedw.com/2026/10/21/world-model-terminal/",
+      "is_new": true
+    },
+    {
+      "title": "GitLab critical patch release",
       "link": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
       "is_new": false
     },
     {
-      "title": "Google's Rust Style Guide",
+      "title": "Rust Style Guide",
       "link": "https://google.github.io/styleguide/rustguide.html",
+      "is_new": false
+    },
+    {
+      "title": "Security Disclosure",
+      "link": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
       "is_new": false
     },
     {
@@ -38,19 +38,39 @@
       "is_new": false
     },
     {
-      "title": "No More Icons in Every Menu by Default",
-      "link": "https://blog.jim-nielsen.com/2026/icons-in-every-menu/",
+      "title": "Using LLM for confidence scoring is a bad idea",
+      "link": "https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html",
       "is_new": true
     },
     {
-      "title": "Eight Bits of Trust: eMudhra's CA keys cracked in milliseconds",
-      "link": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
+      "title": "I can't believe PowerShell is good",
+      "link": "https://www.spacebar.news/powershell-is-actually-good/",
+      "is_new": true
+    },
+    {
+      "title": "No more icons in every menu by default",
+      "link": "https://blog.jim-nielsen.com/2026/icons-in-every-menu/",
       "is_new": false
     },
     {
-      "title": "Why Windows 11 still ships with Windows 95's memory manager hidden inside it",
-      "link": "https://www.windowslatest.com/2026/10/19/why-windows-11-still-ships-with-windows-95s-memory-manager-hidden-inside-it/",
+      "title": "mitmproxy adds --emudhra option",
+      "link": "https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b",
       "is_new": false
+    },
+    {
+      "title": "What Is the Karakoram Anomaly?",
+      "link": "https://nsidc.org/learn/ask-scientist/karakoram-anomaly-it-real",
+      "is_new": true
+    },
+    {
+      "title": "Chain of Thought for Humans",
+      "link": "https://www.boristhebrave.com/2026/10/18/chain-of-thought-for-humans/",
+      "is_new": true
+    },
+    {
+      "title": "Beyond the &",
+      "link": "https://lwn.net/Articles/1096028/",
+      "is_new": true
     },
     {
       "title": "Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case",
@@ -58,9 +78,14 @@
       "is_new": false
     },
     {
-      "title": "Patch the Planet: global response coordination as agents uncover vulnerabilities",
-      "link": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
-      "is_new": false
+      "title": "PingCap TiDB Leaks",
+      "link": "https://fulcrumsec.vg/pingcap/",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: Omnara – Open-source alternative to Claude Managed Agents",
+      "link": "https://github.com/omnara-ai/omnara",
+      "is_new": true
     },
     {
       "title": "Tiny possum and glider thought extinct for 6000 years found in remote West Papua",
@@ -68,8 +93,23 @@
       "is_new": false
     },
     {
-      "title": "Claude Duet",
-      "link": "https://claude.com/product/claude-duet",
+      "title": "LLM agents play Pokemon showdown",
+      "link": "https://olivergrabner.com/research/pokemon/",
+      "is_new": true
+    },
+    {
+      "title": "Code is clay now",
+      "link": "https://www.albertodenia.com/writing/code-is-clay-now",
+      "is_new": false
+    },
+    {
+      "title": "OpenAI models are coming to Google Cloud",
+      "link": "https://openai.com/index/openai-models-google-cloud/",
+      "is_new": false
+    },
+    {
+      "title": "Today's PHP security release, and how we're strengthening security",
+      "link": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
       "is_new": false
     },
     {
@@ -78,18 +118,13 @@
       "is_new": false
     },
     {
-      "title": "Code is clay now",
-      "link": "https://www.albertodenia.com/writing/code-is-clay-now",
+      "title": "Clockwork Mechanics, Maintenance, and Metaphors in the Late Middle Ages",
+      "link": "https://www.jhiblog.org/2026/10/19/clockwork-metaphors/",
       "is_new": true
     },
     {
-      "title": "OpenAI models are coming to Google Cloud",
-      "link": "https://openai.com/index/openai-models-google-cloud/",
-      "is_new": false
-    },
-    {
-      "title": "EA is shutting down BioWare",
-      "link": "https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware",
+      "title": "Patch the Planet: global response coordination as agents uncover vulnerabilities",
+      "link": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
       "is_new": false
     },
     {
@@ -98,19 +133,46 @@
       "is_new": false
     },
     {
-      "title": "Launch HN: Alter (YC S25) – Access control for multi-user agents",
-      "link": "https://alterauth.com/",
+      "title": "Why Windows 11 still ships with Windows 95's memory manager hidden inside it",
+      "link": "https://www.windowslatest.com/2026/10/19/why-windows-11-still-ships-with-windows-95s-memory-manager-hidden-inside-it/",
+      "is_new": false
+    },
+    {
+      "title": "Postgres recovery_prefetch can cause outages",
+      "link": "https://ardentperf.com/2026/10/20/postgres-recovery_prefetch-considered-harmful-and-causing-outages/",
       "is_new": true
     },
     {
-      "title": "The Rise and Fall of the Plasma Screen",
-      "link": "https://www.construction-physics.com/p/the-rise-and-fall-of-the-plasma-screen",
-      "is_new": true
+      "title": "Launch HN: Alter (YC S25) – Access control for multi-user agents",
+      "link": "https://alterauth.com/",
+      "is_new": false
     },
     {
       "title": "PHP 8.2.35",
       "link": "https://github.com/php/php-src/releases/tag/php-8.2.35",
       "is_new": false
+    }
+  ],
+  "removed": [
+    {
+      "title": "Eight Bits of Trust: eMudhra's CA keys cracked in milliseconds",
+      "link": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
+      "is_new": false
+    },
+    {
+      "title": "Claude Duet",
+      "link": "https://claude.com/product/claude-duet",
+      "is_new": false
+    },
+    {
+      "title": "EA is shutting down BioWare",
+      "link": "https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware",
+      "is_new": false
+    },
+    {
+      "title": "The Rise and Fall of the Plasma Screen",
+      "link": "https://www.construction-physics.com/p/the-rise-and-fall-of-the-plasma-screen",
+      "is_new": true
     },
     {
       "title": "New plastic pollution discovered: 'Plasticorals' coral rubble fused with plastic",
@@ -150,68 +212,6 @@
     {
       "title": "Drupal is now light-years ahead of its reputation",
       "link": "https://dri.es/state-of-drupal-presentation-september-2026",
-      "is_new": false
-    }
-  ],
-  "removed": [
-    {
-      "title": "Mistral Large 4",
-      "link": "https://docs.mistral.ai/models/mistral-large-4-0",
-      "is_new": true
-    },
-    {
-      "title": "Meta hit with $25B penalty for deceiving users about privacy on Facebook",
-      "link": "https://nmdoj.gov/press-release/the-new-mexico-department-of-justice-secures-another-landmark-victory-against-big-tech-with-historic-25-billion-penalty-against-facebook/",
-      "is_new": true
-    },
-    {
-      "title": "After automation: Solo founding will be the default",
-      "link": "https://every.to/thesis-statements/julian-weisser",
-      "is_new": true
-    },
-    {
-      "title": "A Place Among the Fiddlers",
-      "link": "https://longreads.com/2026/10/01/galax-old-fiddlers-convention-music/",
-      "is_new": true
-    },
-    {
-      "title": "Canary Tokens",
-      "link": "https://canarytokens.org/",
-      "is_new": true
-    },
-    {
-      "title": "9 Mothers (YC P26) Is Hiring in Austin, TX",
-      "link": "https://9mothers.com/careers",
-      "is_new": false
-    },
-    {
-      "title": "The bridge to agent-scale Git infrastructure",
-      "link": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/",
-      "is_new": false
-    },
-    {
-      "title": "Your MCU likely escaped the eMudhra intermediate CA compromise",
-      "link": "https://danielmangum.com/posts/mcu-emudhra-intermediate-ca-compromise/",
-      "is_new": false
-    },
-    {
-      "title": "Show HN: I told people I'm a convicted felon after 20 years of hiding it",
-      "link": "https://buford.bg/",
-      "is_new": true
-    },
-    {
-      "title": "Potential third critical PHP CVE",
-      "link": "https://elk.zone/m.webtoo.ls/@elise@katze.sh/117479383721672027",
-      "is_new": true
-    },
-    {
-      "title": "Claude Duet",
-      "link": "https://claude.com/resources/articles/claude-duet",
-      "is_new": true
-    },
-    {
-      "title": "Way to Play Super Mario 64: On Apple Vision Pro",
-      "link": "https://www.pagetable.com/303",
       "is_new": false
     }
   ]
