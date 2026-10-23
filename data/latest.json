@@ -1,10 +1,45 @@
 {
-  "crawled_at": "2026-10-23 18:03",
-  "prev_crawled_at": "2026-10-23 12:12",
+  "crawled_at": "2026-10-23 23:38",
+  "prev_crawled_at": "2026-10-23 18:03",
   "items": [
+    {
+      "title": "Investor-owned utilities charge 23% more for electricity than public providers",
+      "link": "https://www.kadoa.com/energy-prices/insights/investor-owned-utilities",
+      "is_new": true
+    },
+    {
+      "title": "OpenSSL 4.1.0",
+      "link": "https://github.com/openssl/openssl/releases/tag/openssl-4.1.0",
+      "is_new": true
+    },
+    {
+      "title": "Phone Is About to Stop Being Yours: 70 Days Until Lockdown",
+      "link": "https://keepandroidopen.org/",
+      "is_new": true
+    },
     {
       "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
       "link": "https://edjefferson.com/localwiki/",
+      "is_new": false
+    },
+    {
+      "title": "Shitter – A Nitter Fork",
+      "link": "https://codeberg.org/shitter/shitter",
+      "is_new": true
+    },
+    {
+      "title": "No Need for Retirement When Utopia Is Around the Corner",
+      "link": "https://blog.jim-nielsen.com/2026/skip-retirement-for-utopia/",
+      "is_new": true
+    },
+    {
+      "title": "Disney Raising Prices Days After Confirming Ads Will Now Show Up on Every Tier",
+      "link": "https://www.tvfandomlounge.com/disney-plus-price-hike-ads-premium-tier-nielsen-emmys-2026/",
+      "is_new": true
+    },
+    {
+      "title": "Swedish government offices to ban ChatGPT and Claude",
+      "link": "https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet",
       "is_new": true
     },
     {
@@ -13,8 +48,13 @@
       "is_new": false
     },
     {
-      "title": "How does Fable 5.1 hide messages in images?",
-      "link": "https://www.lesswrong.com/posts/WHEQps5PK8LrrcTAb/how-does-fable-5-1-hide-messages-in-images",
+      "title": "Hacker leaks 281 GB of data from Germany's far-right AfD party",
+      "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/hacker-leaks-281-gb-data-germany-afd",
+      "is_new": true
+    },
+    {
+      "title": "Dutch government had hacked into Jared Kushner's phone",
+      "link": "https://twitter.com/jaredkushner/status/2113376217415958767",
       "is_new": true
     },
     {
@@ -25,21 +65,16 @@
     {
       "title": "The alien space of science: Coherent but cognitively unavailable directions",
       "link": "https://arxiv.org/abs/2603.01092",
-      "is_new": true
-    },
-    {
-      "title": "The HTML-in-Canvas API origin trial",
-      "link": "https://developer.chrome.com/blog/html-in-canvas-origin-trial",
-      "is_new": true
-    },
-    {
-      "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
-      "link": "https://github.com/NVIDIA/OpenShell",
       "is_new": false
     },
     {
-      "title": "This I Believe (1952)",
-      "link": "https://www.awakin.org/v2/read/view.php?tid=468",
+      "title": "Job Loss and Cortisone Mania",
+      "link": "https://tilschuenemann.de/job-loss-cortisone-mania",
+      "is_new": true
+    },
+    {
+      "title": "Remove pgrust: the entry is cheating",
+      "link": "https://github.com/ClickHouse/ClickBench/pull/2165",
       "is_new": true
     },
     {
@@ -48,9 +83,29 @@
       "is_new": false
     },
     {
+      "title": "How does Fable 5.1 hide messages in images?",
+      "link": "https://www.lesswrong.com/posts/WHEQps5PK8LrrcTAb/how-does-fable-5-1-hide-messages-in-images",
+      "is_new": false
+    },
+    {
       "title": "Show HN: OnKey – I'm a bad singer, so I built an app to show where I'm off-key",
       "link": "https://github.com/dsmurrell/onkey",
+      "is_new": false
+    },
+    {
+      "title": "Is this the new cyber normal?",
+      "link": "https://drew.silcock.dev/blog/is-this-the-new-cyber-normal/",
       "is_new": true
+    },
+    {
+      "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
+      "link": "https://github.com/NVIDIA/OpenShell",
+      "is_new": false
+    },
+    {
+      "title": "The HTML-in-Canvas API origin trial",
+      "link": "https://developer.chrome.com/blog/html-in-canvas-origin-trial",
+      "is_new": false
     },
     {
       "title": "Run full iOS 16.5 firmware on Android Devices",
@@ -58,9 +113,14 @@
       "is_new": false
     },
     {
-      "title": "A lost Schrödinger manuscript reveals a twist in quantum physics",
-      "link": "https://www.sciencealert.com/a-lost-schrdinger-manuscript-reveals-a-surprising-twist-in-quantum-physics",
-      "is_new": true
+      "title": "Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?",
+      "link": "https://news.ycombinator.com/item?id=50200997",
+      "is_new": false
+    },
+    {
+      "title": "Show HN: Making a smart TV dumb and then smart",
+      "link": "https://github.com/anubhavmalhotra/r2d2-tv",
+      "is_new": false
     },
     {
       "title": "Getting ready to operate GNU Taler in Germany",
@@ -68,13 +128,40 @@
       "is_new": false
     },
     {
-      "title": "Jank – The native Clojure dialect with seamless C++ interop",
-      "link": "https://jank-lang.org/",
+      "title": "This I Believe (1952)",
+      "link": "https://www.awakin.org/v2/read/view.php?tid=468",
+      "is_new": false
+    },
+    {
+      "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
+      "link": "https://simedw.com/2026/10/21/world-model-terminal/",
+      "is_new": false
+    },
+    {
+      "title": "Tell HN: I unknowingly broke the PHP RCE embargo. I am sorry.",
+      "link": "https://news.ycombinator.com/item?id=50193416",
       "is_new": false
     },
     {
       "title": "Quad9 to exit France",
       "link": "https://quad9.net/news/blog/au-revoir-france/",
+      "is_new": false
+    },
+    {
+      "title": "Xbox wants you to pay 24 to 40 cents per hour to stream games you bought",
+      "link": "https://arstechnica.com/gaming/2026/10/xbox-wants-you-to-pay-24-to-40-cents-per-hour-to-stream-games-you-already-bought/",
+      "is_new": false
+    }
+  ],
+  "removed": [
+    {
+      "title": "A lost Schrödinger manuscript reveals a twist in quantum physics",
+      "link": "https://www.sciencealert.com/a-lost-schrdinger-manuscript-reveals-a-surprising-twist-in-quantum-physics",
+      "is_new": true
+    },
+    {
+      "title": "Jank – The native Clojure dialect with seamless C++ interop",
+      "link": "https://jank-lang.org/",
       "is_new": false
     },
     {
@@ -88,11 +175,6 @@
       "is_new": false
     },
     {
-      "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
-      "link": "https://simedw.com/2026/10/21/world-model-terminal/",
-      "is_new": true
-    },
-    {
       "title": "I reverse engineered a board game",
       "link": "https://wuemeli.com/blog/reversing-hitster-game/",
       "is_new": true
@@ -103,28 +185,8 @@
       "is_new": true
     },
     {
-      "title": "Tell HN: I unknowingly broke the PHP RCE embargo. I am sorry.",
-      "link": "https://news.ycombinator.com/item?id=50193416",
-      "is_new": false
-    },
-    {
-      "title": "Show HN: Making a smart TV dumb and then smart",
-      "link": "https://github.com/anubhavmalhotra/r2d2-tv",
-      "is_new": true
-    },
-    {
       "title": "Color Names",
       "link": "https://names.color.pizza",
-      "is_new": true
-    },
-    {
-      "title": "Xbox wants you to pay 24 to 40 cents per hour to stream games you bought",
-      "link": "https://arstechnica.com/gaming/2026/10/xbox-wants-you-to-pay-24-to-40-cents-per-hour-to-stream-games-you-already-bought/",
-      "is_new": false
-    },
-    {
-      "title": "Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?",
-      "link": "https://news.ycombinator.com/item?id=50200997",
       "is_new": true
     },
     {
@@ -151,88 +213,6 @@
       "title": "Objects, attributes, maps, oh my",
       "link": "https://bernsteinbear.com/blog/object-shapes/",
       "is_new": true
-    }
-  ],
-  "removed": [
-    {
-      "title": "Mortality Among People with Attention-Deficit/Hyperactivity Disorder",
-      "link": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2855472",
-      "is_new": true
-    },
-    {
-      "title": "Woman faces six years in prison over Cash App account she never opened",
-      "link": "https://www.techspot.com/news/114296-woman-spends-three-nights-jail-faces-six-years.html",
-      "is_new": false
-    },
-    {
-      "title": "The Secret Life of Circuits is now in stock everywhere",
-      "link": "https://blog.coredump.cx/p/the-secret-life-of-circuits-is-now",
-      "is_new": true
-    },
-    {
-      "title": "AI compute is the new oil–and needs a new market",
-      "link": "https://www.economist.com/finance-and-economics/2026/10/22/ai-compute-is-the-new-oil-and-needs-a-new-market",
-      "is_new": true
-    },
-    {
-      "title": "What Is Gridifcation",
-      "link": "https://musicalform.substack.com/p/what-is-gridifcation",
-      "is_new": false
-    },
-    {
-      "title": "Mapping the Northern Sky",
-      "link": "https://www.maps.com/star-map-charts-stars-and-constellations-of-northern-hemisphere/",
-      "is_new": true
-    },
-    {
-      "title": "AI and the Enclosure of the Scientific Commons",
-      "link": "https://arxiv.org/abs/2610.27251",
-      "is_new": false
-    },
-    {
-      "title": "How to Design Flowers",
-      "link": "https://www.asimov.press/p/flowers",
-      "is_new": false
-    },
-    {
-      "title": "Speeding up code review with `small-change`",
-      "link": "https://lethain.com/small-changes/",
-      "is_new": false
-    },
-    {
-      "title": "Dungeon Generation in the Gnomish Mines of NetHack",
-      "link": "https://www.boristhebrave.com/2026/10/18/dungeon-generation-in-the-gnomish-mines-of-nethack/",
-      "is_new": false
-    },
-    {
-      "title": "Faster than earcut: triangulating 3.7M map polygons in 489 ms",
-      "link": "https://globus.software/blog/2026/10/16/cutting-map-polygons/",
-      "is_new": false
-    },
-    {
-      "title": "Show HN: Uberblok – an interactive museum of ZFS internals",
-      "link": "https://uberblok.storagebits.workers.dev/",
-      "is_new": false
-    },
-    {
-      "title": "Jailbreaking the Switch 2",
-      "link": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/",
-      "is_new": false
-    },
-    {
-      "title": "A farewell to Arc browser",
-      "link": "https://arc.net/",
-      "is_new": false
-    },
-    {
-      "title": "Startup taps underwater volcano as energy source in “proof point” test",
-      "link": "https://arstechnica.com/science/2026/10/startup-taps-underwater-volcano-as-energy-source-in-proof-point-test/",
-      "is_new": false
-    },
-    {
-      "title": "What’s getting pwned right now",
-      "link": "https://pwn.watch/",
-      "is_new": false
     }
   ]
 }
