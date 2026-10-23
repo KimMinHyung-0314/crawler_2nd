@@ -1,25 +1,35 @@
 {
-  "crawled_at": "2026-10-23 12:12",
-  "prev_crawled_at": "2026-10-23 08:51",
+  "crawled_at": "2026-10-23 18:03",
+  "prev_crawled_at": "2026-10-23 12:12",
   "items": [
     {
-      "title": "LLMs are making formal software verification feasible at a much larger scale",
-      "link": "https://www.anthropic.com/research/formal-verification",
+      "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
+      "link": "https://edjefferson.com/localwiki/",
       "is_new": true
     },
     {
       "title": "Docker is weird",
       "link": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
-      "is_new": true
-    },
-    {
-      "title": "Quad9 (DNS Resolver) to Exit France",
-      "link": "https://quad9.net/news/blog/au-revoir-france/",
       "is_new": false
     },
     {
-      "title": "Mortality Among People with Attention-Deficit/Hyperactivity Disorder",
-      "link": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2855472",
+      "title": "How does Fable 5.1 hide messages in images?",
+      "link": "https://www.lesswrong.com/posts/WHEQps5PK8LrrcTAb/how-does-fable-5-1-hide-messages-in-images",
+      "is_new": true
+    },
+    {
+      "title": "The foolishness of \"natural language programming\" (1978)",
+      "link": "https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html",
+      "is_new": false
+    },
+    {
+      "title": "The alien space of science: Coherent but cognitively unavailable directions",
+      "link": "https://arxiv.org/abs/2603.01092",
+      "is_new": true
+    },
+    {
+      "title": "The HTML-in-Canvas API origin trial",
+      "link": "https://developer.chrome.com/blog/html-in-canvas-origin-trial",
       "is_new": true
     },
     {
@@ -28,9 +38,9 @@
       "is_new": false
     },
     {
-      "title": "Woman faces six years in prison over Cash App account she never opened",
-      "link": "https://www.techspot.com/news/114296-woman-spends-three-nights-jail-faces-six-years.html",
-      "is_new": false
+      "title": "This I Believe (1952)",
+      "link": "https://www.awakin.org/v2/read/view.php?tid=468",
+      "is_new": true
     },
     {
       "title": "Every AI model has the same \"controversial\" take on humans",
@@ -38,8 +48,8 @@
       "is_new": false
     },
     {
-      "title": "The Secret Life of Circuits is now in stock everywhere",
-      "link": "https://blog.coredump.cx/p/the-secret-life-of-circuits-is-now",
+      "title": "Show HN: OnKey – I'm a bad singer, so I built an app to show where I'm off-key",
+      "link": "https://github.com/dsmurrell/onkey",
       "is_new": true
     },
     {
@@ -48,29 +58,79 @@
       "is_new": false
     },
     {
+      "title": "A lost Schrödinger manuscript reveals a twist in quantum physics",
+      "link": "https://www.sciencealert.com/a-lost-schrdinger-manuscript-reveals-a-surprising-twist-in-quantum-physics",
+      "is_new": true
+    },
+    {
       "title": "Getting ready to operate GNU Taler in Germany",
       "link": "https://www.taler.net/en/news/2026-13.html",
       "is_new": false
     },
     {
-      "title": "AI compute is the new oil–and needs a new market",
-      "link": "https://www.economist.com/finance-and-economics/2026/10/22/ai-compute-is-the-new-oil-and-needs-a-new-market",
-      "is_new": true
-    },
-    {
       "title": "Jank – The native Clojure dialect with seamless C++ interop",
       "link": "https://jank-lang.org/",
+      "is_new": false
+    },
+    {
+      "title": "Quad9 to exit France",
+      "link": "https://quad9.net/news/blog/au-revoir-france/",
+      "is_new": false
+    },
+    {
+      "title": "I Did This Without Your Knowledge",
+      "link": "https://www.lesswrong.com/posts/3375SZNGA5dKHQMie/i-did-this-without-your-knowledge",
       "is_new": true
     },
     {
-      "title": "What Is Gridifcation",
-      "link": "https://musicalform.substack.com/p/what-is-gridifcation",
+      "title": "LLMs are making formal software verification feasible at a much larger scale",
+      "link": "https://www.anthropic.com/research/formal-verification",
       "is_new": false
     },
     {
-      "title": "Hedra is a 3D open world game I wrote from scratch while in highschool",
-      "link": "https://github.com/maxilevi/project-hedra/tree/pre-ai",
+      "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
+      "link": "https://simedw.com/2026/10/21/world-model-terminal/",
+      "is_new": true
+    },
+    {
+      "title": "I reverse engineered a board game",
+      "link": "https://wuemeli.com/blog/reversing-hitster-game/",
+      "is_new": true
+    },
+    {
+      "title": "Rule 30: one black cell",
+      "link": "https://www.wolframcollatzmahler.com/rule30/index.html",
+      "is_new": true
+    },
+    {
+      "title": "Tell HN: I unknowingly broke the PHP RCE embargo. I am sorry.",
+      "link": "https://news.ycombinator.com/item?id=50193416",
       "is_new": false
+    },
+    {
+      "title": "Show HN: Making a smart TV dumb and then smart",
+      "link": "https://github.com/anubhavmalhotra/r2d2-tv",
+      "is_new": true
+    },
+    {
+      "title": "Color Names",
+      "link": "https://names.color.pizza",
+      "is_new": true
+    },
+    {
+      "title": "Xbox wants you to pay 24 to 40 cents per hour to stream games you bought",
+      "link": "https://arstechnica.com/gaming/2026/10/xbox-wants-you-to-pay-24-to-40-cents-per-hour-to-stream-games-you-already-bought/",
+      "is_new": false
+    },
+    {
+      "title": "Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?",
+      "link": "https://news.ycombinator.com/item?id=50200997",
+      "is_new": true
+    },
+    {
+      "title": "We have traits at home",
+      "link": "https://www.axelmagn.com/blog/202610-zig-traits/",
+      "is_new": true
     },
     {
       "title": "eMudhra to exit global SSL/TLS certificate business",
@@ -83,23 +143,45 @@
       "is_new": false
     },
     {
-      "title": "Xbox wants you to pay 24 to 40 cents per hour to stream games you bought",
-      "link": "https://arstechnica.com/gaming/2026/10/xbox-wants-you-to-pay-24-to-40-cents-per-hour-to-stream-games-you-already-bought/",
+      "title": "Hedra is a 3D open world game I wrote from scratch while in highschool",
+      "link": "https://github.com/maxilevi/project-hedra/tree/pre-ai",
       "is_new": false
     },
     {
-      "title": "Tell HN: I unknowingly broke the PHP RCE embargo. I am sorry.",
-      "link": "https://news.ycombinator.com/item?id=50193416",
+      "title": "Objects, attributes, maps, oh my",
+      "link": "https://bernsteinbear.com/blog/object-shapes/",
+      "is_new": true
+    }
+  ],
+  "removed": [
+    {
+      "title": "Mortality Among People with Attention-Deficit/Hyperactivity Disorder",
+      "link": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2855472",
+      "is_new": true
+    },
+    {
+      "title": "Woman faces six years in prison over Cash App account she never opened",
+      "link": "https://www.techspot.com/news/114296-woman-spends-three-nights-jail-faces-six-years.html",
+      "is_new": false
+    },
+    {
+      "title": "The Secret Life of Circuits is now in stock everywhere",
+      "link": "https://blog.coredump.cx/p/the-secret-life-of-circuits-is-now",
+      "is_new": true
+    },
+    {
+      "title": "AI compute is the new oil–and needs a new market",
+      "link": "https://www.economist.com/finance-and-economics/2026/10/22/ai-compute-is-the-new-oil-and-needs-a-new-market",
+      "is_new": true
+    },
+    {
+      "title": "What Is Gridifcation",
+      "link": "https://musicalform.substack.com/p/what-is-gridifcation",
       "is_new": false
     },
     {
       "title": "Mapping the Northern Sky",
       "link": "https://www.maps.com/star-map-charts-stars-and-constellations-of-northern-hemisphere/",
-      "is_new": true
-    },
-    {
-      "title": "The foolishness of \"natural language programming\" (1978)",
-      "link": "https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html",
       "is_new": true
     },
     {
@@ -150,48 +232,6 @@
     {
       "title": "What’s getting pwned right now",
       "link": "https://pwn.watch/",
-      "is_new": false
-    }
-  ],
-  "removed": [
-    {
-      "title": "Jared Kushner Hacked Phone Reveals Secret Negotiations, Millions in Transactions",
-      "link": "https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: UI micro interactions prompts for AI",
-      "link": "https://www.typeui.sh/micro-interactions",
-      "is_new": false
-    },
-    {
-      "title": "Mini brain organoids ‘reading’ Braille key step towards biohybrid computing",
-      "link": "https://www.frontiersin.org/news/2026/10/16/mini-brain-organoids-reading-braille-biohybrid-computing-frontiers-artificial-intelligence",
-      "is_new": false
-    },
-    {
-      "title": "Show HN: Replacing CAPTCHAs with adaptive proof-of-work in WordPress",
-      "link": "https://wordpress.org/plugins/gdpr-compliant-recaptcha-for-all-forms/",
-      "is_new": true
-    },
-    {
-      "title": "The phenomena that brighten dawn and dusk (2016)",
-      "link": "https://www.colorado.edu/asmagazine-archive/node/2039",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: CATT 0.2.1: Test agents/services against a Muse/Instinct-alike, in CI",
-      "link": "https://github.com/Coverage-Cat/consumer-agent-testing-tool",
-      "is_new": true
-    },
-    {
-      "title": "AI analysis of CT scans finds 42.9% of patients have coronary inflammation",
-      "link": "https://www.biograph.com/newsroom/biograph-completes-first-u.s.-study-with-caristo-diagnostics%E2%80%99-ai-powered-coronary-inflammation-detection-finding-risk-in-over-42-of-asymptomatic-patients",
-      "is_new": false
-    },
-    {
-      "title": "Show HN: Turn regular JavaScript into a neural net",
-      "link": "https://chenglou.me/handwired/",
       "is_new": false
     }
   ]
