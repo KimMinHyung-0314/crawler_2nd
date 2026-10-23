@@ -1,7 +1,159 @@
 {
-  "crawled_at": "2026-10-23 23:38",
-  "prev_crawled_at": "2026-10-23 18:03",
+  "crawled_at": "2026-10-24 03:52",
+  "prev_crawled_at": "2026-10-23 23:38",
   "items": [
+    {
+      "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
+      "link": "https://www.kimi.ai/blog/kimi-k3-1-pro",
+      "is_new": true
+    },
+    {
+      "title": "Today, we hacked what we'd set out to hack: the iPhone",
+      "link": "https://blog.calif.io/p/iphone",
+      "is_new": true
+    },
+    {
+      "title": "Apple Music 404 Not Found",
+      "link": "https://music.apple.com/this-url-doesnt-exist",
+      "is_new": true
+    },
+    {
+      "title": "UUIDv7 doesn't have the properties you think it does",
+      "link": "https://alexsci.com/blog/uuidv7-is-weird/",
+      "is_new": true
+    },
+    {
+      "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
+      "link": "https://edjefferson.com/localwiki/",
+      "is_new": false
+    },
+    {
+      "title": "The Real Kevin Bacon",
+      "link": "https://pudding.cool/2026/10/kevin-bacon/",
+      "is_new": true
+    },
+    {
+      "title": "The Missed Opportunities of Sonic 06",
+      "link": "https://isaacmarovitz.com/posts/sonic-06/",
+      "is_new": true
+    },
+    {
+      "title": "I turned my TV into a Game Boy Color with a Pokemon town as my home screen",
+      "link": "https://twitter.com/robbietilton/status/2111936458923851923",
+      "is_new": true
+    },
+    {
+      "title": "Canadians are running out of time to oppose Bill C-22",
+      "link": "https://www.eff.org/deeplinks/2026/10/canadians-are-running-out-time-oppose-dangerous-c-22-surveillance-bill",
+      "is_new": true
+    },
+    {
+      "title": "Time Nuts (2005)",
+      "link": "http://leapsecond.com/time-nuts.htm",
+      "is_new": true
+    },
+    {
+      "title": "How Is Music Possible",
+      "link": "https://www.henrikkarlsson.xyz/p/music",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: Impossible Machines: declaratively program the physical world",
+      "link": "https://www.impossiblemachines.xyz",
+      "is_new": true
+    },
+    {
+      "title": "LISP Comes of Age (1980)",
+      "link": "https://microship.com/lisp-comes-of-age/",
+      "is_new": true
+    },
+    {
+      "title": "Total Historian",
+      "link": "https://www.theideasletter.org/essay/total-historian/",
+      "is_new": true
+    },
+    {
+      "title": "Docker is weird",
+      "link": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
+      "is_new": false
+    },
+    {
+      "title": "Animations for System Builders",
+      "link": "https://brooker.co.za/blog/2026/10/23/animations.html",
+      "is_new": true
+    },
+    {
+      "title": "Can we replace a $150k Looker with a bucket of HTML files?",
+      "link": "https://david.lequin.dev/blog/bi-software-is-dead/",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: Swurf – Swipe through the real web",
+      "link": "https://swurf.org/",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: Searching for optimal strategies in a puzzle game with chance (Drop7)",
+      "link": "https://drop7.dev",
+      "is_new": true
+    },
+    {
+      "title": "Gemma-4-26B-A4B with 39-69% less thinking at same accuracy",
+      "link": "https://bottlecapai.com/post/thinkingcap-gemma-4-26b/",
+      "is_new": true
+    },
+    {
+      "title": "The foolishness of \"natural language programming\" (1978)",
+      "link": "https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html",
+      "is_new": false
+    },
+    {
+      "title": "Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?",
+      "link": "https://news.ycombinator.com/item?id=50200997",
+      "is_new": false
+    },
+    {
+      "title": "Job loss and cortisone mania",
+      "link": "https://tilschuenemann.de/job-loss-cortisone-mania",
+      "is_new": false
+    },
+    {
+      "title": "Air Purifiers as White Noise Machines",
+      "link": "https://www.jefftk.com/p/air-purifiers-as-white-noise-machines",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: OnKey – I'm a bad singer, so I built an app to show where I'm off-key",
+      "link": "https://github.com/dsmurrell/onkey",
+      "is_new": false
+    },
+    {
+      "title": "The alien space of science: Coherent but cognitively unavailable directions",
+      "link": "https://arxiv.org/abs/2603.01092",
+      "is_new": false
+    },
+    {
+      "title": "We have traits at home",
+      "link": "https://www.axelmagn.com/blog/202610-zig-traits/",
+      "is_new": true
+    },
+    {
+      "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
+      "link": "https://github.com/NVIDIA/OpenShell",
+      "is_new": false
+    },
+    {
+      "title": "How does Fable 5.1 hide messages in images?",
+      "link": "https://www.lesswrong.com/posts/WHEQps5PK8LrrcTAb/how-does-fable-5-1-hide-messages-in-images",
+      "is_new": false
+    },
+    {
+      "title": "LLMs are making formal software verification feasible at a much larger scale",
+      "link": "https://www.anthropic.com/research/formal-verification",
+      "is_new": true
+    }
+  ],
+  "removed": [
     {
       "title": "Investor-owned utilities charge 23% more for electricity than public providers",
       "link": "https://www.kadoa.com/energy-prices/insights/investor-owned-utilities",
@@ -16,11 +168,6 @@
       "title": "Phone Is About to Stop Being Yours: 70 Days Until Lockdown",
       "link": "https://keepandroidopen.org/",
       "is_new": true
-    },
-    {
-      "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
-      "link": "https://edjefferson.com/localwiki/",
-      "is_new": false
     },
     {
       "title": "Shitter – A Nitter Fork",
@@ -43,11 +190,6 @@
       "is_new": true
     },
     {
-      "title": "Docker is weird",
-      "link": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
-      "is_new": false
-    },
-    {
       "title": "Hacker leaks 281 GB of data from Germany's far-right AfD party",
       "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/hacker-leaks-281-gb-data-germany-afd",
       "is_new": true
@@ -55,21 +197,6 @@
     {
       "title": "Dutch government had hacked into Jared Kushner's phone",
       "link": "https://twitter.com/jaredkushner/status/2113376217415958767",
-      "is_new": true
-    },
-    {
-      "title": "The foolishness of \"natural language programming\" (1978)",
-      "link": "https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html",
-      "is_new": false
-    },
-    {
-      "title": "The alien space of science: Coherent but cognitively unavailable directions",
-      "link": "https://arxiv.org/abs/2603.01092",
-      "is_new": false
-    },
-    {
-      "title": "Job Loss and Cortisone Mania",
-      "link": "https://tilschuenemann.de/job-loss-cortisone-mania",
       "is_new": true
     },
     {
@@ -83,24 +210,9 @@
       "is_new": false
     },
     {
-      "title": "How does Fable 5.1 hide messages in images?",
-      "link": "https://www.lesswrong.com/posts/WHEQps5PK8LrrcTAb/how-does-fable-5-1-hide-messages-in-images",
-      "is_new": false
-    },
-    {
-      "title": "Show HN: OnKey – I'm a bad singer, so I built an app to show where I'm off-key",
-      "link": "https://github.com/dsmurrell/onkey",
-      "is_new": false
-    },
-    {
       "title": "Is this the new cyber normal?",
       "link": "https://drew.silcock.dev/blog/is-this-the-new-cyber-normal/",
       "is_new": true
-    },
-    {
-      "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
-      "link": "https://github.com/NVIDIA/OpenShell",
-      "is_new": false
     },
     {
       "title": "The HTML-in-Canvas API origin trial",
@@ -110,11 +222,6 @@
     {
       "title": "Run full iOS 16.5 firmware on Android Devices",
       "link": "https://github.com/oosexgang/hackios-xnu-kernel",
-      "is_new": false
-    },
-    {
-      "title": "Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?",
-      "link": "https://news.ycombinator.com/item?id=50200997",
       "is_new": false
     },
     {
@@ -151,68 +258,6 @@
       "title": "Xbox wants you to pay 24 to 40 cents per hour to stream games you bought",
       "link": "https://arstechnica.com/gaming/2026/10/xbox-wants-you-to-pay-24-to-40-cents-per-hour-to-stream-games-you-already-bought/",
       "is_new": false
-    }
-  ],
-  "removed": [
-    {
-      "title": "A lost Schrödinger manuscript reveals a twist in quantum physics",
-      "link": "https://www.sciencealert.com/a-lost-schrdinger-manuscript-reveals-a-surprising-twist-in-quantum-physics",
-      "is_new": true
-    },
-    {
-      "title": "Jank – The native Clojure dialect with seamless C++ interop",
-      "link": "https://jank-lang.org/",
-      "is_new": false
-    },
-    {
-      "title": "I Did This Without Your Knowledge",
-      "link": "https://www.lesswrong.com/posts/3375SZNGA5dKHQMie/i-did-this-without-your-knowledge",
-      "is_new": true
-    },
-    {
-      "title": "LLMs are making formal software verification feasible at a much larger scale",
-      "link": "https://www.anthropic.com/research/formal-verification",
-      "is_new": false
-    },
-    {
-      "title": "I reverse engineered a board game",
-      "link": "https://wuemeli.com/blog/reversing-hitster-game/",
-      "is_new": true
-    },
-    {
-      "title": "Rule 30: one black cell",
-      "link": "https://www.wolframcollatzmahler.com/rule30/index.html",
-      "is_new": true
-    },
-    {
-      "title": "Color Names",
-      "link": "https://names.color.pizza",
-      "is_new": true
-    },
-    {
-      "title": "We have traits at home",
-      "link": "https://www.axelmagn.com/blog/202610-zig-traits/",
-      "is_new": true
-    },
-    {
-      "title": "eMudhra to exit global SSL/TLS certificate business",
-      "link": "https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business",
-      "is_new": false
-    },
-    {
-      "title": "Railpass",
-      "link": "https://train.samismith.com/",
-      "is_new": false
-    },
-    {
-      "title": "Hedra is a 3D open world game I wrote from scratch while in highschool",
-      "link": "https://github.com/maxilevi/project-hedra/tree/pre-ai",
-      "is_new": false
-    },
-    {
-      "title": "Objects, attributes, maps, oh my",
-      "link": "https://bernsteinbear.com/blog/object-shapes/",
-      "is_new": true
     }
   ]
 }
