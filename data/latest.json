@@ -1,15 +1,45 @@
 {
-  "crawled_at": "2026-10-24 14:21",
-  "prev_crawled_at": "2026-10-24 09:13",
+  "crawled_at": "2026-10-24 19:13",
+  "prev_crawled_at": "2026-10-24 14:21",
   "items": [
+    {
+      "title": "I Don't Understand Quantum Physics",
+      "link": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
+      "is_new": true
+    },
+    {
+      "title": "OBS Studio 33",
+      "link": "https://github.com/obsproject/obs-studio/releases/tag/33.0.0",
+      "is_new": true
+    },
     {
       "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
       "link": "https://www.kimi.ai/blog/kimi-k3-1-pro",
       "is_new": false
     },
     {
+      "title": "Physicists trap a single antimatter particle for a month",
+      "link": "https://www.scientificamerican.com/article/physicists-trap-a-single-antimatter-particle-for-a-month/",
+      "is_new": true
+    },
+    {
+      "title": "Today, we hacked what we'd set out to hack: the iPhone",
+      "link": "https://blog.calif.io/p/iphone",
+      "is_new": false
+    },
+    {
       "title": "Twelve years of distributed SQLite",
       "link": "https://philipotoole.com/twelve-years-of-distributed-sqlite/",
+      "is_new": false
+    },
+    {
+      "title": "How close can pure functional programming get to C?",
+      "link": "https://rtfeldman.com/fp-vs-c",
+      "is_new": false
+    },
+    {
+      "title": "ThinkRail from JetBrains",
+      "link": "https://thinkrail.ai/",
       "is_new": true
     },
     {
@@ -18,14 +48,29 @@
       "is_new": false
     },
     {
-      "title": "How close can pure functional programming get to C?",
-      "link": "https://rtfeldman.com/fp-vs-c",
-      "is_new": true
-    },
-    {
       "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
       "link": "https://edjefferson.com/localwiki/",
       "is_new": false
+    },
+    {
+      "title": "A practical guide to AI image generation, from diffusion to agents",
+      "link": "https://danielball.com/notes/ai_image_generation.html",
+      "is_new": false
+    },
+    {
+      "title": "Around a dozen banking apps began specifically permitting GrapheneOS",
+      "link": "https://grapheneos.social/@GrapheneOS/117492375462459244",
+      "is_new": true
+    },
+    {
+      "title": "Bringing uv and ty together",
+      "link": "https://astral.sh/blog/uv-ty-integration",
+      "is_new": false
+    },
+    {
+      "title": "How to run a city builder on 16 MHz",
+      "link": "https://larstofus.com/2025/11/16/how-to-run-a-city-builder-on-12-5-mhz/",
+      "is_new": true
     },
     {
       "title": "Dessa: Conversation Model trained only on speech",
@@ -33,28 +78,28 @@
       "is_new": false
     },
     {
+      "title": "Apple Security Research Device",
+      "link": "https://security.apple.com/research-device/",
+      "is_new": true
+    },
+    {
       "title": "CVE Tracker",
       "link": "https://cve.0xosprey.com/",
       "is_new": false
     },
     {
-      "title": "Today, we hacked what we'd set out to hack: the iPhone",
-      "link": "https://blog.calif.io/p/iphone",
+      "title": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
+      "link": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/",
+      "is_new": true
+    },
+    {
+      "title": "Canadians are running out of time to oppose Bill C-22",
+      "link": "https://www.eff.org/deeplinks/2026/10/canadians-are-running-out-time-oppose-dangerous-c-22-surveillance-bill",
       "is_new": false
     },
     {
-      "title": "Bringing uv and ty together",
-      "link": "https://astral.sh/blog/uv-ty-integration",
-      "is_new": true
-    },
-    {
-      "title": "One Man's Pan Am 747 Replica [video]",
-      "link": "https://www.youtube.com/watch?v=vAFwHGGfPz4",
-      "is_new": true
-    },
-    {
-      "title": "The Quake Fan who built the map editor everybody uses",
-      "link": "https://funcarena.com/articles/the-quake-fan-who-built-the-map-editor-everybody-uses",
+      "title": "The Best Monopoly Strategy, Tested on 300M Games [video]",
+      "link": "https://www.youtube.com/watch?v=S_2eVAaw1UM",
       "is_new": true
     },
     {
@@ -63,13 +108,38 @@
       "is_new": false
     },
     {
-      "title": "Canadians are running out of time to oppose Bill C-22",
-      "link": "https://www.eff.org/deeplinks/2026/10/canadians-are-running-out-time-oppose-dangerous-c-22-surveillance-bill",
-      "is_new": false
+      "title": "How Block Blast harvests its players for ad money",
+      "link": "https://ayoships.com/breakdowns/block-blast",
+      "is_new": true
+    },
+    {
+      "title": "U-2 spy plane makes rare appearance in Bay Area flyover",
+      "link": "https://www.sfgate.com/bayarea/article/government-spy-plane-49ers-22485781.php",
+      "is_new": true
     },
     {
       "title": "C vs. C#: racing VLC's Gaussian blur",
       "link": "https://martinfinkel.com/blog/gaussian-blur-c-vs-csharp/",
+      "is_new": false
+    },
+    {
+      "title": "The Quake Fan who built the map editor everybody uses",
+      "link": "https://funcarena.com/articles/the-quake-fan-who-built-the-map-editor-everybody-uses",
+      "is_new": false
+    },
+    {
+      "title": "One Man's Pan Am 747 Replica [video]",
+      "link": "https://www.youtube.com/watch?v=vAFwHGGfPz4",
+      "is_new": false
+    },
+    {
+      "title": "Air Purifiers as White Noise Machines",
+      "link": "https://www.jefftk.com/p/air-purifiers-as-white-noise-machines",
+      "is_new": false
+    },
+    {
+      "title": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",
+      "link": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497",
       "is_new": true
     },
     {
@@ -78,18 +148,15 @@
       "is_new": false
     },
     {
+      "title": "Rise of collagen-eating microbes may help explain gaps in the fossil record",
+      "link": "https://www.cam.ac.uk/research/news/rise-of-collagen-eating-microbes-may-help-explain-gaps-in-the-fossil-record",
+      "is_new": false
+    }
+  ],
+  "removed": [
+    {
       "title": "The past, present, and future share a show floor at Pinball Expo 2026",
       "link": "https://arstechnica.com/gaming/2026/10/the-past-present-and-future-share-a-show-floor-at-pinball-expo-2026/",
-      "is_new": true
-    },
-    {
-      "title": "Air Purifiers as White Noise Machines",
-      "link": "https://www.jefftk.com/p/air-purifiers-as-white-noise-machines",
-      "is_new": false
-    },
-    {
-      "title": "A practical guide to AI image generation, from diffusion to agents",
-      "link": "https://danielball.com/notes/ai_image_generation.html",
       "is_new": true
     },
     {
@@ -105,11 +172,6 @@
     {
       "title": "A Bicycle Journey Across Brazil to Find a Vanishing Savanna",
       "link": "https://e360.yale.edu/features/2026-film-contest-second-place-cerrado",
-      "is_new": false
-    },
-    {
-      "title": "Rise of collagen-eating microbes may help explain gaps in the fossil record",
-      "link": "https://www.cam.ac.uk/research/news/rise-of-collagen-eating-microbes-may-help-explain-gaps-in-the-fossil-record",
       "is_new": false
     },
     {
@@ -151,63 +213,6 @@
       "title": "Securing our frontier model training environment",
       "link": "https://openai.com/index/securing-our-frontier-model-training-environment/",
       "is_new": false
-    }
-  ],
-  "removed": [
-    {
-      "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
-      "link": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
-      "is_new": false
-    },
-    {
-      "title": "No Source Code? No Problem",
-      "link": "https://queue.acm.org/doi/10.1145/945131.945155",
-      "is_new": false
-    },
-    {
-      "title": "Show HN: Impossible Machines: declaratively program the physical world",
-      "link": "https://www.impossiblemachines.xyz",
-      "is_new": false
-    },
-    {
-      "title": "Show HN: Swurf – Swipe through the real web",
-      "link": "https://swurf.org/",
-      "is_new": false
-    },
-    {
-      "title": "LISP Comes of Age (1980)",
-      "link": "https://microship.com/lisp-comes-of-age/",
-      "is_new": false
-    },
-    {
-      "title": "Reforming English Spelling",
-      "link": "https://blog.oup.com/2026/10/reforming-english-spelling/",
-      "is_new": true
-    },
-    {
-      "title": "The Missed Opportunities of Sonic 06 (2025)",
-      "link": "https://isaacmarovitz.com/posts/sonic-06/",
-      "is_new": false
-    },
-    {
-      "title": "We are all living inside of an obscure sci-fi film from 1970",
-      "link": "https://thanksforthatjim.bearblog.dev/we-are-all-living-inside-of-an-obscure-sci-fi-film-from-1970/",
-      "is_new": false
-    },
-    {
-      "title": "German court calls Google aerial imagery 'spying'",
-      "link": "https://www.courthousenews.com/german-court-calls-google-aerial-imagery-spying/",
-      "is_new": true
-    },
-    {
-      "title": "I turned my TV into a Game Boy Color with a Pokemon town as my home screen",
-      "link": "https://twitter.com/robbietilton/status/2111936458923851923",
-      "is_new": false
-    },
-    {
-      "title": "Caffeine-like utility to keep you MacBook awake with its lid closed",
-      "link": "https://github.com/clashman/caffeinate-plus",
-      "is_new": true
     }
   ]
 }
