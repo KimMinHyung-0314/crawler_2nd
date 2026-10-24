@@ -1,11 +1,21 @@
 {
-  "crawled_at": "2026-10-25 05:08",
-  "prev_crawled_at": "2026-10-25 02:48",
+  "crawled_at": "2026-10-25 07:51",
+  "prev_crawled_at": "2026-10-25 05:08",
   "items": [
     {
-      "title": "No Signs of AI Payoff Outside the Tech Sector",
-      "link": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
+      "title": "Show HN: Steal My Bitcoin",
+      "link": "https://stealmybitcoin.com/",
       "is_new": true
+    },
+    {
+      "title": "Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz",
+      "link": "https://missileer.watch",
+      "is_new": false
+    },
+    {
+      "title": "The Goose Programming Language",
+      "link": "https://aardappel.github.io/goose/",
+      "is_new": false
     },
     {
       "title": "Roku developer repositories moved from GitHub to GitLab",
@@ -13,28 +23,18 @@
       "is_new": false
     },
     {
-      "title": "The Goose Programming Language",
-      "link": "https://aardappel.github.io/goose/",
-      "is_new": true
-    },
-    {
-      "title": "Dream-1",
-      "link": "https://dreamlabs.ai/research/dream-1/",
-      "is_new": true
-    },
-    {
-      "title": "John Carmack on the Goose Language: multiple data stacks and relative references",
-      "link": "https://twitter.com/ID_AA_Carmack/status/2113704269274636568",
-      "is_new": true
-    },
-    {
       "title": "The St. Helena 5 pence coin shows Jonathan, a roughly 190 year old tortoise",
       "link": "https://de.numista.com/9866",
       "is_new": false
     },
     {
-      "title": "Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz",
-      "link": "https://missileer.watch",
+      "title": "We should be more ambitious with the software we build",
+      "link": "https://danluu.com/ambitious/",
+      "is_new": true
+    },
+    {
+      "title": "SpeedCrunch 1.1",
+      "link": "https://www.speedcrunch.org/",
       "is_new": true
     },
     {
@@ -48,23 +48,18 @@
       "is_new": false
     },
     {
-      "title": "Danish Government silently drops plan to dump MS Office",
-      "link": "https://www.computerworld.dk/art/297226/digitaliseringsministeriet-har-i-al-stilhed-droppet-stort-anlagt-forsoeg-med-open-source-alternativ-til-microsoft",
-      "is_new": true
-    },
-    {
       "title": "I don't understand quantum physics (2018)",
       "link": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
       "is_new": false
     },
     {
-      "title": "Why is AI generated language so hard to understand?",
-      "link": "https://arxiv.org/abs/2610.29162",
+      "title": "Small Programs and Languages",
+      "link": "https://ratfactor.com/cards/pl-small",
       "is_new": true
     },
     {
-      "title": "OBS Studio 33",
-      "link": "https://github.com/obsproject/obs-studio/releases/tag/33.0.0",
+      "title": "No signs of AI payoff outside the tech sector",
+      "link": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
       "is_new": false
     },
     {
@@ -73,8 +68,13 @@
       "is_new": false
     },
     {
-      "title": "Symbolic Learning in Python and Julia",
-      "link": "https://github.com/astroautomata/PySR",
+      "title": "The Importance of Limitations for Creativity and Learning",
+      "link": "https://ratfactor.com/cards/limitations",
+      "is_new": true
+    },
+    {
+      "title": "Full Disk Encryption on Fedora with TPM2",
+      "link": "https://www.apalrd.net/posts/2026/ent_luks/",
       "is_new": true
     },
     {
@@ -83,28 +83,13 @@
       "is_new": false
     },
     {
-      "title": "TornadoVM 7 Enables GPU-Native Workloads from Java Applications",
-      "link": "https://www.infoq.com/news/2026/10/tornadovm-7-gpu/",
-      "is_new": false
-    },
-    {
-      "title": "PHP Foundation 'under-funded' with one full-time staff member, director says",
-      "link": "https://www.reuters.com/technology/php-foundation-under-funded-with-one-full-time-staff-member-director-says-2026-10-23/",
-      "is_new": true
-    },
-    {
       "title": "GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards",
       "link": "https://github.com/Zagitta/gpu-unlock",
       "is_new": false
     },
     {
-      "title": "Building a multiplayer FPS that runs in the browser, and you can play it now",
-      "link": "https://semperplay.com/news/operation-raven-origins-and-plan/",
-      "is_new": true
-    },
-    {
-      "title": "Zac-OS-9: The classic Platinum desktop, reborn for modern PCs",
-      "link": "https://sourceforge.net/projects/zac-os-9/",
+      "title": "Making a VGA Driver in SystemVerilog",
+      "link": "https://lukaswerner.com/post/2026-10-20@bottom-up-vga",
       "is_new": true
     },
     {
@@ -113,19 +98,86 @@
       "is_new": false
     },
     {
+      "title": "TornadoVM 7 Enables GPU-Native Workloads from Java Applications",
+      "link": "https://www.infoq.com/news/2026/10/tornadovm-7-gpu/",
+      "is_new": false
+    },
+    {
+      "title": "Symbolic Learning in Python and Julia",
+      "link": "https://github.com/astroautomata/PySR",
+      "is_new": false
+    },
+    {
+      "title": "Zac-OS-9: The classic Platinum desktop, reborn for modern PCs",
+      "link": "https://sourceforge.net/projects/zac-os-9/",
+      "is_new": false
+    },
+    {
       "title": "Twelve years of distributed SQLite",
       "link": "https://philipotoole.com/twelve-years-of-distributed-sqlite/",
       "is_new": false
     },
     {
+      "title": "Dream-1",
+      "link": "https://dreamlabs.ai/research/dream-1/",
+      "is_new": false
+    },
+    {
       "title": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
       "link": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups/",
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Cecilia Berdichevsky, Clementina expert (1961)",
       "link": "https://en.wikipedia.org/wiki/Cecilia_Berdichevsky",
       "is_new": false
+    },
+    {
+      "title": "Bringing uv and ty together",
+      "link": "https://astral.sh/blog/uv-ty-integration",
+      "is_new": false
+    },
+    {
+      "title": "How close can pure functional programming get to C?",
+      "link": "https://rtfeldman.com/fp-vs-c",
+      "is_new": false
+    },
+    {
+      "title": "Why is AI generated language so hard to understand?",
+      "link": "https://arxiv.org/abs/2610.29162",
+      "is_new": false
+    },
+    {
+      "title": "Bbtree: Fastest Ordered Map",
+      "link": "https://bbtree.xiangpeng.systems/post/",
+      "is_new": true
+    }
+  ],
+  "removed": [
+    {
+      "title": "John Carmack on the Goose Language: multiple data stacks and relative references",
+      "link": "https://twitter.com/ID_AA_Carmack/status/2113704269274636568",
+      "is_new": true
+    },
+    {
+      "title": "Danish Government silently drops plan to dump MS Office",
+      "link": "https://www.computerworld.dk/art/297226/digitaliseringsministeriet-har-i-al-stilhed-droppet-stort-anlagt-forsoeg-med-open-source-alternativ-til-microsoft",
+      "is_new": true
+    },
+    {
+      "title": "OBS Studio 33",
+      "link": "https://github.com/obsproject/obs-studio/releases/tag/33.0.0",
+      "is_new": false
+    },
+    {
+      "title": "PHP Foundation 'under-funded' with one full-time staff member, director says",
+      "link": "https://www.reuters.com/technology/php-foundation-under-funded-with-one-full-time-staff-member-director-says-2026-10-23/",
+      "is_new": true
+    },
+    {
+      "title": "Building a multiplayer FPS that runs in the browser, and you can play it now",
+      "link": "https://semperplay.com/news/operation-raven-origins-and-plan/",
+      "is_new": true
     },
     {
       "title": "Apple Music 404 Not Found",
@@ -138,86 +190,9 @@
       "is_new": false
     },
     {
-      "title": "How close can pure functional programming get to C?",
-      "link": "https://rtfeldman.com/fp-vs-c",
-      "is_new": false
-    },
-    {
-      "title": "Bringing uv and ty together",
-      "link": "https://astral.sh/blog/uv-ty-integration",
-      "is_new": false
-    },
-    {
       "title": "Glymphatic clearance to alleviate brain edema and Alzheimer's pathology in mice",
       "link": "https://www.science.org/doi/10.1126/sciadv.aeh8870",
       "is_new": true
-    }
-  ],
-  "removed": [
-    {
-      "title": "Around a dozen banking apps began specifically permitting GrapheneOS",
-      "link": "https://grapheneos.social/@GrapheneOS/117492375462459244",
-      "is_new": false
-    },
-    {
-      "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
-      "link": "https://www.kimi.ai/blog/kimi-k3-1-pro",
-      "is_new": false
-    },
-    {
-      "title": "Today, we hacked what we'd set out to hack: the iPhone",
-      "link": "https://blog.calif.io/p/iphone",
-      "is_new": false
-    },
-    {
-      "title": "Appreciating the beauty of all your body's scars and scratches",
-      "link": "https://1000awesomethings.com/2026/10/08/576-appreciating-the-beauty-of-all-your-bodys-scars-and-scratches-4/",
-      "is_new": false
-    },
-    {
-      "title": "Parsing EDIFACT in Python with syntax trees",
-      "link": "https://github.com/AmadeusITGroup/Edison",
-      "is_new": true
-    },
-    {
-      "title": "A practical guide to AI image generation, from diffusion to agents",
-      "link": "https://danielball.com/notes/ai_image_generation.html",
-      "is_new": false
-    },
-    {
-      "title": "How to run a city builder on 16 MHz",
-      "link": "https://larstofus.com/2025/11/16/how-to-run-a-city-builder-on-12-5-mhz/",
-      "is_new": false
-    },
-    {
-      "title": "Dessa: Conversation Model trained only on speech",
-      "link": "https://block.xyz/dessa",
-      "is_new": false
-    },
-    {
-      "title": "Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
-      "link": "https://gitlab.com/c4psu13/mali-pagecache-root",
-      "is_new": false
-    },
-    {
-      "title": "Apple Security Research Device",
-      "link": "https://security.apple.com/research-device/",
-      "is_new": false
-    },
-    {
-      "title": "Root shell on Samsung TV",
-      "link": "https://twitter.com/log4j/status/2113014142600953868?s=46",
-      "is_new": true
-    },
-    {
-      "title": "The Real Kevin Bacon",
-      "link": "https://pudding.cool/2026/10/kevin-bacon/",
-      "is_new": false
-    },
-    {
-      "title": "CVE Tracker",
-      "link": "https://cve.0xosprey.com/",
-      "is_new": false
     }
   ]
 }
