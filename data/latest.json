@@ -1,6 +1,6 @@
 {
-  "crawled_at": "2026-10-24 06:49",
-  "prev_crawled_at": "2026-10-24 03:52",
+  "crawled_at": "2026-10-24 09:13",
+  "prev_crawled_at": "2026-10-24 06:49",
   "items": [
     {
       "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
@@ -13,8 +13,8 @@
       "is_new": false
     },
     {
-      "title": "Dessa: the most authentic full-duplex speech model ever built",
-      "link": "https://block.xyz/dessa",
+      "title": "CVE Tracker",
+      "link": "https://cve.0xosprey.com/",
       "is_new": true
     },
     {
@@ -23,9 +23,9 @@
       "is_new": false
     },
     {
-      "title": "We are all living inside of an obscure sci-fi film from 1970",
-      "link": "https://thanksforthatjim.bearblog.dev/we-are-all-living-inside-of-an-obscure-sci-fi-film-from-1970/",
-      "is_new": true
+      "title": "Dessa: the most authentic full-duplex speech model ever built",
+      "link": "https://block.xyz/dessa",
+      "is_new": false
     },
     {
       "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
@@ -38,34 +38,59 @@
       "is_new": false
     },
     {
-      "title": "OpenAI: Securing our frontier model training environment",
-      "link": "https://openai.com/index/securing-our-frontier-model-training-environment/",
-      "is_new": true
-    },
-    {
       "title": "Canadians are running out of time to oppose Bill C-22",
       "link": "https://www.eff.org/deeplinks/2026/10/canadians-are-running-out-time-oppose-dangerous-c-22-surveillance-bill",
       "is_new": false
     },
     {
-      "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
-      "link": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
+      "title": "Evolving Threat: http2shell is an RCE in node, Python, and more",
+      "link": "https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8",
       "is_new": true
     },
     {
-      "title": "UUIDv7 doesn't have the properties you think it does",
-      "link": "https://alexsci.com/blog/uuidv7-is-weird/",
+      "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
+      "link": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
       "is_new": false
     },
     {
-      "title": "A whirlwind tour of systemd-nspawn containers",
-      "link": "https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/",
+      "title": "Show HN: Corgi, a helpful {agent, terminal} multiplexer",
+      "link": "https://corgi.computer/",
       "is_new": true
     },
     {
       "title": "Rune 1.3: adds TypeScript, a Helix editor, Kitty graphics and OSC-7501",
       "link": "https://rune.build/blog/rune-1-3-release",
+      "is_new": false
+    },
+    {
+      "title": "No Source Code? No Problem",
+      "link": "https://queue.acm.org/doi/10.1145/945131.945155",
+      "is_new": false
+    },
+    {
+      "title": "A whirlwind tour of systemd-nspawn containers",
+      "link": "https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/",
+      "is_new": false
+    },
+    {
+      "title": "Air Purifiers as White Noise Machines",
+      "link": "https://www.jefftk.com/p/air-purifiers-as-white-noise-machines",
       "is_new": true
+    },
+    {
+      "title": "A Bicycle Journey Across Brazil to Find a Vanishing Savanna",
+      "link": "https://e360.yale.edu/features/2026-film-contest-second-place-cerrado",
+      "is_new": true
+    },
+    {
+      "title": "Securing our frontier model training environment",
+      "link": "https://openai.com/index/securing-our-frontier-model-training-environment/",
+      "is_new": false
+    },
+    {
+      "title": "DNS: A Replacement for Finger",
+      "link": "https://altchan.org/sh/42",
+      "is_new": false
     },
     {
       "title": "Animations for System Builders",
@@ -78,8 +103,13 @@
       "is_new": false
     },
     {
-      "title": "No Source Code? No Problem",
-      "link": "https://queue.acm.org/doi/10.1145/945131.945155",
+      "title": "Show HN: Swurf – Swipe through the real web",
+      "link": "https://swurf.org/",
+      "is_new": false
+    },
+    {
+      "title": "Rise of collagen-eating microbes may help explain gaps in the fossil record",
+      "link": "https://www.cam.ac.uk/research/news/rise-of-collagen-eating-microbes-may-help-explain-gaps-in-the-fossil-record",
       "is_new": true
     },
     {
@@ -88,14 +118,29 @@
       "is_new": false
     },
     {
+      "title": "Reforming English Spelling",
+      "link": "https://blog.oup.com/2026/10/reforming-english-spelling/",
+      "is_new": true
+    },
+    {
+      "title": "UUIDv7 doesn't have the properties you think it does",
+      "link": "https://alexsci.com/blog/uuidv7-is-weird/",
+      "is_new": false
+    },
+    {
       "title": "The Missed Opportunities of Sonic 06 (2025)",
       "link": "https://isaacmarovitz.com/posts/sonic-06/",
       "is_new": false
     },
     {
-      "title": "Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?",
-      "link": "https://news.ycombinator.com/item?id=50200997",
+      "title": "We are all living inside of an obscure sci-fi film from 1970",
+      "link": "https://thanksforthatjim.bearblog.dev/we-are-all-living-inside-of-an-obscure-sci-fi-film-from-1970/",
       "is_new": false
+    },
+    {
+      "title": "German court calls Google aerial imagery 'spying'",
+      "link": "https://www.courthousenews.com/german-court-calls-google-aerial-imagery-spying/",
+      "is_new": true
     },
     {
       "title": "I turned my TV into a Game Boy Color with a Pokemon town as my home screen",
@@ -103,13 +148,15 @@
       "is_new": false
     },
     {
-      "title": "DNS: A Replacement for Finger",
-      "link": "https://altchan.org/sh/42",
+      "title": "Caffeine-like utility to keep you MacBook awake with its lid closed",
+      "link": "https://github.com/clashman/caffeinate-plus",
       "is_new": true
-    },
+    }
+  ],
+  "removed": [
     {
-      "title": "Show HN: Swurf – Swipe through the real web",
-      "link": "https://swurf.org/",
+      "title": "Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?",
+      "link": "https://news.ycombinator.com/item?id=50200997",
       "is_new": false
     },
     {
@@ -151,58 +198,6 @@
       "title": "Gemma-4-26B-A4B with 39-69% less thinking at same accuracy",
       "link": "https://bottlecapai.com/post/thinkingcap-gemma-4-26b/",
       "is_new": false
-    }
-  ],
-  "removed": [
-    {
-      "title": "Docker is weird",
-      "link": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
-      "is_new": false
-    },
-    {
-      "title": "Show HN: Searching for optimal strategies in a puzzle game with chance (Drop7)",
-      "link": "https://drop7.dev",
-      "is_new": true
-    },
-    {
-      "title": "The foolishness of \"natural language programming\" (1978)",
-      "link": "https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html",
-      "is_new": false
-    },
-    {
-      "title": "Job loss and cortisone mania",
-      "link": "https://tilschuenemann.de/job-loss-cortisone-mania",
-      "is_new": false
-    },
-    {
-      "title": "Air Purifiers as White Noise Machines",
-      "link": "https://www.jefftk.com/p/air-purifiers-as-white-noise-machines",
-      "is_new": true
-    },
-    {
-      "title": "The alien space of science: Coherent but cognitively unavailable directions",
-      "link": "https://arxiv.org/abs/2603.01092",
-      "is_new": false
-    },
-    {
-      "title": "We have traits at home",
-      "link": "https://www.axelmagn.com/blog/202610-zig-traits/",
-      "is_new": true
-    },
-    {
-      "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
-      "link": "https://github.com/NVIDIA/OpenShell",
-      "is_new": false
-    },
-    {
-      "title": "How does Fable 5.1 hide messages in images?",
-      "link": "https://www.lesswrong.com/posts/WHEQps5PK8LrrcTAb/how-does-fable-5-1-hide-messages-in-images",
-      "is_new": false
-    },
-    {
-      "title": "LLMs are making formal software verification feasible at a much larger scale",
-      "link": "https://www.anthropic.com/research/formal-verification",
-      "is_new": true
     }
   ]
 }
