@@ -1,31 +1,66 @@
 {
-  "crawled_at": "2026-10-25 02:48",
-  "prev_crawled_at": "2026-10-24 23:13",
+  "crawled_at": "2026-10-25 05:08",
+  "prev_crawled_at": "2026-10-25 02:48",
   "items": [
     {
-      "title": "Roku developer repositories moved from GitHub to GitLab",
-      "link": "https://blog.roku.com/developer/gitlab-move",
+      "title": "No Signs of AI Payoff Outside the Tech Sector",
+      "link": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
       "is_new": true
     },
     {
-      "title": "FreeDNS",
-      "link": "https://freedns.afraid.org/",
+      "title": "Roku developer repositories moved from GitHub to GitLab",
+      "link": "https://blog.roku.com/developer/gitlab-move",
+      "is_new": false
+    },
+    {
+      "title": "The Goose Programming Language",
+      "link": "https://aardappel.github.io/goose/",
+      "is_new": true
+    },
+    {
+      "title": "Dream-1",
+      "link": "https://dreamlabs.ai/research/dream-1/",
+      "is_new": true
+    },
+    {
+      "title": "John Carmack on the Goose Language: multiple data stacks and relative references",
+      "link": "https://twitter.com/ID_AA_Carmack/status/2113704269274636568",
       "is_new": true
     },
     {
       "title": "The St. Helena 5 pence coin shows Jonathan, a roughly 190 year old tortoise",
       "link": "https://de.numista.com/9866",
+      "is_new": false
+    },
+    {
+      "title": "Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz",
+      "link": "https://missileer.watch",
       "is_new": true
+    },
+    {
+      "title": "FreeDNS",
+      "link": "https://freedns.afraid.org/",
+      "is_new": false
     },
     {
       "title": "Neural chip decodes interactions between brain regions",
       "link": "https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/",
+      "is_new": false
+    },
+    {
+      "title": "Danish Government silently drops plan to dump MS Office",
+      "link": "https://www.computerworld.dk/art/297226/digitaliseringsministeriet-har-i-al-stilhed-droppet-stort-anlagt-forsoeg-med-open-source-alternativ-til-microsoft",
       "is_new": true
     },
     {
-      "title": "Around a dozen banking apps began specifically permitting GrapheneOS",
-      "link": "https://grapheneos.social/@GrapheneOS/117492375462459244",
+      "title": "I don't understand quantum physics (2018)",
+      "link": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
       "is_new": false
+    },
+    {
+      "title": "Why is AI generated language so hard to understand?",
+      "link": "https://arxiv.org/abs/2610.29162",
+      "is_new": true
     },
     {
       "title": "OBS Studio 33",
@@ -38,14 +73,9 @@
       "is_new": false
     },
     {
-      "title": "TornadoVM 7 Enables GPU-Native Workloads from Java Applications",
-      "link": "https://www.infoq.com/news/2026/10/tornadovm-7-gpu/",
-      "is_new": false
-    },
-    {
-      "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
-      "link": "https://www.kimi.ai/blog/kimi-k3-1-pro",
-      "is_new": false
+      "title": "Symbolic Learning in Python and Julia",
+      "link": "https://github.com/astroautomata/PySR",
+      "is_new": true
     },
     {
       "title": "Physicists trap a single antimatter particle for a month",
@@ -53,28 +83,33 @@
       "is_new": false
     },
     {
-      "title": "Today, we hacked what we'd set out to hack: the iPhone",
-      "link": "https://blog.calif.io/p/iphone",
+      "title": "TornadoVM 7 Enables GPU-Native Workloads from Java Applications",
+      "link": "https://www.infoq.com/news/2026/10/tornadovm-7-gpu/",
       "is_new": false
     },
     {
-      "title": "I Don't Understand Quantum Physics (2018)",
-      "link": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
-      "is_new": false
+      "title": "PHP Foundation 'under-funded' with one full-time staff member, director says",
+      "link": "https://www.reuters.com/technology/php-foundation-under-funded-with-one-full-time-staff-member-director-says-2026-10-23/",
+      "is_new": true
     },
     {
       "title": "GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards",
       "link": "https://github.com/Zagitta/gpu-unlock",
+      "is_new": false
+    },
+    {
+      "title": "Building a multiplayer FPS that runs in the browser, and you can play it now",
+      "link": "https://semperplay.com/news/operation-raven-origins-and-plan/",
       "is_new": true
     },
     {
-      "title": "Cecilia Berdichevsky, Clementina expert (1961)",
-      "link": "https://en.wikipedia.org/wiki/Cecilia_Berdichevsky",
+      "title": "Zac-OS-9: The classic Platinum desktop, reborn for modern PCs",
+      "link": "https://sourceforge.net/projects/zac-os-9/",
       "is_new": true
     },
     {
-      "title": "Appreciating the beauty of all your body's scars and scratches",
-      "link": "https://1000awesomethings.com/2026/10/08/576-appreciating-the-beauty-of-all-your-bodys-scars-and-scratches-4/",
+      "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
+      "link": "https://edjefferson.com/localwiki/",
       "is_new": false
     },
     {
@@ -83,14 +118,14 @@
       "is_new": false
     },
     {
-      "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
-      "link": "https://edjefferson.com/localwiki/",
-      "is_new": false
+      "title": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
+      "link": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups/",
+      "is_new": true
     },
     {
-      "title": "Parsing EDIFACT in Python with syntax trees",
-      "link": "https://github.com/AmadeusITGroup/Edison",
-      "is_new": true
+      "title": "Cecilia Berdichevsky, Clementina expert (1961)",
+      "link": "https://en.wikipedia.org/wiki/Cecilia_Berdichevsky",
+      "is_new": false
     },
     {
       "title": "Apple Music 404 Not Found",
@@ -98,8 +133,8 @@
       "is_new": false
     },
     {
-      "title": "A practical guide to AI image generation, from diffusion to agents",
-      "link": "https://danielball.com/notes/ai_image_generation.html",
+      "title": "Tiling Noise – Procedural GPU Patterns",
+      "link": "https://catlikecoding.com/godot/procedural-gpu-patterns/09-tiling-noise/",
       "is_new": false
     },
     {
@@ -113,8 +148,40 @@
       "is_new": false
     },
     {
-      "title": "Tiling Noise – Procedural GPU Patterns",
-      "link": "https://catlikecoding.com/godot/procedural-gpu-patterns/09-tiling-noise/",
+      "title": "Glymphatic clearance to alleviate brain edema and Alzheimer's pathology in mice",
+      "link": "https://www.science.org/doi/10.1126/sciadv.aeh8870",
+      "is_new": true
+    }
+  ],
+  "removed": [
+    {
+      "title": "Around a dozen banking apps began specifically permitting GrapheneOS",
+      "link": "https://grapheneos.social/@GrapheneOS/117492375462459244",
+      "is_new": false
+    },
+    {
+      "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
+      "link": "https://www.kimi.ai/blog/kimi-k3-1-pro",
+      "is_new": false
+    },
+    {
+      "title": "Today, we hacked what we'd set out to hack: the iPhone",
+      "link": "https://blog.calif.io/p/iphone",
+      "is_new": false
+    },
+    {
+      "title": "Appreciating the beauty of all your body's scars and scratches",
+      "link": "https://1000awesomethings.com/2026/10/08/576-appreciating-the-beauty-of-all-your-bodys-scars-and-scratches-4/",
+      "is_new": false
+    },
+    {
+      "title": "Parsing EDIFACT in Python with syntax trees",
+      "link": "https://github.com/AmadeusITGroup/Edison",
+      "is_new": true
+    },
+    {
+      "title": "A practical guide to AI image generation, from diffusion to agents",
+      "link": "https://danielball.com/notes/ai_image_generation.html",
       "is_new": false
     },
     {
@@ -150,48 +217,6 @@
     {
       "title": "CVE Tracker",
       "link": "https://cve.0xosprey.com/",
-      "is_new": false
-    }
-  ],
-  "removed": [
-    {
-      "title": "One Must Fall 2097 Remastered",
-      "link": "https://github.com/Jared-woodruff/OMF-2097-Remastered/",
-      "is_new": true
-    },
-    {
-      "title": "Elon Musk Just Gave Europe a Reason to Replace American Technology",
-      "link": "https://steveblank.com/2026/10/24/europe-gets-a-wake-up-call/",
-      "is_new": true
-    },
-    {
-      "title": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-      "link": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/",
-      "is_new": true
-    },
-    {
-      "title": "The Chalk and the Airplane",
-      "link": "https://unintendedconsequenc.es/chalk-and-the-airplane/",
-      "is_new": true
-    },
-    {
-      "title": "Canadians are running out of time to oppose Bill C-22",
-      "link": "https://www.eff.org/deeplinks/2026/10/canadians-are-running-out-time-oppose-dangerous-c-22-surveillance-bill",
-      "is_new": false
-    },
-    {
-      "title": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
-      "link": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/",
-      "is_new": false
-    },
-    {
-      "title": "C vs. C#: racing VLC's Gaussian blur",
-      "link": "https://martinfinkel.com/blog/gaussian-blur-c-vs-csharp/",
-      "is_new": false
-    },
-    {
-      "title": "How Block Blast harvests its players for ad money",
-      "link": "https://ayoships.com/breakdowns/block-blast",
       "is_new": false
     }
   ]
