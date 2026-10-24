@@ -1,6 +1,6 @@
 {
-  "crawled_at": "2026-10-24 09:13",
-  "prev_crawled_at": "2026-10-24 06:49",
+  "crawled_at": "2026-10-24 14:21",
+  "prev_crawled_at": "2026-10-24 09:13",
   "items": [
     {
       "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
@@ -8,14 +8,34 @@
       "is_new": false
     },
     {
+      "title": "Twelve years of distributed SQLite",
+      "link": "https://philipotoole.com/twelve-years-of-distributed-sqlite/",
+      "is_new": true
+    },
+    {
       "title": "Apple Music 404 Not Found",
       "link": "https://music.apple.com/this-url-doesnt-exist",
       "is_new": false
     },
     {
+      "title": "How close can pure functional programming get to C?",
+      "link": "https://rtfeldman.com/fp-vs-c",
+      "is_new": true
+    },
+    {
+      "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
+      "link": "https://edjefferson.com/localwiki/",
+      "is_new": false
+    },
+    {
+      "title": "Dessa: Conversation Model trained only on speech",
+      "link": "https://block.xyz/dessa",
+      "is_new": false
+    },
+    {
       "title": "CVE Tracker",
       "link": "https://cve.0xosprey.com/",
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Today, we hacked what we'd set out to hack: the iPhone",
@@ -23,14 +43,19 @@
       "is_new": false
     },
     {
-      "title": "Dessa: the most authentic full-duplex speech model ever built",
-      "link": "https://block.xyz/dessa",
-      "is_new": false
+      "title": "Bringing uv and ty together",
+      "link": "https://astral.sh/blog/uv-ty-integration",
+      "is_new": true
     },
     {
-      "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
-      "link": "https://edjefferson.com/localwiki/",
-      "is_new": false
+      "title": "One Man's Pan Am 747 Replica [video]",
+      "link": "https://www.youtube.com/watch?v=vAFwHGGfPz4",
+      "is_new": true
+    },
+    {
+      "title": "The Quake Fan who built the map editor everybody uses",
+      "link": "https://funcarena.com/articles/the-quake-fan-who-built-the-map-editor-everybody-uses",
+      "is_new": true
     },
     {
       "title": "The Real Kevin Bacon",
@@ -43,18 +68,53 @@
       "is_new": false
     },
     {
-      "title": "Evolving Threat: http2shell is an RCE in node, Python, and more",
-      "link": "https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8",
+      "title": "C vs. C#: racing VLC's Gaussian blur",
+      "link": "https://martinfinkel.com/blog/gaussian-blur-c-vs-csharp/",
       "is_new": true
-    },
-    {
-      "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
-      "link": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
-      "is_new": false
     },
     {
       "title": "Show HN: Corgi, a helpful {agent, terminal} multiplexer",
       "link": "https://corgi.computer/",
+      "is_new": false
+    },
+    {
+      "title": "The past, present, and future share a show floor at Pinball Expo 2026",
+      "link": "https://arstechnica.com/gaming/2026/10/the-past-present-and-future-share-a-show-floor-at-pinball-expo-2026/",
+      "is_new": true
+    },
+    {
+      "title": "Air Purifiers as White Noise Machines",
+      "link": "https://www.jefftk.com/p/air-purifiers-as-white-noise-machines",
+      "is_new": false
+    },
+    {
+      "title": "A practical guide to AI image generation, from diffusion to agents",
+      "link": "https://danielball.com/notes/ai_image_generation.html",
+      "is_new": true
+    },
+    {
+      "title": "UUIDv7: Timestamps aren’t time-ordered and other oddities",
+      "link": "https://alexsci.com/blog/uuidv7-is-weird/",
+      "is_new": false
+    },
+    {
+      "title": "Evolving Threat: http2shell is an RCE in Node, Python, and more",
+      "link": "https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8",
+      "is_new": false
+    },
+    {
+      "title": "A Bicycle Journey Across Brazil to Find a Vanishing Savanna",
+      "link": "https://e360.yale.edu/features/2026-film-contest-second-place-cerrado",
+      "is_new": false
+    },
+    {
+      "title": "Rise of collagen-eating microbes may help explain gaps in the fossil record",
+      "link": "https://www.cam.ac.uk/research/news/rise-of-collagen-eating-microbes-may-help-explain-gaps-in-the-fossil-record",
+      "is_new": false
+    },
+    {
+      "title": "Alzheimer's breakthrough: 2 hrs of sleep restored without clearing brain plaques",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261018084421.htm",
       "is_new": true
     },
     {
@@ -63,28 +123,23 @@
       "is_new": false
     },
     {
-      "title": "No Source Code? No Problem",
-      "link": "https://queue.acm.org/doi/10.1145/945131.945155",
-      "is_new": false
+      "title": "How is music possible",
+      "link": "https://www.henrikkarlsson.xyz/p/music",
+      "is_new": true
     },
     {
-      "title": "A whirlwind tour of systemd-nspawn containers",
+      "title": "Is this the new cyber normal?",
+      "link": "https://drew.silcock.dev/blog/is-this-the-new-cyber-normal/",
+      "is_new": true
+    },
+    {
+      "title": "A whirlwind tour of systemd-nspawn containers (2025)",
       "link": "https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/",
       "is_new": false
     },
     {
-      "title": "Air Purifiers as White Noise Machines",
-      "link": "https://www.jefftk.com/p/air-purifiers-as-white-noise-machines",
-      "is_new": true
-    },
-    {
-      "title": "A Bicycle Journey Across Brazil to Find a Vanishing Savanna",
-      "link": "https://e360.yale.edu/features/2026-film-contest-second-place-cerrado",
-      "is_new": true
-    },
-    {
-      "title": "Securing our frontier model training environment",
-      "link": "https://openai.com/index/securing-our-frontier-model-training-environment/",
+      "title": "Animations for System Builders",
+      "link": "https://brooker.co.za/blog/2026/10/23/animations.html",
       "is_new": false
     },
     {
@@ -93,8 +148,20 @@
       "is_new": false
     },
     {
-      "title": "Animations for System Builders",
-      "link": "https://brooker.co.za/blog/2026/10/23/animations.html",
+      "title": "Securing our frontier model training environment",
+      "link": "https://openai.com/index/securing-our-frontier-model-training-environment/",
+      "is_new": false
+    }
+  ],
+  "removed": [
+    {
+      "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
+      "link": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
+      "is_new": false
+    },
+    {
+      "title": "No Source Code? No Problem",
+      "link": "https://queue.acm.org/doi/10.1145/945131.945155",
       "is_new": false
     },
     {
@@ -108,11 +175,6 @@
       "is_new": false
     },
     {
-      "title": "Rise of collagen-eating microbes may help explain gaps in the fossil record",
-      "link": "https://www.cam.ac.uk/research/news/rise-of-collagen-eating-microbes-may-help-explain-gaps-in-the-fossil-record",
-      "is_new": true
-    },
-    {
       "title": "LISP Comes of Age (1980)",
       "link": "https://microship.com/lisp-comes-of-age/",
       "is_new": false
@@ -121,11 +183,6 @@
       "title": "Reforming English Spelling",
       "link": "https://blog.oup.com/2026/10/reforming-english-spelling/",
       "is_new": true
-    },
-    {
-      "title": "UUIDv7 doesn't have the properties you think it does",
-      "link": "https://alexsci.com/blog/uuidv7-is-weird/",
-      "is_new": false
     },
     {
       "title": "The Missed Opportunities of Sonic 06 (2025)",
@@ -151,53 +208,6 @@
       "title": "Caffeine-like utility to keep you MacBook awake with its lid closed",
       "link": "https://github.com/clashman/caffeinate-plus",
       "is_new": true
-    }
-  ],
-  "removed": [
-    {
-      "title": "Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?",
-      "link": "https://news.ycombinator.com/item?id=50200997",
-      "is_new": false
-    },
-    {
-      "title": "Sony Retires Its Last 4K Blu-ray Player in Japan, PS5 Is All That's Left",
-      "link": "https://www.techpowerup.com/354081/sony-retires-its-last-4k-blu-ray-player-in-japan-ps5-is-all-thats-left",
-      "is_new": true
-    },
-    {
-      "title": "Time Nuts (2005)",
-      "link": "http://leapsecond.com/time-nuts.htm",
-      "is_new": false
-    },
-    {
-      "title": "Florida officer found dead man, impersonated him for years, renovated his home",
-      "link": "https://www.nbcnews.com/news/us-news/officer-impersonates-dead-florida-man-moved-into-home-rcna604844",
-      "is_new": true
-    },
-    {
-      "title": "Can we replace a $150k Looker with a bucket of HTML files?",
-      "link": "https://david.lequin.dev/blog/bi-software-is-dead/",
-      "is_new": false
-    },
-    {
-      "title": "Show HN: OnKey – I'm a bad singer, so I built an app to show where I'm off-key",
-      "link": "https://github.com/dsmurrell/onkey",
-      "is_new": false
-    },
-    {
-      "title": "Total Historian",
-      "link": "https://www.theideasletter.org/essay/total-historian/",
-      "is_new": false
-    },
-    {
-      "title": "How is music possible",
-      "link": "https://www.henrikkarlsson.xyz/p/music",
-      "is_new": false
-    },
-    {
-      "title": "Gemma-4-26B-A4B with 39-69% less thinking at same accuracy",
-      "link": "https://bottlecapai.com/post/thinkingcap-gemma-4-26b/",
-      "is_new": false
     }
   ]
 }
