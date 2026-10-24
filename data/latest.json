@@ -1,10 +1,30 @@
 {
-  "crawled_at": "2026-10-24 23:13",
-  "prev_crawled_at": "2026-10-24 19:13",
+  "crawled_at": "2026-10-25 02:48",
+  "prev_crawled_at": "2026-10-24 23:13",
   "items": [
     {
-      "title": "I Don't Understand Quantum Physics (2018)",
-      "link": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
+      "title": "Roku developer repositories moved from GitHub to GitLab",
+      "link": "https://blog.roku.com/developer/gitlab-move",
+      "is_new": true
+    },
+    {
+      "title": "FreeDNS",
+      "link": "https://freedns.afraid.org/",
+      "is_new": true
+    },
+    {
+      "title": "The St. Helena 5 pence coin shows Jonathan, a roughly 190 year old tortoise",
+      "link": "https://de.numista.com/9866",
+      "is_new": true
+    },
+    {
+      "title": "Neural chip decodes interactions between brain regions",
+      "link": "https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/",
+      "is_new": true
+    },
+    {
+      "title": "Around a dozen banking apps began specifically permitting GrapheneOS",
+      "link": "https://grapheneos.social/@GrapheneOS/117492375462459244",
       "is_new": false
     },
     {
@@ -13,13 +33,13 @@
       "is_new": false
     },
     {
-      "title": "One Must Fall 2097 Remastered",
-      "link": "https://github.com/Jared-woodruff/OMF-2097-Remastered/",
-      "is_new": true
+      "title": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",
+      "link": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497",
+      "is_new": false
     },
     {
-      "title": "Around a dozen banking apps began specifically permitting GrapheneOS",
-      "link": "https://grapheneos.social/@GrapheneOS/117492375462459244",
+      "title": "TornadoVM 7 Enables GPU-Native Workloads from Java Applications",
+      "link": "https://www.infoq.com/news/2026/10/tornadovm-7-gpu/",
       "is_new": false
     },
     {
@@ -33,33 +53,33 @@
       "is_new": false
     },
     {
-      "title": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",
-      "link": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497",
-      "is_new": false
-    },
-    {
       "title": "Today, we hacked what we'd set out to hack: the iPhone",
       "link": "https://blog.calif.io/p/iphone",
       "is_new": false
     },
     {
+      "title": "I Don't Understand Quantum Physics (2018)",
+      "link": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
+      "is_new": false
+    },
+    {
+      "title": "GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards",
+      "link": "https://github.com/Zagitta/gpu-unlock",
+      "is_new": true
+    },
+    {
+      "title": "Cecilia Berdichevsky, Clementina expert (1961)",
+      "link": "https://en.wikipedia.org/wiki/Cecilia_Berdichevsky",
+      "is_new": true
+    },
+    {
       "title": "Appreciating the beauty of all your body's scars and scratches",
       "link": "https://1000awesomethings.com/2026/10/08/576-appreciating-the-beauty-of-all-your-bodys-scars-and-scratches-4/",
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Twelve years of distributed SQLite",
       "link": "https://philipotoole.com/twelve-years-of-distributed-sqlite/",
-      "is_new": false
-    },
-    {
-      "title": "Elon Musk Just Gave Europe a Reason to Replace American Technology",
-      "link": "https://steveblank.com/2026/10/24/europe-gets-a-wake-up-call/",
-      "is_new": true
-    },
-    {
-      "title": "Apple Music 404 Not Found",
-      "link": "https://music.apple.com/this-url-doesnt-exist",
       "is_new": false
     },
     {
@@ -68,23 +88,13 @@
       "is_new": false
     },
     {
-      "title": "How to run a city builder on 16 MHz",
-      "link": "https://larstofus.com/2025/11/16/how-to-run-a-city-builder-on-12-5-mhz/",
-      "is_new": false
-    },
-    {
-      "title": "How close can pure functional programming get to C?",
-      "link": "https://rtfeldman.com/fp-vs-c",
-      "is_new": false
-    },
-    {
-      "title": "TornadoVM 7 Enables GPU-Native Workloads from Java Applications",
-      "link": "https://www.infoq.com/news/2026/10/tornadovm-7-gpu/",
+      "title": "Parsing EDIFACT in Python with syntax trees",
+      "link": "https://github.com/AmadeusITGroup/Edison",
       "is_new": true
     },
     {
-      "title": "Bringing uv and ty together",
-      "link": "https://astral.sh/blog/uv-ty-integration",
+      "title": "Apple Music 404 Not Found",
+      "link": "https://music.apple.com/this-url-doesnt-exist",
       "is_new": false
     },
     {
@@ -93,9 +103,24 @@
       "is_new": false
     },
     {
-      "title": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-      "link": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/",
-      "is_new": true
+      "title": "How close can pure functional programming get to C?",
+      "link": "https://rtfeldman.com/fp-vs-c",
+      "is_new": false
+    },
+    {
+      "title": "Bringing uv and ty together",
+      "link": "https://astral.sh/blog/uv-ty-integration",
+      "is_new": false
+    },
+    {
+      "title": "Tiling Noise – Procedural GPU Patterns",
+      "link": "https://catlikecoding.com/godot/procedural-gpu-patterns/09-tiling-noise/",
+      "is_new": false
+    },
+    {
+      "title": "How to run a city builder on 16 MHz",
+      "link": "https://larstofus.com/2025/11/16/how-to-run-a-city-builder-on-12-5-mhz/",
+      "is_new": false
     },
     {
       "title": "Dessa: Conversation Model trained only on speech",
@@ -103,9 +128,46 @@
       "is_new": false
     },
     {
+      "title": "Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
+      "link": "https://gitlab.com/c4psu13/mali-pagecache-root",
+      "is_new": false
+    },
+    {
       "title": "Apple Security Research Device",
       "link": "https://security.apple.com/research-device/",
       "is_new": false
+    },
+    {
+      "title": "Root shell on Samsung TV",
+      "link": "https://twitter.com/log4j/status/2113014142600953868?s=46",
+      "is_new": true
+    },
+    {
+      "title": "The Real Kevin Bacon",
+      "link": "https://pudding.cool/2026/10/kevin-bacon/",
+      "is_new": false
+    },
+    {
+      "title": "CVE Tracker",
+      "link": "https://cve.0xosprey.com/",
+      "is_new": false
+    }
+  ],
+  "removed": [
+    {
+      "title": "One Must Fall 2097 Remastered",
+      "link": "https://github.com/Jared-woodruff/OMF-2097-Remastered/",
+      "is_new": true
+    },
+    {
+      "title": "Elon Musk Just Gave Europe a Reason to Replace American Technology",
+      "link": "https://steveblank.com/2026/10/24/europe-gets-a-wake-up-call/",
+      "is_new": true
+    },
+    {
+      "title": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+      "link": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/",
+      "is_new": true
     },
     {
       "title": "The Chalk and the Airplane",
@@ -123,21 +185,6 @@
       "is_new": false
     },
     {
-      "title": "CVE Tracker",
-      "link": "https://cve.0xosprey.com/",
-      "is_new": false
-    },
-    {
-      "title": "Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
-      "link": "https://gitlab.com/c4psu13/mali-pagecache-root",
-      "is_new": true
-    },
-    {
-      "title": "The Real Kevin Bacon",
-      "link": "https://pudding.cool/2026/10/kevin-bacon/",
-      "is_new": false
-    },
-    {
       "title": "C vs. C#: racing VLC's Gaussian blur",
       "link": "https://martinfinkel.com/blog/gaussian-blur-c-vs-csharp/",
       "is_new": false
@@ -145,53 +192,6 @@
     {
       "title": "How Block Blast harvests its players for ad money",
       "link": "https://ayoships.com/breakdowns/block-blast",
-      "is_new": false
-    },
-    {
-      "title": "Tiling Noise – Procedural GPU Patterns",
-      "link": "https://catlikecoding.com/godot/procedural-gpu-patterns/09-tiling-noise/",
-      "is_new": true
-    }
-  ],
-  "removed": [
-    {
-      "title": "ThinkRail from JetBrains",
-      "link": "https://thinkrail.ai/",
-      "is_new": true
-    },
-    {
-      "title": "The Best Monopoly Strategy, Tested on 300M Games [video]",
-      "link": "https://www.youtube.com/watch?v=S_2eVAaw1UM",
-      "is_new": true
-    },
-    {
-      "title": "U-2 spy plane makes rare appearance in Bay Area flyover",
-      "link": "https://www.sfgate.com/bayarea/article/government-spy-plane-49ers-22485781.php",
-      "is_new": true
-    },
-    {
-      "title": "The Quake Fan who built the map editor everybody uses",
-      "link": "https://funcarena.com/articles/the-quake-fan-who-built-the-map-editor-everybody-uses",
-      "is_new": false
-    },
-    {
-      "title": "One Man's Pan Am 747 Replica [video]",
-      "link": "https://www.youtube.com/watch?v=vAFwHGGfPz4",
-      "is_new": false
-    },
-    {
-      "title": "Air Purifiers as White Noise Machines",
-      "link": "https://www.jefftk.com/p/air-purifiers-as-white-noise-machines",
-      "is_new": false
-    },
-    {
-      "title": "Show HN: Corgi, a helpful {agent, terminal} multiplexer",
-      "link": "https://corgi.computer/",
-      "is_new": false
-    },
-    {
-      "title": "Rise of collagen-eating microbes may help explain gaps in the fossil record",
-      "link": "https://www.cam.ac.uk/research/news/rise-of-collagen-eating-microbes-may-help-explain-gaps-in-the-fossil-record",
       "is_new": false
     }
   ]
