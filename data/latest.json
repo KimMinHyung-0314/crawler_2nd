@@ -1,20 +1,20 @@
 {
-  "crawled_at": "2026-10-25 23:45",
-  "prev_crawled_at": "2026-10-25 19:38",
+  "crawled_at": "2026-10-26 03:04",
+  "prev_crawled_at": "2026-10-25 23:45",
   "items": [
     {
-      "title": "Tool book of a Nuremberg knight from 1505",
-      "link": "https://loeffelholz-codex.org/en/",
+      "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+      "link": "https://lynchlab.net/llm-skin-cancer",
       "is_new": true
     },
     {
-      "title": "Show HN: Farol – a risk map of a pull request for the person who approves it",
-      "link": "https://github.com/winnin/farol",
+      "title": "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
+      "link": "https://talkweb.eu/openweb/4558/",
       "is_new": true
     },
     {
-      "title": "fheroes2: A recreation of Heroes of Might and Magic II game engine",
-      "link": "https://github.com/ihhub/fheroes2",
+      "title": "VCF Southwest 2026, but Edited on Silicon Graphics for '90s TV [video]",
+      "link": "https://www.youtube.com/watch?v=46wxttvq9qY",
       "is_new": true
     },
     {
@@ -23,9 +23,44 @@
       "is_new": false
     },
     {
+      "title": "Sabre Wulf Remastered",
+      "link": "https://gp-64.com/swr/",
+      "is_new": true
+    },
+    {
+      "title": "Bring Back the Cool Save File Screens",
+      "link": "https://scabshack.lol/posts/bring-back-the-cool-save-file-screens",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: I put employees inside S&P 500 market-cap bubbles",
+      "link": "https://bigwhalehunting.com/workforce/",
+      "is_new": true
+    },
+    {
+      "title": "Jukebox-OS: Deterministic time-travel replay and ACID tool sandbox for AI agents",
+      "link": "https://github.com/socrates6969/jukebox-os",
+      "is_new": true
+    },
+    {
       "title": "Cerebras Deploys Trillion-Parameter AI Models",
       "link": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
       "is_new": false
+    },
+    {
+      "title": "Active incident at Dreamhost forcing password reset",
+      "link": "https://www.dreamhoststatus.com/",
+      "is_new": true
+    },
+    {
+      "title": "fheroes2: A recreation of Heroes of Might and Magic II game engine",
+      "link": "https://github.com/ihhub/fheroes2",
+      "is_new": false
+    },
+    {
+      "title": "Root shell on Samsung TV",
+      "link": "https://twitter.com/log4j/status/2113014142600953868?s=46",
+      "is_new": true
     },
     {
       "title": "How Japanese Dried Bonito Is Made",
@@ -33,9 +68,96 @@
       "is_new": false
     },
     {
+      "title": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
+      "link": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
+      "is_new": true
+    },
+    {
+      "title": "A Mathematician Reads the AI Future",
+      "link": "https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133/",
+      "is_new": true
+    },
+    {
       "title": "The Goose Programming Language",
       "link": "https://aardappel.github.io/goose/",
       "is_new": false
+    },
+    {
+      "title": "Reverse engineer of PC-98 Touhou games retires",
+      "link": "https://rec98.nmlgc.net/blog/2026-10-05",
+      "is_new": false
+    },
+    {
+      "title": "What Adobe v ArtCraft teaches us",
+      "link": "https://techbronerd.substack.com/p/openai-and-anthropic-wanted-to-replace",
+      "is_new": true
+    },
+    {
+      "title": "SpeedCrunch 1.1",
+      "link": "https://www.speedcrunch.org/",
+      "is_new": false
+    },
+    {
+      "title": "Fuck Nuance (2015)",
+      "link": "https://crookedtimber.org/2015/08/31/fuck-nuance/",
+      "is_new": true
+    },
+    {
+      "title": "Flapping Airplanes",
+      "link": "https://flappingairplanes.com/",
+      "is_new": true
+    },
+    {
+      "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
+      "link": "https://edjefferson.com/localwiki/",
+      "is_new": false
+    },
+    {
+      "title": "Small Programs and Languages",
+      "link": "https://ratfactor.com/cards/pl-small",
+      "is_new": false
+    },
+    {
+      "title": "Nikon photography contest winner loses title after scientists spot signs of AI",
+      "link": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html",
+      "is_new": false
+    },
+    {
+      "title": "Broccoli2Shell: Brotli decoder RCE in Node.js, Python and more",
+      "link": "https://broccoli2shell.com/",
+      "is_new": true
+    },
+    {
+      "title": "A few thoughts on intensity (2024)",
+      "link": "https://www.tylerhogge.com/blog/a-few-thoughts-on-intensity/",
+      "is_new": true
+    },
+    {
+      "title": "I don't understand quantum physics (2018)",
+      "link": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
+      "is_new": false
+    },
+    {
+      "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
+      "link": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+      "is_new": false
+    },
+    {
+      "title": "GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards",
+      "link": "https://github.com/Zagitta/gpu-unlock",
+      "is_new": false
+    },
+    {
+      "title": "Tool book of a Nuremberg knight from 1505",
+      "link": "https://loeffelholz-codex.org/en/",
+      "is_new": false
+    }
+  ],
+  "removed": [
+    {
+      "title": "Show HN: Farol – a risk map of a pull request for the person who approves it",
+      "link": "https://github.com/winnin/farol",
+      "is_new": true
     },
     {
       "title": "The Lego group reveals collaboration with Daft Punk",
@@ -48,24 +170,9 @@
       "is_new": true
     },
     {
-      "title": "Reverse engineer of PC-98 Touhou games retires",
-      "link": "https://rec98.nmlgc.net/blog/2026-10-05",
-      "is_new": true
-    },
-    {
       "title": "R/open source bans all solo projects and projects using LLMs",
       "link": "https://www.reddit.com/r/opensource/comments/1xelcuf/your_tokens_arent_valuable_no_more_ai",
       "is_new": true
-    },
-    {
-      "title": "Nikon photography contest winner loses title after scientists spot signs of AI",
-      "link": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html",
-      "is_new": true
-    },
-    {
-      "title": "SpeedCrunch 1.1",
-      "link": "https://www.speedcrunch.org/",
-      "is_new": false
     },
     {
       "title": "Did it just build.. a clock?",
@@ -73,28 +180,8 @@
       "is_new": true
     },
     {
-      "title": "Small Programs and Languages",
-      "link": "https://ratfactor.com/cards/pl-small",
-      "is_new": false
-    },
-    {
-      "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
-      "link": "https://edjefferson.com/localwiki/",
-      "is_new": false
-    },
-    {
       "title": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",
       "link": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497",
-      "is_new": false
-    },
-    {
-      "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
-      "link": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
-      "is_new": false
-    },
-    {
-      "title": "I don't understand quantum physics (2018)",
-      "link": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
       "is_new": false
     },
     {
@@ -115,11 +202,6 @@
     {
       "title": "The Importance of Limitations for Creativity and Learning (2023)",
       "link": "https://ratfactor.com/cards/limitations",
-      "is_new": false
-    },
-    {
-      "title": "GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards",
-      "link": "https://github.com/Zagitta/gpu-unlock",
       "is_new": false
     },
     {
@@ -150,53 +232,6 @@
     {
       "title": "The St. Helena 5 pence coin shows Jonathan, a roughly 190 year old tortoise",
       "link": "https://de.numista.com/9866",
-      "is_new": false
-    }
-  ],
-  "removed": [
-    {
-      "title": "Meta Ignores Brazilian Court Order to End Bolsonaro Favoritism",
-      "link": "https://www.panamericandispatch.org/p/meta-ignores-brazilian-court-order",
-      "is_new": true
-    },
-    {
-      "title": "France asked ISPs to prepare temporary DNS blocks for major social platforms",
-      "link": "https://www.blast-info.fr/articles/2026/information-exclusive-blast-le-premier-ministre-a-prepare-la-coupure-des-reseaux-sociaux-pour-le-24-octobre-9D8cgrU5S5iiW14Sb9nMzQ",
-      "is_new": true
-    },
-    {
-      "title": "Cannabis legalisation and cardiovascular hospitalisations in the USA",
-      "link": "https://bmjopen.bmj.com/content/16/10/e111050",
-      "is_new": true
-    },
-    {
-      "title": "Online censorship is crushing indie webcomics",
-      "link": "https://xtramagazine.com/culture/online-censorship-indie-webcomics-284463",
-      "is_new": true
-    },
-    {
-      "title": "Pragtical v3.14 Lua-based text editor adds menus, floating views, and sessions",
-      "link": "https://pragtical.dev/blog/pragtical-v3140-release",
-      "is_new": false
-    },
-    {
-      "title": "Roku developer repositories moved from GitHub to GitLab",
-      "link": "https://blog.roku.com/developer/gitlab-move",
-      "is_new": false
-    },
-    {
-      "title": "In Rainbows",
-      "link": "https://hitogata.neocities.org/Rainbows",
-      "is_new": false
-    },
-    {
-      "title": "Bbtree: Fastest Ordered Map",
-      "link": "https://bbtree.xiangpeng.systems/post/",
-      "is_new": false
-    },
-    {
-      "title": "Show HN: Steal My Bitcoin",
-      "link": "https://stealmybitcoin.com/",
       "is_new": false
     }
   ]
