@@ -1,30 +1,30 @@
 {
-  "crawled_at": "2026-10-26 06:23",
-  "prev_crawled_at": "2026-10-26 03:04",
+  "crawled_at": "2026-10-26 08:45",
+  "prev_crawled_at": "2026-10-26 06:23",
   "items": [
     {
       "title": "Dolly Parton's Imagination Library",
       "link": "https://imaginationlibrary.com/",
-      "is_new": true
+      "is_new": false
     },
     {
-      "title": "Eunice is almost here",
-      "link": "https://armincat.com/articles/eunice-is-almost-here",
-      "is_new": true
+      "title": "Overgrown, when plants invade your abandoned tabs",
+      "link": "https://charliegerard.dev/blog/overgrown-extension/",
+      "is_new": false
     },
     {
       "title": "What goes into making an animated film?",
       "link": "https://www.disneyanimation.com/process/",
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Why I Am a Programmer",
       "link": "https://www.alfie.wtf/programming/why-i-am-a-programmer.html",
-      "is_new": true
+      "is_new": false
     },
     {
-      "title": "Gheist campaign plants secret-dumping workflows using stolen GitHub tokens",
-      "link": "https://www.wiz.io/blog/gheist-attempted-scaled-abuse-of-stolen-github-tokens-stumbles",
+      "title": "The State of Context Engineering",
+      "link": "https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html",
       "is_new": true
     },
     {
@@ -38,28 +38,43 @@
       "is_new": false
     },
     {
+      "title": "Reverse engineering a Beyblade launch tracker",
+      "link": "https://blog.simone.computer/reverse-beyblade-launch-tracker",
+      "is_new": true
+    },
+    {
+      "title": "Serbia's Vucic concedes election defeat in historic win for student movement",
+      "link": "https://www.reuters.com/world/europe/serbia-votes-students-seek-unseat-vucic-snap-election-2026-10-25/",
+      "is_new": true
+    },
+    {
       "title": "Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop",
       "link": "https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/",
-      "is_new": true
-    },
-    {
-      "title": "The U.S. Power Grid",
-      "link": "https://nomagicpill.site/knowledge/powergrid.html",
-      "is_new": true
-    },
-    {
-      "title": "VCF Southwest 2026, but Edited on Silicon Graphics for '90s TV [video]",
-      "link": "https://www.youtube.com/watch?v=46wxttvq9qY",
       "is_new": false
     },
     {
-      "title": "Show HN: Hurston-1 open source TTS that speak Southern American and Afro-English",
-      "link": "https://huggingface.co/destined/hurston-1",
+      "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+      "link": "https://minimaxir.com/2026/10/cheap-llms/",
       "is_new": true
     },
     {
-      "title": "UTS #39: Unicode Security Mechanisms",
-      "link": "https://unicode.org/reports/tr39/",
+      "title": "Eunice is almost here",
+      "link": "https://armincat.com/articles/eunice-is-almost-here",
+      "is_new": false
+    },
+    {
+      "title": "Making the Buddha Head from Merv Whole Again",
+      "link": "https://www.getty.edu/news/buddha-head-of-merv-turkmenistan-conservation/",
+      "is_new": true
+    },
+    {
+      "title": "Where the Romans Fought (interactive map)",
+      "link": "https://iosiflazaridis.github.io/battles-of-the-romans/",
+      "is_new": false
+    },
+    {
+      "title": "Amazon's \"digital pacifier\" for toddlers",
+      "link": "https://oligarchwatch.substack.com/p/amazons-digital-pacifier-for-toddlers",
       "is_new": true
     },
     {
@@ -68,24 +83,39 @@
       "is_new": false
     },
     {
-      "title": "Where the Romans Fought (interactive map)",
-      "link": "https://iosiflazaridis.github.io/battles-of-the-romans/",
-      "is_new": true
-    },
-    {
       "title": "Active incident at Dreamhost forcing password reset",
       "link": "https://www.dreamhoststatus.com/",
       "is_new": false
     },
     {
-      "title": "Recreate the Apollo Guidance Computer",
-      "link": "https://www.raspberrypi.com/news/recreate-the-apollo-guidance-computer/",
-      "is_new": true
+      "title": "VCF Southwest 2026, but Edited on Silicon Graphics for '90s TV [video]",
+      "link": "https://www.youtube.com/watch?v=46wxttvq9qY",
+      "is_new": false
+    },
+    {
+      "title": "UTS #39: Unicode Security Mechanisms",
+      "link": "https://unicode.org/reports/tr39/",
+      "is_new": false
+    },
+    {
+      "title": "The U.S. Power Grid",
+      "link": "https://nomagicpill.site/knowledge/powergrid.html",
+      "is_new": false
+    },
+    {
+      "title": "Show HN: Hurston-1 open source TTS that speak Southern American and Afro-English",
+      "link": "https://huggingface.co/destined/hurston-1",
+      "is_new": false
     },
     {
       "title": "JetBrains Thinkrail",
       "link": "https://github.com/JetBrains/thinkrail",
-      "is_new": true
+      "is_new": false
+    },
+    {
+      "title": "Gheist campaign plants secret-dumping workflows using stolen GitHub tokens",
+      "link": "https://www.wiz.io/blog/gheist-attempted-scaled-abuse-of-stolen-github-tokens-stumbles",
+      "is_new": false
     },
     {
       "title": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
@@ -93,9 +123,14 @@
       "is_new": false
     },
     {
-      "title": "Overgrown, when plants invade your abandoned tabs",
-      "link": "https://charliegerard.dev/blog/overgrown-extension/",
-      "is_new": true
+      "title": "Recreate the Apollo Guidance Computer",
+      "link": "https://www.raspberrypi.com/news/recreate-the-apollo-guidance-computer/",
+      "is_new": false
+    },
+    {
+      "title": "Root shell on Samsung TV",
+      "link": "https://twitter.com/log4j/status/2113014142600953868?s=46",
+      "is_new": false
     },
     {
       "title": "Cerebras Deploys Trillion-Parameter AI Models",
@@ -103,14 +138,26 @@
       "is_new": false
     },
     {
-      "title": "Moderna and Merck say their mRNA cancer vaccine cut death, recurrence by 42%",
-      "link": "https://arstechnica.com/health/2026/10/personalized-mrna-cancer-vaccine-cut-melanoma-death-recurrence-by-42/",
+      "title": "A mathematician reads the AI future",
+      "link": "https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133/",
       "is_new": true
     },
     {
-      "title": "Root shell on Samsung TV",
-      "link": "https://twitter.com/log4j/status/2113014142600953868?s=46",
-      "is_new": false
+      "title": "Focused Company Operating Principles",
+      "link": "https://focused.io/operating-principles",
+      "is_new": true
+    },
+    {
+      "title": "Proton Flock Camera Map",
+      "link": "https://proton.me/flock-camera-map",
+      "is_new": true
+    }
+  ],
+  "removed": [
+    {
+      "title": "Moderna and Merck say their mRNA cancer vaccine cut death, recurrence by 42%",
+      "link": "https://arstechnica.com/health/2026/10/personalized-mrna-cancer-vaccine-cut-melanoma-death-recurrence-by-42/",
+      "is_new": true
     },
     {
       "title": "All you need is Wide Events, not \"Metrics, Logs and Traces\"",
@@ -150,88 +197,6 @@
     {
       "title": "SpeedCrunch 1.1",
       "link": "https://www.speedcrunch.org/",
-      "is_new": false
-    }
-  ],
-  "removed": [
-    {
-      "title": "Bring Back the Cool Save File Screens",
-      "link": "https://scabshack.lol/posts/bring-back-the-cool-save-file-screens",
-      "is_new": true
-    },
-    {
-      "title": "Jukebox-OS: Deterministic time-travel replay and ACID tool sandbox for AI agents",
-      "link": "https://github.com/socrates6969/jukebox-os",
-      "is_new": true
-    },
-    {
-      "title": "A Mathematician Reads the AI Future",
-      "link": "https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133/",
-      "is_new": true
-    },
-    {
-      "title": "Reverse engineer of PC-98 Touhou games retires",
-      "link": "https://rec98.nmlgc.net/blog/2026-10-05",
-      "is_new": false
-    },
-    {
-      "title": "What Adobe v ArtCraft teaches us",
-      "link": "https://techbronerd.substack.com/p/openai-and-anthropic-wanted-to-replace",
-      "is_new": true
-    },
-    {
-      "title": "Fuck Nuance (2015)",
-      "link": "https://crookedtimber.org/2015/08/31/fuck-nuance/",
-      "is_new": true
-    },
-    {
-      "title": "Flapping Airplanes",
-      "link": "https://flappingairplanes.com/",
-      "is_new": true
-    },
-    {
-      "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
-      "link": "https://edjefferson.com/localwiki/",
-      "is_new": false
-    },
-    {
-      "title": "Small Programs and Languages",
-      "link": "https://ratfactor.com/cards/pl-small",
-      "is_new": false
-    },
-    {
-      "title": "Nikon photography contest winner loses title after scientists spot signs of AI",
-      "link": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html",
-      "is_new": false
-    },
-    {
-      "title": "Broccoli2Shell: Brotli decoder RCE in Node.js, Python and more",
-      "link": "https://broccoli2shell.com/",
-      "is_new": true
-    },
-    {
-      "title": "A few thoughts on intensity (2024)",
-      "link": "https://www.tylerhogge.com/blog/a-few-thoughts-on-intensity/",
-      "is_new": true
-    },
-    {
-      "title": "I don't understand quantum physics (2018)",
-      "link": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
-      "is_new": false
-    },
-    {
-      "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
-      "link": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
-      "is_new": false
-    },
-    {
-      "title": "GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards",
-      "link": "https://github.com/Zagitta/gpu-unlock",
-      "is_new": false
-    },
-    {
-      "title": "Tool book of a Nuremberg knight from 1505",
-      "link": "https://loeffelholz-codex.org/en/",
       "is_new": false
     }
   ]
