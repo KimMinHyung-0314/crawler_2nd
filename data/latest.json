@@ -1,10 +1,20 @@
 {
-  "crawled_at": "2026-10-25 19:38",
-  "prev_crawled_at": "2026-10-25 14:37",
+  "crawled_at": "2026-10-25 23:45",
+  "prev_crawled_at": "2026-10-25 19:38",
   "items": [
     {
-      "title": "Meta Ignores Brazilian Court Order to End Bolsonaro Favoritism",
-      "link": "https://www.panamericandispatch.org/p/meta-ignores-brazilian-court-order",
+      "title": "Tool book of a Nuremberg knight from 1505",
+      "link": "https://loeffelholz-codex.org/en/",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: Farol – a risk map of a pull request for the person who approves it",
+      "link": "https://github.com/winnin/farol",
+      "is_new": true
+    },
+    {
+      "title": "fheroes2: A recreation of Heroes of Might and Magic II game engine",
+      "link": "https://github.com/ihhub/fheroes2",
       "is_new": true
     },
     {
@@ -20,7 +30,7 @@
     {
       "title": "How Japanese Dried Bonito Is Made",
       "link": "https://kottke.org/26/10/how-japanese-dried-bonito-is-made",
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "The Goose Programming Language",
@@ -28,13 +38,28 @@
       "is_new": false
     },
     {
-      "title": "Rewriting a Commercial Engine in Jai",
-      "link": "https://polygonjs.com/blog/why-i-rewrote-polygon-from-scratch",
+      "title": "The Lego group reveals collaboration with Daft Punk",
+      "link": "https://www.lego.com/en-us/categories/adults-welcome/article/daft-punk",
       "is_new": true
     },
     {
-      "title": "France asked ISPs to prepare temporary DNS blocks for major social platforms",
-      "link": "https://www.blast-info.fr/articles/2026/information-exclusive-blast-le-premier-ministre-a-prepare-la-coupure-des-reseaux-sociaux-pour-le-24-octobre-9D8cgrU5S5iiW14Sb9nMzQ",
+      "title": "Samsung running a TensorFlow lite model on 960x540 image to track you",
+      "link": "https://twitter.com/mike64_t/status/2114150399406202896",
+      "is_new": true
+    },
+    {
+      "title": "Reverse engineer of PC-98 Touhou games retires",
+      "link": "https://rec98.nmlgc.net/blog/2026-10-05",
+      "is_new": true
+    },
+    {
+      "title": "R/open source bans all solo projects and projects using LLMs",
+      "link": "https://www.reddit.com/r/opensource/comments/1xelcuf/your_tokens_arent_valuable_no_more_ai",
+      "is_new": true
+    },
+    {
+      "title": "Nikon photography contest winner loses title after scientists spot signs of AI",
+      "link": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html",
       "is_new": true
     },
     {
@@ -43,8 +68,8 @@
       "is_new": false
     },
     {
-      "title": "Cannabis legalisation and cardiovascular hospitalisations in the USA",
-      "link": "https://bmjopen.bmj.com/content/16/10/e111050",
+      "title": "Did it just build.. a clock?",
+      "link": "https://theclock.online/",
       "is_new": true
     },
     {
@@ -53,28 +78,8 @@
       "is_new": false
     },
     {
-      "title": "Why Gopher in 2026?",
-      "link": "https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt",
-      "is_new": false
-    },
-    {
-      "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
-      "link": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
-      "is_new": false
-    },
-    {
-      "title": "I Built a Stereo Vision Board for Hardware Hackers",
-      "link": "https://rootkitlabs.com/2026/10/06/i-built-a-stereo-vision-board-for-hardware-hackers/",
-      "is_new": false
-    },
-    {
       "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
       "link": "https://edjefferson.com/localwiki/",
-      "is_new": false
-    },
-    {
-      "title": "I don't understand quantum physics (2018)",
-      "link": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
       "is_new": false
     },
     {
@@ -83,13 +88,28 @@
       "is_new": false
     },
     {
-      "title": "Online censorship is crushing indie webcomics",
-      "link": "https://xtramagazine.com/culture/online-censorship-indie-webcomics-284463",
-      "is_new": true
+      "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
+      "link": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+      "is_new": false
+    },
+    {
+      "title": "I don't understand quantum physics (2018)",
+      "link": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
+      "is_new": false
+    },
+    {
+      "title": "I Built a Stereo Vision Board for Hardware Hackers",
+      "link": "https://rootkitlabs.com/2026/10/06/i-built-a-stereo-vision-board-for-hardware-hackers/",
+      "is_new": false
     },
     {
       "title": "FreeDNS",
       "link": "https://freedns.afraid.org/",
+      "is_new": false
+    },
+    {
+      "title": "Why Gopher in 2026?",
+      "link": "https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt",
       "is_new": false
     },
     {
@@ -98,8 +118,28 @@
       "is_new": false
     },
     {
+      "title": "GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards",
+      "link": "https://github.com/Zagitta/gpu-unlock",
+      "is_new": false
+    },
+    {
+      "title": "Rewriting a Commercial Engine in Jai",
+      "link": "https://polygonjs.com/blog/why-i-rewrote-polygon-from-scratch",
+      "is_new": false
+    },
+    {
       "title": "Social dynamics of toxic metal industry in medieval Europe",
       "link": "https://www.cambridge.org/core/journals/antiquity/article/social-dynamics-of-toxic-metal-industry-in-medieval-europe-peak-district-lead-production-ad-6001500/34A2A16AC99B1B12E3EB99CEA1DDB829",
+      "is_new": false
+    },
+    {
+      "title": "Neural chip decodes interactions between brain regions",
+      "link": "https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/",
+      "is_new": false
+    },
+    {
+      "title": "Physicists trap a single antimatter particle for a month",
+      "link": "https://www.scientificamerican.com/article/physicists-trap-a-single-antimatter-particle-for-a-month/",
       "is_new": false
     },
     {
@@ -111,25 +151,32 @@
       "title": "The St. Helena 5 pence coin shows Jonathan, a roughly 190 year old tortoise",
       "link": "https://de.numista.com/9866",
       "is_new": false
+    }
+  ],
+  "removed": [
+    {
+      "title": "Meta Ignores Brazilian Court Order to End Bolsonaro Favoritism",
+      "link": "https://www.panamericandispatch.org/p/meta-ignores-brazilian-court-order",
+      "is_new": true
     },
     {
-      "title": "GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards",
-      "link": "https://github.com/Zagitta/gpu-unlock",
-      "is_new": false
+      "title": "France asked ISPs to prepare temporary DNS blocks for major social platforms",
+      "link": "https://www.blast-info.fr/articles/2026/information-exclusive-blast-le-premier-ministre-a-prepare-la-coupure-des-reseaux-sociaux-pour-le-24-octobre-9D8cgrU5S5iiW14Sb9nMzQ",
+      "is_new": true
+    },
+    {
+      "title": "Cannabis legalisation and cardiovascular hospitalisations in the USA",
+      "link": "https://bmjopen.bmj.com/content/16/10/e111050",
+      "is_new": true
+    },
+    {
+      "title": "Online censorship is crushing indie webcomics",
+      "link": "https://xtramagazine.com/culture/online-censorship-indie-webcomics-284463",
+      "is_new": true
     },
     {
       "title": "Pragtical v3.14 Lua-based text editor adds menus, floating views, and sessions",
       "link": "https://pragtical.dev/blog/pragtical-v3140-release",
-      "is_new": false
-    },
-    {
-      "title": "Neural chip decodes interactions between brain regions",
-      "link": "https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/",
-      "is_new": false
-    },
-    {
-      "title": "Physicists trap a single antimatter particle for a month",
-      "link": "https://www.scientificamerican.com/article/physicists-trap-a-single-antimatter-particle-for-a-month/",
       "is_new": false
     },
     {
@@ -151,38 +198,6 @@
       "title": "Show HN: Steal My Bitcoin",
       "link": "https://stealmybitcoin.com/",
       "is_new": false
-    }
-  ],
-  "removed": [
-    {
-      "title": "Five Qwen3.8-27B models match Fable 5 Using GVS5H Harness",
-      "link": "https://github.com/slee-persis/GVS5H",
-      "is_new": true
-    },
-    {
-      "title": "Meta employees say Lula’s accounts restricted in Brazil election: Report",
-      "link": "https://www.aljazeera.com/economy/2026/10/16/meta-employees-say-lulas-accounts-restricted-in-brazil-election-report",
-      "is_new": true
-    },
-    {
-      "title": "Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz",
-      "link": "https://missileer.watch",
-      "is_new": false
-    },
-    {
-      "title": "Xbox Turns Down Netflix $500M Offer",
-      "link": "https://www.darkhorizons.com/xbox-turns-down-netflix-500-million-offer/",
-      "is_new": true
-    },
-    {
-      "title": "Monoidal computer I: Basic computability by string diagrams (2012)",
-      "link": "https://arxiv.org/abs/1208.5205",
-      "is_new": true
-    },
-    {
-      "title": "Reactive Optimizers: rewrite the optimizer's source code during training",
-      "link": "https://xingjianbai.com/reactive-optimizers/",
-      "is_new": true
     }
   ]
 }
