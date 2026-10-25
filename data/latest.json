@@ -1,10 +1,10 @@
 {
-  "crawled_at": "2026-10-25 09:46",
-  "prev_crawled_at": "2026-10-25 07:51",
+  "crawled_at": "2026-10-25 14:37",
+  "prev_crawled_at": "2026-10-25 09:46",
   "items": [
     {
-      "title": "America Has Lost 200k of Jobs in Media, Film and the Arts. How Much Is AI?",
-      "link": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+      "title": "Five Qwen3.8-27B models match Fable 5 Using GVS5H Harness",
+      "link": "https://github.com/slee-persis/GVS5H",
       "is_new": true
     },
     {
@@ -13,29 +13,19 @@
       "is_new": false
     },
     {
+      "title": "Cerebras Deploys Trillion-Parameter AI Models",
+      "link": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+      "is_new": true
+    },
+    {
       "title": "The Goose Programming Language",
       "link": "https://aardappel.github.io/goose/",
       "is_new": false
     },
     {
-      "title": "Roku developer repositories moved from GitHub to GitLab",
-      "link": "https://blog.roku.com/developer/gitlab-move",
+      "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
+      "link": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
       "is_new": false
-    },
-    {
-      "title": "Show HN: Steal My Bitcoin",
-      "link": "https://stealmybitcoin.com/",
-      "is_new": false
-    },
-    {
-      "title": "Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz",
-      "link": "https://missileer.watch",
-      "is_new": false
-    },
-    {
-      "title": "Why Gopher in 2026?",
-      "link": "https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt",
-      "is_new": true
     },
     {
       "title": "SpeedCrunch 1.1",
@@ -48,18 +38,43 @@
       "is_new": false
     },
     {
-      "title": "I Built a Stereo Vision Board for Hardware Hackers",
-      "link": "https://rootkitlabs.com/2026/10/06/i-built-a-stereo-vision-board-for-hardware-hackers/",
+      "title": "In Rainbows",
+      "link": "https://hitogata.neocities.org/Rainbows",
       "is_new": true
     },
     {
-      "title": "Social dynamics of toxic metal industry in medieval Europe",
-      "link": "https://www.cambridge.org/core/journals/antiquity/article/social-dynamics-of-toxic-metal-industry-in-medieval-europe-peak-district-lead-production-ad-6001500/34A2A16AC99B1B12E3EB99CEA1DDB829",
+      "title": "Pragtical v3.14 Lua-based text editor adds menus, floating views, and sessions",
+      "link": "https://pragtical.dev/blog/pragtical-v3140-release",
       "is_new": true
+    },
+    {
+      "title": "I Built a Stereo Vision Board for Hardware Hackers",
+      "link": "https://rootkitlabs.com/2026/10/06/i-built-a-stereo-vision-board-for-hardware-hackers/",
+      "is_new": false
+    },
+    {
+      "title": "Why Gopher in 2026?",
+      "link": "https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt",
+      "is_new": false
+    },
+    {
+      "title": "Meta employees say Lula’s accounts restricted in Brazil election: Report",
+      "link": "https://www.aljazeera.com/economy/2026/10/16/meta-employees-say-lulas-accounts-restricted-in-brazil-election-report",
+      "is_new": true
+    },
+    {
+      "title": "Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz",
+      "link": "https://missileer.watch",
+      "is_new": false
     },
     {
       "title": "FreeDNS",
       "link": "https://freedns.afraid.org/",
+      "is_new": false
+    },
+    {
+      "title": "The Importance of Limitations for Creativity and Learning (2023)",
+      "link": "https://ratfactor.com/cards/limitations",
       "is_new": false
     },
     {
@@ -68,13 +83,43 @@
       "is_new": false
     },
     {
+      "title": "Social dynamics of toxic metal industry in medieval Europe",
+      "link": "https://www.cambridge.org/core/journals/antiquity/article/social-dynamics-of-toxic-metal-industry-in-medieval-europe-peak-district-lead-production-ad-6001500/34A2A16AC99B1B12E3EB99CEA1DDB829",
+      "is_new": false
+    },
+    {
+      "title": "Xbox Turns Down Netflix $500M Offer",
+      "link": "https://www.darkhorizons.com/xbox-turns-down-netflix-500-million-offer/",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: Steal My Bitcoin",
+      "link": "https://stealmybitcoin.com/",
+      "is_new": false
+    },
+    {
+      "title": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",
+      "link": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497",
+      "is_new": false
+    },
+    {
       "title": "The St. Helena 5 pence coin shows Jonathan, a roughly 190 year old tortoise",
       "link": "https://de.numista.com/9866",
       "is_new": false
     },
     {
-      "title": "The Importance of Limitations for Creativity and Learning",
-      "link": "https://ratfactor.com/cards/limitations",
+      "title": "A story of a Figma bug that wasn't a bug at all (2021)",
+      "link": "https://aresluna.org/this-is-a-story-of-a-figma-bug/",
+      "is_new": true
+    },
+    {
+      "title": "Monoidal computer I: Basic computability by string diagrams (2012)",
+      "link": "https://arxiv.org/abs/1208.5205",
+      "is_new": true
+    },
+    {
+      "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
+      "link": "https://edjefferson.com/localwiki/",
       "is_new": false
     },
     {
@@ -83,10 +128,32 @@
       "is_new": false
     },
     {
-      "title": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",
-      "link": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497",
+      "title": "Roku developer repositories moved from GitHub to GitLab",
+      "link": "https://blog.roku.com/developer/gitlab-move",
       "is_new": false
     },
+    {
+      "title": "Bbtree: Fastest Ordered Map",
+      "link": "https://bbtree.xiangpeng.systems/post/",
+      "is_new": false
+    },
+    {
+      "title": "GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards",
+      "link": "https://github.com/Zagitta/gpu-unlock",
+      "is_new": false
+    },
+    {
+      "title": "Reactive Optimizers: rewrite the optimizer's source code during training",
+      "link": "https://xingjianbai.com/reactive-optimizers/",
+      "is_new": true
+    },
+    {
+      "title": "Physicists trap a single antimatter particle for a month",
+      "link": "https://www.scientificamerican.com/article/physicists-trap-a-single-antimatter-particle-for-a-month/",
+      "is_new": false
+    }
+  ],
+  "removed": [
     {
       "title": "Google has officially turned these Nest thermostats back into dumb thermostats",
       "link": "https://www.makeuseof.com/google-nest-thermostats-unsupported/",
@@ -100,26 +167,6 @@
     {
       "title": "No signs of AI payoff outside the tech sector",
       "link": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
-      "is_new": false
-    },
-    {
-      "title": "Physicists trap a single antimatter particle for a month",
-      "link": "https://www.scientificamerican.com/article/physicists-trap-a-single-antimatter-particle-for-a-month/",
-      "is_new": false
-    },
-    {
-      "title": "GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards",
-      "link": "https://github.com/Zagitta/gpu-unlock",
-      "is_new": false
-    },
-    {
-      "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
-      "link": "https://edjefferson.com/localwiki/",
-      "is_new": false
-    },
-    {
-      "title": "Bbtree: Fastest Ordered Map",
-      "link": "https://bbtree.xiangpeng.systems/post/",
       "is_new": false
     },
     {
@@ -150,33 +197,6 @@
     {
       "title": "How close can pure functional programming get to C?",
       "link": "https://rtfeldman.com/fp-vs-c",
-      "is_new": false
-    }
-  ],
-  "removed": [
-    {
-      "title": "Full Disk Encryption on Fedora with TPM2",
-      "link": "https://www.apalrd.net/posts/2026/ent_luks/",
-      "is_new": true
-    },
-    {
-      "title": "Zac-OS-9: The classic Platinum desktop, reborn for modern PCs",
-      "link": "https://sourceforge.net/projects/zac-os-9/",
-      "is_new": false
-    },
-    {
-      "title": "Dream-1",
-      "link": "https://dreamlabs.ai/research/dream-1/",
-      "is_new": false
-    },
-    {
-      "title": "Cecilia Berdichevsky, Clementina expert (1961)",
-      "link": "https://en.wikipedia.org/wiki/Cecilia_Berdichevsky",
-      "is_new": false
-    },
-    {
-      "title": "Why is AI generated language so hard to understand?",
-      "link": "https://arxiv.org/abs/2610.29162",
       "is_new": false
     }
   ]
