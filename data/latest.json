@@ -1,20 +1,65 @@
 {
-  "crawled_at": "2026-10-26 03:04",
-  "prev_crawled_at": "2026-10-25 23:45",
+  "crawled_at": "2026-10-26 06:23",
+  "prev_crawled_at": "2026-10-26 03:04",
   "items": [
+    {
+      "title": "Dolly Parton's Imagination Library",
+      "link": "https://imaginationlibrary.com/",
+      "is_new": true
+    },
+    {
+      "title": "Eunice is almost here",
+      "link": "https://armincat.com/articles/eunice-is-almost-here",
+      "is_new": true
+    },
+    {
+      "title": "What goes into making an animated film?",
+      "link": "https://www.disneyanimation.com/process/",
+      "is_new": true
+    },
+    {
+      "title": "Why I Am a Programmer",
+      "link": "https://www.alfie.wtf/programming/why-i-am-a-programmer.html",
+      "is_new": true
+    },
+    {
+      "title": "Gheist campaign plants secret-dumping workflows using stolen GitHub tokens",
+      "link": "https://www.wiz.io/blog/gheist-attempted-scaled-abuse-of-stolen-github-tokens-stumbles",
+      "is_new": true
+    },
     {
       "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
       "link": "https://lynchlab.net/llm-skin-cancer",
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
       "link": "https://talkweb.eu/openweb/4558/",
+      "is_new": false
+    },
+    {
+      "title": "Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop",
+      "link": "https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/",
+      "is_new": true
+    },
+    {
+      "title": "The U.S. Power Grid",
+      "link": "https://nomagicpill.site/knowledge/powergrid.html",
       "is_new": true
     },
     {
       "title": "VCF Southwest 2026, but Edited on Silicon Graphics for '90s TV [video]",
       "link": "https://www.youtube.com/watch?v=46wxttvq9qY",
+      "is_new": false
+    },
+    {
+      "title": "Show HN: Hurston-1 open source TTS that speak Southern American and Afro-English",
+      "link": "https://huggingface.co/destined/hurston-1",
+      "is_new": true
+    },
+    {
+      "title": "UTS #39: Unicode Security Mechanisms",
+      "link": "https://unicode.org/reports/tr39/",
       "is_new": true
     },
     {
@@ -23,23 +68,33 @@
       "is_new": false
     },
     {
-      "title": "Sabre Wulf Remastered",
-      "link": "https://gp-64.com/swr/",
+      "title": "Where the Romans Fought (interactive map)",
+      "link": "https://iosiflazaridis.github.io/battles-of-the-romans/",
       "is_new": true
     },
     {
-      "title": "Bring Back the Cool Save File Screens",
-      "link": "https://scabshack.lol/posts/bring-back-the-cool-save-file-screens",
+      "title": "Active incident at Dreamhost forcing password reset",
+      "link": "https://www.dreamhoststatus.com/",
+      "is_new": false
+    },
+    {
+      "title": "Recreate the Apollo Guidance Computer",
+      "link": "https://www.raspberrypi.com/news/recreate-the-apollo-guidance-computer/",
       "is_new": true
     },
     {
-      "title": "Show HN: I put employees inside S&P 500 market-cap bubbles",
-      "link": "https://bigwhalehunting.com/workforce/",
+      "title": "JetBrains Thinkrail",
+      "link": "https://github.com/JetBrains/thinkrail",
       "is_new": true
     },
     {
-      "title": "Jukebox-OS: Deterministic time-travel replay and ACID tool sandbox for AI agents",
-      "link": "https://github.com/socrates6969/jukebox-os",
+      "title": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
+      "link": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
+      "is_new": false
+    },
+    {
+      "title": "Overgrown, when plants invade your abandoned tabs",
+      "link": "https://charliegerard.dev/blog/overgrown-extension/",
       "is_new": true
     },
     {
@@ -48,9 +103,24 @@
       "is_new": false
     },
     {
-      "title": "Active incident at Dreamhost forcing password reset",
-      "link": "https://www.dreamhoststatus.com/",
+      "title": "Moderna and Merck say their mRNA cancer vaccine cut death, recurrence by 42%",
+      "link": "https://arstechnica.com/health/2026/10/personalized-mrna-cancer-vaccine-cut-melanoma-death-recurrence-by-42/",
       "is_new": true
+    },
+    {
+      "title": "Root shell on Samsung TV",
+      "link": "https://twitter.com/log4j/status/2113014142600953868?s=46",
+      "is_new": false
+    },
+    {
+      "title": "All you need is Wide Events, not \"Metrics, Logs and Traces\"",
+      "link": "https://isburmistrov.substack.com/p/all-you-need-is-wide-events-not-metrics",
+      "is_new": true
+    },
+    {
+      "title": "The Goose Programming Language",
+      "link": "https://aardappel.github.io/goose/",
+      "is_new": false
     },
     {
       "title": "fheroes2: A recreation of Heroes of Might and Magic II game engine",
@@ -58,29 +128,46 @@
       "is_new": false
     },
     {
-      "title": "Root shell on Samsung TV",
-      "link": "https://twitter.com/log4j/status/2113014142600953868?s=46",
-      "is_new": true
-    },
-    {
       "title": "How Japanese Dried Bonito Is Made",
       "link": "https://kottke.org/26/10/how-japanese-dried-bonito-is-made",
       "is_new": false
     },
     {
-      "title": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
-      "link": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
+      "title": "Show HN: I put employees inside S&P 500 market-cap bubbles",
+      "link": "https://bigwhalehunting.com/workforce/",
+      "is_new": false
+    },
+    {
+      "title": "Sabre Wulf Remastered",
+      "link": "https://gp-64.com/swr/",
+      "is_new": false
+    },
+    {
+      "title": "Scientists rediscover how to make ancient Roman colour-changing glass",
+      "link": "https://www.theguardian.com/science/2026/oct/25/scientists-rediscover-ancient-roman-colour-changing-glass",
+      "is_new": true
+    },
+    {
+      "title": "SpeedCrunch 1.1",
+      "link": "https://www.speedcrunch.org/",
+      "is_new": false
+    }
+  ],
+  "removed": [
+    {
+      "title": "Bring Back the Cool Save File Screens",
+      "link": "https://scabshack.lol/posts/bring-back-the-cool-save-file-screens",
+      "is_new": true
+    },
+    {
+      "title": "Jukebox-OS: Deterministic time-travel replay and ACID tool sandbox for AI agents",
+      "link": "https://github.com/socrates6969/jukebox-os",
       "is_new": true
     },
     {
       "title": "A Mathematician Reads the AI Future",
       "link": "https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133/",
       "is_new": true
-    },
-    {
-      "title": "The Goose Programming Language",
-      "link": "https://aardappel.github.io/goose/",
-      "is_new": false
     },
     {
       "title": "Reverse engineer of PC-98 Touhou games retires",
@@ -91,11 +178,6 @@
       "title": "What Adobe v ArtCraft teaches us",
       "link": "https://techbronerd.substack.com/p/openai-and-anthropic-wanted-to-replace",
       "is_new": true
-    },
-    {
-      "title": "SpeedCrunch 1.1",
-      "link": "https://www.speedcrunch.org/",
-      "is_new": false
     },
     {
       "title": "Fuck Nuance (2015)",
@@ -150,88 +232,6 @@
     {
       "title": "Tool book of a Nuremberg knight from 1505",
       "link": "https://loeffelholz-codex.org/en/",
-      "is_new": false
-    }
-  ],
-  "removed": [
-    {
-      "title": "Show HN: Farol – a risk map of a pull request for the person who approves it",
-      "link": "https://github.com/winnin/farol",
-      "is_new": true
-    },
-    {
-      "title": "The Lego group reveals collaboration with Daft Punk",
-      "link": "https://www.lego.com/en-us/categories/adults-welcome/article/daft-punk",
-      "is_new": true
-    },
-    {
-      "title": "Samsung running a TensorFlow lite model on 960x540 image to track you",
-      "link": "https://twitter.com/mike64_t/status/2114150399406202896",
-      "is_new": true
-    },
-    {
-      "title": "R/open source bans all solo projects and projects using LLMs",
-      "link": "https://www.reddit.com/r/opensource/comments/1xelcuf/your_tokens_arent_valuable_no_more_ai",
-      "is_new": true
-    },
-    {
-      "title": "Did it just build.. a clock?",
-      "link": "https://theclock.online/",
-      "is_new": true
-    },
-    {
-      "title": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",
-      "link": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497",
-      "is_new": false
-    },
-    {
-      "title": "I Built a Stereo Vision Board for Hardware Hackers",
-      "link": "https://rootkitlabs.com/2026/10/06/i-built-a-stereo-vision-board-for-hardware-hackers/",
-      "is_new": false
-    },
-    {
-      "title": "FreeDNS",
-      "link": "https://freedns.afraid.org/",
-      "is_new": false
-    },
-    {
-      "title": "Why Gopher in 2026?",
-      "link": "https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt",
-      "is_new": false
-    },
-    {
-      "title": "The Importance of Limitations for Creativity and Learning (2023)",
-      "link": "https://ratfactor.com/cards/limitations",
-      "is_new": false
-    },
-    {
-      "title": "Rewriting a Commercial Engine in Jai",
-      "link": "https://polygonjs.com/blog/why-i-rewrote-polygon-from-scratch",
-      "is_new": false
-    },
-    {
-      "title": "Social dynamics of toxic metal industry in medieval Europe",
-      "link": "https://www.cambridge.org/core/journals/antiquity/article/social-dynamics-of-toxic-metal-industry-in-medieval-europe-peak-district-lead-production-ad-6001500/34A2A16AC99B1B12E3EB99CEA1DDB829",
-      "is_new": false
-    },
-    {
-      "title": "Neural chip decodes interactions between brain regions",
-      "link": "https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/",
-      "is_new": false
-    },
-    {
-      "title": "Physicists trap a single antimatter particle for a month",
-      "link": "https://www.scientificamerican.com/article/physicists-trap-a-single-antimatter-particle-for-a-month/",
-      "is_new": false
-    },
-    {
-      "title": "A story of a Figma bug that wasn't a bug at all (2021)",
-      "link": "https://aresluna.org/this-is-a-story-of-a-figma-bug/",
-      "is_new": false
-    },
-    {
-      "title": "The St. Helena 5 pence coin shows Jonathan, a roughly 190 year old tortoise",
-      "link": "https://de.numista.com/9866",
       "is_new": false
     }
   ]
