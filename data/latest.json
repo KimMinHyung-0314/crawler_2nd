@@ -1,10 +1,10 @@
 {
-  "crawled_at": "2026-10-25 14:37",
-  "prev_crawled_at": "2026-10-25 09:46",
+  "crawled_at": "2026-10-25 19:38",
+  "prev_crawled_at": "2026-10-25 14:37",
   "items": [
     {
-      "title": "Five Qwen3.8-27B models match Fable 5 Using GVS5H Harness",
-      "link": "https://github.com/slee-persis/GVS5H",
+      "title": "Meta Ignores Brazilian Court Order to End Bolsonaro Favoritism",
+      "link": "https://www.panamericandispatch.org/p/meta-ignores-brazilian-court-order",
       "is_new": true
     },
     {
@@ -15,6 +15,11 @@
     {
       "title": "Cerebras Deploys Trillion-Parameter AI Models",
       "link": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+      "is_new": false
+    },
+    {
+      "title": "How Japanese Dried Bonito Is Made",
+      "link": "https://kottke.org/26/10/how-japanese-dried-bonito-is-made",
       "is_new": true
     },
     {
@@ -23,9 +28,14 @@
       "is_new": false
     },
     {
-      "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
-      "link": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
-      "is_new": false
+      "title": "Rewriting a Commercial Engine in Jai",
+      "link": "https://polygonjs.com/blog/why-i-rewrote-polygon-from-scratch",
+      "is_new": true
+    },
+    {
+      "title": "France asked ISPs to prepare temporary DNS blocks for major social platforms",
+      "link": "https://www.blast-info.fr/articles/2026/information-exclusive-blast-le-premier-ministre-a-prepare-la-coupure-des-reseaux-sociaux-pour-le-24-octobre-9D8cgrU5S5iiW14Sb9nMzQ",
+      "is_new": true
     },
     {
       "title": "SpeedCrunch 1.1",
@@ -33,23 +43,13 @@
       "is_new": false
     },
     {
+      "title": "Cannabis legalisation and cardiovascular hospitalisations in the USA",
+      "link": "https://bmjopen.bmj.com/content/16/10/e111050",
+      "is_new": true
+    },
+    {
       "title": "Small Programs and Languages",
       "link": "https://ratfactor.com/cards/pl-small",
-      "is_new": false
-    },
-    {
-      "title": "In Rainbows",
-      "link": "https://hitogata.neocities.org/Rainbows",
-      "is_new": true
-    },
-    {
-      "title": "Pragtical v3.14 Lua-based text editor adds menus, floating views, and sessions",
-      "link": "https://pragtical.dev/blog/pragtical-v3140-release",
-      "is_new": true
-    },
-    {
-      "title": "I Built a Stereo Vision Board for Hardware Hackers",
-      "link": "https://rootkitlabs.com/2026/10/06/i-built-a-stereo-vision-board-for-hardware-hackers/",
       "is_new": false
     },
     {
@@ -58,14 +58,34 @@
       "is_new": false
     },
     {
-      "title": "Meta employees say Lula’s accounts restricted in Brazil election: Report",
-      "link": "https://www.aljazeera.com/economy/2026/10/16/meta-employees-say-lulas-accounts-restricted-in-brazil-election-report",
-      "is_new": true
+      "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
+      "link": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+      "is_new": false
     },
     {
-      "title": "Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz",
-      "link": "https://missileer.watch",
+      "title": "I Built a Stereo Vision Board for Hardware Hackers",
+      "link": "https://rootkitlabs.com/2026/10/06/i-built-a-stereo-vision-board-for-hardware-hackers/",
       "is_new": false
+    },
+    {
+      "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
+      "link": "https://edjefferson.com/localwiki/",
+      "is_new": false
+    },
+    {
+      "title": "I don't understand quantum physics (2018)",
+      "link": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
+      "is_new": false
+    },
+    {
+      "title": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",
+      "link": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497",
+      "is_new": false
+    },
+    {
+      "title": "Online censorship is crushing indie webcomics",
+      "link": "https://xtramagazine.com/culture/online-censorship-indie-webcomics-284463",
+      "is_new": true
     },
     {
       "title": "FreeDNS",
@@ -78,28 +98,13 @@
       "is_new": false
     },
     {
-      "title": "I don't understand quantum physics (2018)",
-      "link": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
-      "is_new": false
-    },
-    {
       "title": "Social dynamics of toxic metal industry in medieval Europe",
       "link": "https://www.cambridge.org/core/journals/antiquity/article/social-dynamics-of-toxic-metal-industry-in-medieval-europe-peak-district-lead-production-ad-6001500/34A2A16AC99B1B12E3EB99CEA1DDB829",
       "is_new": false
     },
     {
-      "title": "Xbox Turns Down Netflix $500M Offer",
-      "link": "https://www.darkhorizons.com/xbox-turns-down-netflix-500-million-offer/",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: Steal My Bitcoin",
-      "link": "https://stealmybitcoin.com/",
-      "is_new": false
-    },
-    {
-      "title": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",
-      "link": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497",
+      "title": "A story of a Figma bug that wasn't a bug at all (2021)",
+      "link": "https://aresluna.org/this-is-a-story-of-a-figma-bug/",
       "is_new": false
     },
     {
@@ -108,18 +113,13 @@
       "is_new": false
     },
     {
-      "title": "A story of a Figma bug that wasn't a bug at all (2021)",
-      "link": "https://aresluna.org/this-is-a-story-of-a-figma-bug/",
-      "is_new": true
+      "title": "GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards",
+      "link": "https://github.com/Zagitta/gpu-unlock",
+      "is_new": false
     },
     {
-      "title": "Monoidal computer I: Basic computability by string diagrams (2012)",
-      "link": "https://arxiv.org/abs/1208.5205",
-      "is_new": true
-    },
-    {
-      "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
-      "link": "https://edjefferson.com/localwiki/",
+      "title": "Pragtical v3.14 Lua-based text editor adds menus, floating views, and sessions",
+      "link": "https://pragtical.dev/blog/pragtical-v3140-release",
       "is_new": false
     },
     {
@@ -128,8 +128,18 @@
       "is_new": false
     },
     {
+      "title": "Physicists trap a single antimatter particle for a month",
+      "link": "https://www.scientificamerican.com/article/physicists-trap-a-single-antimatter-particle-for-a-month/",
+      "is_new": false
+    },
+    {
       "title": "Roku developer repositories moved from GitHub to GitLab",
       "link": "https://blog.roku.com/developer/gitlab-move",
+      "is_new": false
+    },
+    {
+      "title": "In Rainbows",
+      "link": "https://hitogata.neocities.org/Rainbows",
       "is_new": false
     },
     {
@@ -138,66 +148,41 @@
       "is_new": false
     },
     {
-      "title": "GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards",
-      "link": "https://github.com/Zagitta/gpu-unlock",
-      "is_new": false
-    },
-    {
-      "title": "Reactive Optimizers: rewrite the optimizer's source code during training",
-      "link": "https://xingjianbai.com/reactive-optimizers/",
-      "is_new": true
-    },
-    {
-      "title": "Physicists trap a single antimatter particle for a month",
-      "link": "https://www.scientificamerican.com/article/physicists-trap-a-single-antimatter-particle-for-a-month/",
+      "title": "Show HN: Steal My Bitcoin",
+      "link": "https://stealmybitcoin.com/",
       "is_new": false
     }
   ],
   "removed": [
     {
-      "title": "Google has officially turned these Nest thermostats back into dumb thermostats",
-      "link": "https://www.makeuseof.com/google-nest-thermostats-unsupported/",
+      "title": "Five Qwen3.8-27B models match Fable 5 Using GVS5H Harness",
+      "link": "https://github.com/slee-persis/GVS5H",
       "is_new": true
     },
     {
-      "title": "Making a VGA Driver in SystemVerilog",
-      "link": "https://lukaswerner.com/post/2026-10-20@bottom-up-vga",
+      "title": "Meta employees say Lula’s accounts restricted in Brazil election: Report",
+      "link": "https://www.aljazeera.com/economy/2026/10/16/meta-employees-say-lulas-accounts-restricted-in-brazil-election-report",
+      "is_new": true
+    },
+    {
+      "title": "Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz",
+      "link": "https://missileer.watch",
       "is_new": false
     },
     {
-      "title": "No signs of AI payoff outside the tech sector",
-      "link": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
-      "is_new": false
+      "title": "Xbox Turns Down Netflix $500M Offer",
+      "link": "https://www.darkhorizons.com/xbox-turns-down-netflix-500-million-offer/",
+      "is_new": true
     },
     {
-      "title": "Symbolic Learning in Python and Julia",
-      "link": "https://github.com/astroautomata/PySR",
-      "is_new": false
+      "title": "Monoidal computer I: Basic computability by string diagrams (2012)",
+      "link": "https://arxiv.org/abs/1208.5205",
+      "is_new": true
     },
     {
-      "title": "Twelve years of distributed SQLite",
-      "link": "https://philipotoole.com/twelve-years-of-distributed-sqlite/",
-      "is_new": false
-    },
-    {
-      "title": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
-      "link": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups/",
-      "is_new": false
-    },
-    {
-      "title": "Bringing uv and ty together",
-      "link": "https://astral.sh/blog/uv-ty-integration",
-      "is_new": false
-    },
-    {
-      "title": "TornadoVM 7 Enables GPU-Native Workloads from Java Applications",
-      "link": "https://www.infoq.com/news/2026/10/tornadovm-7-gpu/",
-      "is_new": false
-    },
-    {
-      "title": "How close can pure functional programming get to C?",
-      "link": "https://rtfeldman.com/fp-vs-c",
-      "is_new": false
+      "title": "Reactive Optimizers: rewrite the optimizer's source code during training",
+      "link": "https://xingjianbai.com/reactive-optimizers/",
+      "is_new": true
     }
   ]
 }
