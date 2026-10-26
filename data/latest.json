@@ -1,6 +1,6 @@
 {
-  "crawled_at": "2026-10-26 08:45",
-  "prev_crawled_at": "2026-10-26 06:23",
+  "crawled_at": "2026-10-26 12:00",
+  "prev_crawled_at": "2026-10-26 08:45",
   "items": [
     {
       "title": "Dolly Parton's Imagination Library",
@@ -8,14 +8,19 @@
       "is_new": false
     },
     {
+      "title": "F-Zero X on Nintendo 3DS",
+      "link": "https://hypnotize.works/gdx-3ds/postmortem/index.html",
+      "is_new": true
+    },
+    {
       "title": "Overgrown, when plants invade your abandoned tabs",
       "link": "https://charliegerard.dev/blog/overgrown-extension/",
       "is_new": false
     },
     {
-      "title": "What goes into making an animated film?",
-      "link": "https://www.disneyanimation.com/process/",
-      "is_new": false
+      "title": "Removing Next.js Got My Blog to 100 on Every Lighthouse Category",
+      "link": "https://korindiehacker.bloffy.blog/en/removing-nextjs-got-my-blog-to-100-on-every-lighthouse-category",
+      "is_new": true
     },
     {
       "title": "Why I Am a Programmer",
@@ -23,8 +28,23 @@
       "is_new": false
     },
     {
+      "title": "Attention Is Not What You Need (2025)",
+      "link": "https://arxiv.org/abs/2512.19428",
+      "is_new": true
+    },
+    {
+      "title": "What goes into making an animated film?",
+      "link": "https://www.disneyanimation.com/process/",
+      "is_new": false
+    },
+    {
       "title": "The State of Context Engineering",
       "link": "https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html",
+      "is_new": false
+    },
+    {
+      "title": "iPhone Duo Teardown",
+      "link": "https://www.ifixit.com/News/119895/iphone-duo-teardown",
       "is_new": true
     },
     {
@@ -33,29 +53,19 @@
       "is_new": false
     },
     {
-      "title": "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
-      "link": "https://talkweb.eu/openweb/4558/",
-      "is_new": false
-    },
-    {
-      "title": "Reverse engineering a Beyblade launch tracker",
-      "link": "https://blog.simone.computer/reverse-beyblade-launch-tracker",
+      "title": "IBM CEO says open weight models are now irresistibly good and cheap on-prem",
+      "link": "https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640",
       "is_new": true
     },
     {
-      "title": "Serbia's Vucic concedes election defeat in historic win for student movement",
-      "link": "https://www.reuters.com/world/europe/serbia-votes-students-seek-unseat-vucic-snap-election-2026-10-25/",
-      "is_new": true
-    },
-    {
-      "title": "Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop",
-      "link": "https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/",
+      "title": "Making the Buddha Head from Merv Whole Again",
+      "link": "https://www.getty.edu/news/buddha-head-of-merv-turkmenistan-conservation/",
       "is_new": false
     },
     {
       "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
       "link": "https://minimaxir.com/2026/10/cheap-llms/",
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Eunice is almost here",
@@ -63,8 +73,28 @@
       "is_new": false
     },
     {
-      "title": "Making the Buddha Head from Merv Whole Again",
-      "link": "https://www.getty.edu/news/buddha-head-of-merv-turkmenistan-conservation/",
+      "title": "Amazon's \"digital pacifier\" for toddlers",
+      "link": "https://oligarchwatch.substack.com/p/amazons-digital-pacifier-for-toddlers",
+      "is_new": false
+    },
+    {
+      "title": "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
+      "link": "https://talkweb.eu/openweb/4558/",
+      "is_new": false
+    },
+    {
+      "title": "We should be more ambitious with the software we build",
+      "link": "https://danluu.com/ambitious/",
+      "is_new": false
+    },
+    {
+      "title": "Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop",
+      "link": "https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/",
+      "is_new": false
+    },
+    {
+      "title": "Iron Age salt-mining complex found beneath Hallstatt in Austria",
+      "link": "https://archaeologymag.com/2026/09/iron-age-salt-mining-complex-beneath-hallstatt/",
       "is_new": true
     },
     {
@@ -73,18 +103,28 @@
       "is_new": false
     },
     {
-      "title": "Amazon's \"digital pacifier\" for toddlers",
-      "link": "https://oligarchwatch.substack.com/p/amazons-digital-pacifier-for-toddlers",
-      "is_new": true
-    },
-    {
-      "title": "We should be more ambitious with the software we build",
-      "link": "https://danluu.com/ambitious/",
+      "title": "Active incident at Dreamhost forcing password reset",
+      "link": "https://www.dreamhoststatus.com/",
       "is_new": false
     },
     {
-      "title": "Active incident at Dreamhost forcing password reset",
-      "link": "https://www.dreamhoststatus.com/",
+      "title": "Retired decorator's Pokémon cards sell for £1.5M",
+      "link": "https://www.bbc.co.uk/news/articles/cvp8gy1zwxxwo",
+      "is_new": true
+    },
+    {
+      "title": "Steal My Bitcoin CTF PoC",
+      "link": "https://github.com/KillaBoi/StealMyBitcoin-PoC",
+      "is_new": true
+    },
+    {
+      "title": "Reverse engineering a Beyblade launch tracker",
+      "link": "https://blog.simone.computer/reverse-beyblade-launch-tracker",
+      "is_new": false
+    },
+    {
+      "title": "Root shell on Samsung TV",
+      "link": "https://twitter.com/log4j/status/2113014142600953868?s=46",
       "is_new": false
     },
     {
@@ -93,18 +133,35 @@
       "is_new": false
     },
     {
+      "title": "Show HN: Hurston-1 open source TTS that speak Southern American and Afro-English",
+      "link": "https://huggingface.co/destined/hurston-1",
+      "is_new": false
+    },
+    {
+      "title": "Proton Flock Camera Map",
+      "link": "https://proton.me/flock-camera-map",
+      "is_new": false
+    },
+    {
       "title": "UTS #39: Unicode Security Mechanisms",
       "link": "https://unicode.org/reports/tr39/",
       "is_new": false
     },
     {
-      "title": "The U.S. Power Grid",
-      "link": "https://nomagicpill.site/knowledge/powergrid.html",
-      "is_new": false
+      "title": "Show HN: ADRs for AI – Deliberation records for human–AI work, versioned in Git",
+      "link": "https://adrs.systems",
+      "is_new": true
+    }
+  ],
+  "removed": [
+    {
+      "title": "Serbia's Vucic concedes election defeat in historic win for student movement",
+      "link": "https://www.reuters.com/world/europe/serbia-votes-students-seek-unseat-vucic-snap-election-2026-10-25/",
+      "is_new": true
     },
     {
-      "title": "Show HN: Hurston-1 open source TTS that speak Southern American and Afro-English",
-      "link": "https://huggingface.co/destined/hurston-1",
+      "title": "The U.S. Power Grid",
+      "link": "https://nomagicpill.site/knowledge/powergrid.html",
       "is_new": false
     },
     {
@@ -128,11 +185,6 @@
       "is_new": false
     },
     {
-      "title": "Root shell on Samsung TV",
-      "link": "https://twitter.com/log4j/status/2113014142600953868?s=46",
-      "is_new": false
-    },
-    {
       "title": "Cerebras Deploys Trillion-Parameter AI Models",
       "link": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
       "is_new": false
@@ -146,58 +198,6 @@
       "title": "Focused Company Operating Principles",
       "link": "https://focused.io/operating-principles",
       "is_new": true
-    },
-    {
-      "title": "Proton Flock Camera Map",
-      "link": "https://proton.me/flock-camera-map",
-      "is_new": true
-    }
-  ],
-  "removed": [
-    {
-      "title": "Moderna and Merck say their mRNA cancer vaccine cut death, recurrence by 42%",
-      "link": "https://arstechnica.com/health/2026/10/personalized-mrna-cancer-vaccine-cut-melanoma-death-recurrence-by-42/",
-      "is_new": true
-    },
-    {
-      "title": "All you need is Wide Events, not \"Metrics, Logs and Traces\"",
-      "link": "https://isburmistrov.substack.com/p/all-you-need-is-wide-events-not-metrics",
-      "is_new": true
-    },
-    {
-      "title": "The Goose Programming Language",
-      "link": "https://aardappel.github.io/goose/",
-      "is_new": false
-    },
-    {
-      "title": "fheroes2: A recreation of Heroes of Might and Magic II game engine",
-      "link": "https://github.com/ihhub/fheroes2",
-      "is_new": false
-    },
-    {
-      "title": "How Japanese Dried Bonito Is Made",
-      "link": "https://kottke.org/26/10/how-japanese-dried-bonito-is-made",
-      "is_new": false
-    },
-    {
-      "title": "Show HN: I put employees inside S&P 500 market-cap bubbles",
-      "link": "https://bigwhalehunting.com/workforce/",
-      "is_new": false
-    },
-    {
-      "title": "Sabre Wulf Remastered",
-      "link": "https://gp-64.com/swr/",
-      "is_new": false
-    },
-    {
-      "title": "Scientists rediscover how to make ancient Roman colour-changing glass",
-      "link": "https://www.theguardian.com/science/2026/oct/25/scientists-rediscover-ancient-roman-colour-changing-glass",
-      "is_new": true
-    },
-    {
-      "title": "SpeedCrunch 1.1",
-      "link": "https://www.speedcrunch.org/",
-      "is_new": false
     }
   ]
 }
