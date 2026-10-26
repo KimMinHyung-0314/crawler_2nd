@@ -1,40 +1,80 @@
 {
-  "crawled_at": "2026-10-27 01:26",
-  "prev_crawled_at": "2026-10-26 18:38",
+  "crawled_at": "2026-10-27 06:18",
+  "prev_crawled_at": "2026-10-27 01:26",
   "items": [
+    {
+      "title": "Type Server Protocol",
+      "link": "https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md",
+      "is_new": true
+    },
     {
       "title": "Sebastian Raschka's from-scratch video course on building reasoning models",
       "link": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
+      "is_new": false
+    },
+    {
+      "title": "CSS-Tricks has a new owner",
+      "link": "https://css-tricks.com/css-tricks-has-a-new-owner/",
+      "is_new": false
+    },
+    {
+      "title": "Oldest GUI application that still runs on Windows 11",
+      "link": "https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/",
+      "is_new": true
+    },
+    {
+      "title": "Nietzschian Debugger",
+      "link": "https://github.com/DilawarShafiq/nietzschian-debugger",
+      "is_new": true
+    },
+    {
+      "title": "GPT-6.1 Terra",
+      "link": "https://openai.com/index/introducing-gpt-6-1-terra/",
+      "is_new": true
+    },
+    {
+      "title": "The EPA Is Quietly Killing Its Web Archive",
+      "link": "https://www.motherjones.com/environment/2026/10/epa-online-archive-deletion-zeldin-camp-lejeune-trump-clean-power/",
+      "is_new": true
+    },
+    {
+      "title": "A Man from the Future: Why Johnny Can't Stop Abstracting",
+      "link": "http://muratbuffalo.blogspot.com/2026/10/the-man-from-future-why-johnny-cant.html",
       "is_new": true
     },
     {
       "title": "Anthropic S-1",
       "link": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
-      "is_new": true
-    },
-    {
-      "title": "Fixing Tool-Call Accuracy in vLLM",
-      "link": "https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm",
-      "is_new": true
-    },
-    {
-      "title": "Pharo 14",
-      "link": "https://pharo.org/news/2026-10-26-Pharo14Release.html",
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "SIMD-accelerated computer vision on a $2 microcontroller",
       "link": "https://shraiwi.com/blog/simd-fast-esp32s3/",
+      "is_new": false
+    },
+    {
+      "title": "Diamond Transistor",
+      "link": "https://www.df.com/diamond-transistor",
       "is_new": true
     },
     {
-      "title": "One of the Greatest Inventions in the History of Human Transport",
+      "title": "Sigma Says the Compact, Modular FP2 Is the Ultimate Hybrid Camera",
+      "link": "https://petapixel.com/2026/10/22/sigma-says-the-compact-modular-fp2-is-the-ultimate-hybrid-camera/",
+      "is_new": true
+    },
+    {
+      "title": "Somebody please stop the spam texts",
+      "link": "https://notes.npilk.com/stop-the-spam-texts",
+      "is_new": true
+    },
+    {
+      "title": "Blaise Pascal invented fixed route public transport (2024)",
       "link": "https://humantransit.org/2024/12/one-of-the-greatest-inventions-in-the-history-of-human-transport.html",
-      "is_new": true
+      "is_new": false
     },
     {
-      "title": "CSS-Tricks has a new owner",
-      "link": "https://css-tricks.com/css-tricks-has-a-new-owner/",
+      "title": "US designates helium as a critical material",
+      "link": "https://apnews.com/article/energy-critical-materials-minerals-helium-43da160adc1bad389fba0b9ffbd14c3c",
       "is_new": true
     },
     {
@@ -43,10 +83,77 @@
       "is_new": false
     },
     {
+      "title": "Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT",
+      "link": "https://github.com/FrigadeHQ/hob",
+      "is_new": true
+    },
+    {
+      "title": "Pharo 14",
+      "link": "https://pharo.org/news/2026-10-26-Pharo14Release.html",
+      "is_new": false
+    },
+    {
+      "title": "In Leaked Audio, Flock CEO Tells Cops Backlash to the Company Isn't Real",
+      "link": "https://www.404media.co/in-leaked-audio-flock-ceo-tells-cops-backlash-to-the-company-isnt-real/",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: Glider 4.0 Unofficial Web Edition (Mac game port)",
+      "link": "https://dbohdan.github.io/glider/",
+      "is_new": true
+    },
+    {
+      "title": "Who killed the EV cert? A browser whodunit for Halloween",
+      "link": "https://qwac.com/blog/who-killed-the-ev-cert",
+      "is_new": true
+    },
+    {
+      "title": "Concerning behavior from a popular open-weight AI model",
+      "link": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
+      "is_new": true
+    },
+    {
+      "title": "Fixing Tool-Call Accuracy in vLLM",
+      "link": "https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm",
+      "is_new": false
+    },
+    {
       "title": "Switzerland. Block by block. At 1:1 scale",
       "link": "https://blocks.manifold3d.ch/",
       "is_new": false
     },
+    {
+      "title": "An incremental approach to JIT construction",
+      "link": "https://dl.acm.org/doi/10.1145/3830440.3832304",
+      "is_new": true
+    },
+    {
+      "title": "Should Police Wipe a Criminal's Cellphone Before Returning It?–U.S. vs. Stathas",
+      "link": "https://blog.ericgoldman.org/archives/2026/10/should-police-wipe-a-criminals-cellphone-before-returning-it-u-s-v-stathas.htm",
+      "is_new": true
+    },
+    {
+      "title": "ChatGPT Keeps Telling People 404 Media Can Solve Their Tech Support Problems",
+      "link": "https://www.404media.co/chatgpt-keeps-telling-people-404-media-can-solve-their-tech-support-problems/",
+      "is_new": true
+    },
+    {
+      "title": "World Wars I and II Military Aviation Museum Collection",
+      "link": "https://www.militaryaviationmuseum.org/our-collection/",
+      "is_new": true
+    },
+    {
+      "title": "Microsoft offers voluntary buyouts to a quarter of its workforce",
+      "link": "https://www.kuow.org/technology/2026-10-26/microsoft-offers-voluntary-buyouts-to-a-quarter-of-its-workforce",
+      "is_new": true
+    },
+    {
+      "title": "Skydance offers buyouts, orders return to office",
+      "link": "https://variety.com/2026/film/news/skydance-voluntary-buyouts-layoffs-5-days-per-week-in-office-policy-1236931402/",
+      "is_new": true
+    }
+  ],
+  "removed": [
     {
       "title": "Colorfigures",
       "link": "https://april-zhu.com/colorfigures",
@@ -151,103 +258,6 @@
       "title": "Iron Age salt-mining complex found beneath Hallstatt in Austria",
       "link": "https://archaeologymag.com/2026/09/iron-age-salt-mining-complex-beneath-hallstatt/",
       "is_new": false
-    }
-  ],
-  "removed": [
-    {
-      "title": "The result of the C++26 DIS ballot",
-      "link": "https://train-it.eu/blog/cpp26-contracts-the-ballot-result/",
-      "is_new": true
-    },
-    {
-      "title": "Microsoft Decision-1: 9B Qwen Model Launch Explained",
-      "link": "https://shattered.io/microsoft-decision-1-qwen3-5-9b-model-2026/",
-      "is_new": true
-    },
-    {
-      "title": "IBM CEO says open weight models are now good and cheap on-prem",
-      "link": "https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640",
-      "is_new": false
-    },
-    {
-      "title": "Why I Am a Programmer",
-      "link": "https://www.alfie.wtf/programming/why-i-am-a-programmer.html",
-      "is_new": false
-    },
-    {
-      "title": "Superhuman Hardware Design Is the Easy Part",
-      "link": "https://www.a16z.news/p/superhuman-hardware-design-is-the",
-      "is_new": true
-    },
-    {
-      "title": "F-Zero X on Nintendo 3DS",
-      "link": "https://hypnotize.works/gdx-3ds/postmortem/index.html",
-      "is_new": false
-    },
-    {
-      "title": "Steal My Bitcoin CTF PoC",
-      "link": "https://github.com/KillaBoi/StealMyBitcoin-PoC",
-      "is_new": false
-    },
-    {
-      "title": "The State of Context Engineering",
-      "link": "https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html",
-      "is_new": false
-    },
-    {
-      "title": "We should be more ambitious with the software we build",
-      "link": "https://danluu.com/ambitious/",
-      "is_new": false
-    },
-    {
-      "title": "Show HN: ADRs for AI – Deliberation records for human–AI work, versioned in Git",
-      "link": "https://adrs.systems",
-      "is_new": false
-    },
-    {
-      "title": "Amazon’s “digital pacifier” for toddlers",
-      "link": "https://oligarchwatch.substack.com/p/amazons-digital-pacifier-for-toddlers",
-      "is_new": false
-    },
-    {
-      "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
-      "link": "https://lynchlab.net/llm-skin-cancer",
-      "is_new": false
-    },
-    {
-      "title": "Removing Next.js Got My Blog to 100 on Every Lighthouse Category",
-      "link": "https://korindiehacker.bloffy.blog/en/removing-nextjs-got-my-blog-to-100-on-every-lighthouse-category",
-      "is_new": false
-    },
-    {
-      "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
-      "link": "https://minimaxir.com/2026/10/cheap-llms/",
-      "is_new": false
-    },
-    {
-      "title": "Where the Romans Fought (interactive map)",
-      "link": "https://iosiflazaridis.github.io/battles-of-the-romans/",
-      "is_new": false
-    },
-    {
-      "title": "Making the Buddha Head from Merv Whole Again",
-      "link": "https://www.getty.edu/news/buddha-head-of-merv-turkmenistan-conservation/",
-      "is_new": false
-    },
-    {
-      "title": "What goes into making an animated film?",
-      "link": "https://www.disneyanimation.com/process/",
-      "is_new": false
-    },
-    {
-      "title": "Active incident at Dreamhost forcing password reset",
-      "link": "https://www.dreamhoststatus.com/",
-      "is_new": false
-    },
-    {
-      "title": "Show HN: Proc-CLI – An agent-friendly CLI tool for process and port management",
-      "link": "https://proc-cli.com/",
-      "is_new": true
     }
   ]
 }
