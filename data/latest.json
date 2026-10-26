@@ -1,35 +1,85 @@
 {
-  "crawled_at": "2026-10-26 18:38",
-  "prev_crawled_at": "2026-10-26 12:00",
+  "crawled_at": "2026-10-27 01:26",
+  "prev_crawled_at": "2026-10-26 18:38",
   "items": [
+    {
+      "title": "Sebastian Raschka's from-scratch video course on building reasoning models",
+      "link": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
+      "is_new": true
+    },
+    {
+      "title": "Anthropic S-1",
+      "link": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+      "is_new": true
+    },
+    {
+      "title": "Fixing Tool-Call Accuracy in vLLM",
+      "link": "https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm",
+      "is_new": true
+    },
+    {
+      "title": "Pharo 14",
+      "link": "https://pharo.org/news/2026-10-26-Pharo14Release.html",
+      "is_new": true
+    },
+    {
+      "title": "SIMD-accelerated computer vision on a $2 microcontroller",
+      "link": "https://shraiwi.com/blog/simd-fast-esp32s3/",
+      "is_new": true
+    },
+    {
+      "title": "One of the Greatest Inventions in the History of Human Transport",
+      "link": "https://humantransit.org/2024/12/one-of-the-greatest-inventions-in-the-history-of-human-transport.html",
+      "is_new": true
+    },
+    {
+      "title": "CSS-Tricks has a new owner",
+      "link": "https://css-tricks.com/css-tricks-has-a-new-owner/",
+      "is_new": true
+    },
+    {
+      "title": "Birdwatching rewires the brain and slows cognitive decline",
+      "link": "https://www.bbc.com/future/article/20261019-birdwatching-rewires-the-brain-and-slows-cognitive-decline",
+      "is_new": false
+    },
     {
       "title": "Switzerland. Block by block. At 1:1 scale",
       "link": "https://blocks.manifold3d.ch/",
+      "is_new": false
+    },
+    {
+      "title": "Colorfigures",
+      "link": "https://april-zhu.com/colorfigures",
+      "is_new": true
+    },
+    {
+      "title": "Partyline: A group voice application for Reticulum, built on LXST",
+      "link": "https://github.com/RFnexus/partyline",
+      "is_new": true
+    },
+    {
+      "title": "PhysicsForums and the Dead Internet Theory (2025)",
+      "link": "https://hallofdreams.org/posts/physicsforums/",
+      "is_new": true
+    },
+    {
+      "title": "Brown student maps the hidden global labor powering AI",
+      "link": "https://www.brown.edu/news/2026-10-26/ai-data-workers",
       "is_new": true
     },
     {
       "title": "Show HN: TitleArt – Make text like it's 1997",
       "link": "https://titleart.dvy.io/",
+      "is_new": false
+    },
+    {
+      "title": "Microsoft offers mass buyouts for roughly a quarter of its workforce",
+      "link": "https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/",
       "is_new": true
     },
     {
-      "title": "PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP",
-      "link": "https://github.com/KrushnaVardhanReddy/PaperPilot",
-      "is_new": true
-    },
-    {
-      "title": "The result of the C++26 DIS ballot",
-      "link": "https://train-it.eu/blog/cpp26-contracts-the-ballot-result/",
-      "is_new": true
-    },
-    {
-      "title": "Behind the scenes at the NeXT Computer office",
-      "link": "https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry",
-      "is_new": true
-    },
-    {
-      "title": "Growing Trees",
-      "link": "https://brashandplucky.com/2026/10/15/growing-trees.html",
+      "title": "NBA announces partnership with prediction markets Kalshi, Polymarket",
+      "link": "https://www.nytimes.com/athletic/7723134/2026/10/26/nba-kalshi-polymarket-agreement-prediction-markets/",
       "is_new": true
     },
     {
@@ -38,8 +88,33 @@
       "is_new": false
     },
     {
+      "title": "Behind the scenes at the NeXT Computer office",
+      "link": "https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry",
+      "is_new": false
+    },
+    {
+      "title": "Websites Should Be Printable",
+      "link": "https://brennenputh.me/blog/printable-websites/",
+      "is_new": true
+    },
+    {
+      "title": "PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP",
+      "link": "https://github.com/KrushnaVardhanReddy/PaperPilot",
+      "is_new": false
+    },
+    {
       "title": "Show HN: A Truly Modular Keyboard",
       "link": "https://github.com/notaroomba/keybytes",
+      "is_new": false
+    },
+    {
+      "title": "Growing Trees",
+      "link": "https://brashandplucky.com/2026/10/15/growing-trees.html",
+      "is_new": false
+    },
+    {
+      "title": "Reinventing the Pencil Sharpener [video]",
+      "link": "https://www.youtube.com/watch?v=0Gi5Z51KdUE",
       "is_new": true
     },
     {
@@ -48,9 +123,41 @@
       "is_new": false
     },
     {
+      "title": "OLED iPad Mini",
+      "link": "https://www.apple.com/shop/buy-ipad/ipad-mini",
+      "is_new": true
+    },
+    {
+      "title": "Everything",
+      "link": "https://github.com/HeyPuter/everything",
+      "is_new": true
+    },
+    {
+      "title": "The new iPad mini",
+      "link": "https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/",
+      "is_new": true
+    },
+    {
       "title": "Attention Is Not What You Need (2025)",
       "link": "https://arxiv.org/abs/2512.19428",
       "is_new": false
+    },
+    {
+      "title": "DOJ says presidents should be able to sell secrets on eBay",
+      "link": "https://freedom.press/the-classifieds/doj-says-presidents-should-be-able-to-sell-secrets-on-ebay/",
+      "is_new": true
+    },
+    {
+      "title": "Iron Age salt-mining complex found beneath Hallstatt in Austria",
+      "link": "https://archaeologymag.com/2026/09/iron-age-salt-mining-complex-beneath-hallstatt/",
+      "is_new": false
+    }
+  ],
+  "removed": [
+    {
+      "title": "The result of the C++26 DIS ballot",
+      "link": "https://train-it.eu/blog/cpp26-contracts-the-ballot-result/",
+      "is_new": true
     },
     {
       "title": "Microsoft Decision-1: 9B Qwen Model Launch Explained",
@@ -58,19 +165,9 @@
       "is_new": true
     },
     {
-      "title": "Iron Age salt-mining complex found beneath Hallstatt in Austria",
-      "link": "https://archaeologymag.com/2026/09/iron-age-salt-mining-complex-beneath-hallstatt/",
-      "is_new": false
-    },
-    {
       "title": "IBM CEO says open weight models are now good and cheap on-prem",
       "link": "https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640",
       "is_new": false
-    },
-    {
-      "title": "Birdwatching rewires the brain and slows cognitive decline",
-      "link": "https://www.bbc.com/future/article/20261019-birdwatching-rewires-the-brain-and-slows-cognitive-decline",
-      "is_new": true
     },
     {
       "title": "Why I Am a Programmer",
@@ -151,63 +248,6 @@
       "title": "Show HN: Proc-CLI – An agent-friendly CLI tool for process and port management",
       "link": "https://proc-cli.com/",
       "is_new": true
-    }
-  ],
-  "removed": [
-    {
-      "title": "iPhone Duo Teardown",
-      "link": "https://www.ifixit.com/News/119895/iphone-duo-teardown",
-      "is_new": true
-    },
-    {
-      "title": "Eunice is almost here",
-      "link": "https://armincat.com/articles/eunice-is-almost-here",
-      "is_new": false
-    },
-    {
-      "title": "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
-      "link": "https://talkweb.eu/openweb/4558/",
-      "is_new": false
-    },
-    {
-      "title": "Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop",
-      "link": "https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/",
-      "is_new": false
-    },
-    {
-      "title": "Retired decorator's Pokémon cards sell for £1.5M",
-      "link": "https://www.bbc.co.uk/news/articles/cvp8gy1zwxxwo",
-      "is_new": true
-    },
-    {
-      "title": "Reverse engineering a Beyblade launch tracker",
-      "link": "https://blog.simone.computer/reverse-beyblade-launch-tracker",
-      "is_new": false
-    },
-    {
-      "title": "Root shell on Samsung TV",
-      "link": "https://twitter.com/log4j/status/2113014142600953868?s=46",
-      "is_new": false
-    },
-    {
-      "title": "VCF Southwest 2026, but Edited on Silicon Graphics for '90s TV [video]",
-      "link": "https://www.youtube.com/watch?v=46wxttvq9qY",
-      "is_new": false
-    },
-    {
-      "title": "Show HN: Hurston-1 open source TTS that speak Southern American and Afro-English",
-      "link": "https://huggingface.co/destined/hurston-1",
-      "is_new": false
-    },
-    {
-      "title": "Proton Flock Camera Map",
-      "link": "https://proton.me/flock-camera-map",
-      "is_new": false
-    },
-    {
-      "title": "UTS #39: Unicode Security Mechanisms",
-      "link": "https://unicode.org/reports/tr39/",
-      "is_new": false
     }
   ]
 }
