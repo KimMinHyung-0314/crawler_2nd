@@ -1,15 +1,45 @@
 {
-  "crawled_at": "2026-10-26 12:00",
-  "prev_crawled_at": "2026-10-26 08:45",
+  "crawled_at": "2026-10-26 18:38",
+  "prev_crawled_at": "2026-10-26 12:00",
   "items": [
+    {
+      "title": "Switzerland. Block by block. At 1:1 scale",
+      "link": "https://blocks.manifold3d.ch/",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: TitleArt – Make text like it's 1997",
+      "link": "https://titleart.dvy.io/",
+      "is_new": true
+    },
+    {
+      "title": "PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP",
+      "link": "https://github.com/KrushnaVardhanReddy/PaperPilot",
+      "is_new": true
+    },
+    {
+      "title": "The result of the C++26 DIS ballot",
+      "link": "https://train-it.eu/blog/cpp26-contracts-the-ballot-result/",
+      "is_new": true
+    },
+    {
+      "title": "Behind the scenes at the NeXT Computer office",
+      "link": "https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry",
+      "is_new": true
+    },
+    {
+      "title": "Growing Trees",
+      "link": "https://brashandplucky.com/2026/10/15/growing-trees.html",
+      "is_new": true
+    },
     {
       "title": "Dolly Parton's Imagination Library",
       "link": "https://imaginationlibrary.com/",
       "is_new": false
     },
     {
-      "title": "F-Zero X on Nintendo 3DS",
-      "link": "https://hypnotize.works/gdx-3ds/postmortem/index.html",
+      "title": "Show HN: A Truly Modular Keyboard",
+      "link": "https://github.com/notaroomba/keybytes",
       "is_new": true
     },
     {
@@ -18,8 +48,28 @@
       "is_new": false
     },
     {
-      "title": "Removing Next.js Got My Blog to 100 on Every Lighthouse Category",
-      "link": "https://korindiehacker.bloffy.blog/en/removing-nextjs-got-my-blog-to-100-on-every-lighthouse-category",
+      "title": "Attention Is Not What You Need (2025)",
+      "link": "https://arxiv.org/abs/2512.19428",
+      "is_new": false
+    },
+    {
+      "title": "Microsoft Decision-1: 9B Qwen Model Launch Explained",
+      "link": "https://shattered.io/microsoft-decision-1-qwen3-5-9b-model-2026/",
+      "is_new": true
+    },
+    {
+      "title": "Iron Age salt-mining complex found beneath Hallstatt in Austria",
+      "link": "https://archaeologymag.com/2026/09/iron-age-salt-mining-complex-beneath-hallstatt/",
+      "is_new": false
+    },
+    {
+      "title": "IBM CEO says open weight models are now good and cheap on-prem",
+      "link": "https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640",
+      "is_new": false
+    },
+    {
+      "title": "Birdwatching rewires the brain and slows cognitive decline",
+      "link": "https://www.bbc.com/future/article/20261019-birdwatching-rewires-the-brain-and-slows-cognitive-decline",
       "is_new": true
     },
     {
@@ -28,13 +78,18 @@
       "is_new": false
     },
     {
-      "title": "Attention Is Not What You Need (2025)",
-      "link": "https://arxiv.org/abs/2512.19428",
+      "title": "Superhuman Hardware Design Is the Easy Part",
+      "link": "https://www.a16z.news/p/superhuman-hardware-design-is-the",
       "is_new": true
     },
     {
-      "title": "What goes into making an animated film?",
-      "link": "https://www.disneyanimation.com/process/",
+      "title": "F-Zero X on Nintendo 3DS",
+      "link": "https://hypnotize.works/gdx-3ds/postmortem/index.html",
+      "is_new": false
+    },
+    {
+      "title": "Steal My Bitcoin CTF PoC",
+      "link": "https://github.com/KillaBoi/StealMyBitcoin-PoC",
       "is_new": false
     },
     {
@@ -43,9 +98,19 @@
       "is_new": false
     },
     {
-      "title": "iPhone Duo Teardown",
-      "link": "https://www.ifixit.com/News/119895/iphone-duo-teardown",
-      "is_new": true
+      "title": "We should be more ambitious with the software we build",
+      "link": "https://danluu.com/ambitious/",
+      "is_new": false
+    },
+    {
+      "title": "Show HN: ADRs for AI – Deliberation records for human–AI work, versioned in Git",
+      "link": "https://adrs.systems",
+      "is_new": false
+    },
+    {
+      "title": "Amazon’s “digital pacifier” for toddlers",
+      "link": "https://oligarchwatch.substack.com/p/amazons-digital-pacifier-for-toddlers",
+      "is_new": false
     },
     {
       "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
@@ -53,13 +118,8 @@
       "is_new": false
     },
     {
-      "title": "IBM CEO says open weight models are now irresistibly good and cheap on-prem",
-      "link": "https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640",
-      "is_new": true
-    },
-    {
-      "title": "Making the Buddha Head from Merv Whole Again",
-      "link": "https://www.getty.edu/news/buddha-head-of-merv-turkmenistan-conservation/",
+      "title": "Removing Next.js Got My Blog to 100 on Every Lighthouse Category",
+      "link": "https://korindiehacker.bloffy.blog/en/removing-nextjs-got-my-blog-to-100-on-every-lighthouse-category",
       "is_new": false
     },
     {
@@ -68,38 +128,18 @@
       "is_new": false
     },
     {
-      "title": "Eunice is almost here",
-      "link": "https://armincat.com/articles/eunice-is-almost-here",
-      "is_new": false
-    },
-    {
-      "title": "Amazon's \"digital pacifier\" for toddlers",
-      "link": "https://oligarchwatch.substack.com/p/amazons-digital-pacifier-for-toddlers",
-      "is_new": false
-    },
-    {
-      "title": "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
-      "link": "https://talkweb.eu/openweb/4558/",
-      "is_new": false
-    },
-    {
-      "title": "We should be more ambitious with the software we build",
-      "link": "https://danluu.com/ambitious/",
-      "is_new": false
-    },
-    {
-      "title": "Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop",
-      "link": "https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/",
-      "is_new": false
-    },
-    {
-      "title": "Iron Age salt-mining complex found beneath Hallstatt in Austria",
-      "link": "https://archaeologymag.com/2026/09/iron-age-salt-mining-complex-beneath-hallstatt/",
-      "is_new": true
-    },
-    {
       "title": "Where the Romans Fought (interactive map)",
       "link": "https://iosiflazaridis.github.io/battles-of-the-romans/",
+      "is_new": false
+    },
+    {
+      "title": "Making the Buddha Head from Merv Whole Again",
+      "link": "https://www.getty.edu/news/buddha-head-of-merv-turkmenistan-conservation/",
+      "is_new": false
+    },
+    {
+      "title": "What goes into making an animated film?",
+      "link": "https://www.disneyanimation.com/process/",
       "is_new": false
     },
     {
@@ -108,13 +148,35 @@
       "is_new": false
     },
     {
-      "title": "Retired decorator's Pokémon cards sell for £1.5M",
-      "link": "https://www.bbc.co.uk/news/articles/cvp8gy1zwxxwo",
+      "title": "Show HN: Proc-CLI – An agent-friendly CLI tool for process and port management",
+      "link": "https://proc-cli.com/",
+      "is_new": true
+    }
+  ],
+  "removed": [
+    {
+      "title": "iPhone Duo Teardown",
+      "link": "https://www.ifixit.com/News/119895/iphone-duo-teardown",
       "is_new": true
     },
     {
-      "title": "Steal My Bitcoin CTF PoC",
-      "link": "https://github.com/KillaBoi/StealMyBitcoin-PoC",
+      "title": "Eunice is almost here",
+      "link": "https://armincat.com/articles/eunice-is-almost-here",
+      "is_new": false
+    },
+    {
+      "title": "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
+      "link": "https://talkweb.eu/openweb/4558/",
+      "is_new": false
+    },
+    {
+      "title": "Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop",
+      "link": "https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/",
+      "is_new": false
+    },
+    {
+      "title": "Retired decorator's Pokémon cards sell for £1.5M",
+      "link": "https://www.bbc.co.uk/news/articles/cvp8gy1zwxxwo",
       "is_new": true
     },
     {
@@ -146,58 +208,6 @@
       "title": "UTS #39: Unicode Security Mechanisms",
       "link": "https://unicode.org/reports/tr39/",
       "is_new": false
-    },
-    {
-      "title": "Show HN: ADRs for AI – Deliberation records for human–AI work, versioned in Git",
-      "link": "https://adrs.systems",
-      "is_new": true
-    }
-  ],
-  "removed": [
-    {
-      "title": "Serbia's Vucic concedes election defeat in historic win for student movement",
-      "link": "https://www.reuters.com/world/europe/serbia-votes-students-seek-unseat-vucic-snap-election-2026-10-25/",
-      "is_new": true
-    },
-    {
-      "title": "The U.S. Power Grid",
-      "link": "https://nomagicpill.site/knowledge/powergrid.html",
-      "is_new": false
-    },
-    {
-      "title": "JetBrains Thinkrail",
-      "link": "https://github.com/JetBrains/thinkrail",
-      "is_new": false
-    },
-    {
-      "title": "Gheist campaign plants secret-dumping workflows using stolen GitHub tokens",
-      "link": "https://www.wiz.io/blog/gheist-attempted-scaled-abuse-of-stolen-github-tokens-stumbles",
-      "is_new": false
-    },
-    {
-      "title": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
-      "link": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
-      "is_new": false
-    },
-    {
-      "title": "Recreate the Apollo Guidance Computer",
-      "link": "https://www.raspberrypi.com/news/recreate-the-apollo-guidance-computer/",
-      "is_new": false
-    },
-    {
-      "title": "Cerebras Deploys Trillion-Parameter AI Models",
-      "link": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
-      "is_new": false
-    },
-    {
-      "title": "A mathematician reads the AI future",
-      "link": "https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133/",
-      "is_new": true
-    },
-    {
-      "title": "Focused Company Operating Principles",
-      "link": "https://focused.io/operating-principles",
-      "is_new": true
     }
   ]
 }
