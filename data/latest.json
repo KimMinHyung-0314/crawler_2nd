@@ -1,10 +1,15 @@
 {
-  "crawled_at": "2026-10-27 06:18",
-  "prev_crawled_at": "2026-10-27 01:26",
+  "crawled_at": "2026-10-27 10:04",
+  "prev_crawled_at": "2026-10-27 06:18",
   "items": [
     {
-      "title": "Type Server Protocol",
-      "link": "https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md",
+      "title": "Announcing three new discoveries in mathematics, computer science, and physics",
+      "link": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
+      "is_new": true
+    },
+    {
+      "title": "The Exponential Time Hypothesis Is False [pdf]",
+      "link": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf",
       "is_new": true
     },
     {
@@ -13,34 +18,54 @@
       "is_new": false
     },
     {
-      "title": "CSS-Tricks has a new owner",
-      "link": "https://css-tricks.com/css-tricks-has-a-new-owner/",
+      "title": "Type Server Protocol",
+      "link": "https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md",
       "is_new": false
     },
     {
       "title": "Oldest GUI application that still runs on Windows 11",
       "link": "https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/",
+      "is_new": false
+    },
+    {
+      "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
+      "link": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
+      "is_new": true
+    },
+    {
+      "title": "A Printer Printing onto Paper",
+      "link": "https://twitter.com/macrofying/status/2112904628509528219",
+      "is_new": true
+    },
+    {
+      "title": "CSS-Tricks has a new owner",
+      "link": "https://css-tricks.com/css-tricks-has-a-new-owner/",
+      "is_new": false
+    },
+    {
+      "title": "LISPy things you can do in 64K bytes of core (2019)",
+      "link": "https://t3x.org/lisp64k/index.html",
       "is_new": true
     },
     {
       "title": "Nietzschian Debugger",
       "link": "https://github.com/DilawarShafiq/nietzschian-debugger",
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "GPT-6.1 Terra",
       "link": "https://openai.com/index/introducing-gpt-6-1-terra/",
-      "is_new": true
+      "is_new": false
     },
     {
-      "title": "The EPA Is Quietly Killing Its Web Archive",
-      "link": "https://www.motherjones.com/environment/2026/10/epa-online-archive-deletion-zeldin-camp-lejeune-trump-clean-power/",
-      "is_new": true
+      "title": "Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT",
+      "link": "https://github.com/FrigadeHQ/hob",
+      "is_new": false
     },
     {
       "title": "A Man from the Future: Why Johnny Can't Stop Abstracting",
       "link": "http://muratbuffalo.blogspot.com/2026/10/the-man-from-future-why-johnny-cant.html",
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Anthropic S-1",
@@ -48,33 +73,13 @@
       "is_new": false
     },
     {
-      "title": "SIMD-accelerated computer vision on a $2 microcontroller",
-      "link": "https://shraiwi.com/blog/simd-fast-esp32s3/",
-      "is_new": false
-    },
-    {
-      "title": "Diamond Transistor",
-      "link": "https://www.df.com/diamond-transistor",
+      "title": "Solar power is becoming bigger than nuclear",
+      "link": "https://www.bbc.com/future/article/20261023-how-solar-became-bigger-than-nuclear",
       "is_new": true
     },
     {
-      "title": "Sigma Says the Compact, Modular FP2 Is the Ultimate Hybrid Camera",
-      "link": "https://petapixel.com/2026/10/22/sigma-says-the-compact-modular-fp2-is-the-ultimate-hybrid-camera/",
-      "is_new": true
-    },
-    {
-      "title": "Somebody please stop the spam texts",
-      "link": "https://notes.npilk.com/stop-the-spam-texts",
-      "is_new": true
-    },
-    {
-      "title": "Blaise Pascal invented fixed route public transport (2024)",
-      "link": "https://humantransit.org/2024/12/one-of-the-greatest-inventions-in-the-history-of-human-transport.html",
-      "is_new": false
-    },
-    {
-      "title": "US designates helium as a critical material",
-      "link": "https://apnews.com/article/energy-critical-materials-minerals-helium-43da160adc1bad389fba0b9ffbd14c3c",
+      "title": "Is PHP Running on Your ColdFusion Server? How to Check, and Remove It",
+      "link": "https://www.gregoryalexander.com/blog/2026/10/23/is-php-quietly-running-on-your-coldfusion-server-how-to-check-and-remove-it",
       "is_new": true
     },
     {
@@ -83,14 +88,81 @@
       "is_new": false
     },
     {
-      "title": "Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT",
-      "link": "https://github.com/FrigadeHQ/hob",
+      "title": "New iPad mini",
+      "link": "https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/",
+      "is_new": true
+    },
+    {
+      "title": "SIMD-accelerated computer vision on a $2 microcontroller",
+      "link": "https://shraiwi.com/blog/simd-fast-esp32s3/",
+      "is_new": false
+    },
+    {
+      "title": "Microsoft offers mass buyouts for roughly a quarter of its workforce",
+      "link": "https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/",
+      "is_new": true
+    },
+    {
+      "title": "Blaise Pascal invented fixed route public transport (2024)",
+      "link": "https://humantransit.org/2024/12/one-of-the-greatest-inventions-in-the-history-of-human-transport.html",
+      "is_new": false
+    },
+    {
+      "title": "Diamond Transistor",
+      "link": "https://www.df.com/diamond-transistor",
+      "is_new": false
+    },
+    {
+      "title": "Websites Should Be Printable",
+      "link": "https://brennenputh.me/blog/printable-websites/",
       "is_new": true
     },
     {
       "title": "Pharo 14",
       "link": "https://pharo.org/news/2026-10-26-Pharo14Release.html",
       "is_new": false
+    },
+    {
+      "title": "Native Prometheus Integration with Nginx",
+      "link": "https://categorica.io/blog/2026.10.16_nginx-stats-prometheus/",
+      "is_new": true
+    },
+    {
+      "title": "Sigma Says the Compact, Modular FP2 Is the Ultimate Hybrid Camera",
+      "link": "https://petapixel.com/2026/10/22/sigma-says-the-compact-modular-fp2-is-the-ultimate-hybrid-camera/",
+      "is_new": false
+    },
+    {
+      "title": "In Context [video]",
+      "link": "https://www.youtube.com/watch?v=P5eO7BNyJao",
+      "is_new": true
+    },
+    {
+      "title": "The EPA Is Quietly Killing Its Web Archive",
+      "link": "https://www.motherjones.com/environment/2026/10/epa-online-archive-deletion-zeldin-camp-lejeune-trump-clean-power/",
+      "is_new": false
+    },
+    {
+      "title": "Fixing Tool-Call Accuracy in vLLM",
+      "link": "https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm",
+      "is_new": false
+    },
+    {
+      "title": "Magic state cultivation on a superconducting quantum processor",
+      "link": "https://arxiv.org/abs/2512.13908",
+      "is_new": true
+    }
+  ],
+  "removed": [
+    {
+      "title": "Somebody please stop the spam texts",
+      "link": "https://notes.npilk.com/stop-the-spam-texts",
+      "is_new": true
+    },
+    {
+      "title": "US designates helium as a critical material",
+      "link": "https://apnews.com/article/energy-critical-materials-minerals-helium-43da160adc1bad389fba0b9ffbd14c3c",
+      "is_new": true
     },
     {
       "title": "In Leaked Audio, Flock CEO Tells Cops Backlash to the Company Isn't Real",
@@ -111,11 +183,6 @@
       "title": "Concerning behavior from a popular open-weight AI model",
       "link": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
       "is_new": true
-    },
-    {
-      "title": "Fixing Tool-Call Accuracy in vLLM",
-      "link": "https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm",
-      "is_new": false
     },
     {
       "title": "Switzerland. Block by block. At 1:1 scale",
@@ -151,113 +218,6 @@
       "title": "Skydance offers buyouts, orders return to office",
       "link": "https://variety.com/2026/film/news/skydance-voluntary-buyouts-layoffs-5-days-per-week-in-office-policy-1236931402/",
       "is_new": true
-    }
-  ],
-  "removed": [
-    {
-      "title": "Colorfigures",
-      "link": "https://april-zhu.com/colorfigures",
-      "is_new": true
-    },
-    {
-      "title": "Partyline: A group voice application for Reticulum, built on LXST",
-      "link": "https://github.com/RFnexus/partyline",
-      "is_new": true
-    },
-    {
-      "title": "PhysicsForums and the Dead Internet Theory (2025)",
-      "link": "https://hallofdreams.org/posts/physicsforums/",
-      "is_new": true
-    },
-    {
-      "title": "Brown student maps the hidden global labor powering AI",
-      "link": "https://www.brown.edu/news/2026-10-26/ai-data-workers",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: TitleArt – Make text like it's 1997",
-      "link": "https://titleart.dvy.io/",
-      "is_new": false
-    },
-    {
-      "title": "Microsoft offers mass buyouts for roughly a quarter of its workforce",
-      "link": "https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/",
-      "is_new": true
-    },
-    {
-      "title": "NBA announces partnership with prediction markets Kalshi, Polymarket",
-      "link": "https://www.nytimes.com/athletic/7723134/2026/10/26/nba-kalshi-polymarket-agreement-prediction-markets/",
-      "is_new": true
-    },
-    {
-      "title": "Dolly Parton's Imagination Library",
-      "link": "https://imaginationlibrary.com/",
-      "is_new": false
-    },
-    {
-      "title": "Behind the scenes at the NeXT Computer office",
-      "link": "https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry",
-      "is_new": false
-    },
-    {
-      "title": "Websites Should Be Printable",
-      "link": "https://brennenputh.me/blog/printable-websites/",
-      "is_new": true
-    },
-    {
-      "title": "PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP",
-      "link": "https://github.com/KrushnaVardhanReddy/PaperPilot",
-      "is_new": false
-    },
-    {
-      "title": "Show HN: A Truly Modular Keyboard",
-      "link": "https://github.com/notaroomba/keybytes",
-      "is_new": false
-    },
-    {
-      "title": "Growing Trees",
-      "link": "https://brashandplucky.com/2026/10/15/growing-trees.html",
-      "is_new": false
-    },
-    {
-      "title": "Reinventing the Pencil Sharpener [video]",
-      "link": "https://www.youtube.com/watch?v=0Gi5Z51KdUE",
-      "is_new": true
-    },
-    {
-      "title": "Overgrown, when plants invade your abandoned tabs",
-      "link": "https://charliegerard.dev/blog/overgrown-extension/",
-      "is_new": false
-    },
-    {
-      "title": "OLED iPad Mini",
-      "link": "https://www.apple.com/shop/buy-ipad/ipad-mini",
-      "is_new": true
-    },
-    {
-      "title": "Everything",
-      "link": "https://github.com/HeyPuter/everything",
-      "is_new": true
-    },
-    {
-      "title": "The new iPad mini",
-      "link": "https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/",
-      "is_new": true
-    },
-    {
-      "title": "Attention Is Not What You Need (2025)",
-      "link": "https://arxiv.org/abs/2512.19428",
-      "is_new": false
-    },
-    {
-      "title": "DOJ says presidents should be able to sell secrets on eBay",
-      "link": "https://freedom.press/the-classifieds/doj-says-presidents-should-be-able-to-sell-secrets-on-ebay/",
-      "is_new": true
-    },
-    {
-      "title": "Iron Age salt-mining complex found beneath Hallstatt in Austria",
-      "link": "https://archaeologymag.com/2026/09/iron-age-salt-mining-complex-beneath-hallstatt/",
-      "is_new": false
     }
   ]
 }
