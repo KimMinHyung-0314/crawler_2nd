@@ -1,6 +1,6 @@
 {
-  "crawled_at": "2026-10-27 16:13",
-  "prev_crawled_at": "2026-10-27 10:04",
+  "crawled_at": "2026-10-27 22:54",
+  "prev_crawled_at": "2026-10-27 16:13",
   "items": [
     {
       "title": "Three new discoveries in mathematics, computer science, and physics",
@@ -15,7 +15,7 @@
     {
       "title": "There are now 5 inference providers for abliterated DeepSeek",
       "link": "https://allmodels.io/llm/abliterated",
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Sebastian Raschka's from-scratch video course on building reasoning models",
@@ -30,7 +30,7 @@
     {
       "title": "16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows",
       "link": "https://github.com/otya128/winevdm",
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Type Server Protocol",
@@ -45,7 +45,7 @@
     {
       "title": "APC says let there be light, with standards to speed up photonics manufacturing",
       "link": "https://www.nextplatform.com/connect/2026/10/23/apc-says-let-there-be-light-with-raft-of-standards-to-speed-up-photonics-manufacturing/5304950",
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "CSS-Tricks has a new owner",
@@ -65,7 +65,7 @@
     {
       "title": "I still teach OpenGL ES 3.0",
       "link": "https://eliasfarhan.ch/graphics/cpp/2026/01/27/why-i-teach-opengles.html",
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Nietzschian Debugger",
@@ -90,12 +90,12 @@
     {
       "title": "Virtual and Real World Combine at LAN Party (1998)",
       "link": "https://www.latimes.com/archives/la-xpm-1998-aug-10-mn-11870-story.html",
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "How to grow a cacao tree at home",
       "link": "https://www.cocoterra.com/guide-on-how-to-grow-chocolate-at-home/",
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Blaise Pascal invented fixed route public transport (2024)",
@@ -115,7 +115,7 @@
     {
       "title": "Migrate Your 300-Node Redis Cluster to Just 3 Lavik Nodes",
       "link": "https://lavik.dev/en/blog/300-redis-nodes-to-3-lavik-nodes/",
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "SIMD-accelerated computer vision on a $2 microcontroller",
@@ -145,59 +145,13 @@
     {
       "title": "Historical Telecommunications",
       "link": "https://retronetworking.org/",
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "UK to charge universities $1,200 per international student",
       "link": "https://africa.businessinsider.com/local/markets/uk-to-charge-universities-dollar1200-per-international-student-including-those-from/qe5rqbe",
-      "is_new": true
+      "is_new": false
     }
   ],
-  "removed": [
-    {
-      "title": "Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT",
-      "link": "https://github.com/FrigadeHQ/hob",
-      "is_new": false
-    },
-    {
-      "title": "Birdwatching rewires the brain and slows cognitive decline",
-      "link": "https://www.bbc.com/future/article/20261019-birdwatching-rewires-the-brain-and-slows-cognitive-decline",
-      "is_new": false
-    },
-    {
-      "title": "Diamond Transistor",
-      "link": "https://www.df.com/diamond-transistor",
-      "is_new": false
-    },
-    {
-      "title": "Native Prometheus Integration with Nginx",
-      "link": "https://categorica.io/blog/2026.10.16_nginx-stats-prometheus/",
-      "is_new": true
-    },
-    {
-      "title": "Sigma Says the Compact, Modular FP2 Is the Ultimate Hybrid Camera",
-      "link": "https://petapixel.com/2026/10/22/sigma-says-the-compact-modular-fp2-is-the-ultimate-hybrid-camera/",
-      "is_new": false
-    },
-    {
-      "title": "In Context [video]",
-      "link": "https://www.youtube.com/watch?v=P5eO7BNyJao",
-      "is_new": true
-    },
-    {
-      "title": "The EPA Is Quietly Killing Its Web Archive",
-      "link": "https://www.motherjones.com/environment/2026/10/epa-online-archive-deletion-zeldin-camp-lejeune-trump-clean-power/",
-      "is_new": false
-    },
-    {
-      "title": "Fixing Tool-Call Accuracy in vLLM",
-      "link": "https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm",
-      "is_new": false
-    },
-    {
-      "title": "Magic state cultivation on a superconducting quantum processor",
-      "link": "https://arxiv.org/abs/2512.13908",
-      "is_new": true
-    }
-  ]
+  "removed": []
 }
