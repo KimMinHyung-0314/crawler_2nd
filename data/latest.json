@@ -1,15 +1,20 @@
 {
-  "crawled_at": "2026-10-27 10:04",
-  "prev_crawled_at": "2026-10-27 06:18",
+  "crawled_at": "2026-10-27 16:13",
+  "prev_crawled_at": "2026-10-27 10:04",
   "items": [
     {
-      "title": "Announcing three new discoveries in mathematics, computer science, and physics",
+      "title": "Three new discoveries in mathematics, computer science, and physics",
       "link": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "The Exponential Time Hypothesis Is False [pdf]",
       "link": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf",
+      "is_new": false
+    },
+    {
+      "title": "There are now 5 inference providers for abliterated DeepSeek",
+      "link": "https://allmodels.io/llm/abliterated",
       "is_new": true
     },
     {
@@ -18,23 +23,28 @@
       "is_new": false
     },
     {
-      "title": "Type Server Protocol",
-      "link": "https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md",
-      "is_new": false
-    },
-    {
       "title": "Oldest GUI application that still runs on Windows 11",
       "link": "https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/",
       "is_new": false
     },
     {
-      "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
-      "link": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
+      "title": "16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows",
+      "link": "https://github.com/otya128/winevdm",
       "is_new": true
     },
     {
-      "title": "A Printer Printing onto Paper",
-      "link": "https://twitter.com/macrofying/status/2112904628509528219",
+      "title": "Type Server Protocol",
+      "link": "https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md",
+      "is_new": false
+    },
+    {
+      "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
+      "link": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
+      "is_new": false
+    },
+    {
+      "title": "APC says let there be light, with standards to speed up photonics manufacturing",
+      "link": "https://www.nextplatform.com/connect/2026/10/23/apc-says-let-there-be-light-with-raft-of-standards-to-speed-up-photonics-manufacturing/5304950",
       "is_new": true
     },
     {
@@ -43,8 +53,18 @@
       "is_new": false
     },
     {
-      "title": "LISPy things you can do in 64K bytes of core (2019)",
-      "link": "https://t3x.org/lisp64k/index.html",
+      "title": "A Printer Printing onto Paper",
+      "link": "https://twitter.com/macrofying/status/2112904628509528219",
+      "is_new": false
+    },
+    {
+      "title": "Solar power is becoming bigger than nuclear",
+      "link": "https://www.bbc.com/future/article/20261023-how-solar-became-bigger-than-nuclear",
+      "is_new": false
+    },
+    {
+      "title": "I still teach OpenGL ES 3.0",
+      "link": "https://eliasfarhan.ch/graphics/cpp/2026/01/27/why-i-teach-opengles.html",
       "is_new": true
     },
     {
@@ -53,13 +73,8 @@
       "is_new": false
     },
     {
-      "title": "GPT-6.1 Terra",
-      "link": "https://openai.com/index/introducing-gpt-6-1-terra/",
-      "is_new": false
-    },
-    {
-      "title": "Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT",
-      "link": "https://github.com/FrigadeHQ/hob",
+      "title": "New iPad mini",
+      "link": "https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/",
       "is_new": false
     },
     {
@@ -73,33 +88,13 @@
       "is_new": false
     },
     {
-      "title": "Solar power is becoming bigger than nuclear",
-      "link": "https://www.bbc.com/future/article/20261023-how-solar-became-bigger-than-nuclear",
+      "title": "Virtual and Real World Combine at LAN Party (1998)",
+      "link": "https://www.latimes.com/archives/la-xpm-1998-aug-10-mn-11870-story.html",
       "is_new": true
     },
     {
-      "title": "Is PHP Running on Your ColdFusion Server? How to Check, and Remove It",
-      "link": "https://www.gregoryalexander.com/blog/2026/10/23/is-php-quietly-running-on-your-coldfusion-server-how-to-check-and-remove-it",
-      "is_new": true
-    },
-    {
-      "title": "Birdwatching rewires the brain and slows cognitive decline",
-      "link": "https://www.bbc.com/future/article/20261019-birdwatching-rewires-the-brain-and-slows-cognitive-decline",
-      "is_new": false
-    },
-    {
-      "title": "New iPad mini",
-      "link": "https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/",
-      "is_new": true
-    },
-    {
-      "title": "SIMD-accelerated computer vision on a $2 microcontroller",
-      "link": "https://shraiwi.com/blog/simd-fast-esp32s3/",
-      "is_new": false
-    },
-    {
-      "title": "Microsoft offers mass buyouts for roughly a quarter of its workforce",
-      "link": "https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/",
+      "title": "How to grow a cacao tree at home",
+      "link": "https://www.cocoterra.com/guide-on-how-to-grow-chocolate-at-home/",
       "is_new": true
     },
     {
@@ -108,18 +103,70 @@
       "is_new": false
     },
     {
-      "title": "Diamond Transistor",
-      "link": "https://www.df.com/diamond-transistor",
+      "title": "Websites Should Be Printable",
+      "link": "https://brennenputh.me/blog/printable-websites/",
       "is_new": false
     },
     {
-      "title": "Websites Should Be Printable",
-      "link": "https://brennenputh.me/blog/printable-websites/",
+      "title": "GPT-6.1 Terra",
+      "link": "https://openai.com/index/introducing-gpt-6-1-terra/",
+      "is_new": false
+    },
+    {
+      "title": "Migrate Your 300-Node Redis Cluster to Just 3 Lavik Nodes",
+      "link": "https://lavik.dev/en/blog/300-redis-nodes-to-3-lavik-nodes/",
       "is_new": true
+    },
+    {
+      "title": "SIMD-accelerated computer vision on a $2 microcontroller",
+      "link": "https://shraiwi.com/blog/simd-fast-esp32s3/",
+      "is_new": false
+    },
+    {
+      "title": "LISPy things you can do in 64K bytes of core (2019)",
+      "link": "https://t3x.org/lisp64k/index.html",
+      "is_new": false
+    },
+    {
+      "title": "Microsoft offers mass buyouts for roughly a quarter of its workforce",
+      "link": "https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/",
+      "is_new": false
     },
     {
       "title": "Pharo 14",
       "link": "https://pharo.org/news/2026-10-26-Pharo14Release.html",
+      "is_new": false
+    },
+    {
+      "title": "Is PHP Running on Your ColdFusion Server? How to Check, and Remove It",
+      "link": "https://www.gregoryalexander.com/blog/2026/10/23/is-php-quietly-running-on-your-coldfusion-server-how-to-check-and-remove-it",
+      "is_new": false
+    },
+    {
+      "title": "Historical Telecommunications",
+      "link": "https://retronetworking.org/",
+      "is_new": true
+    },
+    {
+      "title": "UK to charge universities $1,200 per international student",
+      "link": "https://africa.businessinsider.com/local/markets/uk-to-charge-universities-dollar1200-per-international-student-including-those-from/qe5rqbe",
+      "is_new": true
+    }
+  ],
+  "removed": [
+    {
+      "title": "Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT",
+      "link": "https://github.com/FrigadeHQ/hob",
+      "is_new": false
+    },
+    {
+      "title": "Birdwatching rewires the brain and slows cognitive decline",
+      "link": "https://www.bbc.com/future/article/20261019-birdwatching-rewires-the-brain-and-slows-cognitive-decline",
+      "is_new": false
+    },
+    {
+      "title": "Diamond Transistor",
+      "link": "https://www.df.com/diamond-transistor",
       "is_new": false
     },
     {
@@ -150,73 +197,6 @@
     {
       "title": "Magic state cultivation on a superconducting quantum processor",
       "link": "https://arxiv.org/abs/2512.13908",
-      "is_new": true
-    }
-  ],
-  "removed": [
-    {
-      "title": "Somebody please stop the spam texts",
-      "link": "https://notes.npilk.com/stop-the-spam-texts",
-      "is_new": true
-    },
-    {
-      "title": "US designates helium as a critical material",
-      "link": "https://apnews.com/article/energy-critical-materials-minerals-helium-43da160adc1bad389fba0b9ffbd14c3c",
-      "is_new": true
-    },
-    {
-      "title": "In Leaked Audio, Flock CEO Tells Cops Backlash to the Company Isn't Real",
-      "link": "https://www.404media.co/in-leaked-audio-flock-ceo-tells-cops-backlash-to-the-company-isnt-real/",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: Glider 4.0 Unofficial Web Edition (Mac game port)",
-      "link": "https://dbohdan.github.io/glider/",
-      "is_new": true
-    },
-    {
-      "title": "Who killed the EV cert? A browser whodunit for Halloween",
-      "link": "https://qwac.com/blog/who-killed-the-ev-cert",
-      "is_new": true
-    },
-    {
-      "title": "Concerning behavior from a popular open-weight AI model",
-      "link": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
-      "is_new": true
-    },
-    {
-      "title": "Switzerland. Block by block. At 1:1 scale",
-      "link": "https://blocks.manifold3d.ch/",
-      "is_new": false
-    },
-    {
-      "title": "An incremental approach to JIT construction",
-      "link": "https://dl.acm.org/doi/10.1145/3830440.3832304",
-      "is_new": true
-    },
-    {
-      "title": "Should Police Wipe a Criminal's Cellphone Before Returning It?–U.S. vs. Stathas",
-      "link": "https://blog.ericgoldman.org/archives/2026/10/should-police-wipe-a-criminals-cellphone-before-returning-it-u-s-v-stathas.htm",
-      "is_new": true
-    },
-    {
-      "title": "ChatGPT Keeps Telling People 404 Media Can Solve Their Tech Support Problems",
-      "link": "https://www.404media.co/chatgpt-keeps-telling-people-404-media-can-solve-their-tech-support-problems/",
-      "is_new": true
-    },
-    {
-      "title": "World Wars I and II Military Aviation Museum Collection",
-      "link": "https://www.militaryaviationmuseum.org/our-collection/",
-      "is_new": true
-    },
-    {
-      "title": "Microsoft offers voluntary buyouts to a quarter of its workforce",
-      "link": "https://www.kuow.org/technology/2026-10-26/microsoft-offers-voluntary-buyouts-to-a-quarter-of-its-workforce",
-      "is_new": true
-    },
-    {
-      "title": "Skydance offers buyouts, orders return to office",
-      "link": "https://variety.com/2026/film/news/skydance-voluntary-buyouts-layoffs-5-days-per-week-in-office-policy-1236931402/",
       "is_new": true
     }
   ]
