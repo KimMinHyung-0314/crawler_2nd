@@ -1,21 +1,51 @@
 {
-  "crawled_at": "2026-10-29 01:57",
-  "prev_crawled_at": "2026-10-28 19:18",
+  "crawled_at": "2026-10-29 06:32",
+  "prev_crawled_at": "2026-10-29 01:57",
   "items": [
     {
-      "title": "Ten days later, Git on macOS still trusts the compromised eMudhra certificates",
-      "link": "https://emudhra.we-have-a-problem.com/apple.html",
+      "title": "Why is this fingerprinting script creating bioweapons?",
+      "link": "https://nullpt.rs/fingerprinting-bioweapons",
+      "is_new": true
+    },
+    {
+      "title": "Gemini 4 Carbon",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
       "is_new": true
     },
     {
       "title": "CNC Stone Carving",
       "link": "https://carmelitegothic.com/cnc-stone-carving/",
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
       "link": "https://surgehq.ai/blog/dayjob-tax",
+      "is_new": false
+    },
+    {
+      "title": "MacBook Pro with PROLED XDR Display and Touch",
+      "link": "https://www.apple.com/macbook-pro/proled-xdr-display/",
       "is_new": true
+    },
+    {
+      "title": "Formlabs Studio 1 $699 Resin Printer",
+      "link": "https://formlabs.com/products/form-studio-1-basic-founders-edition/",
+      "is_new": true
+    },
+    {
+      "title": "Nango (YC W23) Is Hiring Across Eng, FDE, Marketing, DevRel",
+      "link": "https://nango.dev/careers",
+      "is_new": true
+    },
+    {
+      "title": "Leak Exposes 41,000 Homeland Security Workers–Including Undercover ICE Agents",
+      "link": "https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/",
+      "is_new": true
+    },
+    {
+      "title": "The Grid, a factory-scale robot in Massachusetts that builds PCBs on demand",
+      "link": "https://www.circuithub.com/post/unveiling-the-grid",
+      "is_new": false
     },
     {
       "title": "Start Doing Graph Theory",
@@ -23,28 +53,110 @@
       "is_new": false
     },
     {
-      "title": "Unveiling The Grid: PCBs made in America, twice as fast as Shenzhen",
-      "link": "https://www.circuithub.com/post/unveiling-the-grid",
+      "title": "The Style Is Father of the Man",
+      "link": "https://harpers.org/archive/2026/11/benjamin-kunkel-reviews-cormac-mccarthy-legacy-revisted/",
       "is_new": true
     },
     {
-      "title": "ICE Is Running One of the Largest Anti-Left Surveillance Ops in US History",
-      "link": "https://www.wired.com/story/ice-is-running-one-of-the-largest-anti-left-surveillance-operations-in-us-history/",
+      "title": "AlpineBSD",
+      "link": "https://wiki.alpinebsd.org",
       "is_new": true
     },
     {
-      "title": "Kentucky man becomes the first humanist granted religious exemption from AI",
-      "link": "https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/",
+      "title": "The case of the 9 bit AES key",
+      "link": "https://v12.sh/blog/the-case-of-the-9bit-aes-key",
+      "is_new": true
+    },
+    {
+      "title": "Apple's git still trusts the compromised eMudhra certificates",
+      "link": "https://emudhra.we-have-a-problem.com/apple.html",
+      "is_new": false
+    },
+    {
+      "title": "The tragedy of losing your Wikipedia page",
+      "link": "https://www.wired.com/story/the-tragedy-of-losing-your-wikipedia-page/",
+      "is_new": true
+    },
+    {
+      "title": "Spiders Spin 'Silk Dope' into Nature's Toughest Material",
+      "link": "https://www.quantamagazine.org/how-spiders-spin-silk-dope-into-natures-toughest-material-20261028/",
+      "is_new": true
+    },
+    {
+      "title": "The Agent SDK",
+      "link": "https://cursor.com/blog/agent-sdk",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: SlideBySide – Present slides without sharing your screen",
+      "link": "https://slidebyside.com/",
       "is_new": true
     },
     {
       "title": "Gaussian Splats part 3: There's always a bigger scene",
       "link": "https://www.magnopus.com/blog/gaussiansplats-part-3-theres-always-a-bigger-scene",
+      "is_new": false
+    },
+    {
+      "title": "Google AI gets cagey when asked who won the 2020 elections",
+      "link": "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/",
       "is_new": true
     },
     {
       "title": "Emacs Turns 50",
       "link": "https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/",
+      "is_new": false
+    },
+    {
+      "title": "Regent's Ground-Effect Vehicle Reimagines Coastal Travel",
+      "link": "https://spectrum.ieee.org/ground-effect-vehicle",
+      "is_new": false
+    },
+    {
+      "title": "Oseberg Tapestry Fragments",
+      "link": "https://en.wikipedia.org/wiki/Oseberg_tapestry_fragments",
+      "is_new": true
+    },
+    {
+      "title": "Decompiling Fast Food Tycoon 2: Drawing the World",
+      "link": "https://healeycodes.com/decompiling-fast-food-tycoon-2-drawing-the-world",
+      "is_new": false
+    },
+    {
+      "title": "Archive.today links going forward",
+      "link": "https://www.reddit.com/r/Seattle/comments/1xhf6qp/archivetoday_links_going_forward/",
+      "is_new": false
+    },
+    {
+      "title": "Kentucky man becomes the first humanist granted religious exemption from AI",
+      "link": "https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/",
+      "is_new": false
+    },
+    {
+      "title": "Executable Archaeology: Reanimating the Heuristic Compiler (1961) and KBEmacs (1984)",
+      "link": "https://arxiv.org/abs/2610.36341",
+      "is_new": true
+    },
+    {
+      "title": "Nvidia Nemotron 3.5 Transcribe: open ASR for 40 languages",
+      "link": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+      "is_new": false
+    },
+    {
+      "title": "Meta censored the No Kings Instagram account during a nationwide campaign",
+      "link": "https://paulfwalsh.substack.com/p/meta-censored-the-no-kings-instagram",
+      "is_new": true
+    },
+    {
+      "title": "US agency approves Amazon Leo’s $11.5B acquisition of Globalstar",
+      "link": "https://www.reuters.com/business/media-telecom/us-agency-approves-amazon-leos-115-billion-acquisition-globalstar-2026-10-27/",
+      "is_new": true
+    }
+  ],
+  "removed": [
+    {
+      "title": "ICE Is Running One of the Largest Anti-Left Surveillance Ops in US History",
+      "link": "https://www.wired.com/story/ice-is-running-one-of-the-largest-anti-left-surveillance-operations-in-us-history/",
       "is_new": true
     },
     {
@@ -66,16 +178,6 @@
       "title": "Genie 4",
       "link": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
       "is_new": false
-    },
-    {
-      "title": "r/Seattle mods discover malware injection by archive.today, ban site",
-      "link": "https://www.reddit.com/r/Seattle/comments/1xhf6qp/archivetoday_links_going_forward/",
-      "is_new": true
-    },
-    {
-      "title": "Regent's Ground-Effect Vehicle Reimagines Coastal Travel",
-      "link": "https://spectrum.ieee.org/ground-effect-vehicle",
-      "is_new": true
     },
     {
       "title": "Ink droplets in motion snag top prize in Nikon Small World contest",
@@ -103,11 +205,6 @@
       "is_new": true
     },
     {
-      "title": "Decompiling Fast Food Tycoon 2: Drawing the World",
-      "link": "https://healeycodes.com/decompiling-fast-food-tycoon-2-drawing-the-world",
-      "is_new": false
-    },
-    {
       "title": "Tailscale SSH: Investigation and remediation update",
       "link": "https://tailscale.com/ssh-investigation-update",
       "is_new": false
@@ -121,11 +218,6 @@
       "title": "Early progress on accelerating drug development with Claude",
       "link": "https://www.anthropic.com/research/early-progress-drug-development",
       "is_new": false
-    },
-    {
-      "title": "Nvidia Nemotron 3.5 Transcribe: open ASR for 40 languages",
-      "link": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
-      "is_new": true
     },
     {
       "title": "MacOS Extensions Pack for the Apple Network Server v1.0",
@@ -151,98 +243,6 @@
       "title": "The Colors of a Soap Film",
       "link": "https://aseemrb.me/blog/colors-of-a-soap-film/",
       "is_new": true
-    }
-  ],
-  "removed": [
-    {
-      "title": "Python's experimental JIT to be removed",
-      "link": "https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/",
-      "is_new": false
-    },
-    {
-      "title": "Raspberry Pi Zero 3W and Pi 4 Model A spotted in device trees",
-      "link": "https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/",
-      "is_new": false
-    },
-    {
-      "title": "SS United States to be sunk as largest artificial reef",
-      "link": "https://divemagazine.com/scuba-diving-news/ss-united-states-to-be-sunk-as-worlds-largest-artificial-reef-in-november",
-      "is_new": false
-    },
-    {
-      "title": "Spain train crash: 'At least 10 dead' in high-speed collision",
-      "link": "https://www.thetimes.com/world/europe/article/spain-train-crash-madrid-latest-deaths-victims-807kwv23l",
-      "is_new": true
-    },
-    {
-      "title": "New iMac with M6",
-      "link": "https://www.apple.com/imac/",
-      "is_new": false
-    },
-    {
-      "title": "Jokes for the ZX81",
-      "link": "https://spelk.press/gb/products/81-jokes-for-the-zx81",
-      "is_new": false
-    },
-    {
-      "title": "Closing the Sea: Lessons from Ancient Mediterranean Blockades",
-      "link": "https://maritime-executive.com/editorials/closing-the-sea-lessons-from-ancient-mediterranean-blockades",
-      "is_new": true
-    },
-    {
-      "title": "Four Months of Zig",
-      "link": "https://gracefulliberty.com/articles/four-months-of-zig/",
-      "is_new": false
-    },
-    {
-      "title": "A Love Letter to the Super Dimension Fortress",
-      "link": "https://brennan.day/a-love-letter-to-the-super-dimension-fortress/",
-      "is_new": false
-    },
-    {
-      "title": "Classification of Finite Simple Groups Formalized in Lean",
-      "link": "https://cfsg.axiommath.ai/",
-      "is_new": false
-    },
-    {
-      "title": "An examination of lost firefly species of the US and Canada",
-      "link": "https://journaloflostspecies.org/index.php/jls/article/view/37/33",
-      "is_new": false
-    },
-    {
-      "title": "Hunger beats tenure: Advice for junior engineers",
-      "link": "https://felixrieseberg.com/hunger-beats-tenure-advice-for-junior-engineers/",
-      "is_new": true
-    },
-    {
-      "title": "Assembly Nights (2021)",
-      "link": "https://ratfactor.com/assembly-nights",
-      "is_new": false
-    },
-    {
-      "title": "US Government is hiding a secret court ruling about how it spies on Americans",
-      "link": "https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/",
-      "is_new": false
-    },
-    {
-      "title": "Moxnox 1.0: NT-Like, POSIX-Compatible OS Running Atop Btrfs",
-      "link": "https://github.com/maharmstone/moxnox",
-      "is_new": false
-    },
-    {
-      "title": "State of ARM Support for Puget Bench",
-      "link": "https://www.pugetsystems.com/blog/2026/10/22/state-of-arm-support-for-puget-bench/",
-      "is_new": true
-    },
-    {
-      "title": "Why Micron Is Suddenly Ditching 4F² DRAM as Rivals Double Down",
-      "link": "https://hothardware.com/news/why-micron-is-suddenly-ditching-4f-dram",
-      "is_new": false
-    },
-    {
-      "title": "Radio-tagged Monarch butterflies",
-      "link": "https://news.vt.edu/articles/2026/10/cmi-monarchs.html",
-      "is_new": false
     }
   ]
 }
