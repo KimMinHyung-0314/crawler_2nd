@@ -1,10 +1,15 @@
 {
-  "crawled_at": "2026-10-28 12:49",
-  "prev_crawled_at": "2026-10-28 08:26",
+  "crawled_at": "2026-10-28 19:18",
+  "prev_crawled_at": "2026-10-28 12:49",
   "items": [
     {
-      "title": "Git for US Legislation",
+      "title": "Git for the US Code",
       "link": "https://lexifina.com/blog/git-for-the-us-code",
+      "is_new": false
+    },
+    {
+      "title": "Start Doing Graph Theory",
+      "link": "https://vertex.degree/",
       "is_new": true
     },
     {
@@ -13,13 +18,23 @@
       "is_new": false
     },
     {
+      "title": "Ghostty 1.4",
+      "link": "https://ghostty.org/docs/install/release-notes/1-4-0",
+      "is_new": false
+    },
+    {
       "title": "Ink droplets in motion snag top prize in Nikon Small World contest",
       "link": "https://arstechnica.com/science/2026/10/meet-the-2026-winner-of-nikons-small-world-photomicrography-contest/",
+      "is_new": false
+    },
+    {
+      "title": "MacOS Extensions Pack for the Apple Network Server v1.0",
+      "link": "http://oldvcr.blogspot.com/2026/10/macos-extensions-pack-for-apple-network.html",
       "is_new": true
     },
     {
-      "title": "Ghostty 1.4",
-      "link": "https://ghostty.org/docs/install/release-notes/1-4-0",
+      "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+      "link": "https://www.brangus.io/survival-llm",
       "is_new": false
     },
     {
@@ -33,34 +48,9 @@
       "is_new": false
     },
     {
-      "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
-      "link": "https://www.brangus.io/survival-llm",
-      "is_new": false
-    },
-    {
-      "title": "Assembly Nights",
-      "link": "https://ratfactor.com/assembly-nights",
+      "title": "Decompiling Fast Food Tycoon 2: Drawing the World",
+      "link": "https://healeycodes.com/decompiling-fast-food-tycoon-2-drawing-the-world",
       "is_new": true
-    },
-    {
-      "title": "Tabletop Whale is an original science illustration blog",
-      "link": "https://tabletopwhale.com",
-      "is_new": true
-    },
-    {
-      "title": "Raspberry Pi Zero 3W and Pi 4 Model A spotted in device trees",
-      "link": "https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/",
-      "is_new": false
-    },
-    {
-      "title": "81 Jokes for the ZX81",
-      "link": "https://spelk.press/gb/products/81-jokes-for-the-zx81",
-      "is_new": true
-    },
-    {
-      "title": "New 14‑inch MacBook Pro with M6",
-      "link": "https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
-      "is_new": false
     },
     {
       "title": "Python's experimental JIT to be removed",
@@ -68,28 +58,18 @@
       "is_new": false
     },
     {
-      "title": "Reviewers rarely talk about reliability. Owners bring it up twice as often",
-      "link": "https://www.bettascore.ai/research/reliability-reviewers-vs-owners",
+      "title": "Raspberry Pi Zero 3W and Pi 4 Model A spotted in device trees",
+      "link": "https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/",
       "is_new": false
     },
     {
-      "title": "A Love Letter to the Super Dimension Fortress",
-      "link": "https://brennan.day/a-love-letter-to-the-super-dimension-fortress/",
-      "is_new": true
-    },
-    {
-      "title": "An examination of lost firefly species of the US and Canada",
-      "link": "https://journaloflostspecies.org/index.php/jls/article/view/37/33",
+      "title": "New 14‑inch MacBook Pro with M6",
+      "link": "https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
       "is_new": false
     },
     {
-      "title": "New iMac with M6",
-      "link": "https://www.apple.com/imac/",
-      "is_new": false
-    },
-    {
-      "title": "Classification of Finite Simple Groups Formalized in Lean",
-      "link": "https://cfsg.axiommath.ai/",
+      "title": "Code-execution flaw in UEFI firmware threatens most servers on planet Earth",
+      "link": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/",
       "is_new": false
     },
     {
@@ -98,8 +78,23 @@
       "is_new": false
     },
     {
-      "title": "Radio-tagged Monarch butterflies",
-      "link": "https://news.vt.edu/articles/2026/10/cmi-monarchs.html",
+      "title": "Spain train crash: 'At least 10 dead' in high-speed collision",
+      "link": "https://www.thetimes.com/world/europe/article/spain-train-crash-madrid-latest-deaths-victims-807kwv23l",
+      "is_new": true
+    },
+    {
+      "title": "New iMac with M6",
+      "link": "https://www.apple.com/imac/",
+      "is_new": false
+    },
+    {
+      "title": "Jokes for the ZX81",
+      "link": "https://spelk.press/gb/products/81-jokes-for-the-zx81",
+      "is_new": false
+    },
+    {
+      "title": "Closing the Sea: Lessons from Ancient Mediterranean Blockades",
+      "link": "https://maritime-executive.com/editorials/closing-the-sea-lessons-from-ancient-mediterranean-blockades",
       "is_new": true
     },
     {
@@ -108,8 +103,65 @@
       "is_new": false
     },
     {
+      "title": "A Love Letter to the Super Dimension Fortress",
+      "link": "https://brennan.day/a-love-letter-to-the-super-dimension-fortress/",
+      "is_new": false
+    },
+    {
+      "title": "Classification of Finite Simple Groups Formalized in Lean",
+      "link": "https://cfsg.axiommath.ai/",
+      "is_new": false
+    },
+    {
+      "title": "An examination of lost firefly species of the US and Canada",
+      "link": "https://journaloflostspecies.org/index.php/jls/article/view/37/33",
+      "is_new": false
+    },
+    {
+      "title": "Hunger beats tenure: Advice for junior engineers",
+      "link": "https://felixrieseberg.com/hunger-beats-tenure-advice-for-junior-engineers/",
+      "is_new": true
+    },
+    {
+      "title": "Assembly Nights (2021)",
+      "link": "https://ratfactor.com/assembly-nights",
+      "is_new": false
+    },
+    {
       "title": "US Government is hiding a secret court ruling about how it spies on Americans",
       "link": "https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/",
+      "is_new": false
+    },
+    {
+      "title": "Moxnox 1.0: NT-Like, POSIX-Compatible OS Running Atop Btrfs",
+      "link": "https://github.com/maharmstone/moxnox",
+      "is_new": false
+    },
+    {
+      "title": "State of ARM Support for Puget Bench",
+      "link": "https://www.pugetsystems.com/blog/2026/10/22/state-of-arm-support-for-puget-bench/",
+      "is_new": true
+    },
+    {
+      "title": "Why Micron Is Suddenly Ditching 4F² DRAM as Rivals Double Down",
+      "link": "https://hothardware.com/news/why-micron-is-suddenly-ditching-4f-dram",
+      "is_new": false
+    },
+    {
+      "title": "Radio-tagged Monarch butterflies",
+      "link": "https://news.vt.edu/articles/2026/10/cmi-monarchs.html",
+      "is_new": false
+    }
+  ],
+  "removed": [
+    {
+      "title": "Tabletop Whale is an original science illustration blog",
+      "link": "https://tabletopwhale.com",
+      "is_new": true
+    },
+    {
+      "title": "Reviewers rarely talk about reliability. Owners bring it up twice as often",
+      "link": "https://www.bettascore.ai/research/reliability-reviewers-vs-owners",
       "is_new": false
     },
     {
@@ -128,81 +180,14 @@
       "is_new": true
     },
     {
-      "title": "Why Micron Is Suddenly Ditching 4F² DRAM as Rivals Double Down",
-      "link": "https://hothardware.com/news/why-micron-is-suddenly-ditching-4f-dram",
-      "is_new": false
-    },
-    {
-      "title": "Moxnox 1.0: NT-Like, POSIX-Compatible OS Running Atop Btrfs",
-      "link": "https://github.com/maharmstone/moxnox",
-      "is_new": true
-    },
-    {
       "title": "Land Value Capture in Practice: Ethiopia's Urban Land Lease System",
       "link": "https://blog.landeconomics.org/p/land-value-capture-in-practice-reflections",
       "is_new": false
     },
     {
-      "title": "Code-execution flaw in UEFI firmware threatens most servers on planet Earth",
-      "link": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/",
-      "is_new": true
-    },
-    {
       "title": "Three TLS Bugs in GoAhead",
       "link": "https://foxio.io/blog/choose-your-backend-three-tls-bugs-in-goahead",
       "is_new": false
-    }
-  ],
-  "removed": [
-    {
-      "title": "Radio-tagged Monarch butterflies",
-      "link": "https://blog.cwf-fcf.org/index.php/en/tiny-tracking-tags-for-big-monarch-journeys/",
-      "is_new": true
-    },
-    {
-      "title": "Wikipedia's Cleanup of AI-Generated Content",
-      "link": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
-      "is_new": true
-    },
-    {
-      "title": "Hex Raises $100M",
-      "link": "https://hex.tech/blog/hex-new-era/",
-      "is_new": true
-    },
-    {
-      "title": "One year of Dioxus fullstack in production: the good, the painful",
-      "link": "https://oxidt.com/blog/one-year-of-dioxus-fullstack-in-production-the-good-the-painful",
-      "is_new": true
-    },
-    {
-      "title": "Discord will soon let anyone find public server messages through Google",
-      "link": "https://discord.com/blog/making-content-from-discoverable-servers-easier-to-discover",
-      "is_new": true
-    },
-    {
-      "title": "Anthropic trained Claude on illegally obtained Stanford professors' books",
-      "link": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/",
-      "is_new": true
-    },
-    {
-      "title": "Amazon Is Gutting Its AI Division After Sustained Failure",
-      "link": "https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova",
-      "is_new": true
-    },
-    {
-      "title": "Here be monsters: What do you still need to know when agents do the work?",
-      "link": "https://blog.adrq.dev/here-be-monsters-what-do-you-still-need-to-know-when-agents-do-the-work",
-      "is_new": true
-    },
-    {
-      "title": "Rosettes and Other Hidden Traces of Hamburg's Tram",
-      "link": "https://alsterrunde.com/rosettes-and-other-hidden-traces-of-hamburgs-tram/",
-      "is_new": true
-    },
-    {
-      "title": "OpenLDK: Bringing the Java World into Common Lisp",
-      "link": "https://atgreen.github.io/repl-yell/posts/openldk-java-in-common-lisp/",
-      "is_new": true
     }
   ]
 }
