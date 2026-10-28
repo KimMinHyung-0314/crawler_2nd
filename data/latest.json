@@ -1,115 +1,167 @@
 {
-  "crawled_at": "2026-10-28 08:26",
-  "prev_crawled_at": "2026-10-28 04:11",
+  "crawled_at": "2026-10-28 12:49",
+  "prev_crawled_at": "2026-10-28 08:26",
   "items": [
+    {
+      "title": "Git for US Legislation",
+      "link": "https://lexifina.com/blog/git-for-the-us-code",
+      "is_new": true
+    },
     {
       "title": "Genie 4",
       "link": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+      "is_new": false
+    },
+    {
+      "title": "Ink droplets in motion snag top prize in Nikon Small World contest",
+      "link": "https://arstechnica.com/science/2026/10/meet-the-2026-winner-of-nikons-small-world-photomicrography-contest/",
       "is_new": true
     },
     {
       "title": "Ghostty 1.4",
       "link": "https://ghostty.org/docs/install/release-notes/1-4-0",
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Tailscale SSH: Investigation and remediation update",
       "link": "https://tailscale.com/ssh-investigation-update",
-      "is_new": true
-    },
-    {
-      "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
-      "link": "https://www.brangus.io/survival-llm",
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Early progress on accelerating drug development with Claude",
       "link": "https://www.anthropic.com/research/early-progress-drug-development",
+      "is_new": false
+    },
+    {
+      "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+      "link": "https://www.brangus.io/survival-llm",
+      "is_new": false
+    },
+    {
+      "title": "Assembly Nights",
+      "link": "https://ratfactor.com/assembly-nights",
+      "is_new": true
+    },
+    {
+      "title": "Tabletop Whale is an original science illustration blog",
+      "link": "https://tabletopwhale.com",
       "is_new": true
     },
     {
       "title": "Raspberry Pi Zero 3W and Pi 4 Model A spotted in device trees",
       "link": "https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/",
-      "is_new": true
+      "is_new": false
     },
     {
-      "title": "SS United States to be sunk as largest artificial reef",
-      "link": "https://divemagazine.com/scuba-diving-news/ss-united-states-to-be-sunk-as-worlds-largest-artificial-reef-in-november",
+      "title": "81 Jokes for the ZX81",
+      "link": "https://spelk.press/gb/products/81-jokes-for-the-zx81",
       "is_new": true
     },
     {
       "title": "New 14‑inch MacBook Pro with M6",
       "link": "https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
-      "is_new": true
+      "is_new": false
+    },
+    {
+      "title": "Python's experimental JIT to be removed",
+      "link": "https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/",
+      "is_new": false
     },
     {
       "title": "Reviewers rarely talk about reliability. Owners bring it up twice as often",
       "link": "https://www.bettascore.ai/research/reliability-reviewers-vs-owners",
+      "is_new": false
+    },
+    {
+      "title": "A Love Letter to the Super Dimension Fortress",
+      "link": "https://brennan.day/a-love-letter-to-the-super-dimension-fortress/",
       "is_new": true
     },
     {
       "title": "An examination of lost firefly species of the US and Canada",
       "link": "https://journaloflostspecies.org/index.php/jls/article/view/37/33",
+      "is_new": false
+    },
+    {
+      "title": "New iMac with M6",
+      "link": "https://www.apple.com/imac/",
+      "is_new": false
+    },
+    {
+      "title": "Classification of Finite Simple Groups Formalized in Lean",
+      "link": "https://cfsg.axiommath.ai/",
+      "is_new": false
+    },
+    {
+      "title": "SS United States to be sunk as largest artificial reef",
+      "link": "https://divemagazine.com/scuba-diving-news/ss-united-states-to-be-sunk-as-worlds-largest-artificial-reef-in-november",
+      "is_new": false
+    },
+    {
+      "title": "Radio-tagged Monarch butterflies",
+      "link": "https://news.vt.edu/articles/2026/10/cmi-monarchs.html",
       "is_new": true
     },
     {
       "title": "Four Months of Zig",
       "link": "https://gracefulliberty.com/articles/four-months-of-zig/",
+      "is_new": false
+    },
+    {
+      "title": "US Government is hiding a secret court ruling about how it spies on Americans",
+      "link": "https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/",
+      "is_new": false
+    },
+    {
+      "title": "Nvidia and Micron Make Up 34% of America's Earnings Boom",
+      "link": "https://www.wsj.com/finance/stocks/the-earnings-boom-is-heavily-reliant-on-just-a-handful-of-stocks-21decb53",
+      "is_new": false
+    },
+    {
+      "title": "Introducing LFM3: Every Modality for Specialized Intelligence",
+      "link": "https://www.liquid.ai/blog/lfm3",
+      "is_new": false
+    },
+    {
+      "title": "Expanding our partnership with GSA to bring Claude to all levels of government",
+      "link": "https://www.anthropic.com/news/expanding-partnership-gsa",
       "is_new": true
     },
     {
-      "title": "Python's experimental JIT to be removed",
-      "link": "https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/",
+      "title": "Why Micron Is Suddenly Ditching 4F² DRAM as Rivals Double Down",
+      "link": "https://hothardware.com/news/why-micron-is-suddenly-ditching-4f-dram",
+      "is_new": false
+    },
+    {
+      "title": "Moxnox 1.0: NT-Like, POSIX-Compatible OS Running Atop Btrfs",
+      "link": "https://github.com/maharmstone/moxnox",
       "is_new": true
     },
+    {
+      "title": "Land Value Capture in Practice: Ethiopia's Urban Land Lease System",
+      "link": "https://blog.landeconomics.org/p/land-value-capture-in-practice-reflections",
+      "is_new": false
+    },
+    {
+      "title": "Code-execution flaw in UEFI firmware threatens most servers on planet Earth",
+      "link": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/",
+      "is_new": true
+    },
+    {
+      "title": "Three TLS Bugs in GoAhead",
+      "link": "https://foxio.io/blog/choose-your-backend-three-tls-bugs-in-goahead",
+      "is_new": false
+    }
+  ],
+  "removed": [
     {
       "title": "Radio-tagged Monarch butterflies",
       "link": "https://blog.cwf-fcf.org/index.php/en/tiny-tracking-tags-for-big-monarch-journeys/",
       "is_new": true
     },
     {
-      "title": "Classification of Finite Simple Groups Formalized in Lean",
-      "link": "https://cfsg.axiommath.ai/",
-      "is_new": true
-    },
-    {
-      "title": "New iMac with M6",
-      "link": "https://www.apple.com/imac/",
-      "is_new": true
-    },
-    {
       "title": "Wikipedia's Cleanup of AI-Generated Content",
       "link": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
-      "is_new": true
-    },
-    {
-      "title": "Introducing LFM3: Every Modality for Specialized Intelligence",
-      "link": "https://www.liquid.ai/blog/lfm3",
-      "is_new": true
-    },
-    {
-      "title": "US Government is hiding a secret court ruling about how it spies on Americans",
-      "link": "https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/",
-      "is_new": true
-    },
-    {
-      "title": "Three TLS Bugs in GoAhead",
-      "link": "https://foxio.io/blog/choose-your-backend-three-tls-bugs-in-goahead",
-      "is_new": true
-    },
-    {
-      "title": "Nvidia and Micron Make Up 34% of America's Earnings Boom",
-      "link": "https://www.wsj.com/finance/stocks/the-earnings-boom-is-heavily-reliant-on-just-a-handful-of-stocks-21decb53",
-      "is_new": true
-    },
-    {
-      "title": "Land Value Capture in Practice: Ethiopia's Urban Land Lease System",
-      "link": "https://blog.landeconomics.org/p/land-value-capture-in-practice-reflections",
-      "is_new": true
-    },
-    {
-      "title": "Why Micron Is Suddenly Ditching 4F² DRAM as Rivals Double Down",
-      "link": "https://hothardware.com/news/why-micron-is-suddenly-ditching-4f-dram",
       "is_new": true
     },
     {
@@ -151,158 +203,6 @@
       "title": "OpenLDK: Bringing the Java World into Common Lisp",
       "link": "https://atgreen.github.io/repl-yell/posts/openldk-java-in-common-lisp/",
       "is_new": true
-    }
-  ],
-  "removed": [
-    {
-      "title": "Three new discoveries in mathematics, computer science, and physics",
-      "link": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
-      "is_new": false
-    },
-    {
-      "title": "The Exponential Time Hypothesis Is False [pdf]",
-      "link": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf",
-      "is_new": false
-    },
-    {
-      "title": "There are now 5 inference providers for abliterated DeepSeek",
-      "link": "https://allmodels.io/llm/abliterated",
-      "is_new": false
-    },
-    {
-      "title": "Sebastian Raschka's from-scratch video course on building reasoning models",
-      "link": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
-      "is_new": false
-    },
-    {
-      "title": "Oldest GUI application that still runs on Windows 11",
-      "link": "https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/",
-      "is_new": false
-    },
-    {
-      "title": "16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows",
-      "link": "https://github.com/otya128/winevdm",
-      "is_new": false
-    },
-    {
-      "title": "Type Server Protocol",
-      "link": "https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md",
-      "is_new": false
-    },
-    {
-      "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
-      "link": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
-      "is_new": false
-    },
-    {
-      "title": "APC says let there be light, with standards to speed up photonics manufacturing",
-      "link": "https://www.nextplatform.com/connect/2026/10/23/apc-says-let-there-be-light-with-raft-of-standards-to-speed-up-photonics-manufacturing/5304950",
-      "is_new": false
-    },
-    {
-      "title": "CSS-Tricks has a new owner",
-      "link": "https://css-tricks.com/css-tricks-has-a-new-owner/",
-      "is_new": false
-    },
-    {
-      "title": "A Printer Printing onto Paper",
-      "link": "https://twitter.com/macrofying/status/2112904628509528219",
-      "is_new": false
-    },
-    {
-      "title": "Solar power is becoming bigger than nuclear",
-      "link": "https://www.bbc.com/future/article/20261023-how-solar-became-bigger-than-nuclear",
-      "is_new": false
-    },
-    {
-      "title": "I still teach OpenGL ES 3.0",
-      "link": "https://eliasfarhan.ch/graphics/cpp/2026/01/27/why-i-teach-opengles.html",
-      "is_new": false
-    },
-    {
-      "title": "Nietzschian Debugger",
-      "link": "https://github.com/DilawarShafiq/nietzschian-debugger",
-      "is_new": false
-    },
-    {
-      "title": "New iPad mini",
-      "link": "https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/",
-      "is_new": false
-    },
-    {
-      "title": "A Man from the Future: Why Johnny Can't Stop Abstracting",
-      "link": "http://muratbuffalo.blogspot.com/2026/10/the-man-from-future-why-johnny-cant.html",
-      "is_new": false
-    },
-    {
-      "title": "Anthropic S-1",
-      "link": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
-      "is_new": false
-    },
-    {
-      "title": "Virtual and Real World Combine at LAN Party (1998)",
-      "link": "https://www.latimes.com/archives/la-xpm-1998-aug-10-mn-11870-story.html",
-      "is_new": false
-    },
-    {
-      "title": "How to grow a cacao tree at home",
-      "link": "https://www.cocoterra.com/guide-on-how-to-grow-chocolate-at-home/",
-      "is_new": false
-    },
-    {
-      "title": "Blaise Pascal invented fixed route public transport (2024)",
-      "link": "https://humantransit.org/2024/12/one-of-the-greatest-inventions-in-the-history-of-human-transport.html",
-      "is_new": false
-    },
-    {
-      "title": "Websites Should Be Printable",
-      "link": "https://brennenputh.me/blog/printable-websites/",
-      "is_new": false
-    },
-    {
-      "title": "GPT-6.1 Terra",
-      "link": "https://openai.com/index/introducing-gpt-6-1-terra/",
-      "is_new": false
-    },
-    {
-      "title": "Migrate Your 300-Node Redis Cluster to Just 3 Lavik Nodes",
-      "link": "https://lavik.dev/en/blog/300-redis-nodes-to-3-lavik-nodes/",
-      "is_new": false
-    },
-    {
-      "title": "SIMD-accelerated computer vision on a $2 microcontroller",
-      "link": "https://shraiwi.com/blog/simd-fast-esp32s3/",
-      "is_new": false
-    },
-    {
-      "title": "LISPy things you can do in 64K bytes of core (2019)",
-      "link": "https://t3x.org/lisp64k/index.html",
-      "is_new": false
-    },
-    {
-      "title": "Microsoft offers mass buyouts for roughly a quarter of its workforce",
-      "link": "https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/",
-      "is_new": false
-    },
-    {
-      "title": "Pharo 14",
-      "link": "https://pharo.org/news/2026-10-26-Pharo14Release.html",
-      "is_new": false
-    },
-    {
-      "title": "Is PHP Running on Your ColdFusion Server? How to Check, and Remove It",
-      "link": "https://www.gregoryalexander.com/blog/2026/10/23/is-php-quietly-running-on-your-coldfusion-server-how-to-check-and-remove-it",
-      "is_new": false
-    },
-    {
-      "title": "Historical Telecommunications",
-      "link": "https://retronetworking.org/",
-      "is_new": false
-    },
-    {
-      "title": "UK to charge universities $1,200 per international student",
-      "link": "https://africa.businessinsider.com/local/markets/uk-to-charge-universities-dollar1200-per-international-student-including-those-from/qe5rqbe",
-      "is_new": false
     }
   ]
 }
