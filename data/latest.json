@@ -1,11 +1,51 @@
 {
-  "crawled_at": "2026-10-29 16:58",
-  "prev_crawled_at": "2026-10-29 10:29",
+  "crawled_at": "2026-10-30 00:04",
+  "prev_crawled_at": "2026-10-29 16:58",
   "items": [
+    {
+      "title": "Mistral Large 4 (Le Chonk) is now Open Weight",
+      "link": "https://mistral.ai/news/mistral-large-4-oss/",
+      "is_new": true
+    },
+    {
+      "title": "Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5",
+      "link": "https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1",
+      "is_new": true
+    },
+    {
+      "title": "Read the letter the FBI sent MLK to try to convince him to kill himself (2014)",
+      "link": "https://www.vox.com/xpress/2014/11/12/7204453/martin-luther-king-fbi-letter",
+      "is_new": true
+    },
+    {
+      "title": "DoorDash is acquiring Instacart for $17B",
+      "link": "https://about.doordash.com/en-us/news/doordash-to-acquire-instacart",
+      "is_new": true
+    },
+    {
+      "title": "Chained PHP2Shell Exploit Roots 25 Servers, Including US Government Servers",
+      "link": "https://dreamgroup.com/blog/chained-php2shell-exploit-roots-25-servers",
+      "is_new": true
+    },
     {
       "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
       "link": "https://divagr.com/blog/qwenputer",
       "is_new": false
+    },
+    {
+      "title": "Zero click, silent, remote Android DoS",
+      "link": "https://smsofdeath.com/",
+      "is_new": true
+    },
+    {
+      "title": "Java's new AOT cache feature is in a rough state",
+      "link": "https://xpipe.io/blog/java-aot-cache",
+      "is_new": true
+    },
+    {
+      "title": "Google determines the names for bodies of water in Google Earth (2008)",
+      "link": "https://publicpolicy.googleblog.com/2008/04/how-google-determines-names-for-bodies.html",
+      "is_new": true
     },
     {
       "title": "Why is this fingerprinting script creating bioweapons?",
@@ -13,19 +53,59 @@
       "is_new": false
     },
     {
-      "title": "We Won't \"Just Hang Out\"",
-      "link": "https://borretti.me/article/we-wont-just-hang-out",
+      "title": "React.lazy, Suspense and the Hidden 300 ms Delay",
+      "link": "https://tabwidgets.com/blog/react-lazy-suspense-delay",
       "is_new": true
     },
     {
-      "title": "A new faster algorithm to compute 64-bit signed floor division",
-      "link": "https://www.benjoffe.com/fast-floordiv",
+      "title": "The US added a record 20.2 GWh of battery storage in just 3 months",
+      "link": "https://electrek.co/2026/08/31/the-us-added-a-record-20-2-gwh-of-battery-storage-in-just-3-months/",
       "is_new": true
     },
     {
-      "title": "A Health Update",
-      "link": "https://furbo.org/2026/10/28/a-health-update/",
+      "title": "Getting debug access on a Brother printer over Telnet",
+      "link": "https://inventor7777.github.io/blog/2026/10/22/debug-access-on-brother/",
       "is_new": false
+    },
+    {
+      "title": "Open Sound Connect – Control Sony Headphones from Your Mac",
+      "link": "https://opensoundconnect.app",
+      "is_new": true
+    },
+    {
+      "title": "Keplearn: Extract Equations from Data in Seconds",
+      "link": "https://github.com/owls-on-wires/keplearn",
+      "is_new": true
+    },
+    {
+      "title": "Hackers expose the identities of more than 40k DHS employees",
+      "link": "https://text.npr.org/nx-s1-6021497",
+      "is_new": true
+    },
+    {
+      "title": "Southern Africa's first known stenciled rock art found hiding in plain sight",
+      "link": "https://phys.org/news/2026-10-southern-africa-stenciled-art-plain.html",
+      "is_new": true
+    },
+    {
+      "title": "DoorDash to Acquire Instacart",
+      "link": "https://ir.doordash.com/news/news-details/2026/DoorDash-to-Acquire-Instacart-to-Help-Local-Stores-Win/default.aspx",
+      "is_new": true
+    },
+    {
+      "title": "Forging a Microsoft Edge Full Chain with Logic Bugs Only",
+      "link": "https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain/",
+      "is_new": true
+    },
+    {
+      "title": "MiniLake Is a Local Databricks API Emulator with SQL, Delta Lake and Spark",
+      "link": "https://dmux.github.io/minilake/",
+      "is_new": true
+    },
+    {
+      "title": "NetBSD adds a new beginner-friendly text editor called atto",
+      "link": "https://mastodon.sdf.org/@netbsd/117518160563539748",
+      "is_new": true
     },
     {
       "title": "StackOverflow now gets fewer than 1000 questions a month",
@@ -33,19 +113,34 @@
       "is_new": false
     },
     {
-      "title": "GitLab Security Incident: Attempted Exploitation of CVE-2026-97229",
-      "link": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
-      "is_new": false
-    },
-    {
-      "title": "Claude Code regularly sends each background agent’s transcript to its model",
-      "link": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
+      "title": "I Used AI to Fake a Scientific Paper. Here's What Happened",
+      "link": "https://spectrum.ieee.org/ai-generated-scientific-papers",
       "is_new": true
     },
     {
       "title": "OpenAI's agents talked to each other through the CPU Cache",
       "link": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/",
+      "is_new": false
+    },
+    {
+      "title": "A Health Update",
+      "link": "https://furbo.org/2026/10/28/a-health-update/",
+      "is_new": false
+    },
+    {
+      "title": "If IPv4 Were Land",
+      "link": "https://iptrust.co/blog/if-ipv4-were-land",
       "is_new": true
+    },
+    {
+      "title": "Requests, Please",
+      "link": "https://morronel.github.io/requests_please/",
+      "is_new": true
+    },
+    {
+      "title": "GitLab Security Incident: Attempted Exploitation of CVE-2026-97229",
+      "link": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
+      "is_new": false
     },
     {
       "title": "CNC Stone Carving",
@@ -53,8 +148,20 @@
       "is_new": false
     },
     {
-      "title": "Getting debug access on a Brother printer over Telnet",
-      "link": "https://inventor7777.github.io/blog/2026/10/22/debug-access-on-brother/",
+      "title": "A new faster algorithm to compute 64-bit signed floor division",
+      "link": "https://www.benjoffe.com/fast-floordiv",
+      "is_new": false
+    }
+  ],
+  "removed": [
+    {
+      "title": "We Won't \"Just Hang Out\"",
+      "link": "https://borretti.me/article/we-wont-just-hang-out",
+      "is_new": true
+    },
+    {
+      "title": "Claude Code regularly sends each background agent’s transcript to its model",
+      "link": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
       "is_new": true
     },
     {
@@ -150,63 +257,6 @@
     {
       "title": "The Agent SDK",
       "link": "https://cursor.com/blog/agent-sdk",
-      "is_new": false
-    }
-  ],
-  "removed": [
-    {
-      "title": "New York Times adds more AI features to its Cooking app. Users aren't thrilled",
-      "link": "https://www.niemanlab.org/2026/10/the-new-york-times-is-adding-more-ai-features-to-its-cooking-app-and-users-arent-thrilled/",
-      "is_new": true
-    },
-    {
-      "title": "The first wired XR glasses powered by Android XR",
-      "link": "https://blog.google/products-and-platforms/platforms/android/xreal-aura/",
-      "is_new": true
-    },
-    {
-      "title": "MicroZig to Adopt Strict No LLM / No AI Policy",
-      "link": "https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md",
-      "is_new": true
-    },
-    {
-      "title": "Start Doing Graph Theory",
-      "link": "https://vertex.degree/",
-      "is_new": false
-    },
-    {
-      "title": "How we made our MMDB files a 33% smaller",
-      "link": "https://ipinfo.io/blog/how-made-mmdb-files-smaller",
-      "is_new": true
-    },
-    {
-      "title": "Image generation has come a long way since August 2022",
-      "link": "https://www.hbrooks.com/writing/image-generation-has-come-a-long-way",
-      "is_new": true
-    },
-    {
-      "title": "Gaussian Splats part 3: There's always a bigger scene",
-      "link": "https://www.magnopus.com/blog/gaussiansplats-part-3-theres-always-a-bigger-scene",
-      "is_new": false
-    },
-    {
-      "title": "Show HN: SlideBySide – Present slides without sharing your screen",
-      "link": "https://slidebyside.com/",
-      "is_new": false
-    },
-    {
-      "title": "Leak website releases data on DHS employees",
-      "link": "https://www.reuters.com/legal/government/leak-website-releases-data-tens-thousands-dhs-employees-2026-10-28/",
-      "is_new": true
-    },
-    {
-      "title": "Emacs Turns 50",
-      "link": "https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/",
-      "is_new": false
-    },
-    {
-      "title": "Oseberg Tapestry Fragments",
-      "link": "https://en.wikipedia.org/wiki/Oseberg_tapestry_fragments",
       "is_new": false
     }
   ]
