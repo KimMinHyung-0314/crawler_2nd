@@ -1,15 +1,35 @@
 {
-  "crawled_at": "2026-10-29 06:32",
-  "prev_crawled_at": "2026-10-29 01:57",
+  "crawled_at": "2026-10-29 10:29",
+  "prev_crawled_at": "2026-10-29 06:32",
   "items": [
     {
-      "title": "Why is this fingerprinting script creating bioweapons?",
-      "link": "https://nullpt.rs/fingerprinting-bioweapons",
+      "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
+      "link": "https://divagr.com/blog/qwenputer",
       "is_new": true
     },
     {
-      "title": "Gemini 4 Carbon",
-      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+      "title": "Why is this fingerprinting script creating bioweapons?",
+      "link": "https://nullpt.rs/fingerprinting-bioweapons",
+      "is_new": false
+    },
+    {
+      "title": "GitLab Security Incident: Attempted Exploitation of CVE-2026-97229",
+      "link": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
+      "is_new": true
+    },
+    {
+      "title": "New York Times adds more AI features to its Cooking app. Users aren't thrilled",
+      "link": "https://www.niemanlab.org/2026/10/the-new-york-times-is-adding-more-ai-features-to-its-cooking-app-and-users-arent-thrilled/",
+      "is_new": true
+    },
+    {
+      "title": "A Health Update",
+      "link": "https://furbo.org/2026/10/28/a-health-update/",
+      "is_new": true
+    },
+    {
+      "title": "The first wired XR glasses powered by Android XR",
+      "link": "https://blog.google/products-and-platforms/platforms/android/xreal-aura/",
       "is_new": true
     },
     {
@@ -18,29 +38,24 @@
       "is_new": false
     },
     {
-      "title": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
-      "link": "https://surgehq.ai/blog/dayjob-tax",
+      "title": "MicroZig to Adopt Strict No LLM / No AI Policy",
+      "link": "https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md",
+      "is_new": true
+    },
+    {
+      "title": "Gemini 4 Carbon",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
       "is_new": false
+    },
+    {
+      "title": "StackOverflow now gets fewer than 1000 questions a month",
+      "link": "https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1",
+      "is_new": true
     },
     {
       "title": "MacBook Pro with PROLED XDR Display and Touch",
       "link": "https://www.apple.com/macbook-pro/proled-xdr-display/",
-      "is_new": true
-    },
-    {
-      "title": "Formlabs Studio 1 $699 Resin Printer",
-      "link": "https://formlabs.com/products/form-studio-1-basic-founders-edition/",
-      "is_new": true
-    },
-    {
-      "title": "Nango (YC W23) Is Hiring Across Eng, FDE, Marketing, DevRel",
-      "link": "https://nango.dev/careers",
-      "is_new": true
-    },
-    {
-      "title": "Leak Exposes 41,000 Homeland Security Workers–Including Undercover ICE Agents",
-      "link": "https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/",
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "The Grid, a factory-scale robot in Massachusetts that builds PCBs on demand",
@@ -53,19 +68,44 @@
       "is_new": false
     },
     {
-      "title": "The Style Is Father of the Man",
-      "link": "https://harpers.org/archive/2026/11/benjamin-kunkel-reviews-cormac-mccarthy-legacy-revisted/",
+      "title": "How we made our MMDB files a 33% smaller",
+      "link": "https://ipinfo.io/blog/how-made-mmdb-files-smaller",
+      "is_new": true
+    },
+    {
+      "title": "Nango (YC W23) Is Hiring Across Eng, FDE, Marketing, DevRel",
+      "link": "https://nango.dev/careers",
+      "is_new": false
+    },
+    {
+      "title": "Formlabs Studio 1 $699 Resin Printer",
+      "link": "https://formlabs.com/products/form-studio-1-basic-founders-edition/",
+      "is_new": false
+    },
+    {
+      "title": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
+      "link": "https://surgehq.ai/blog/dayjob-tax",
+      "is_new": false
+    },
+    {
+      "title": "The case of the 9 bit AES key",
+      "link": "https://v12.sh/blog/the-case-of-the-9bit-aes-key",
+      "is_new": false
+    },
+    {
+      "title": "Why Birds Can Fly over Mount Everest",
+      "link": "https://lede-v2.nautil.us/why-birds-can-fly-over-mount-everest-237864",
+      "is_new": true
+    },
+    {
+      "title": "Image generation has come a long way since August 2022",
+      "link": "https://www.hbrooks.com/writing/image-generation-has-come-a-long-way",
       "is_new": true
     },
     {
       "title": "AlpineBSD",
       "link": "https://wiki.alpinebsd.org",
-      "is_new": true
-    },
-    {
-      "title": "The case of the 9 bit AES key",
-      "link": "https://v12.sh/blog/the-case-of-the-9bit-aes-key",
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Apple's git still trusts the compromised eMudhra certificates",
@@ -73,24 +113,9 @@
       "is_new": false
     },
     {
-      "title": "The tragedy of losing your Wikipedia page",
-      "link": "https://www.wired.com/story/the-tragedy-of-losing-your-wikipedia-page/",
-      "is_new": true
-    },
-    {
       "title": "Spiders Spin 'Silk Dope' into Nature's Toughest Material",
       "link": "https://www.quantamagazine.org/how-spiders-spin-silk-dope-into-natures-toughest-material-20261028/",
-      "is_new": true
-    },
-    {
-      "title": "The Agent SDK",
-      "link": "https://cursor.com/blog/agent-sdk",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: SlideBySide – Present slides without sharing your screen",
-      "link": "https://slidebyside.com/",
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Gaussian Splats part 3: There's always a bigger scene",
@@ -98,8 +123,23 @@
       "is_new": false
     },
     {
-      "title": "Google AI gets cagey when asked who won the 2020 elections",
-      "link": "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/",
+      "title": "The Agent SDK",
+      "link": "https://cursor.com/blog/agent-sdk",
+      "is_new": false
+    },
+    {
+      "title": "Scaling Hierarchical Networks",
+      "link": "https://www.cartesia.ai/blog/from-tokens-to-bytes-part-1",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: SlideBySide – Present slides without sharing your screen",
+      "link": "https://slidebyside.com/",
+      "is_new": false
+    },
+    {
+      "title": "Leak website releases data on DHS employees",
+      "link": "https://www.reuters.com/legal/government/leak-website-releases-data-tens-thousands-dhs-employees-2026-10-28/",
       "is_new": true
     },
     {
@@ -108,14 +148,36 @@
       "is_new": false
     },
     {
+      "title": "Oseberg Tapestry Fragments",
+      "link": "https://en.wikipedia.org/wiki/Oseberg_tapestry_fragments",
+      "is_new": false
+    }
+  ],
+  "removed": [
+    {
+      "title": "Leak Exposes 41,000 Homeland Security Workers–Including Undercover ICE Agents",
+      "link": "https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/",
+      "is_new": true
+    },
+    {
+      "title": "The Style Is Father of the Man",
+      "link": "https://harpers.org/archive/2026/11/benjamin-kunkel-reviews-cormac-mccarthy-legacy-revisted/",
+      "is_new": true
+    },
+    {
+      "title": "The tragedy of losing your Wikipedia page",
+      "link": "https://www.wired.com/story/the-tragedy-of-losing-your-wikipedia-page/",
+      "is_new": true
+    },
+    {
+      "title": "Google AI gets cagey when asked who won the 2020 elections",
+      "link": "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/",
+      "is_new": true
+    },
+    {
       "title": "Regent's Ground-Effect Vehicle Reimagines Coastal Travel",
       "link": "https://spectrum.ieee.org/ground-effect-vehicle",
       "is_new": false
-    },
-    {
-      "title": "Oseberg Tapestry Fragments",
-      "link": "https://en.wikipedia.org/wiki/Oseberg_tapestry_fragments",
-      "is_new": true
     },
     {
       "title": "Decompiling Fast Food Tycoon 2: Drawing the World",
@@ -150,98 +212,6 @@
     {
       "title": "US agency approves Amazon Leo’s $11.5B acquisition of Globalstar",
       "link": "https://www.reuters.com/business/media-telecom/us-agency-approves-amazon-leos-115-billion-acquisition-globalstar-2026-10-27/",
-      "is_new": true
-    }
-  ],
-  "removed": [
-    {
-      "title": "ICE Is Running One of the Largest Anti-Left Surveillance Ops in US History",
-      "link": "https://www.wired.com/story/ice-is-running-one-of-the-largest-anti-left-surveillance-operations-in-us-history/",
-      "is_new": true
-    },
-    {
-      "title": "From confession to conspiracy: How the Wedgewood fake polls story spread",
-      "link": "https://www.cip.uw.edu/2026/10/23/from-confession-to-conspiracy-how-the-wedgewood-fake-polls-story-spread/",
-      "is_new": true
-    },
-    {
-      "title": "Ghostty 1.4",
-      "link": "https://ghostty.org/docs/install/release-notes/1-4-0",
-      "is_new": false
-    },
-    {
-      "title": "Git for the US Code",
-      "link": "https://lexifina.com/blog/git-for-the-us-code",
-      "is_new": false
-    },
-    {
-      "title": "Genie 4",
-      "link": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
-      "is_new": false
-    },
-    {
-      "title": "Ink droplets in motion snag top prize in Nikon Small World contest",
-      "link": "https://arstechnica.com/science/2026/10/meet-the-2026-winner-of-nikons-small-world-photomicrography-contest/",
-      "is_new": false
-    },
-    {
-      "title": "Amazon to buy satellite firm Globalstar in $11.57B deal",
-      "link": "https://www.reuters.com/business/media-telecom/amazon-signs-1157-billion-deal-satellite-firm-globalstar-challenge-starlink-2026-04-14/1157-billion-deal-satellite-firm-globalstar-challenge-starlink-2026-04-14/",
-      "is_new": true
-    },
-    {
-      "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
-      "link": "https://www.brangus.io/survival-llm",
-      "is_new": false
-    },
-    {
-      "title": "Tesla Semi catches fire on I-880",
-      "link": "https://electrek.co/2026/10/28/tesla-semi-fire-i-880-hayward-no-crash/",
-      "is_new": true
-    },
-    {
-      "title": "An architectural comparison of Obsidian Canvas and Heptabase",
-      "link": "https://www.fluxlinks.com/blog/obsidian-canvas-vs-heptabase",
-      "is_new": true
-    },
-    {
-      "title": "Tailscale SSH: Investigation and remediation update",
-      "link": "https://tailscale.com/ssh-investigation-update",
-      "is_new": false
-    },
-    {
-      "title": "26,400 live credentials found scanning 7.25M repos on China's Gitee",
-      "link": "https://www.mongodb.com/company/blog/technical/scanning-7-point-25-million-public-repositories-chinas-largest-git-platform-for-secrets",
-      "is_new": true
-    },
-    {
-      "title": "Early progress on accelerating drug development with Claude",
-      "link": "https://www.anthropic.com/research/early-progress-drug-development",
-      "is_new": false
-    },
-    {
-      "title": "MacOS Extensions Pack for the Apple Network Server v1.0",
-      "link": "http://oldvcr.blogspot.com/2026/10/macos-extensions-pack-for-apple-network.html",
-      "is_new": false
-    },
-    {
-      "title": "About the compromised eMudhra intermediate CAs",
-      "link": "https://support.apple.com/en-us/149555",
-      "is_new": true
-    },
-    {
-      "title": "Code-execution flaw in UEFI firmware threatens most servers on planet Earth",
-      "link": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/",
-      "is_new": false
-    },
-    {
-      "title": "New 14‑inch MacBook Pro with M6",
-      "link": "https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
-      "is_new": false
-    },
-    {
-      "title": "The Colors of a Soap Film",
-      "link": "https://aseemrb.me/blog/colors-of-a-soap-film/",
       "is_new": true
     }
   ]
