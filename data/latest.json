@@ -1,10 +1,10 @@
 {
-  "crawled_at": "2026-10-30 05:49",
-  "prev_crawled_at": "2026-10-30 00:04",
+  "crawled_at": "2026-10-30 09:33",
+  "prev_crawled_at": "2026-10-30 05:49",
   "items": [
     {
-      "title": "Patrick Stewart has died",
-      "link": "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html",
+      "title": "Binance-hacker-1029 – $5.6B stolen from Binance",
+      "link": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8",
       "is_new": true
     },
     {
@@ -13,34 +13,64 @@
       "is_new": false
     },
     {
-      "title": "The importance of communities around software",
-      "link": "https://lumi.codeberg.page/blog/software-community.html",
+      "title": "We ran AI agent swarms in Minecraft and Mindustry",
+      "link": "https://labs.ycombinator.com/projects/games/index.html",
       "is_new": true
     },
     {
-      "title": "Alleged Chinese spy had 'close relationship' with Nvidia boss Jensen Huang",
-      "link": "https://nypost.com/2026/10/29/business/alleged-chinese-spy-had-close-relationship-with-nvidia-boss-jensen-huang-report/",
+      "title": "A tiny world model running games on a Raspberry Pi Pico 2 W",
+      "link": "https://github.com/SheepSeb/tinyworldformer",
+      "is_new": false
+    },
+    {
+      "title": "Proton goes all in on using AI",
+      "link": "https://convo.casa/@b/117525936178835007",
       "is_new": true
     },
     {
-      "title": "Show HN: Auto Dismiss Mac OS \"Allow <app> to find devices on local networks?\"",
-      "link": "https://github.com/johncassil/dontallow",
+      "title": "El Niño Is Flooding California's Coasts with the Highest Tides to Come",
+      "link": "https://gizmodo.com/el-nino-is-already-flooding-californias-coasts-and-the-years-highest-tides-havent-arrived-2000832574",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: I Turned DOOM into a Transformer",
+      "link": "https://github.com/mottopanikeiku/doomformer",
+      "is_new": true
+    },
+    {
+      "title": "A Pig, the State, and War: Porco Rosso (Kurenai No Buta) (2014)",
+      "link": "https://journal.animationstudies.org/article/id/66/",
+      "is_new": true
+    },
+    {
+      "title": "The Great American Rascal: Tom Sawyer at 150",
+      "link": "https://claremontreviewofbooks.com/the-great-american-rascal/",
       "is_new": true
     },
     {
       "title": "H.264 Is Magic (2016)",
       "link": "https://sidbala.com/h-264-is-magic/",
-      "is_new": true
+      "is_new": false
     },
     {
-      "title": "After 28 years walking across the globe, he's almost home",
-      "link": "https://www.nytimes.com/2026/10/29/world/europe/karl-bushby-walking-globe-uk.html",
+      "title": "Patrick Stewart has died",
+      "link": "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html",
+      "is_new": false
+    },
+    {
+      "title": "Show HN: Auto Dismiss Mac OS \"Allow <app> to find devices on local networks?\"",
+      "link": "https://github.com/johncassil/dontallow",
+      "is_new": false
+    },
+    {
+      "title": "Sylphide OS: a general-purpose OS for microcontroller-based computers",
+      "link": "https://projects.freehackers.org/sylphide-os/",
       "is_new": true
     },
     {
       "title": "LLM Voice",
       "link": "https://martinfowler.com/bliki/LLM-Voice.html",
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "DoorDash to acquire Instacart",
@@ -48,8 +78,85 @@
       "is_new": false
     },
     {
-      "title": "Duet is the future of chatbot interaction",
+      "title": "ElementaryUI – Swift, in the Browser",
+      "link": "https://elementary.codes",
+      "is_new": true
+    },
+    {
+      "title": "Scattered thoughts on how doing math feels these days",
+      "link": "https://dynomight.net/math/",
+      "is_new": true
+    },
+    {
+      "title": "Historical Scientific Instruments",
+      "link": "https://nealstephenson.substack.com/p/historical-scientific-instruments",
+      "is_new": true
+    },
+    {
+      "title": "Chained PHP2Shell exploit roots 25 servers, including US Government servers",
+      "link": "https://dreamgroup.com/blog/chained-php2shell-exploit-roots-25-servers",
+      "is_new": false
+    },
+    {
+      "title": "IgE disruptor for food allergy with Claude-enabled antibody design [pdf]",
+      "link": "https://divergencelabs.com/publications/ige-preprint.pdf",
+      "is_new": false
+    },
+    {
+      "title": "Claude Duet is the first personal-assistant-type harness that feels useful",
       "link": "https://fig.blue/posts/duet-is-the-future/",
+      "is_new": false
+    },
+    {
+      "title": "Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents",
+      "link": "https://news.ycombinator.com/item?id=50291116",
+      "is_new": false
+    },
+    {
+      "title": "If IPv4 were land",
+      "link": "https://iptrust.co/blog/if-ipv4-were-land",
+      "is_new": false
+    },
+    {
+      "title": "Grace Blackwell needs a new scheduler: 27% more usable GPUs from the same racks",
+      "link": "https://skypilot.ai/blog/grace-blackwell-needs-a-new-scheduler",
+      "is_new": false
+    },
+    {
+      "title": "16colo.rs – ANSI/ASCII art archive",
+      "link": "https://16colo.rs/",
+      "is_new": false
+    },
+    {
+      "title": "Zombie stats: Where the numbers AI quotes come from",
+      "link": "https://trakkr.ai/trakkr-research/zombie-stats",
+      "is_new": false
+    },
+    {
+      "title": "What we know so far about Spain train crash",
+      "link": "https://www.bbc.com/news/articles/cm8xz7pkd0jjo",
+      "is_new": false
+    },
+    {
+      "title": "Alleged Chinese spy had 'close relationship' with Nvidia boss Jensen Huang",
+      "link": "https://nypost.com/2026/10/29/business/alleged-chinese-spy-had-close-relationship-with-nvidia-boss-jensen-huang-report/",
+      "is_new": false
+    },
+    {
+      "title": "The importance of communities around software",
+      "link": "https://lumi.codeberg.page/blog/software-community.html",
+      "is_new": false
+    },
+    {
+      "title": "NetBSD adds a new text editor called atto",
+      "link": "https://mastodon.sdf.org/@netbsd/117518160563539748",
+      "is_new": false
+    }
+  ],
+  "removed": [
+    {
+      "title": "After 28 years walking across the globe, he's almost home",
+      "link": "https://www.nytimes.com/2026/10/29/world/europe/karl-bushby-walking-globe-uk.html",
       "is_new": true
     },
     {
@@ -63,38 +170,8 @@
       "is_new": true
     },
     {
-      "title": "IgE disruptor for food allergy with Claude-enabled antibody design [pdf]",
-      "link": "https://divergencelabs.com/publications/ige-preprint.pdf",
-      "is_new": true
-    },
-    {
-      "title": "Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents",
-      "link": "https://news.ycombinator.com/item?id=50291116",
-      "is_new": true
-    },
-    {
-      "title": "Grace Blackwell needs a new scheduler: 27% more usable GPUs from the same racks",
-      "link": "https://skypilot.ai/blog/grace-blackwell-needs-a-new-scheduler",
-      "is_new": true
-    },
-    {
       "title": "Show HN: A proof-of-concept formalization of the IRS federal tax forms",
       "link": "https://github.com/emmilco/us-tax-model",
-      "is_new": true
-    },
-    {
-      "title": "Chained PHP2Shell exploit roots 25 servers, including US Government servers",
-      "link": "https://dreamgroup.com/blog/chained-php2shell-exploit-roots-25-servers",
-      "is_new": false
-    },
-    {
-      "title": "Zombie stats: Where the numbers AI quotes come from",
-      "link": "https://trakkr.ai/trakkr-research/zombie-stats",
-      "is_new": true
-    },
-    {
-      "title": "16colo.rs – ANSI/ASCII art archive",
-      "link": "https://16colo.rs/",
       "is_new": true
     },
     {
@@ -105,26 +182,6 @@
     {
       "title": "Tomáš Mikolov awarded the Medal of Merit by the President of the Czech Republic",
       "link": "https://www.vut.cz/en/but/news-f19528/two-but-graduates-received-state-honors-from-the-president-of-the-republic-d378468",
-      "is_new": true
-    },
-    {
-      "title": "A tiny world model running games on a Raspberry Pi Pico 2 W",
-      "link": "https://github.com/SheepSeb/tinyworldformer",
-      "is_new": true
-    },
-    {
-      "title": "If IPv4 were land",
-      "link": "https://iptrust.co/blog/if-ipv4-were-land",
-      "is_new": false
-    },
-    {
-      "title": "NetBSD adds a new text editor called atto",
-      "link": "https://mastodon.sdf.org/@netbsd/117518160563539748",
-      "is_new": false
-    },
-    {
-      "title": "What we know so far about Spain train crash",
-      "link": "https://www.bbc.com/news/articles/cm8xz7pkd0jjo",
       "is_new": true
     },
     {
@@ -151,128 +208,6 @@
       "title": "Google Search is now less than half of Alphabet’s revenue",
       "link": "https://www.kadoa.com/companies/insights/google-search-below-half",
       "is_new": true
-    }
-  ],
-  "removed": [
-    {
-      "title": "Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5",
-      "link": "https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1",
-      "is_new": true
-    },
-    {
-      "title": "Read the letter the FBI sent MLK to try to convince him to kill himself (2014)",
-      "link": "https://www.vox.com/xpress/2014/11/12/7204453/martin-luther-king-fbi-letter",
-      "is_new": true
-    },
-    {
-      "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
-      "link": "https://divagr.com/blog/qwenputer",
-      "is_new": false
-    },
-    {
-      "title": "Zero click, silent, remote Android DoS",
-      "link": "https://smsofdeath.com/",
-      "is_new": true
-    },
-    {
-      "title": "Java's new AOT cache feature is in a rough state",
-      "link": "https://xpipe.io/blog/java-aot-cache",
-      "is_new": true
-    },
-    {
-      "title": "Google determines the names for bodies of water in Google Earth (2008)",
-      "link": "https://publicpolicy.googleblog.com/2008/04/how-google-determines-names-for-bodies.html",
-      "is_new": true
-    },
-    {
-      "title": "Why is this fingerprinting script creating bioweapons?",
-      "link": "https://nullpt.rs/fingerprinting-bioweapons",
-      "is_new": false
-    },
-    {
-      "title": "React.lazy, Suspense and the Hidden 300 ms Delay",
-      "link": "https://tabwidgets.com/blog/react-lazy-suspense-delay",
-      "is_new": true
-    },
-    {
-      "title": "The US added a record 20.2 GWh of battery storage in just 3 months",
-      "link": "https://electrek.co/2026/08/31/the-us-added-a-record-20-2-gwh-of-battery-storage-in-just-3-months/",
-      "is_new": true
-    },
-    {
-      "title": "Getting debug access on a Brother printer over Telnet",
-      "link": "https://inventor7777.github.io/blog/2026/10/22/debug-access-on-brother/",
-      "is_new": false
-    },
-    {
-      "title": "Open Sound Connect – Control Sony Headphones from Your Mac",
-      "link": "https://opensoundconnect.app",
-      "is_new": true
-    },
-    {
-      "title": "Hackers expose the identities of more than 40k DHS employees",
-      "link": "https://text.npr.org/nx-s1-6021497",
-      "is_new": true
-    },
-    {
-      "title": "Southern Africa's first known stenciled rock art found hiding in plain sight",
-      "link": "https://phys.org/news/2026-10-southern-africa-stenciled-art-plain.html",
-      "is_new": true
-    },
-    {
-      "title": "DoorDash to Acquire Instacart",
-      "link": "https://ir.doordash.com/news/news-details/2026/DoorDash-to-Acquire-Instacart-to-Help-Local-Stores-Win/default.aspx",
-      "is_new": true
-    },
-    {
-      "title": "Forging a Microsoft Edge Full Chain with Logic Bugs Only",
-      "link": "https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain/",
-      "is_new": true
-    },
-    {
-      "title": "MiniLake Is a Local Databricks API Emulator with SQL, Delta Lake and Spark",
-      "link": "https://dmux.github.io/minilake/",
-      "is_new": true
-    },
-    {
-      "title": "StackOverflow now gets fewer than 1000 questions a month",
-      "link": "https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1",
-      "is_new": false
-    },
-    {
-      "title": "I Used AI to Fake a Scientific Paper. Here's What Happened",
-      "link": "https://spectrum.ieee.org/ai-generated-scientific-papers",
-      "is_new": true
-    },
-    {
-      "title": "OpenAI's agents talked to each other through the CPU Cache",
-      "link": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/",
-      "is_new": false
-    },
-    {
-      "title": "A Health Update",
-      "link": "https://furbo.org/2026/10/28/a-health-update/",
-      "is_new": false
-    },
-    {
-      "title": "Requests, Please",
-      "link": "https://morronel.github.io/requests_please/",
-      "is_new": true
-    },
-    {
-      "title": "GitLab Security Incident: Attempted Exploitation of CVE-2026-97229",
-      "link": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
-      "is_new": false
-    },
-    {
-      "title": "CNC Stone Carving",
-      "link": "https://carmelitegothic.com/cnc-stone-carving/",
-      "is_new": false
-    },
-    {
-      "title": "A new faster algorithm to compute 64-bit signed floor division",
-      "link": "https://www.benjoffe.com/fast-floordiv",
-      "is_new": false
     }
   ]
 }
