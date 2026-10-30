@@ -1,7 +1,159 @@
 {
-  "crawled_at": "2026-10-30 22:47",
-  "prev_crawled_at": "2026-10-30 15:44",
+  "crawled_at": "2026-10-31 04:01",
+  "prev_crawled_at": "2026-10-30 22:47",
   "items": [
+    {
+      "title": "My favourite PowerMac is a Nintendo Wii",
+      "link": "https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/",
+      "is_new": true
+    },
+    {
+      "title": "GitHub Incident with Actions, Pages, and Webhooks",
+      "link": "https://www.githubstatus.com/incidents/pwxsjgnvrk6b",
+      "is_new": true
+    },
+    {
+      "title": "Northflank Breached",
+      "link": "https://status.northflank.com",
+      "is_new": true
+    },
+    {
+      "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
+      "link": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
+      "is_new": false
+    },
+    {
+      "title": "A Working Nintendo in ~1GB of Qwen Weights",
+      "link": "https://github.com/dbreunig/nesformer",
+      "is_new": true
+    },
+    {
+      "title": "Florilegium: Procedural Flowers in LaTeX",
+      "link": "https://github.com/kevinraymond/florilegium",
+      "is_new": true
+    },
+    {
+      "title": "The federated code forge",
+      "link": "https://tangled.org/blog/forge/",
+      "is_new": true
+    },
+    {
+      "title": "Breaking the open web won't stop the bad bots",
+      "link": "https://www.techpolicy.press/breaking-the-open-web-wont-stop-the-bad-bots/",
+      "is_new": true
+    },
+    {
+      "title": "AI isn't replacing SREs, it's deskilling them",
+      "link": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
+      "is_new": true
+    },
+    {
+      "title": "Azure's Weakest Link – Five Full Cross-Tenant Compromises",
+      "link": "https://www.binarysecurity.no/posts/2026/10/one-root-case",
+      "is_new": false
+    },
+    {
+      "title": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
+      "link": "https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f",
+      "is_new": true
+    },
+    {
+      "title": "Blockchain intelligence firms link North Korea to $6.3B hack on Binance",
+      "link": "https://www.npr.org/2026/10/30/g-s1-150902/blockchain-intelligence-firms-link-north-korea-to-6-3b-hack-on-binance",
+      "is_new": true
+    },
+    {
+      "title": "Building an AI-native engineering org",
+      "link": "https://twitter.com/sgondala2/status/2115832070274723875",
+      "is_new": true
+    },
+    {
+      "title": "How do you take a picture of a black hole?",
+      "link": "https://www.quantamagazine.org/how-do-you-take-a-picture-of-a-black-hole-20261029/",
+      "is_new": false
+    },
+    {
+      "title": "Show HN: Spinf-serve – inference server for bulk scoring and decisions",
+      "link": "https://github.com/spinfinc/spinf-serve",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: Sketch Stadium – watch your agent play Pictionary",
+      "link": "https://sketch.wakeshift.ai/",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: I built a multiplayer game where you're an aerial fighter cat",
+      "link": "https://catcopter.com",
+      "is_new": true
+    },
+    {
+      "title": "Compile-Time Dependent Types",
+      "link": "https://thenumb.at/Syl-Intro/",
+      "is_new": true
+    },
+    {
+      "title": "Executable Archaeology: Reanimating the Heuristic Compiler (1961) and KBEmacs (1984)",
+      "link": "https://arxiv.org/abs/2610.36341",
+      "is_new": true
+    },
+    {
+      "title": "Tracks along the longest drive on another world",
+      "link": "https://science.nasa.gov/blog/tracks-along-the-longest-drive-on-another-world/",
+      "is_new": true
+    },
+    {
+      "title": "The $6.3B Binance hack was pulled off in just 20 minutes",
+      "link": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
+      "is_new": false
+    },
+    {
+      "title": "Why a program doesn't work when run from a batch file, but works when clicked",
+      "link": "https://devblogs.microsoft.com/oldnewthing/20261026-00/?p=112797/",
+      "is_new": false
+    },
+    {
+      "title": "Polymarket 1h halt after vendor compromise; affected users will be 'made whole'",
+      "link": "https://www.nbcnews.com/business/consumer/polymarket-trading-halt-hack-wallets-rcna606405",
+      "is_new": true
+    },
+    {
+      "title": "Proton's CEO Cancels AI 'Re-Interviews'",
+      "link": "https://www.404media.co/protons-ceo-cancels-ai-re-interviews/",
+      "is_new": true
+    },
+    {
+      "title": "French national assembly votes 0.055€/GB internet tax",
+      "link": "https://www.lesnumeriques.com/societe-numerique/netflix-steam-cloud-vos-abonnements-et-telechargements-bientot-plus-chers-a-cause-d-une-nouvelle-taxe-n264035.html",
+      "is_new": true
+    },
+    {
+      "title": "Gilgamesh by Simon Armitage review – an ancient epic is brilliantly translated",
+      "link": "https://www.theguardian.com/books/2026/oct/20/gilgamesh-by-simon-armitage-review-an-ancient-epic-is-brilliantly-translated-for-our-times",
+      "is_new": false
+    },
+    {
+      "title": "Pell Puzzles Review",
+      "link": "https://dles.gg/reviews/pell-puzzles",
+      "is_new": true
+    },
+    {
+      "title": "Finding Panics with Call Graph Analyzer",
+      "link": "https://tweedegolf.nl/en/blog/242/finding-panics-with-call-graph-analyzer/",
+      "is_new": false
+    },
+    {
+      "title": "Wasmer (YC S19) Is Hiring OS/Hypervisor Experts in Europe",
+      "link": "https://www.workatastartup.com/jobs/98722",
+      "is_new": false
+    },
+    {
+      "title": "US tech stocks see sharp falls over AI cost fears",
+      "link": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo",
+      "is_new": true
+    }
+  ],
+  "removed": [
     {
       "title": "elect.horse",
       "link": "https://elect.horse/",
@@ -10,11 +162,6 @@
     {
       "title": "Backdoors in official Claude Code extensions",
       "link": "https://cyberplace.social/@GossiTheDog/117528831681803563",
-      "is_new": true
-    },
-    {
-      "title": "Azure's Weakest Link – Five Full Cross-Tenant Compromises",
-      "link": "https://www.binarysecurity.no/posts/2026/10/one-root-case",
       "is_new": true
     },
     {
@@ -35,31 +182,6 @@
     {
       "title": "Anthropic hacked to deliver remote access trojan",
       "link": "https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2",
-      "is_new": true
-    },
-    {
-      "title": "The $6.3B Binance Hack Was Pulled Off in Just 20 Minutes",
-      "link": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
-      "is_new": true
-    },
-    {
-      "title": "How Do You Take a Picture of a Black Hole?",
-      "link": "https://www.quantamagazine.org/how-do-you-take-a-picture-of-a-black-hole-20261029/",
-      "is_new": true
-    },
-    {
-      "title": "Gilgamesh by Simon Armitage review – an ancient epic is brilliantly translated",
-      "link": "https://www.theguardian.com/books/2026/oct/20/gilgamesh-by-simon-armitage-review-an-ancient-epic-is-brilliantly-translated-for-our-times",
-      "is_new": true
-    },
-    {
-      "title": "Why a program doesn't work when run from a batch file, but works when clicked",
-      "link": "https://devblogs.microsoft.com/oldnewthing/20261026-00/?p=112797/",
-      "is_new": true
-    },
-    {
-      "title": "Finding Panics with Call Graph Analyzer",
-      "link": "https://tweedegolf.nl/en/blog/242/finding-panics-with-call-graph-analyzer/",
       "is_new": true
     },
     {
@@ -86,11 +208,6 @@
       "title": "Astroterm: A Planetarium for Your Terminal",
       "link": "https://github.com/da-luce/astroterm",
       "is_new": false
-    },
-    {
-      "title": "Wasmer (YC S19) Is Hiring OS/Hypervisor Experts in Europe",
-      "link": "https://www.workatastartup.com/jobs/98722",
-      "is_new": true
     },
     {
       "title": "Artificial Analysis v5 and the benchmarker's dilemma",
@@ -138,11 +255,6 @@
       "is_new": true
     },
     {
-      "title": "Official Claude Code extension compromise",
-      "link": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
-      "is_new": true
-    },
-    {
       "title": "Python on My Wrist",
       "link": "https://tildeweb.nl/~michiel/python-on-my-wrist.html",
       "is_new": false
@@ -150,88 +262,6 @@
     {
       "title": "An illustrated online book on Hewlett-Packard equipment",
       "link": "https://blog.adafruit.com/2026/10/27/an-illustrated-online-book-on-hewlett-packard-equipment/",
-      "is_new": false
-    }
-  ],
-  "removed": [
-    {
-      "title": "A Pig, the State, and War: Porco Rosso (Kurenai No Buta) (2014)",
-      "link": "https://journal.animationstudies.org/article/id/66/",
-      "is_new": false
-    },
-    {
-      "title": "CVE-2026-98432: Linux TCP Use-After-Free Risk and Patch Validation",
-      "link": "https://www.penligent.ai/hackinglabs/cve-2026-98432/",
-      "is_new": true
-    },
-    {
-      "title": "Pico CSS is no longer maintained",
-      "link": "https://github.com/picocss/pico/discussions/754",
-      "is_new": true
-    },
-    {
-      "title": "Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents",
-      "link": "https://news.ycombinator.com/item?id=50291116",
-      "is_new": false
-    },
-    {
-      "title": "Patrick Stewart has died",
-      "link": "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html",
-      "is_new": false
-    },
-    {
-      "title": "The Great American Rascal: Tom Sawyer at 150",
-      "link": "https://claremontreviewofbooks.com/the-great-american-rascal/",
-      "is_new": false
-    },
-    {
-      "title": "Solving Postgres' Count Problem",
-      "link": "https://www.paradedb.com/blog/opening-a-closed-tin-part-2",
-      "is_new": true
-    },
-    {
-      "title": "Iterating Backwards in C",
-      "link": "https://www.davidpriver.com/Iterating-backwards-in-C.html",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: Auto Dismiss Mac OS \"Allow <app> to find devices on local networks?\"",
-      "link": "https://github.com/johncassil/dontallow",
-      "is_new": false
-    },
-    {
-      "title": "If IPv4 were land",
-      "link": "https://iptrust.co/blog/if-ipv4-were-land",
-      "is_new": false
-    },
-    {
-      "title": "Show HN: Lasm – Write formally verified webapps in Lean for Node/serverless/edge",
-      "link": "https://github.com/Millillion/lasm",
-      "is_new": true
-    },
-    {
-      "title": "Sylphide OS: a general-purpose OS for microcontroller-based computers",
-      "link": "https://projects.freehackers.org/sylphide-os/",
-      "is_new": false
-    },
-    {
-      "title": "ElementaryUI – Swift, in the Browser",
-      "link": "https://elementary.codes",
-      "is_new": false
-    },
-    {
-      "title": "Historical Scientific Instruments",
-      "link": "https://nealstephenson.substack.com/p/historical-scientific-instruments",
-      "is_new": false
-    },
-    {
-      "title": "What we know so far about Spain train crash",
-      "link": "https://www.bbc.com/news/articles/cm8xz7pkd0jjo",
-      "is_new": false
-    },
-    {
-      "title": "16colo.rs – ANSI/ASCII art archive",
-      "link": "https://16colo.rs/",
       "is_new": false
     }
   ]
