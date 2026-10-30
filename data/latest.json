@@ -1,11 +1,31 @@
 {
-  "crawled_at": "2026-10-30 15:44",
-  "prev_crawled_at": "2026-10-30 09:33",
+  "crawled_at": "2026-10-30 22:47",
+  "prev_crawled_at": "2026-10-30 15:44",
   "items": [
+    {
+      "title": "elect.horse",
+      "link": "https://elect.horse/",
+      "is_new": true
+    },
+    {
+      "title": "Backdoors in official Claude Code extensions",
+      "link": "https://cyberplace.social/@GossiTheDog/117528831681803563",
+      "is_new": true
+    },
+    {
+      "title": "Azure's Weakest Link – Five Full Cross-Tenant Compromises",
+      "link": "https://www.binarysecurity.no/posts/2026/10/one-root-case",
+      "is_new": true
+    },
     {
       "title": "Binance-hacker-1029 – $5.6B stolen from Binance",
       "link": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8",
       "is_new": false
+    },
+    {
+      "title": "US Reps Lead Democratic Resolution Opposing A.I. Bubble Bailout for Big Tech",
+      "link": "https://progressives.house.gov/2026/10/reps-casar-waters-lead-democratic-resolution-opposing-a-i-bubble-bailout-for-big-tech-commit-to-protecting-american-people-instead",
+      "is_new": true
     },
     {
       "title": "We're releasing the weights of Mistral Large 4",
@@ -13,24 +33,49 @@
       "is_new": false
     },
     {
-      "title": "Cuis: The Modern Smalltalk-80",
-      "link": "https://cuis.st/",
+      "title": "Anthropic hacked to deliver remote access trojan",
+      "link": "https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2",
       "is_new": true
     },
     {
-      "title": "Astroterm: A Planetarium for Your Terminal",
-      "link": "https://github.com/da-luce/astroterm",
+      "title": "The $6.3B Binance Hack Was Pulled Off in Just 20 Minutes",
+      "link": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
       "is_new": true
     },
     {
-      "title": "I'm so bad at billiards that I ended up in the hyperbolic plane [video]",
-      "link": "https://www.youtube.com/watch?v=kL9BTbIGxLg",
+      "title": "How Do You Take a Picture of a Black Hole?",
+      "link": "https://www.quantamagazine.org/how-do-you-take-a-picture-of-a-black-hole-20261029/",
+      "is_new": true
+    },
+    {
+      "title": "Gilgamesh by Simon Armitage review – an ancient epic is brilliantly translated",
+      "link": "https://www.theguardian.com/books/2026/oct/20/gilgamesh-by-simon-armitage-review-an-ancient-epic-is-brilliantly-translated-for-our-times",
+      "is_new": true
+    },
+    {
+      "title": "Why a program doesn't work when run from a batch file, but works when clicked",
+      "link": "https://devblogs.microsoft.com/oldnewthing/20261026-00/?p=112797/",
+      "is_new": true
+    },
+    {
+      "title": "Finding Panics with Call Graph Analyzer",
+      "link": "https://tweedegolf.nl/en/blog/242/finding-panics-with-call-graph-analyzer/",
+      "is_new": true
+    },
+    {
+      "title": "Commodore 1600 VICmodem",
+      "link": "https://dfarq.homeip.net/commodore-1600-vicmodem/",
       "is_new": true
     },
     {
       "title": "Herdr has released native app",
       "link": "https://github.com/herdrdev/herdr-app",
-      "is_new": true
+      "is_new": false
+    },
+    {
+      "title": "I'm so bad at billiards that I ended up in the hyperbolic plane [video]",
+      "link": "https://www.youtube.com/watch?v=kL9BTbIGxLg",
+      "is_new": false
     },
     {
       "title": "We ran AI agent swarms in Minecraft and Mindustry",
@@ -38,8 +83,23 @@
       "is_new": false
     },
     {
-      "title": "A tiny world model running games on a Raspberry Pi Pico 2 W",
-      "link": "https://github.com/SheepSeb/tinyworldformer",
+      "title": "Astroterm: A Planetarium for Your Terminal",
+      "link": "https://github.com/da-luce/astroterm",
+      "is_new": false
+    },
+    {
+      "title": "Wasmer (YC S19) Is Hiring OS/Hypervisor Experts in Europe",
+      "link": "https://www.workatastartup.com/jobs/98722",
+      "is_new": true
+    },
+    {
+      "title": "Artificial Analysis v5 and the benchmarker's dilemma",
+      "link": "https://www.interconnects.ai/p/artificial-analysis-v5-and-the-benchmarkers",
+      "is_new": true
+    },
+    {
+      "title": "Cuis: The Modern Smalltalk-80",
+      "link": "https://cuis.st/",
       "is_new": false
     },
     {
@@ -48,8 +108,8 @@
       "is_new": false
     },
     {
-      "title": "LLM Voice",
-      "link": "https://martinfowler.com/bliki/LLM-Voice.html",
+      "title": "A tiny world model running games on a Raspberry Pi Pico 2 W",
+      "link": "https://github.com/SheepSeb/tinyworldformer",
       "is_new": false
     },
     {
@@ -57,6 +117,43 @@
       "link": "https://github.com/mottopanikeiku/doomformer",
       "is_new": false
     },
+    {
+      "title": "Just Noting That Your Candy Corn Is Made of Bug Secretions",
+      "link": "https://www.theatlantic.com/science/2026/10/candy-corn-bug-shellac/689213/",
+      "is_new": true
+    },
+    {
+      "title": "Cormac McCarthy's Library",
+      "link": "https://cormacmccarthy.lib.utk.edu/",
+      "is_new": false
+    },
+    {
+      "title": "LLM Voice",
+      "link": "https://martinfowler.com/bliki/LLM-Voice.html",
+      "is_new": false
+    },
+    {
+      "title": "Fiber lasts decades, GPUs last three years: the AI boom isn't the dot-com boom [video]",
+      "link": "https://www.youtube.com/watch?v=MENoB3Rex28",
+      "is_new": true
+    },
+    {
+      "title": "Official Claude Code extension compromise",
+      "link": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
+      "is_new": true
+    },
+    {
+      "title": "Python on My Wrist",
+      "link": "https://tildeweb.nl/~michiel/python-on-my-wrist.html",
+      "is_new": false
+    },
+    {
+      "title": "An illustrated online book on Hewlett-Packard equipment",
+      "link": "https://blog.adafruit.com/2026/10/27/an-illustrated-online-book-on-hewlett-packard-equipment/",
+      "is_new": false
+    }
+  ],
+  "removed": [
     {
       "title": "A Pig, the State, and War: Porco Rosso (Kurenai No Buta) (2014)",
       "link": "https://journal.animationstudies.org/article/id/66/",
@@ -76,11 +173,6 @@
       "title": "Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents",
       "link": "https://news.ycombinator.com/item?id=50291116",
       "is_new": false
-    },
-    {
-      "title": "Python on My Wrist",
-      "link": "https://tildeweb.nl/~michiel/python-on-my-wrist.html",
-      "is_new": true
     },
     {
       "title": "Patrick Stewart has died",
@@ -113,11 +205,6 @@
       "is_new": false
     },
     {
-      "title": "An illustrated online book on Hewlett-Packard equipment",
-      "link": "https://blog.adafruit.com/2026/10/27/an-illustrated-online-book-on-hewlett-packard-equipment/",
-      "is_new": true
-    },
-    {
       "title": "Show HN: Lasm – Write formally verified webapps in Lean for Node/serverless/edge",
       "link": "https://github.com/Millillion/lasm",
       "is_new": true
@@ -143,75 +230,8 @@
       "is_new": false
     },
     {
-      "title": "Cormac McCarthy's Library",
-      "link": "https://cormacmccarthy.lib.utk.edu/",
-      "is_new": true
-    },
-    {
       "title": "16colo.rs – ANSI/ASCII art archive",
       "link": "https://16colo.rs/",
-      "is_new": false
-    }
-  ],
-  "removed": [
-    {
-      "title": "Proton goes all in on using AI",
-      "link": "https://convo.casa/@b/117525936178835007",
-      "is_new": true
-    },
-    {
-      "title": "El Niño Is Flooding California's Coasts with the Highest Tides to Come",
-      "link": "https://gizmodo.com/el-nino-is-already-flooding-californias-coasts-and-the-years-highest-tides-havent-arrived-2000832574",
-      "is_new": true
-    },
-    {
-      "title": "DoorDash to acquire Instacart",
-      "link": "https://about.doordash.com/en-us/news/doordash-to-acquire-instacart",
-      "is_new": false
-    },
-    {
-      "title": "Scattered thoughts on how doing math feels these days",
-      "link": "https://dynomight.net/math/",
-      "is_new": true
-    },
-    {
-      "title": "Chained PHP2Shell exploit roots 25 servers, including US Government servers",
-      "link": "https://dreamgroup.com/blog/chained-php2shell-exploit-roots-25-servers",
-      "is_new": false
-    },
-    {
-      "title": "IgE disruptor for food allergy with Claude-enabled antibody design [pdf]",
-      "link": "https://divergencelabs.com/publications/ige-preprint.pdf",
-      "is_new": false
-    },
-    {
-      "title": "Claude Duet is the first personal-assistant-type harness that feels useful",
-      "link": "https://fig.blue/posts/duet-is-the-future/",
-      "is_new": false
-    },
-    {
-      "title": "Grace Blackwell needs a new scheduler: 27% more usable GPUs from the same racks",
-      "link": "https://skypilot.ai/blog/grace-blackwell-needs-a-new-scheduler",
-      "is_new": false
-    },
-    {
-      "title": "Zombie stats: Where the numbers AI quotes come from",
-      "link": "https://trakkr.ai/trakkr-research/zombie-stats",
-      "is_new": false
-    },
-    {
-      "title": "Alleged Chinese spy had 'close relationship' with Nvidia boss Jensen Huang",
-      "link": "https://nypost.com/2026/10/29/business/alleged-chinese-spy-had-close-relationship-with-nvidia-boss-jensen-huang-report/",
-      "is_new": false
-    },
-    {
-      "title": "The importance of communities around software",
-      "link": "https://lumi.codeberg.page/blog/software-community.html",
-      "is_new": false
-    },
-    {
-      "title": "NetBSD adds a new text editor called atto",
-      "link": "https://mastodon.sdf.org/@netbsd/117518160563539748",
       "is_new": false
     }
   ]
