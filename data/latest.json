@@ -1,11 +1,11 @@
 {
-  "crawled_at": "2026-10-30 09:33",
-  "prev_crawled_at": "2026-10-30 05:49",
+  "crawled_at": "2026-10-30 15:44",
+  "prev_crawled_at": "2026-10-30 09:33",
   "items": [
     {
       "title": "Binance-hacker-1029 – $5.6B stolen from Binance",
       "link": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8",
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "We're releasing the weights of Mistral Large 4",
@@ -13,15 +13,147 @@
       "is_new": false
     },
     {
+      "title": "Cuis: The Modern Smalltalk-80",
+      "link": "https://cuis.st/",
+      "is_new": true
+    },
+    {
+      "title": "Astroterm: A Planetarium for Your Terminal",
+      "link": "https://github.com/da-luce/astroterm",
+      "is_new": true
+    },
+    {
+      "title": "I'm so bad at billiards that I ended up in the hyperbolic plane [video]",
+      "link": "https://www.youtube.com/watch?v=kL9BTbIGxLg",
+      "is_new": true
+    },
+    {
+      "title": "Herdr has released native app",
+      "link": "https://github.com/herdrdev/herdr-app",
+      "is_new": true
+    },
+    {
       "title": "We ran AI agent swarms in Minecraft and Mindustry",
       "link": "https://labs.ycombinator.com/projects/games/index.html",
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "A tiny world model running games on a Raspberry Pi Pico 2 W",
       "link": "https://github.com/SheepSeb/tinyworldformer",
       "is_new": false
     },
+    {
+      "title": "H.264 Is Magic (2016)",
+      "link": "https://sidbala.com/h-264-is-magic/",
+      "is_new": false
+    },
+    {
+      "title": "LLM Voice",
+      "link": "https://martinfowler.com/bliki/LLM-Voice.html",
+      "is_new": false
+    },
+    {
+      "title": "Show HN: I Turned DOOM into a Transformer",
+      "link": "https://github.com/mottopanikeiku/doomformer",
+      "is_new": false
+    },
+    {
+      "title": "A Pig, the State, and War: Porco Rosso (Kurenai No Buta) (2014)",
+      "link": "https://journal.animationstudies.org/article/id/66/",
+      "is_new": false
+    },
+    {
+      "title": "CVE-2026-98432: Linux TCP Use-After-Free Risk and Patch Validation",
+      "link": "https://www.penligent.ai/hackinglabs/cve-2026-98432/",
+      "is_new": true
+    },
+    {
+      "title": "Pico CSS is no longer maintained",
+      "link": "https://github.com/picocss/pico/discussions/754",
+      "is_new": true
+    },
+    {
+      "title": "Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents",
+      "link": "https://news.ycombinator.com/item?id=50291116",
+      "is_new": false
+    },
+    {
+      "title": "Python on My Wrist",
+      "link": "https://tildeweb.nl/~michiel/python-on-my-wrist.html",
+      "is_new": true
+    },
+    {
+      "title": "Patrick Stewart has died",
+      "link": "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html",
+      "is_new": false
+    },
+    {
+      "title": "The Great American Rascal: Tom Sawyer at 150",
+      "link": "https://claremontreviewofbooks.com/the-great-american-rascal/",
+      "is_new": false
+    },
+    {
+      "title": "Solving Postgres' Count Problem",
+      "link": "https://www.paradedb.com/blog/opening-a-closed-tin-part-2",
+      "is_new": true
+    },
+    {
+      "title": "Iterating Backwards in C",
+      "link": "https://www.davidpriver.com/Iterating-backwards-in-C.html",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: Auto Dismiss Mac OS \"Allow <app> to find devices on local networks?\"",
+      "link": "https://github.com/johncassil/dontallow",
+      "is_new": false
+    },
+    {
+      "title": "If IPv4 were land",
+      "link": "https://iptrust.co/blog/if-ipv4-were-land",
+      "is_new": false
+    },
+    {
+      "title": "An illustrated online book on Hewlett-Packard equipment",
+      "link": "https://blog.adafruit.com/2026/10/27/an-illustrated-online-book-on-hewlett-packard-equipment/",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: Lasm – Write formally verified webapps in Lean for Node/serverless/edge",
+      "link": "https://github.com/Millillion/lasm",
+      "is_new": true
+    },
+    {
+      "title": "Sylphide OS: a general-purpose OS for microcontroller-based computers",
+      "link": "https://projects.freehackers.org/sylphide-os/",
+      "is_new": false
+    },
+    {
+      "title": "ElementaryUI – Swift, in the Browser",
+      "link": "https://elementary.codes",
+      "is_new": false
+    },
+    {
+      "title": "Historical Scientific Instruments",
+      "link": "https://nealstephenson.substack.com/p/historical-scientific-instruments",
+      "is_new": false
+    },
+    {
+      "title": "What we know so far about Spain train crash",
+      "link": "https://www.bbc.com/news/articles/cm8xz7pkd0jjo",
+      "is_new": false
+    },
+    {
+      "title": "Cormac McCarthy's Library",
+      "link": "https://cormacmccarthy.lib.utk.edu/",
+      "is_new": true
+    },
+    {
+      "title": "16colo.rs – ANSI/ASCII art archive",
+      "link": "https://16colo.rs/",
+      "is_new": false
+    }
+  ],
+  "removed": [
     {
       "title": "Proton goes all in on using AI",
       "link": "https://convo.casa/@b/117525936178835007",
@@ -33,63 +165,13 @@
       "is_new": true
     },
     {
-      "title": "Show HN: I Turned DOOM into a Transformer",
-      "link": "https://github.com/mottopanikeiku/doomformer",
-      "is_new": true
-    },
-    {
-      "title": "A Pig, the State, and War: Porco Rosso (Kurenai No Buta) (2014)",
-      "link": "https://journal.animationstudies.org/article/id/66/",
-      "is_new": true
-    },
-    {
-      "title": "The Great American Rascal: Tom Sawyer at 150",
-      "link": "https://claremontreviewofbooks.com/the-great-american-rascal/",
-      "is_new": true
-    },
-    {
-      "title": "H.264 Is Magic (2016)",
-      "link": "https://sidbala.com/h-264-is-magic/",
-      "is_new": false
-    },
-    {
-      "title": "Patrick Stewart has died",
-      "link": "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html",
-      "is_new": false
-    },
-    {
-      "title": "Show HN: Auto Dismiss Mac OS \"Allow <app> to find devices on local networks?\"",
-      "link": "https://github.com/johncassil/dontallow",
-      "is_new": false
-    },
-    {
-      "title": "Sylphide OS: a general-purpose OS for microcontroller-based computers",
-      "link": "https://projects.freehackers.org/sylphide-os/",
-      "is_new": true
-    },
-    {
-      "title": "LLM Voice",
-      "link": "https://martinfowler.com/bliki/LLM-Voice.html",
-      "is_new": false
-    },
-    {
       "title": "DoorDash to acquire Instacart",
       "link": "https://about.doordash.com/en-us/news/doordash-to-acquire-instacart",
       "is_new": false
     },
     {
-      "title": "ElementaryUI – Swift, in the Browser",
-      "link": "https://elementary.codes",
-      "is_new": true
-    },
-    {
       "title": "Scattered thoughts on how doing math feels these days",
       "link": "https://dynomight.net/math/",
-      "is_new": true
-    },
-    {
-      "title": "Historical Scientific Instruments",
-      "link": "https://nealstephenson.substack.com/p/historical-scientific-instruments",
       "is_new": true
     },
     {
@@ -108,33 +190,13 @@
       "is_new": false
     },
     {
-      "title": "Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents",
-      "link": "https://news.ycombinator.com/item?id=50291116",
-      "is_new": false
-    },
-    {
-      "title": "If IPv4 were land",
-      "link": "https://iptrust.co/blog/if-ipv4-were-land",
-      "is_new": false
-    },
-    {
       "title": "Grace Blackwell needs a new scheduler: 27% more usable GPUs from the same racks",
       "link": "https://skypilot.ai/blog/grace-blackwell-needs-a-new-scheduler",
       "is_new": false
     },
     {
-      "title": "16colo.rs – ANSI/ASCII art archive",
-      "link": "https://16colo.rs/",
-      "is_new": false
-    },
-    {
       "title": "Zombie stats: Where the numbers AI quotes come from",
       "link": "https://trakkr.ai/trakkr-research/zombie-stats",
-      "is_new": false
-    },
-    {
-      "title": "What we know so far about Spain train crash",
-      "link": "https://www.bbc.com/news/articles/cm8xz7pkd0jjo",
       "is_new": false
     },
     {
@@ -151,63 +213,6 @@
       "title": "NetBSD adds a new text editor called atto",
       "link": "https://mastodon.sdf.org/@netbsd/117518160563539748",
       "is_new": false
-    }
-  ],
-  "removed": [
-    {
-      "title": "After 28 years walking across the globe, he's almost home",
-      "link": "https://www.nytimes.com/2026/10/29/world/europe/karl-bushby-walking-globe-uk.html",
-      "is_new": true
-    },
-    {
-      "title": "Edit an SQLite database in your browser",
-      "link": "https://editsqlite.com/",
-      "is_new": true
-    },
-    {
-      "title": "One reviewer per layer: splitting code review by the way code is read",
-      "link": "https://djordjepuzic.com/blog/posts/2026-10-27-one-reviewer-per-layer/",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: A proof-of-concept formalization of the IRS federal tax forms",
-      "link": "https://github.com/emmilco/us-tax-model",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: Overtone – Transcribe, correct and cut captions for any screen shape",
-      "link": "https://github.com/lonthq/overtone-captions",
-      "is_new": true
-    },
-    {
-      "title": "Tomáš Mikolov awarded the Medal of Merit by the President of the Czech Republic",
-      "link": "https://www.vut.cz/en/but/news-f19528/two-but-graduates-received-state-honors-from-the-president-of-the-republic-d378468",
-      "is_new": true
-    },
-    {
-      "title": "noalloc: Tooling and libraries to enforce zero heap allocations in Golang",
-      "link": "https://github.com/theconsensuslabs/noalloc",
-      "is_new": true
-    },
-    {
-      "title": "I went to Mexico to test-drive the cars Americans can’t buy",
-      "link": "https://www.washingtonpost.com/climate-environment/2026/10/27/i-saw-future-driving-mexico-its-off-limits-americans/",
-      "is_new": true
-    },
-    {
-      "title": "Keplearn: Extract Equations from Data in Seconds",
-      "link": "https://github.com/owls-on-wires/keplearn",
-      "is_new": false
-    },
-    {
-      "title": "The tragedy of losing your Wikipedia page",
-      "link": "https://www.wired.com/story/the-tragedy-of-losing-your-wikipedia-page/",
-      "is_new": true
-    },
-    {
-      "title": "Google Search is now less than half of Alphabet’s revenue",
-      "link": "https://www.kadoa.com/companies/insights/google-search-below-half",
-      "is_new": true
     }
   ]
 }
