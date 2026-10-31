@@ -1,47 +1,159 @@
 {
-  "crawled_at": "2026-10-31 23:58",
-  "prev_crawled_at": "2026-10-31 17:10",
+  "crawled_at": "2026-11-01 04:11",
+  "prev_crawled_at": "2026-10-31 23:58",
   "items": [
     {
-      "title": "Molly(Signal fork) has not been updated since 3 months and is vulnerable",
-      "link": "https://piefed.world/post/1503394",
+      "title": "The Impact of Generative AI on Critical Thinking",
+      "link": "https://dl.acm.org/doi/full/10.1145/3706598.3713778",
       "is_new": true
     },
     {
-      "title": "Prospero: A new coding harness for a more civilized age",
-      "link": "https://nullprogram.com/blog/2026/10/31/",
-      "is_new": true
+      "title": "Molly (Signal fork) has not been updated since 3 months and is vulnerable",
+      "link": "https://piefed.world/post/1503394",
+      "is_new": false
     },
     {
       "title": "We Took over ChatGPT Accounts",
       "link": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
+      "is_new": false
+    },
+    {
+      "title": "UK Green party drops longstanding opposition to nuclear power",
+      "link": "https://www.theguardian.com/politics/2026/oct/05/green-party-nuclear-power-policy",
       "is_new": true
     },
     {
-      "title": "Switch Lowering in GCC",
-      "link": "https://xoranth.net/gcc-switch/",
+      "title": "Redox: Ring Buffers Project Summary",
+      "link": "https://www.redox-os.org/news/nlnet-rb-summary/",
       "is_new": true
     },
     {
-      "title": "Serbia just elected the world's brainiest parliament",
-      "link": "https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament",
+      "title": "Casio Watches of the 1980s",
+      "link": "https://www.casio.com/us/watches/50th/Heritage/1980s/",
+      "is_new": true
+    },
+    {
+      "title": "Noctua Fan Swap on a Calnex Rb/GPS Frequency Reference",
+      "link": "https://www.jeffgeerling.com/blog/2026/noctua-fan-swap-calnex-rb-gps-frequency-reference/",
+      "is_new": true
+    },
+    {
+      "title": "I post trained a model on Demoscenes",
+      "link": "https://datavorous.com/writing/demoscener/",
       "is_new": true
     },
     {
       "title": "Simple circuits can create complex behaviors",
       "link": "https://aatishb.com/myriad/lets-build-a-brain/",
+      "is_new": false
+    },
+    {
+      "title": "Reading and writing are less symmetric than you (probably) think",
+      "link": "https://fgiesen.wordpress.com/2015/10/25/reading-and-writing-are-less-symmetric-than-you-probably-think/",
+      "is_new": true
+    },
+    {
+      "title": "Switch Lowering in GCC",
+      "link": "https://xoranth.net/gcc-switch/",
+      "is_new": false
+    },
+    {
+      "title": "Serbia just elected the world's brainiest parliament",
+      "link": "https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament",
+      "is_new": false
+    },
+    {
+      "title": "Jepsen: ParticleDB 1.1.4",
+      "link": "https://jepsen.io/analyses/particledb-1.1.4",
       "is_new": true
     },
     {
       "title": "Digital minimalism",
       "link": "https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html",
+      "is_new": false
+    },
+    {
+      "title": "Malware uses LLMs to rank victims by how much they're worth",
+      "link": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: Ghostman – A fast, keyboard-driven TUI API client and webhook inspector",
+      "link": "https://github.com/4yk5/Ghostman",
+      "is_new": true
+    },
+    {
+      "title": "William Nordhaus, Nobel-winning climate economist, dies at 85",
+      "link": "https://news.yale.edu/2026/10/31/william-nordhaus-nobel-laureate-who-integrated-economics-and-climate-change-devoted-yale",
+      "is_new": true
+    },
+    {
+      "title": "AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura",
+      "link": "https://thedataexchange.media/leo-de-moura-lean-aws/",
+      "is_new": false
+    },
+    {
+      "title": "What is a light-day? The milestone Voyager 1 is closing in on",
+      "link": "https://science.nasa.gov/mission/voyager/voyager-1/voyager-1-what-is-a-light-day/",
+      "is_new": true
+    },
+    {
+      "title": "Hackers hijack Egypt highway billboard and Malaysian screens to show porn",
+      "link": "https://www.cairoreport.org/p/egypt-brazil-iraq-billboard-hack",
       "is_new": true
     },
     {
       "title": "Show HN: Marelleo, an open-source story box I built for my kids using ESP32",
       "link": "https://zebra.rodeo/en/blog/marelleo/",
+      "is_new": false
+    },
+    {
+      "title": "The $6.3B Binance hack was pulled off in just 20 minutes",
+      "link": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
+      "is_new": false
+    },
+    {
+      "title": "Hunting 'Zombie Accounts' in Active Directory",
+      "link": "https://www.fabian.fyi/2026/10/zombie-hunt.html",
+      "is_new": false
+    },
+    {
+      "title": "Copyright Office is restoring copyright to something you have to work to get",
+      "link": "https://pluralistic.net/2026/10/31/burn-berne/#unvictored",
       "is_new": true
     },
+    {
+      "title": "My favourite PowerMac is a Nintendo Wii",
+      "link": "https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/",
+      "is_new": false
+    },
+    {
+      "title": "Show HN: Jointter – A daily word puzzle using dots and lines",
+      "link": "https://www.jointter.com/",
+      "is_new": true
+    },
+    {
+      "title": "A/SIDE – Private photo sharing and encrypted messages",
+      "link": "https://a-side.social/",
+      "is_new": true
+    },
+    {
+      "title": "Enlightenment 0.28 Released with Many Improvements",
+      "link": "https://www.phoronix.com/news/Enlightenment-0.28",
+      "is_new": true
+    },
+    {
+      "title": "Cloudflare Turnstile solver library (no headless browser required)",
+      "link": "https://github.com/chris124567/cfsolve",
+      "is_new": false
+    },
+    {
+      "title": "Prospero: A new coding harness for a more civilized age",
+      "link": "https://nullprogram.com/blog/2026/10/31/",
+      "is_new": false
+    }
+  ],
+  "removed": [
     {
       "title": "AI startup hacks Anthropic, gains access to employee details, internal messages",
       "link": "https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26",
@@ -51,31 +163,6 @@
       "title": "Why Did Meta Suspend a US Senate Candidate's Instagram in the Middle of a Rally?",
       "link": "https://newrepublic.com/post/217281/meta-suspend-democratic-candidate-angie-nixon-instagram-account",
       "is_new": true
-    },
-    {
-      "title": "AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura",
-      "link": "https://thedataexchange.media/leo-de-moura-lean-aws/",
-      "is_new": true
-    },
-    {
-      "title": "Hunting 'Zombie Accounts' in Active Directory",
-      "link": "https://www.fabian.fyi/2026/10/zombie-hunt.html",
-      "is_new": true
-    },
-    {
-      "title": "The $6.3B Binance hack was pulled off in just 20 minutes",
-      "link": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
-      "is_new": false
-    },
-    {
-      "title": "My favourite PowerMac is a Nintendo Wii",
-      "link": "https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/",
-      "is_new": false
-    },
-    {
-      "title": "Cloudflare Turnstile solver library (no headless browser required)",
-      "link": "https://github.com/chris124567/cfsolve",
-      "is_new": false
     },
     {
       "title": "Northflank Breached",
@@ -151,78 +238,6 @@
       "title": "Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game",
       "link": "https://tng.episodle.com/",
       "is_new": false
-    }
-  ],
-  "removed": [
-    {
-      "title": "Show HN: Samosa – Linter for Math Derivations",
-      "link": "https://samosa-math.vercel.app",
-      "is_new": true
-    },
-    {
-      "title": "Sanstun: A sans-IO, parallel-friendly WireGuard implementation in Rust",
-      "link": "https://www.firezone.dev/blog/introducing-sanstun",
-      "is_new": false
-    },
-    {
-      "title": "Infinite Mac: BeOS",
-      "link": "https://blog.persistent.info/2026/10/infinite-mac-beos.html",
-      "is_new": false
-    },
-    {
-      "title": "Brief History of PDP Computers",
-      "link": "https://entropicthoughts.com/history-of-pdp-computers",
-      "is_new": true
-    },
-    {
-      "title": "Double Buffering with Cloudflare Queues",
-      "link": "https://bellone.com/technical/double-buffering-with-cloudflare-queues",
-      "is_new": true
-    },
-    {
-      "title": "Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man",
-      "link": "https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/",
-      "is_new": false
-    },
-    {
-      "title": "Trapped in the Technologist Factory",
-      "link": "https://ideolalia.com/essays/trapped-in-the-technologist-factory.html",
-      "is_new": false
-    },
-    {
-      "title": "Building an AI-native engineering org",
-      "link": "https://twitter.com/sgondala2/status/2115832070274723875",
-      "is_new": false
-    },
-    {
-      "title": "Turning a solar power system into its own backup",
-      "link": "https://arstechnica.com/science/2026/10/turning-a-solar-power-system-into-its-own-backup/",
-      "is_new": false
-    },
-    {
-      "title": "Sleep framework: A new way for LLMs to retain knowledge in continual learning",
-      "link": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/",
-      "is_new": false
-    },
-    {
-      "title": "Tree-mounted machines connect to web app to let users knock on wood remotely",
-      "link": "https://www.designboom.com/technology/tree-mounted-machines-web-app-users-knock-on-wood-remotely/",
-      "is_new": false
-    },
-    {
-      "title": "How do you take a picture of a black hole?",
-      "link": "https://www.quantamagazine.org/how-do-you-take-a-picture-of-a-black-hole-20261029/",
-      "is_new": false
-    },
-    {
-      "title": "AI isn't replacing SREs, it's deskilling them",
-      "link": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
-      "is_new": false
-    },
-    {
-      "title": "Configure a UPS on Linux with NUT",
-      "link": "https://linuxjunkies.org/guides/configure-a-ups-with-nut",
-      "is_new": true
     }
   ]
 }
