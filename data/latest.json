@@ -1,25 +1,25 @@
 {
-  "crawled_at": "2026-10-31 10:58",
-  "prev_crawled_at": "2026-10-31 07:50",
+  "crawled_at": "2026-10-31 17:10",
+  "prev_crawled_at": "2026-10-31 10:58",
   "items": [
-    {
-      "title": "Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game",
-      "link": "https://tng.episodle.com/",
-      "is_new": true
-    },
-    {
-      "title": "Cloudflare Turnstile solver library (no headless browser required)",
-      "link": "https://github.com/chris124567/cfsolve",
-      "is_new": true
-    },
     {
       "title": "My favourite PowerMac is a Nintendo Wii",
       "link": "https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/",
       "is_new": false
     },
     {
-      "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
-      "link": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
+      "title": "Tell HN: Scribd Breached",
+      "link": "https://news.ycombinator.com/item?id=50312756",
+      "is_new": true
+    },
+    {
+      "title": "Cloudflare Turnstile solver library (no headless browser required)",
+      "link": "https://github.com/chris124567/cfsolve",
+      "is_new": false
+    },
+    {
+      "title": "The $6.3B Binance hack was pulled off in just 20 minutes",
+      "link": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
       "is_new": false
     },
     {
@@ -33,19 +33,9 @@
       "is_new": false
     },
     {
-      "title": "Jules Verne's Lost Novel",
-      "link": "https://blue-continuum.com/verne-paris",
-      "is_new": false
-    },
-    {
-      "title": "The $6.3B Binance hack was pulled off in just 20 minutes",
-      "link": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
+      "title": "Longitudinal Changes InWearable-Captured PhysiologyBefore Sudden Cardiac Death",
+      "link": "https://www.jacc.org/doi/epdf/10.1016/j.jaccas.2026.110397",
       "is_new": true
-    },
-    {
-      "title": "Infinite Mac: BeOS",
-      "link": "https://blog.persistent.info/2026/10/infinite-mac-beos.html",
-      "is_new": false
     },
     {
       "title": "Show HN: A working Nintendo in ~1GB of Qwen weights",
@@ -58,8 +48,23 @@
       "is_new": false
     },
     {
-      "title": "sanstun: A sans-IO, parallel-friendly WireGuard implementation in Rust",
+      "title": "Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game",
+      "link": "https://tng.episodle.com/",
+      "is_new": false
+    },
+    {
+      "title": "Show HN: Samosa – Linter for Math Derivations",
+      "link": "https://samosa-math.vercel.app",
+      "is_new": true
+    },
+    {
+      "title": "Sanstun: A sans-IO, parallel-friendly WireGuard implementation in Rust",
       "link": "https://www.firezone.dev/blog/introducing-sanstun",
+      "is_new": false
+    },
+    {
+      "title": "Infinite Mac: BeOS",
+      "link": "https://blog.persistent.info/2026/10/infinite-mac-beos.html",
       "is_new": false
     },
     {
@@ -68,13 +73,23 @@
       "is_new": false
     },
     {
+      "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
+      "link": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
+      "is_new": false
+    },
+    {
       "title": "The federated code forge",
       "link": "https://tangled.org/blog/forge/",
       "is_new": false
     },
     {
-      "title": "Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man",
-      "link": "https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/",
+      "title": "Jules Verne's Lost Novel",
+      "link": "https://blue-continuum.com/verne-paris",
+      "is_new": false
+    },
+    {
+      "title": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
+      "link": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/",
       "is_new": false
     },
     {
@@ -83,13 +98,23 @@
       "is_new": false
     },
     {
-      "title": "Trapped in the Technologist Factory",
-      "link": "https://ideolalia.com/essays/trapped-in-the-technologist-factory.html",
+      "title": "Brief History of PDP Computers",
+      "link": "https://entropicthoughts.com/history-of-pdp-computers",
       "is_new": true
     },
     {
-      "title": "Turning a solar power system into its own backup",
-      "link": "https://arstechnica.com/science/2026/10/turning-a-solar-power-system-into-its-own-backup/",
+      "title": "Double Buffering with Cloudflare Queues",
+      "link": "https://bellone.com/technical/double-buffering-with-cloudflare-queues",
+      "is_new": true
+    },
+    {
+      "title": "Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man",
+      "link": "https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/",
+      "is_new": false
+    },
+    {
+      "title": "Trapped in the Technologist Factory",
+      "link": "https://ideolalia.com/essays/trapped-in-the-technologist-factory.html",
       "is_new": false
     },
     {
@@ -98,8 +123,13 @@
       "is_new": false
     },
     {
-      "title": "Linode Security Incident",
-      "link": "https://status.linode.com/incidents/nt58zhx3pmgm",
+      "title": "Turning a solar power system into its own backup",
+      "link": "https://arstechnica.com/science/2026/10/turning-a-solar-power-system-into-its-own-backup/",
+      "is_new": false
+    },
+    {
+      "title": "Sleep framework: A new way for LLMs to retain knowledge in continual learning",
+      "link": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/",
       "is_new": false
     },
     {
@@ -108,9 +138,26 @@
       "is_new": false
     },
     {
-      "title": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
-      "link": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/",
+      "title": "How do you take a picture of a black hole?",
+      "link": "https://www.quantamagazine.org/how-do-you-take-a-picture-of-a-black-hole-20261029/",
+      "is_new": false
+    },
+    {
+      "title": "AI isn't replacing SREs, it's deskilling them",
+      "link": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
+      "is_new": false
+    },
+    {
+      "title": "Configure a UPS on Linux with NUT",
+      "link": "https://linuxjunkies.org/guides/configure-a-ups-with-nut",
       "is_new": true
+    }
+  ],
+  "removed": [
+    {
+      "title": "Linode Security Incident",
+      "link": "https://status.linode.com/incidents/nt58zhx3pmgm",
+      "is_new": false
     },
     {
       "title": "AO3 Down for Maintenance",
@@ -123,23 +170,8 @@
       "is_new": true
     },
     {
-      "title": "Sleep framework: A new way for LLMs to retain knowledge in continual learning",
-      "link": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/",
-      "is_new": false
-    },
-    {
-      "title": "AI isn't replacing SREs, it's deskilling them",
-      "link": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
-      "is_new": false
-    },
-    {
       "title": "A Pickpocket's Guide to New York",
       "link": "https://www.newyorker.com/magazine/2026/11/02/a-pickpockets-guide-to-new-york",
-      "is_new": false
-    },
-    {
-      "title": "How do you take a picture of a black hole?",
-      "link": "https://www.quantamagazine.org/how-do-you-take-a-picture-of-a-black-hole-20261029/",
       "is_new": false
     },
     {
@@ -151,38 +183,6 @@
       "title": "Show HN: Sketch Stadium – watch your agent play Pictionary",
       "link": "https://sketch.wakeshift.ai/games/q5ucru",
       "is_new": false
-    }
-  ],
-  "removed": [
-    {
-      "title": "France is getting download tax for content providers (€0.055/GB)",
-      "link": "https://www.resetera.com/threads/france-is-getting-download-tax-for-content-providers-%E2%82%AC0-055-gb-for-data-delivered-to-french-users.1675109/",
-      "is_new": true
-    },
-    {
-      "title": "An Arrogant Way of Killing (2016)",
-      "link": "https://magazine.atavist.com/2016/an-arrogant-way-of-killing",
-      "is_new": true
-    },
-    {
-      "title": "Embraer's Atech aims to double in size by 2030 with drone traffic control",
-      "link": "https://www.bloomberglinea.com.br/negocios/atech-da-embraer-quer-dobrar-de-tamanho-ate-2030-com-controle-de-trafego-de-drones/",
-      "is_new": true
-    },
-    {
-      "title": "Cisco gives engineer unlimited AI tokens to rewrite 98% of the company's code",
-      "link": "https://www.tomshardware.com/tech-industry/big-tech/cisco-gives-27-year-old-engineer-unlimited-ai-tokens-to-rewrite-98-percent-of-the-companys-legacy-code-in-24-months-president-plucks-former-startup-founder-telling-him-to-go-nuts",
-      "is_new": true
-    },
-    {
-      "title": "GitHub Incident with Actions, Pages, and Webhooks",
-      "link": "https://www.githubstatus.com/incidents/pwxsjgnvrk6b",
-      "is_new": false
-    },
-    {
-      "title": "Show HN: Automatic deduction of FlashAttention kernel from ~25 lines of SQL",
-      "link": "https://github.com/xqlsystems/xarray-sql/blob/6debe2495dcb4e8fac20ab97df5b89baae2a31a6/benchmarks/ml/01_attention.py",
-      "is_new": true
     }
   ]
 }
