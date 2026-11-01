@@ -1,16 +1,46 @@
 {
-  "crawled_at": "2026-11-01 13:06",
-  "prev_crawled_at": "2026-11-01 08:01",
+  "crawled_at": "2026-11-01 20:38",
+  "prev_crawled_at": "2026-11-01 13:06",
   "items": [
+    {
+      "title": "Norway makes shithouses great again",
+      "link": "https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/norwegian-scenic-routes/worlds-best-toilets/",
+      "is_new": true
+    },
     {
       "title": "HackerTube: YouTube built from videos recommended by HN",
       "link": "https://karpathy.bearblog.dev/hacker-tube/",
       "is_new": false
     },
     {
+      "title": "A tiny Pacific country rolls out universal basic income",
+      "link": "https://www.economist.com/asia/2026/10/29/a-tiny-pacific-country-rolls-out-universal-basic-income",
+      "is_new": true
+    },
+    {
+      "title": "No AI, 52 min. Build all Linux Files utils in C by Hand [video]",
+      "link": "https://www.youtube.com/watch?v=gQRmSlcTq9c",
+      "is_new": true
+    },
+    {
       "title": "An Italian farmer found some unknown seeds in his attic and planted them",
       "link": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
       "is_new": false
+    },
+    {
+      "title": "The AI cost of JavaScript frameworks",
+      "link": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
+      "is_new": true
+    },
+    {
+      "title": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
+      "link": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/",
+      "is_new": false
+    },
+    {
+      "title": "Running a bootstrapped SaaS for 20 years with my brother",
+      "link": "https://blog.zamzar.com/2026/10/30/20-years-766-million-files-two-chameleons/",
+      "is_new": true
     },
     {
       "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
@@ -20,26 +50,41 @@
     {
       "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
       "link": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
+      "is_new": false
+    },
+    {
+      "title": "Domain hacks with unusual Unicode characters (2018)",
+      "link": "https://xn--69f31l4t57c0mag4b613h.xn--7uh4898msjaso/🆆🆃🅵/",
+      "is_new": true
+    },
+    {
+      "title": "Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM (2024)",
+      "link": "https://arxiv.org/abs/2409.02292",
+      "is_new": false
+    },
+    {
+      "title": "Show HN: Point your camera at a landscape to learn about its geology",
+      "link": "https://outcrop.rocks/",
+      "is_new": true
+    },
+    {
+      "title": "Pilot-wave hydrodynamics (Quantum phenomena in macroscopic hydrodynamic systems)",
+      "link": "http://thales.mit.edu/bush/index.php/4801-2/",
       "is_new": true
     },
     {
       "title": "Altoids Project",
       "link": "https://uvdn7.github.io/altoids-project/",
-      "is_new": true
+      "is_new": false
     },
     {
-      "title": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
-      "link": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/",
-      "is_new": true
+      "title": "Zinc creep in cable spelter sockets brought down the Arecibo telescope in 2020",
+      "link": "https://maketecheasier.com/arecibo-zinc-creep-collapse/",
+      "is_new": false
     },
     {
-      "title": "When electric cars were for women",
-      "link": "https://spectrum.ieee.org/early-electric-vehicles",
-      "is_new": true
-    },
-    {
-      "title": "Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM",
-      "link": "https://arxiv.org/abs/2409.02292",
+      "title": "Understanding Email Encryption",
+      "link": "https://www.fastmail.com/blog/email-encryption/",
       "is_new": true
     },
     {
@@ -48,8 +93,18 @@
       "is_new": false
     },
     {
-      "title": "Zinc creep in cable spelter sockets brought down the Arecibo telescope in 2020",
-      "link": "https://maketecheasier.com/arecibo-zinc-creep-collapse/",
+      "title": "The Ocean 'Was the Color of Chocolate.' Mexico Declares War on Seaweed.",
+      "link": "https://www.nytimes.com/2026/10/28/world/americas/mexico-seaweed-navy.html",
+      "is_new": true
+    },
+    {
+      "title": "A 1580 Map Shows Why Data Visualization Is Never Neutral",
+      "link": "https://thereader.mitpress.mit.edu/a-1580-map-shows-why-data-visualization-is-never-neutral/",
+      "is_new": false
+    },
+    {
+      "title": "A brief history of just-in-time: forty years of JIT work, from 1960–2000",
+      "link": "https://dl.acm.org/doi/10.1145/857076.857077",
       "is_new": true
     },
     {
@@ -58,8 +113,13 @@
       "is_new": false
     },
     {
-      "title": "Show HN: NES Contra (1987) port (ASM –> C and then C –> WebAssembly)",
-      "link": "https://epoyraz.github.io/nes-contra-us/",
+      "title": "ChatGPT and Codex usage limits merging",
+      "link": "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits",
+      "is_new": false
+    },
+    {
+      "title": "Electrification Could Cut Global Energy Use in Half",
+      "link": "https://fullycharged.show/podcasts/podcast-361-why-electrification-could-cut-global-energy-use-in-half/",
       "is_new": false
     },
     {
@@ -68,24 +128,46 @@
       "is_new": false
     },
     {
-      "title": "Edgar Allan Poe, Quintessential American Writer",
-      "link": "https://slate.com/culture/2026/10/edgar-allan-poe-poems-stories-most-influential-american-writer-death-horror-detective.html",
-      "is_new": true
-    },
-    {
-      "title": "AI text watermarking and quality loss",
-      "link": "https://blog.keyvan.net/p/ai-text-watermarking-and-quality",
-      "is_new": true
-    },
-    {
       "title": "Do the math: How we took over ChatGPT accounts",
       "link": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
+      "is_new": false
+    },
+    {
+      "title": "Simple circuits can create complex behaviors",
+      "link": "https://aatishb.com/myriad/lets-build-a-brain/",
+      "is_new": false
+    },
+    {
+      "title": "Edgar Allan Poe, Quintessential American Writer",
+      "link": "https://slate.com/culture/2026/10/edgar-allan-poe-poems-stories-most-influential-american-writer-death-horror-detective.html",
       "is_new": false
     },
     {
       "title": "The Duty of a Scholar",
       "link": "https://www.daemonology.net/blog/2026-10-31-The-Duty-of-a-Scholar.html",
       "is_new": false
+    },
+    {
+      "title": "Pac-Man's Siren Call",
+      "link": "https://unsung.aresluna.org/pac-mans-siren-call/",
+      "is_new": true
+    }
+  ],
+  "removed": [
+    {
+      "title": "When electric cars were for women",
+      "link": "https://spectrum.ieee.org/early-electric-vehicles",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: NES Contra (1987) port (ASM –> C and then C –> WebAssembly)",
+      "link": "https://epoyraz.github.io/nes-contra-us/",
+      "is_new": false
+    },
+    {
+      "title": "AI text watermarking and quality loss",
+      "link": "https://blog.keyvan.net/p/ai-text-watermarking-and-quality",
+      "is_new": true
     },
     {
       "title": "Constructing a Quine from Kleene's Second Recursion Theorem",
@@ -95,16 +177,6 @@
     {
       "title": "Show HN: BBRouter – Ben Eater's 8-bit computer, simulated on 3D breadboards",
       "link": "https://bbrouter.com/bbrouter/ben-eater-sap-1",
-      "is_new": true
-    },
-    {
-      "title": "Simple circuits can create complex behaviors",
-      "link": "https://aatishb.com/myriad/lets-build-a-brain/",
-      "is_new": false
-    },
-    {
-      "title": "Electrification Could Cut Global Energy Use in Half",
-      "link": "https://fullycharged.show/podcasts/podcast-361-why-electrification-could-cut-global-energy-use-in-half/",
       "is_new": true
     },
     {
@@ -128,11 +200,6 @@
       "is_new": false
     },
     {
-      "title": "A 1580 Map Shows Why Data Visualization Is Never Neutral",
-      "link": "https://thereader.mitpress.mit.edu/a-1580-map-shows-why-data-visualization-is-never-neutral/",
-      "is_new": true
-    },
-    {
       "title": "Reading and writing are less symmetric than you (probably) think",
       "link": "https://fgiesen.wordpress.com/2015/10/25/reading-and-writing-are-less-symmetric-than-you-probably-think/",
       "is_new": false
@@ -145,83 +212,6 @@
     {
       "title": "William Nordhaus has died",
       "link": "https://news.yale.edu/2026/10/31/william-nordhaus-nobel-laureate-who-integrated-economics-and-climate-change-devoted-yale",
-      "is_new": false
-    },
-    {
-      "title": "ChatGPT and Codex usage limits merging",
-      "link": "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits",
-      "is_new": true
-    }
-  ],
-  "removed": [
-    {
-      "title": "With 86% of the words, you might understand only 38% of an anime's lines",
-      "link": "https://learnfromx.com/research/anime-word-coverage-vs-lines-understood",
-      "is_new": true
-    },
-    {
-      "title": "Molly (Signal fork) has not been updated since 3 months and is vulnerable",
-      "link": "https://piefed.world/post/1503394",
-      "is_new": false
-    },
-    {
-      "title": "Rhind Mathematical Papyrus",
-      "link": "https://en.wikipedia.org/wiki/Rhind_Mathematical_Papyrus",
-      "is_new": true
-    },
-    {
-      "title": "Distributed Proofreaders",
-      "link": "https://www.pgdp.net/c/",
-      "is_new": true
-    },
-    {
-      "title": "5 years of OqtaDrive: Microdrive emulation to Sinclair Network over the internet",
-      "link": "https://oqtadrive.org/10.other/5-years/",
-      "is_new": true
-    },
-    {
-      "title": "Redox: Ring Buffers Project Summary",
-      "link": "https://www.redox-os.org/news/nlnet-rb-summary/",
-      "is_new": false
-    },
-    {
-      "title": "Noctua Fan Swap on a Calnex Rb/GPS Frequency Reference",
-      "link": "https://www.jeffgeerling.com/blog/2026/noctua-fan-swap-calnex-rb-gps-frequency-reference/",
-      "is_new": false
-    },
-    {
-      "title": "GPT-5.6 Sol can beat Factorio on peaceful mode",
-      "link": "https://ryanmadden.net/gpt-56-beats-factorio/",
-      "is_new": true
-    },
-    {
-      "title": "Switch Lowering in GCC",
-      "link": "https://xoranth.net/gcc-switch/",
-      "is_new": false
-    },
-    {
-      "title": "Digital minimalism",
-      "link": "https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html",
-      "is_new": false
-    },
-    {
-      "title": "Serbia just elected the world's brainiest parliament",
-      "link": "https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament",
-      "is_new": false
-    },
-    {
-      "title": "Casio Watches of the 1980s",
-      "link": "https://www.casio.com/us/watches/50th/Heritage/1980s/",
-      "is_new": false
-    },
-    {
-      "title": "Show HN: A USB-C LTE modem that gives my computer a phone line",
-      "link": "https://github.com/Koppar-AI/koppar-lte-modem",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: Ghostman – A fast, keyboard-driven TUI API client and webhook inspector",
-      "link": "https://github.com/4yk5/Ghostman",
       "is_new": false
     }
   ]
