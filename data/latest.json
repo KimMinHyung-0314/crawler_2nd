@@ -1,15 +1,15 @@
 {
-  "crawled_at": "2026-11-02 02:35",
-  "prev_crawled_at": "2026-11-01 20:38",
+  "crawled_at": "2026-11-02 06:38",
+  "prev_crawled_at": "2026-11-02 02:35",
   "items": [
     {
-      "title": "Show HN: HackerBooks – HackerTube, but for books recommended on HN",
+      "title": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
       "link": "https://hackerbooks.org",
-      "is_new": true
+      "is_new": false
     },
     {
-      "title": "Seoul Biosys Begins Production of Rare Earth-Free White Micro LEDs",
-      "link": "https://www.ajupress.com/view/20261028171670308",
+      "title": "John Leeson (the voice of K9) has died",
+      "link": "https://www.doctorwhonews.net/2026/11/john_leeson_1943_2026.html",
       "is_new": true
     },
     {
@@ -18,34 +18,24 @@
       "is_new": false
     },
     {
-      "title": "Police chief unplugs Flock cameras after company ignores contract cancellation",
-      "link": "https://www.tomshardware.com/tech-industry/big-tech/police-chief-physically-unplugs-flock-cameras-after-the-company-ignores-contract-cancellation-city-takes-matters-into-its-own-hands-amid-privacy-controversies",
+      "title": "Nibnib: Image compression with extreme decompression speed",
+      "link": "https://github.com/raphlinus/nibnib",
       "is_new": true
     },
     {
-      "title": "Proving and improving the Platonic Representation Hypothesis with JEPAs",
-      "link": "https://arxiv.org/abs/2610.39302",
+      "title": "Mathematics has changed. Let's act like it",
+      "link": "https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/",
       "is_new": true
     },
     {
-      "title": "Bidirectional Charging During Grid Outages",
-      "link": "https://www.jefftk.com/p/bidirectional-charging-during-grid-outages",
-      "is_new": true
-    },
-    {
-      "title": "Novellas with Groff",
-      "link": "https://movq.de/blog/postings/2026-10-31/0/POSTING-en.html",
-      "is_new": true
-    },
-    {
-      "title": "Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case",
-      "link": "https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/",
+      "title": "Tips for more effective fuzz testing with AFL++",
+      "link": "https://nullprogram.com/blog/2025/02/05/",
       "is_new": true
     },
     {
       "title": "Copper – A minimal low-level programming language with OOP and generics",
       "link": "https://tibleiz.net/copper/",
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "An Italian farmer found some unknown seeds in his attic and planted them",
@@ -53,19 +43,44 @@
       "is_new": false
     },
     {
+      "title": "Bidirectional charging during grid outages",
+      "link": "https://www.jefftk.com/p/bidirectional-charging-during-grid-outages",
+      "is_new": false
+    },
+    {
+      "title": "Proving and improving the Platonic Representation Hypothesis with JEPAs",
+      "link": "https://arxiv.org/abs/2610.39302",
+      "is_new": false
+    },
+    {
+      "title": "Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case",
+      "link": "https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/",
+      "is_new": false
+    },
+    {
+      "title": "Novellas with Groff",
+      "link": "https://movq.de/blog/postings/2026-10-31/0/POSTING-en.html",
+      "is_new": false
+    },
+    {
+      "title": "Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust",
+      "link": "https://github.com/ivankovic/omnidiff",
+      "is_new": false
+    },
+    {
+      "title": "Seoul Viosys begins production of rare-earth-free white light emitter",
+      "link": "https://www.semiconductor-today.com/news_items/2026/oct/seoul-291026.shtml",
+      "is_new": true
+    },
+    {
       "title": "One-minute frequency disturbances from synchronization in power systems",
       "link": "https://www.nature.com/articles/s41560-026-02144-0",
-      "is_new": true
+      "is_new": false
     },
     {
-      "title": "Frontier Airlines Likely Breached",
-      "link": "https://www.reddit.com/r/frontierairlines/comments/1xl20e8/psa_email_scam/",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: I rebuilt my old canvas 3D library as a small WebGL 2 library – phoria2",
-      "link": "https://kevs3d.co.uk/phoria2/",
-      "is_new": true
+      "title": "Radiation Map of the World",
+      "link": "https://radiaverse.com/",
+      "is_new": false
     },
     {
       "title": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
@@ -73,13 +88,8 @@
       "is_new": false
     },
     {
-      "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
-      "link": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
-      "is_new": false
-    },
-    {
-      "title": "Radiation Map of the World",
-      "link": "https://radiaverse.com/",
+      "title": "Parchment Paper History: How We Got Paper Perfect for Baking (2019)",
+      "link": "https://tedium.co/2019/11/21/nonstick-parchment-paper-history/",
       "is_new": true
     },
     {
@@ -88,9 +98,34 @@
       "is_new": false
     },
     {
-      "title": "Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust",
-      "link": "https://github.com/ivankovic/omnidiff",
+      "title": "The AI cost of JavaScript frameworks",
+      "link": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
+      "is_new": false
+    },
+    {
+      "title": "Frontier Airlines Likely Breached",
+      "link": "https://www.reddit.com/r/frontierairlines/comments/1xl20e8/psa_email_scam/",
+      "is_new": false
+    },
+    {
+      "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
+      "link": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
+      "is_new": false
+    },
+    {
+      "title": "New 3D thermal invisibility cloak makes objects disappear from infrared cameras",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261025073051.htm",
       "is_new": true
+    },
+    {
+      "title": "Patrick Stewart taught us what good men do with power",
+      "link": "https://www.vox.com/politics/508526/patrick-stewart-jean-luc-picard-star-trek-liberalism",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: I rebuilt my old canvas 3D library as a small WebGL 2 library – phoria2",
+      "link": "https://kevs3d.co.uk/phoria2/",
+      "is_new": false
     },
     {
       "title": "Show HN: Point your camera at a landscape to learn about its geology",
@@ -98,14 +133,41 @@
       "is_new": false
     },
     {
-      "title": "Enlightenment 0.28.0 Release",
-      "link": "https://www.enlightenment.org/news/2026-10-31-enlightenment-0.28.0",
+      "title": "US Jobs Pickup May Keep Fed on Track to Hike Rates Again",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-31/us-jobs-pickup-may-keep-fed-on-track-to-hike-rates-again",
       "is_new": true
     },
     {
-      "title": "Understanding Email Encryption",
+      "title": "Landline phones will switch off across Britland in 100 days, no extensions",
+      "link": "https://www.theregister.com/networks/2026/11/01/landline-phones-will-switch-off-across-britland-in-100-days-no-extensions-openreach/5306673",
+      "is_new": false
+    },
+    {
+      "title": "Understanding Email Encryption (2025)",
       "link": "https://www.fastmail.com/blog/email-encryption/",
       "is_new": false
+    },
+    {
+      "title": "Running a bootstrapped SaaS for 20 years with my brother",
+      "link": "https://blog.zamzar.com/2026/10/30/20-years-766-million-files-two-chameleons/",
+      "is_new": false
+    }
+  ],
+  "removed": [
+    {
+      "title": "Seoul Biosys Begins Production of Rare Earth-Free White Micro LEDs",
+      "link": "https://www.ajupress.com/view/20261028171670308",
+      "is_new": true
+    },
+    {
+      "title": "Police chief unplugs Flock cameras after company ignores contract cancellation",
+      "link": "https://www.tomshardware.com/tech-industry/big-tech/police-chief-physically-unplugs-flock-cameras-after-the-company-ignores-contract-cancellation-city-takes-matters-into-its-own-hands-amid-privacy-controversies",
+      "is_new": true
+    },
+    {
+      "title": "Enlightenment 0.28.0 Release",
+      "link": "https://www.enlightenment.org/news/2026-10-31-enlightenment-0.28.0",
+      "is_new": true
     },
     {
       "title": "Domain hacks with unusual Unicode characters (2018)",
@@ -113,18 +175,8 @@
       "is_new": false
     },
     {
-      "title": "Landline phones will switch off across Britland in 100 days, no extensions",
-      "link": "https://www.theregister.com/networks/2026/11/01/landline-phones-will-switch-off-across-britland-in-100-days-no-extensions-openreach/5306673",
-      "is_new": true
-    },
-    {
       "title": "Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM (2024)",
       "link": "https://arxiv.org/abs/2409.02292",
-      "is_new": false
-    },
-    {
-      "title": "Running a bootstrapped SaaS for 20 years with my brother",
-      "link": "https://blog.zamzar.com/2026/10/30/20-years-766-million-files-two-chameleons/",
       "is_new": false
     },
     {
@@ -146,93 +198,6 @@
       "title": "Altoids Project",
       "link": "https://uvdn7.github.io/altoids-project/",
       "is_new": false
-    },
-    {
-      "title": "The AI cost of JavaScript frameworks",
-      "link": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
-      "is_new": false
-    }
-  ],
-  "removed": [
-    {
-      "title": "A tiny Pacific country rolls out universal basic income",
-      "link": "https://www.economist.com/asia/2026/10/29/a-tiny-pacific-country-rolls-out-universal-basic-income",
-      "is_new": true
-    },
-    {
-      "title": "No AI, 52 min. Build all Linux Files utils in C by Hand [video]",
-      "link": "https://www.youtube.com/watch?v=gQRmSlcTq9c",
-      "is_new": true
-    },
-    {
-      "title": "Pilot-wave hydrodynamics (Quantum phenomena in macroscopic hydrodynamic systems)",
-      "link": "http://thales.mit.edu/bush/index.php/4801-2/",
-      "is_new": true
-    },
-    {
-      "title": "It's the memory latency, stupid",
-      "link": "https://pivotlake.io/blog/its-the-memory-latency-stupid/",
-      "is_new": false
-    },
-    {
-      "title": "The Ocean 'Was the Color of Chocolate.' Mexico Declares War on Seaweed.",
-      "link": "https://www.nytimes.com/2026/10/28/world/americas/mexico-seaweed-navy.html",
-      "is_new": true
-    },
-    {
-      "title": "A 1580 Map Shows Why Data Visualization Is Never Neutral",
-      "link": "https://thereader.mitpress.mit.edu/a-1580-map-shows-why-data-visualization-is-never-neutral/",
-      "is_new": false
-    },
-    {
-      "title": "A brief history of just-in-time: forty years of JIT work, from 1960–2000",
-      "link": "https://dl.acm.org/doi/10.1145/857076.857077",
-      "is_new": true
-    },
-    {
-      "title": "Jepsen: ParticleDB 1.1.4",
-      "link": "https://jepsen.io/analyses/particledb-1.1.4",
-      "is_new": false
-    },
-    {
-      "title": "ChatGPT and Codex usage limits merging",
-      "link": "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits",
-      "is_new": false
-    },
-    {
-      "title": "Electrification Could Cut Global Energy Use in Half",
-      "link": "https://fullycharged.show/podcasts/podcast-361-why-electrification-could-cut-global-energy-use-in-half/",
-      "is_new": false
-    },
-    {
-      "title": "Surviving \"The Graduate\"",
-      "link": "https://www.newyorker.com/culture/the-weekend-essay/dustin-hoffman-on-surviving-the-graduate",
-      "is_new": false
-    },
-    {
-      "title": "Do the math: How we took over ChatGPT accounts",
-      "link": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
-      "is_new": false
-    },
-    {
-      "title": "Simple circuits can create complex behaviors",
-      "link": "https://aatishb.com/myriad/lets-build-a-brain/",
-      "is_new": false
-    },
-    {
-      "title": "Edgar Allan Poe, Quintessential American Writer",
-      "link": "https://slate.com/culture/2026/10/edgar-allan-poe-poems-stories-most-influential-american-writer-death-horror-detective.html",
-      "is_new": false
-    },
-    {
-      "title": "The Duty of a Scholar",
-      "link": "https://www.daemonology.net/blog/2026-10-31-The-Duty-of-a-Scholar.html",
-      "is_new": false
-    },
-    {
-      "title": "Pac-Man's Siren Call",
-      "link": "https://unsung.aresluna.org/pac-mans-siren-call/",
-      "is_new": true
     }
   ]
 }
