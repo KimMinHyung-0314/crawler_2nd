@@ -1,10 +1,15 @@
 {
-  "crawled_at": "2026-11-01 20:38",
-  "prev_crawled_at": "2026-11-01 13:06",
+  "crawled_at": "2026-11-02 02:35",
+  "prev_crawled_at": "2026-11-01 20:38",
   "items": [
     {
-      "title": "Norway makes shithouses great again",
-      "link": "https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/norwegian-scenic-routes/worlds-best-toilets/",
+      "title": "Show HN: HackerBooks – HackerTube, but for books recommended on HN",
+      "link": "https://hackerbooks.org",
+      "is_new": true
+    },
+    {
+      "title": "Seoul Biosys Begins Production of Rare Earth-Free White Micro LEDs",
+      "link": "https://www.ajupress.com/view/20261028171670308",
       "is_new": true
     },
     {
@@ -12,6 +17,143 @@
       "link": "https://karpathy.bearblog.dev/hacker-tube/",
       "is_new": false
     },
+    {
+      "title": "Police chief unplugs Flock cameras after company ignores contract cancellation",
+      "link": "https://www.tomshardware.com/tech-industry/big-tech/police-chief-physically-unplugs-flock-cameras-after-the-company-ignores-contract-cancellation-city-takes-matters-into-its-own-hands-amid-privacy-controversies",
+      "is_new": true
+    },
+    {
+      "title": "Proving and improving the Platonic Representation Hypothesis with JEPAs",
+      "link": "https://arxiv.org/abs/2610.39302",
+      "is_new": true
+    },
+    {
+      "title": "Bidirectional Charging During Grid Outages",
+      "link": "https://www.jefftk.com/p/bidirectional-charging-during-grid-outages",
+      "is_new": true
+    },
+    {
+      "title": "Novellas with Groff",
+      "link": "https://movq.de/blog/postings/2026-10-31/0/POSTING-en.html",
+      "is_new": true
+    },
+    {
+      "title": "Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case",
+      "link": "https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/",
+      "is_new": true
+    },
+    {
+      "title": "Copper – A minimal low-level programming language with OOP and generics",
+      "link": "https://tibleiz.net/copper/",
+      "is_new": true
+    },
+    {
+      "title": "An Italian farmer found some unknown seeds in his attic and planted them",
+      "link": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
+      "is_new": false
+    },
+    {
+      "title": "One-minute frequency disturbances from synchronization in power systems",
+      "link": "https://www.nature.com/articles/s41560-026-02144-0",
+      "is_new": true
+    },
+    {
+      "title": "Frontier Airlines Likely Breached",
+      "link": "https://www.reddit.com/r/frontierairlines/comments/1xl20e8/psa_email_scam/",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: I rebuilt my old canvas 3D library as a small WebGL 2 library – phoria2",
+      "link": "https://kevs3d.co.uk/phoria2/",
+      "is_new": true
+    },
+    {
+      "title": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
+      "link": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/",
+      "is_new": false
+    },
+    {
+      "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
+      "link": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
+      "is_new": false
+    },
+    {
+      "title": "Radiation Map of the World",
+      "link": "https://radiaverse.com/",
+      "is_new": true
+    },
+    {
+      "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
+      "link": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
+      "is_new": false
+    },
+    {
+      "title": "Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust",
+      "link": "https://github.com/ivankovic/omnidiff",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: Point your camera at a landscape to learn about its geology",
+      "link": "https://outcrop.rocks/",
+      "is_new": false
+    },
+    {
+      "title": "Enlightenment 0.28.0 Release",
+      "link": "https://www.enlightenment.org/news/2026-10-31-enlightenment-0.28.0",
+      "is_new": true
+    },
+    {
+      "title": "Understanding Email Encryption",
+      "link": "https://www.fastmail.com/blog/email-encryption/",
+      "is_new": false
+    },
+    {
+      "title": "Domain hacks with unusual Unicode characters (2018)",
+      "link": "https://xn--69f31l4t57c0mag4b613h.xn--7uh4898msjaso/🆆🆃🅵/",
+      "is_new": false
+    },
+    {
+      "title": "Landline phones will switch off across Britland in 100 days, no extensions",
+      "link": "https://www.theregister.com/networks/2026/11/01/landline-phones-will-switch-off-across-britland-in-100-days-no-extensions-openreach/5306673",
+      "is_new": true
+    },
+    {
+      "title": "Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM (2024)",
+      "link": "https://arxiv.org/abs/2409.02292",
+      "is_new": false
+    },
+    {
+      "title": "Running a bootstrapped SaaS for 20 years with my brother",
+      "link": "https://blog.zamzar.com/2026/10/30/20-years-766-million-files-two-chameleons/",
+      "is_new": false
+    },
+    {
+      "title": "AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy",
+      "is_new": true
+    },
+    {
+      "title": "Restrooms along the Norwegian Scenic Routes",
+      "link": "https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/norwegian-scenic-routes/worlds-best-toilets/",
+      "is_new": false
+    },
+    {
+      "title": "Zinc creep in cable spelter sockets brought down the Arecibo telescope in 2020",
+      "link": "https://maketecheasier.com/arecibo-zinc-creep-collapse/",
+      "is_new": false
+    },
+    {
+      "title": "Altoids Project",
+      "link": "https://uvdn7.github.io/altoids-project/",
+      "is_new": false
+    },
+    {
+      "title": "The AI cost of JavaScript frameworks",
+      "link": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
+      "is_new": false
+    }
+  ],
+  "removed": [
     {
       "title": "A tiny Pacific country rolls out universal basic income",
       "link": "https://www.economist.com/asia/2026/10/29/a-tiny-pacific-country-rolls-out-universal-basic-income",
@@ -23,68 +165,8 @@
       "is_new": true
     },
     {
-      "title": "An Italian farmer found some unknown seeds in his attic and planted them",
-      "link": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
-      "is_new": false
-    },
-    {
-      "title": "The AI cost of JavaScript frameworks",
-      "link": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
-      "is_new": true
-    },
-    {
-      "title": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
-      "link": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/",
-      "is_new": false
-    },
-    {
-      "title": "Running a bootstrapped SaaS for 20 years with my brother",
-      "link": "https://blog.zamzar.com/2026/10/30/20-years-766-million-files-two-chameleons/",
-      "is_new": true
-    },
-    {
-      "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
-      "link": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
-      "is_new": false
-    },
-    {
-      "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
-      "link": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
-      "is_new": false
-    },
-    {
-      "title": "Domain hacks with unusual Unicode characters (2018)",
-      "link": "https://xn--69f31l4t57c0mag4b613h.xn--7uh4898msjaso/🆆🆃🅵/",
-      "is_new": true
-    },
-    {
-      "title": "Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM (2024)",
-      "link": "https://arxiv.org/abs/2409.02292",
-      "is_new": false
-    },
-    {
-      "title": "Show HN: Point your camera at a landscape to learn about its geology",
-      "link": "https://outcrop.rocks/",
-      "is_new": true
-    },
-    {
       "title": "Pilot-wave hydrodynamics (Quantum phenomena in macroscopic hydrodynamic systems)",
       "link": "http://thales.mit.edu/bush/index.php/4801-2/",
-      "is_new": true
-    },
-    {
-      "title": "Altoids Project",
-      "link": "https://uvdn7.github.io/altoids-project/",
-      "is_new": false
-    },
-    {
-      "title": "Zinc creep in cable spelter sockets brought down the Arecibo telescope in 2020",
-      "link": "https://maketecheasier.com/arecibo-zinc-creep-collapse/",
-      "is_new": false
-    },
-    {
-      "title": "Understanding Email Encryption",
-      "link": "https://www.fastmail.com/blog/email-encryption/",
       "is_new": true
     },
     {
@@ -151,68 +233,6 @@
       "title": "Pac-Man's Siren Call",
       "link": "https://unsung.aresluna.org/pac-mans-siren-call/",
       "is_new": true
-    }
-  ],
-  "removed": [
-    {
-      "title": "When electric cars were for women",
-      "link": "https://spectrum.ieee.org/early-electric-vehicles",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: NES Contra (1987) port (ASM –> C and then C –> WebAssembly)",
-      "link": "https://epoyraz.github.io/nes-contra-us/",
-      "is_new": false
-    },
-    {
-      "title": "AI text watermarking and quality loss",
-      "link": "https://blog.keyvan.net/p/ai-text-watermarking-and-quality",
-      "is_new": true
-    },
-    {
-      "title": "Constructing a Quine from Kleene's Second Recursion Theorem",
-      "link": "https://emarzion.github.io/KSRT/",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: BBRouter – Ben Eater's 8-bit computer, simulated on 3D breadboards",
-      "link": "https://bbrouter.com/bbrouter/ben-eater-sap-1",
-      "is_new": true
-    },
-    {
-      "title": "Much Ado About None: Sentinel Values in Python",
-      "link": "https://florianwilhelm.info/2026/10/sentinel_values/",
-      "is_new": false
-    },
-    {
-      "title": "Decode kernel panic from QR Code photo",
-      "link": "https://gist.github.com/skorotkiewicz/c59e591c26661cb52b06afc42d8ac546",
-      "is_new": true
-    },
-    {
-      "title": "Anthropic blocks users for anything touching training larger models",
-      "link": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
-      "is_new": false
-    },
-    {
-      "title": "Sculpture re-creates odd optical effects of famed Lycurgus Cup",
-      "link": "https://arstechnica.com/science/2026/10/scientists-recreate-the-1600-year-old-recipe-of-lycurgus-cup/",
-      "is_new": false
-    },
-    {
-      "title": "Reading and writing are less symmetric than you (probably) think",
-      "link": "https://fgiesen.wordpress.com/2015/10/25/reading-and-writing-are-less-symmetric-than-you-probably-think/",
-      "is_new": false
-    },
-    {
-      "title": "Show HN: A language model that lives in a boot sector",
-      "link": "https://github.com/kerlenton/bootgpt",
-      "is_new": false
-    },
-    {
-      "title": "William Nordhaus has died",
-      "link": "https://news.yale.edu/2026/10/31/william-nordhaus-nobel-laureate-who-integrated-economics-and-climate-change-devoted-yale",
-      "is_new": false
     }
   ]
 }
