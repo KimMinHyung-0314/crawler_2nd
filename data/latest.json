@@ -1,51 +1,56 @@
 {
-  "crawled_at": "2026-11-01 08:01",
-  "prev_crawled_at": "2026-11-01 04:11",
+  "crawled_at": "2026-11-01 13:06",
+  "prev_crawled_at": "2026-11-01 08:01",
   "items": [
     {
       "title": "HackerTube: YouTube built from videos recommended by HN",
       "link": "https://karpathy.bearblog.dev/hacker-tube/",
-      "is_new": true
+      "is_new": false
+    },
+    {
+      "title": "An Italian farmer found some unknown seeds in his attic and planted them",
+      "link": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
+      "is_new": false
     },
     {
       "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
       "link": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
-      "is_new": true
-    },
-    {
-      "title": "With 86% of the words, you might understand only 38% of an anime's lines",
-      "link": "https://learnfromx.com/research/anime-word-coverage-vs-lines-understood",
-      "is_new": true
-    },
-    {
-      "title": "It's the Memory Latency, Stupid",
-      "link": "https://pivotlake.io/blog/its-the-memory-latency-stupid/",
-      "is_new": true
-    },
-    {
-      "title": "The Duty of a Scholar",
-      "link": "https://www.daemonology.net/blog/2026-10-31-The-Duty-of-a-Scholar.html",
-      "is_new": true
-    },
-    {
-      "title": "Surviving \"The Graduate\"",
-      "link": "https://www.newyorker.com/culture/the-weekend-essay/dustin-hoffman-on-surviving-the-graduate",
-      "is_new": true
-    },
-    {
-      "title": "An Italian Farmer Found Some Unknown Seeds in His Attic and Planted Them",
-      "link": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: NES Contra (1987) port (ASM –> C and then C –> WebAssembly)",
-      "link": "https://epoyraz.github.io/nes-contra-us/",
-      "is_new": true
-    },
-    {
-      "title": "Molly (Signal fork) has not been updated since 3 months and is vulnerable",
-      "link": "https://piefed.world/post/1503394",
       "is_new": false
+    },
+    {
+      "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
+      "link": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
+      "is_new": true
+    },
+    {
+      "title": "Altoids Project",
+      "link": "https://uvdn7.github.io/altoids-project/",
+      "is_new": true
+    },
+    {
+      "title": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
+      "link": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/",
+      "is_new": true
+    },
+    {
+      "title": "When electric cars were for women",
+      "link": "https://spectrum.ieee.org/early-electric-vehicles",
+      "is_new": true
+    },
+    {
+      "title": "Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM",
+      "link": "https://arxiv.org/abs/2409.02292",
+      "is_new": true
+    },
+    {
+      "title": "It's the memory latency, stupid",
+      "link": "https://pivotlake.io/blog/its-the-memory-latency-stupid/",
+      "is_new": false
+    },
+    {
+      "title": "Zinc creep in cable spelter sockets brought down the Arecibo telescope in 2020",
+      "link": "https://maketecheasier.com/arecibo-zinc-creep-collapse/",
+      "is_new": true
     },
     {
       "title": "Jepsen: ParticleDB 1.1.4",
@@ -53,18 +58,23 @@
       "is_new": false
     },
     {
-      "title": "Show HN: A language model that lives in a boot sector",
-      "link": "https://github.com/kerlenton/bootgpt",
+      "title": "Show HN: NES Contra (1987) port (ASM –> C and then C –> WebAssembly)",
+      "link": "https://epoyraz.github.io/nes-contra-us/",
+      "is_new": false
+    },
+    {
+      "title": "Surviving \"The Graduate\"",
+      "link": "https://www.newyorker.com/culture/the-weekend-essay/dustin-hoffman-on-surviving-the-graduate",
+      "is_new": false
+    },
+    {
+      "title": "Edgar Allan Poe, Quintessential American Writer",
+      "link": "https://slate.com/culture/2026/10/edgar-allan-poe-poems-stories-most-influential-american-writer-death-horror-detective.html",
       "is_new": true
     },
     {
-      "title": "Much Ado About None: Sentinel Values in Python",
-      "link": "https://florianwilhelm.info/2026/10/sentinel_values/",
-      "is_new": true
-    },
-    {
-      "title": "Rhind Mathematical Papyrus",
-      "link": "https://en.wikipedia.org/wiki/Rhind_Mathematical_Papyrus",
+      "title": "AI text watermarking and quality loss",
+      "link": "https://blog.keyvan.net/p/ai-text-watermarking-and-quality",
       "is_new": true
     },
     {
@@ -73,19 +83,96 @@
       "is_new": false
     },
     {
-      "title": "Distributed Proofreaders",
-      "link": "https://www.pgdp.net/c/",
+      "title": "The Duty of a Scholar",
+      "link": "https://www.daemonology.net/blog/2026-10-31-The-Duty-of-a-Scholar.html",
+      "is_new": false
+    },
+    {
+      "title": "Constructing a Quine from Kleene's Second Recursion Theorem",
+      "link": "https://emarzion.github.io/KSRT/",
       "is_new": true
     },
     {
-      "title": "Anthropic blocks users for anything touching training larger models",
-      "link": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
+      "title": "Show HN: BBRouter – Ben Eater's 8-bit computer, simulated on 3D breadboards",
+      "link": "https://bbrouter.com/bbrouter/ben-eater-sap-1",
       "is_new": true
     },
     {
       "title": "Simple circuits can create complex behaviors",
       "link": "https://aatishb.com/myriad/lets-build-a-brain/",
       "is_new": false
+    },
+    {
+      "title": "Electrification Could Cut Global Energy Use in Half",
+      "link": "https://fullycharged.show/podcasts/podcast-361-why-electrification-could-cut-global-energy-use-in-half/",
+      "is_new": true
+    },
+    {
+      "title": "Much Ado About None: Sentinel Values in Python",
+      "link": "https://florianwilhelm.info/2026/10/sentinel_values/",
+      "is_new": false
+    },
+    {
+      "title": "Decode kernel panic from QR Code photo",
+      "link": "https://gist.github.com/skorotkiewicz/c59e591c26661cb52b06afc42d8ac546",
+      "is_new": true
+    },
+    {
+      "title": "Anthropic blocks users for anything touching training larger models",
+      "link": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
+      "is_new": false
+    },
+    {
+      "title": "Sculpture re-creates odd optical effects of famed Lycurgus Cup",
+      "link": "https://arstechnica.com/science/2026/10/scientists-recreate-the-1600-year-old-recipe-of-lycurgus-cup/",
+      "is_new": false
+    },
+    {
+      "title": "A 1580 Map Shows Why Data Visualization Is Never Neutral",
+      "link": "https://thereader.mitpress.mit.edu/a-1580-map-shows-why-data-visualization-is-never-neutral/",
+      "is_new": true
+    },
+    {
+      "title": "Reading and writing are less symmetric than you (probably) think",
+      "link": "https://fgiesen.wordpress.com/2015/10/25/reading-and-writing-are-less-symmetric-than-you-probably-think/",
+      "is_new": false
+    },
+    {
+      "title": "Show HN: A language model that lives in a boot sector",
+      "link": "https://github.com/kerlenton/bootgpt",
+      "is_new": false
+    },
+    {
+      "title": "William Nordhaus has died",
+      "link": "https://news.yale.edu/2026/10/31/william-nordhaus-nobel-laureate-who-integrated-economics-and-climate-change-devoted-yale",
+      "is_new": false
+    },
+    {
+      "title": "ChatGPT and Codex usage limits merging",
+      "link": "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits",
+      "is_new": true
+    }
+  ],
+  "removed": [
+    {
+      "title": "With 86% of the words, you might understand only 38% of an anime's lines",
+      "link": "https://learnfromx.com/research/anime-word-coverage-vs-lines-understood",
+      "is_new": true
+    },
+    {
+      "title": "Molly (Signal fork) has not been updated since 3 months and is vulnerable",
+      "link": "https://piefed.world/post/1503394",
+      "is_new": false
+    },
+    {
+      "title": "Rhind Mathematical Papyrus",
+      "link": "https://en.wikipedia.org/wiki/Rhind_Mathematical_Papyrus",
+      "is_new": true
+    },
+    {
+      "title": "Distributed Proofreaders",
+      "link": "https://www.pgdp.net/c/",
+      "is_new": true
     },
     {
       "title": "5 years of OqtaDrive: Microdrive emulation to Sinclair Network over the internet",
@@ -95,16 +182,6 @@
     {
       "title": "Redox: Ring Buffers Project Summary",
       "link": "https://www.redox-os.org/news/nlnet-rb-summary/",
-      "is_new": false
-    },
-    {
-      "title": "Sculpture re-creates odd optical effects of famed Lycurgus Cup",
-      "link": "https://arstechnica.com/science/2026/10/scientists-recreate-the-1600-year-old-recipe-of-lycurgus-cup/",
-      "is_new": true
-    },
-    {
-      "title": "Reading and writing are less symmetric than you (probably) think",
-      "link": "https://fgiesen.wordpress.com/2015/10/25/reading-and-writing-are-less-symmetric-than-you-probably-think/",
       "is_new": false
     },
     {
@@ -120,11 +197,6 @@
     {
       "title": "Switch Lowering in GCC",
       "link": "https://xoranth.net/gcc-switch/",
-      "is_new": false
-    },
-    {
-      "title": "William Nordhaus has died",
-      "link": "https://news.yale.edu/2026/10/31/william-nordhaus-nobel-laureate-who-integrated-economics-and-climate-change-devoted-yale",
       "is_new": false
     },
     {
@@ -150,93 +222,6 @@
     {
       "title": "Show HN: Ghostman – A fast, keyboard-driven TUI API client and webhook inspector",
       "link": "https://github.com/4yk5/Ghostman",
-      "is_new": false
-    }
-  ],
-  "removed": [
-    {
-      "title": "The Impact of Generative AI on Critical Thinking",
-      "link": "https://dl.acm.org/doi/full/10.1145/3706598.3713778",
-      "is_new": true
-    },
-    {
-      "title": "UK Green party drops longstanding opposition to nuclear power",
-      "link": "https://www.theguardian.com/politics/2026/oct/05/green-party-nuclear-power-policy",
-      "is_new": true
-    },
-    {
-      "title": "I post trained a model on Demoscenes",
-      "link": "https://datavorous.com/writing/demoscener/",
-      "is_new": true
-    },
-    {
-      "title": "Malware uses LLMs to rank victims by how much they're worth",
-      "link": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/",
-      "is_new": true
-    },
-    {
-      "title": "AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura",
-      "link": "https://thedataexchange.media/leo-de-moura-lean-aws/",
-      "is_new": false
-    },
-    {
-      "title": "What is a light-day? The milestone Voyager 1 is closing in on",
-      "link": "https://science.nasa.gov/mission/voyager/voyager-1/voyager-1-what-is-a-light-day/",
-      "is_new": true
-    },
-    {
-      "title": "Hackers hijack Egypt highway billboard and Malaysian screens to show porn",
-      "link": "https://www.cairoreport.org/p/egypt-brazil-iraq-billboard-hack",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: Marelleo, an open-source story box I built for my kids using ESP32",
-      "link": "https://zebra.rodeo/en/blog/marelleo/",
-      "is_new": false
-    },
-    {
-      "title": "The $6.3B Binance hack was pulled off in just 20 minutes",
-      "link": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
-      "is_new": false
-    },
-    {
-      "title": "Hunting 'Zombie Accounts' in Active Directory",
-      "link": "https://www.fabian.fyi/2026/10/zombie-hunt.html",
-      "is_new": false
-    },
-    {
-      "title": "Copyright Office is restoring copyright to something you have to work to get",
-      "link": "https://pluralistic.net/2026/10/31/burn-berne/#unvictored",
-      "is_new": true
-    },
-    {
-      "title": "My favourite PowerMac is a Nintendo Wii",
-      "link": "https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/",
-      "is_new": false
-    },
-    {
-      "title": "Show HN: Jointter – A daily word puzzle using dots and lines",
-      "link": "https://www.jointter.com/",
-      "is_new": true
-    },
-    {
-      "title": "A/SIDE – Private photo sharing and encrypted messages",
-      "link": "https://a-side.social/",
-      "is_new": true
-    },
-    {
-      "title": "Enlightenment 0.28 Released with Many Improvements",
-      "link": "https://www.phoronix.com/news/Enlightenment-0.28",
-      "is_new": true
-    },
-    {
-      "title": "Cloudflare Turnstile solver library (no headless browser required)",
-      "link": "https://github.com/chris124567/cfsolve",
-      "is_new": false
-    },
-    {
-      "title": "Prospero: A new coding harness for a more civilized age",
-      "link": "https://nullprogram.com/blog/2026/10/31/",
       "is_new": false
     }
   ]
