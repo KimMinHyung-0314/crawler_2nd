@@ -1,6 +1,6 @@
 {
-  "crawled_at": "2026-11-02 06:38",
-  "prev_crawled_at": "2026-11-02 02:35",
+  "crawled_at": "2026-11-02 10:12",
+  "prev_crawled_at": "2026-11-02 06:38",
   "items": [
     {
       "title": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
@@ -8,43 +8,63 @@
       "is_new": false
     },
     {
-      "title": "John Leeson (the voice of K9) has died",
-      "link": "https://www.doctorwhonews.net/2026/11/john_leeson_1943_2026.html",
-      "is_new": true
-    },
-    {
       "title": "HackerTube: YouTube built from videos recommended by HN",
       "link": "https://karpathy.bearblog.dev/hacker-tube/",
       "is_new": false
     },
     {
-      "title": "Nibnib: Image compression with extreme decompression speed",
-      "link": "https://github.com/raphlinus/nibnib",
+      "title": "Postgres 19 is late, and it's AI's fault",
+      "link": "http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html",
       "is_new": true
     },
     {
-      "title": "Mathematics has changed. Let's act like it",
-      "link": "https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/",
+      "title": "Nibnib: Image compression with extreme decompression speed",
+      "link": "https://github.com/raphlinus/nibnib",
+      "is_new": false
+    },
+    {
+      "title": "Ask HN: Which TV do you recommend for privacy?",
+      "link": "https://news.ycombinator.com/item?id=50328896",
       "is_new": true
     },
     {
       "title": "Tips for more effective fuzz testing with AFL++",
       "link": "https://nullprogram.com/blog/2025/02/05/",
+      "is_new": false
+    },
+    {
+      "title": "Keeping Up Appearances – The women taking over the funeral industry",
+      "link": "https://lareviewofbooks.org/article/death-industry-mortuary-programs-women-andie-eisen-quarterly/",
       "is_new": true
+    },
+    {
+      "title": "America on Data Centers: 10k city council comments",
+      "link": "https://www.americansentiment.com/datacenters",
+      "is_new": true
+    },
+    {
+      "title": "New 3D thermal invisibility cloak makes objects disappear from infrared cameras",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261025073051.htm",
+      "is_new": false
+    },
+    {
+      "title": "AI delivers 'zero financial payoff' to most companies, Apollo economist says",
+      "link": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust",
+      "link": "https://github.com/ivankovic/omnidiff",
+      "is_new": false
+    },
+    {
+      "title": "Mathematics has changed. Let's act like it",
+      "link": "https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/",
+      "is_new": false
     },
     {
       "title": "Copper – A minimal low-level programming language with OOP and generics",
       "link": "https://tibleiz.net/copper/",
-      "is_new": false
-    },
-    {
-      "title": "An Italian farmer found some unknown seeds in his attic and planted them",
-      "link": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
-      "is_new": false
-    },
-    {
-      "title": "Bidirectional charging during grid outages",
-      "link": "https://www.jefftk.com/p/bidirectional-charging-during-grid-outages",
       "is_new": false
     },
     {
@@ -53,8 +73,23 @@
       "is_new": false
     },
     {
+      "title": "The She-Wolves of Jülich",
+      "link": "https://www.historytoday.com/archive/history-matters/she-wolves-julich",
+      "is_new": true
+    },
+    {
       "title": "Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case",
       "link": "https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/",
+      "is_new": false
+    },
+    {
+      "title": "Bidirectional charging during grid outages",
+      "link": "https://www.jefftk.com/p/bidirectional-charging-during-grid-outages",
+      "is_new": false
+    },
+    {
+      "title": "One-minute frequency disturbances from synchronization in power systems",
+      "link": "https://www.nature.com/articles/s41560-026-02144-0",
       "is_new": false
     },
     {
@@ -63,18 +98,8 @@
       "is_new": false
     },
     {
-      "title": "Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust",
-      "link": "https://github.com/ivankovic/omnidiff",
-      "is_new": false
-    },
-    {
-      "title": "Seoul Viosys begins production of rare-earth-free white light emitter",
-      "link": "https://www.semiconductor-today.com/news_items/2026/oct/seoul-291026.shtml",
-      "is_new": true
-    },
-    {
-      "title": "One-minute frequency disturbances from synchronization in power systems",
-      "link": "https://www.nature.com/articles/s41560-026-02144-0",
+      "title": "The AI cost of JavaScript frameworks",
+      "link": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
       "is_new": false
     },
     {
@@ -83,48 +108,18 @@
       "is_new": false
     },
     {
-      "title": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
-      "link": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/",
+      "title": "Seoul Viosys begins production of rare-earth-free white light emitter",
+      "link": "https://www.semiconductor-today.com/news_items/2026/oct/seoul-291026.shtml",
+      "is_new": false
+    },
+    {
+      "title": "Show HN: I rebuilt my old canvas 3D library as a small WebGL 2 library – phoria2",
+      "link": "https://kevs3d.co.uk/phoria2/",
       "is_new": false
     },
     {
       "title": "Parchment Paper History: How We Got Paper Perfect for Baking (2019)",
       "link": "https://tedium.co/2019/11/21/nonstick-parchment-paper-history/",
-      "is_new": true
-    },
-    {
-      "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
-      "link": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
-      "is_new": false
-    },
-    {
-      "title": "The AI cost of JavaScript frameworks",
-      "link": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
-      "is_new": false
-    },
-    {
-      "title": "Frontier Airlines Likely Breached",
-      "link": "https://www.reddit.com/r/frontierairlines/comments/1xl20e8/psa_email_scam/",
-      "is_new": false
-    },
-    {
-      "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
-      "link": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
-      "is_new": false
-    },
-    {
-      "title": "New 3D thermal invisibility cloak makes objects disappear from infrared cameras",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261025073051.htm",
-      "is_new": true
-    },
-    {
-      "title": "Patrick Stewart taught us what good men do with power",
-      "link": "https://www.vox.com/politics/508526/patrick-stewart-jean-luc-picard-star-trek-liberalism",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: I rebuilt my old canvas 3D library as a small WebGL 2 library – phoria2",
-      "link": "https://kevs3d.co.uk/phoria2/",
       "is_new": false
     },
     {
@@ -133,14 +128,61 @@
       "is_new": false
     },
     {
-      "title": "US Jobs Pickup May Keep Fed on Track to Hike Rates Again",
-      "link": "https://www.bloomberg.com/news/articles/2026-10-31/us-jobs-pickup-may-keep-fed-on-track-to-hike-rates-again",
+      "title": "Domain hacks with unusual Unicode characters (2018)",
+      "link": "https://shkspr.mobi/blog/2018/11/domain-hacks-with-unusual-unicode-characters/",
+      "is_new": true
+    },
+    {
+      "title": "Frontier Airlines Likely Breached",
+      "link": "https://www.reddit.com/r/frontierairlines/comments/1xl20e8/psa_email_scam/",
+      "is_new": false
+    },
+    {
+      "title": "Patrick Stewart taught us what good men do with power",
+      "link": "https://www.vox.com/politics/508526/patrick-stewart-jean-luc-picard-star-trek-liberalism",
+      "is_new": false
+    },
+    {
+      "title": "U.S. workers took home their smallest share of capital since at least 1947",
+      "link": "https://fortune.com/article/why-did-us-workers-just-take-home-smallest-share-of-capital-since-1947-lowest-ever-recorded/",
       "is_new": true
     },
     {
       "title": "Landline phones will switch off across Britland in 100 days, no extensions",
       "link": "https://www.theregister.com/networks/2026/11/01/landline-phones-will-switch-off-across-britland-in-100-days-no-extensions-openreach/5306673",
       "is_new": false
+    }
+  ],
+  "removed": [
+    {
+      "title": "John Leeson (the voice of K9) has died",
+      "link": "https://www.doctorwhonews.net/2026/11/john_leeson_1943_2026.html",
+      "is_new": true
+    },
+    {
+      "title": "An Italian farmer found some unknown seeds in his attic and planted them",
+      "link": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
+      "is_new": false
+    },
+    {
+      "title": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
+      "link": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/",
+      "is_new": false
+    },
+    {
+      "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
+      "link": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
+      "is_new": false
+    },
+    {
+      "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
+      "link": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
+      "is_new": false
+    },
+    {
+      "title": "US Jobs Pickup May Keep Fed on Track to Hike Rates Again",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-31/us-jobs-pickup-may-keep-fed-on-track-to-hike-rates-again",
+      "is_new": true
     },
     {
       "title": "Understanding Email Encryption (2025)",
@@ -150,53 +192,6 @@
     {
       "title": "Running a bootstrapped SaaS for 20 years with my brother",
       "link": "https://blog.zamzar.com/2026/10/30/20-years-766-million-files-two-chameleons/",
-      "is_new": false
-    }
-  ],
-  "removed": [
-    {
-      "title": "Seoul Biosys Begins Production of Rare Earth-Free White Micro LEDs",
-      "link": "https://www.ajupress.com/view/20261028171670308",
-      "is_new": true
-    },
-    {
-      "title": "Police chief unplugs Flock cameras after company ignores contract cancellation",
-      "link": "https://www.tomshardware.com/tech-industry/big-tech/police-chief-physically-unplugs-flock-cameras-after-the-company-ignores-contract-cancellation-city-takes-matters-into-its-own-hands-amid-privacy-controversies",
-      "is_new": true
-    },
-    {
-      "title": "Enlightenment 0.28.0 Release",
-      "link": "https://www.enlightenment.org/news/2026-10-31-enlightenment-0.28.0",
-      "is_new": true
-    },
-    {
-      "title": "Domain hacks with unusual Unicode characters (2018)",
-      "link": "https://xn--69f31l4t57c0mag4b613h.xn--7uh4898msjaso/🆆🆃🅵/",
-      "is_new": false
-    },
-    {
-      "title": "Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM (2024)",
-      "link": "https://arxiv.org/abs/2409.02292",
-      "is_new": false
-    },
-    {
-      "title": "AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy",
-      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy",
-      "is_new": true
-    },
-    {
-      "title": "Restrooms along the Norwegian Scenic Routes",
-      "link": "https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/norwegian-scenic-routes/worlds-best-toilets/",
-      "is_new": false
-    },
-    {
-      "title": "Zinc creep in cable spelter sockets brought down the Arecibo telescope in 2020",
-      "link": "https://maketecheasier.com/arecibo-zinc-creep-collapse/",
-      "is_new": false
-    },
-    {
-      "title": "Altoids Project",
-      "link": "https://uvdn7.github.io/altoids-project/",
       "is_new": false
     }
   ]
