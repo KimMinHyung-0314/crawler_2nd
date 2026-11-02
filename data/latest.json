@@ -1,7 +1,159 @@
 {
-  "crawled_at": "2026-11-02 17:49",
-  "prev_crawled_at": "2026-11-02 10:12",
+  "crawled_at": "2026-11-03 04:06",
+  "prev_crawled_at": "2026-11-02 17:49",
   "items": [
+    {
+      "title": "Show HN: Subvocal – Talk to your computer without making noise",
+      "link": "https://subvocal.company/",
+      "is_new": true
+    },
+    {
+      "title": "Astra can read and write weights to improve Qwen",
+      "link": "https://rikiyat.github.io/blog/weight-space-programming/",
+      "is_new": true
+    },
+    {
+      "title": "Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app",
+      "link": "https://momentic.ai/",
+      "is_new": true
+    },
+    {
+      "title": "US boy names that became girl names and vice versa",
+      "link": "https://namedaisy.com/blog/boy-names-that-became-girl-names",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: Warsaw in voxels – an interactive 3D map of the city centre",
+      "link": "https://p.migdal.pl/warsaw-vibe-voxel/",
+      "is_new": true
+    },
+    {
+      "title": "Agentic Backdoors via Pretraining Poisoning",
+      "link": "https://arxiv.org/abs/2610.37741",
+      "is_new": true
+    },
+    {
+      "title": "Ask HN: Who is hiring? (November 2026)",
+      "link": "https://news.ycombinator.com/item?id=50338728",
+      "is_new": true
+    },
+    {
+      "title": "If you love a website, back it up",
+      "link": "https://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/",
+      "is_new": true
+    },
+    {
+      "title": "Let Me Ch...",
+      "link": "https://blog.alxgsv.com/let-me-check/",
+      "is_new": true
+    },
+    {
+      "title": "Bitmovin (YC S15) Is Hiring Technical Graduates in Denver (Engineering/CS Focus)",
+      "link": "https://bitmovin.com/careers/8660599002/",
+      "is_new": true
+    },
+    {
+      "title": "Egoless Mathematics in the AI Era",
+      "link": "https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/",
+      "is_new": true
+    },
+    {
+      "title": "WTF Ubuntu?",
+      "link": "https://chalmovsky.com/posts/wtf-ubuntu",
+      "is_new": true
+    },
+    {
+      "title": "We halved DNS build delay and cut memory use by 85%",
+      "link": "https://blog.cloudflare.com/dns-targeted-zone-builds/",
+      "is_new": true
+    },
+    {
+      "title": "SOML – A Config Format for Humans",
+      "link": "https://github.com/soml-lang/soml",
+      "is_new": true
+    },
+    {
+      "title": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
+      "link": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
+      "is_new": true
+    },
+    {
+      "title": "Sneaking into the auditorium for the Windows 2000 launch rehearsal",
+      "link": "https://devblogs.microsoft.com/oldnewthing/20261102-00/?p=112818/",
+      "is_new": true
+    },
+    {
+      "title": "I Read the Clankers' Code",
+      "link": "https://fev.al/posts/i-read-the-code/",
+      "is_new": true
+    },
+    {
+      "title": "LongCat-2.5: Native Multimodality for Agentic Tasks",
+      "link": "https://longcat.ai/blog/longcat-2.5/",
+      "is_new": true
+    },
+    {
+      "title": "Moving our warehouse off DuckDB",
+      "link": "https://posthog.com/blog/moving-off-duckdb",
+      "is_new": true
+    },
+    {
+      "title": "Byesky: Wipe your Bluesky account clean",
+      "link": "https://byesky.pirhoo.com",
+      "is_new": true
+    },
+    {
+      "title": "My Favourite Laptop",
+      "link": "https://blog.jsbarretto.com/post/laptop",
+      "is_new": true
+    },
+    {
+      "title": "Postgres 19 is late because so many more bugs are being found now",
+      "link": "http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html",
+      "is_new": false
+    },
+    {
+      "title": "C64 Basic Dungeon Crawler: Stairs, Levels and Levelling Up (Part 11)",
+      "link": "https://retrogamecoders.com/c64-basic-dungeon-part11/",
+      "is_new": true
+    },
+    {
+      "title": "Bones may release proteins that slow aging and extend life span",
+      "link": "https://www.science.org/content/article/bones-may-release-proteins-slow-aging-and-extend-life-span",
+      "is_new": false
+    },
+    {
+      "title": "Skill to Create Product Videos",
+      "link": "https://github.com/aaitor/skill-video-studio",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: I've updated my Linux System Call website and API",
+      "link": "https://syscall.sh/",
+      "is_new": true
+    },
+    {
+      "title": "Supermarket freezers across Europe hit by second suspected cyber-attack",
+      "link": "https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack",
+      "is_new": true
+    },
+    {
+      "title": "The U.S. Census Bureau and \"Super Intelligence\"",
+      "link": "https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/",
+      "is_new": true
+    },
+    {
+      "title": "GPT-Rosalind-6 System Card Addendum",
+      "link": "https://deploymentsafety.openai.com/gpt-rosalind-6",
+      "is_new": true
+    },
+    {
+      "title": "Ask HN: Which TV do you recommend for privacy?",
+      "link": "https://news.ycombinator.com/item?id=50328896",
+      "is_new": false
+    }
+  ],
+  "removed": [
     {
       "title": "Show HN: Wikihack – HackerTube, but for Wikipedia articles mentioned on HN",
       "link": "https://wikihack.netlify.app",
@@ -13,11 +165,6 @@
       "is_new": false
     },
     {
-      "title": "Postgres 19 is late because so many more bugs are being found now",
-      "link": "http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html",
-      "is_new": false
-    },
-    {
       "title": "HackerTube: YouTube built from videos recommended by HN",
       "link": "https://karpathy.bearblog.dev/hacker-tube/",
       "is_new": false
@@ -25,16 +172,6 @@
     {
       "title": "F/OSS Comics #13: BSD Unix, Part 3 – The Beginning of BSD Unix",
       "link": "https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/",
-      "is_new": true
-    },
-    {
-      "title": "Ask HN: Which TV do you recommend for privacy?",
-      "link": "https://news.ycombinator.com/item?id=50328896",
-      "is_new": false
-    },
-    {
-      "title": "Bones may release proteins that slow aging and extend life span",
-      "link": "https://www.science.org/content/article/bones-may-release-proteins-slow-aging-and-extend-life-span",
       "is_new": true
     },
     {
@@ -151,53 +288,6 @@
       "title": "An Italian farmer found some unknown seeds in his attic and planted them",
       "link": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
       "is_new": true
-    }
-  ],
-  "removed": [
-    {
-      "title": "America on Data Centers: 10k city council comments",
-      "link": "https://www.americansentiment.com/datacenters",
-      "is_new": true
-    },
-    {
-      "title": "AI delivers 'zero financial payoff' to most companies, Apollo economist says",
-      "link": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
-      "is_new": true
-    },
-    {
-      "title": "The She-Wolves of Jülich",
-      "link": "https://www.historytoday.com/archive/history-matters/she-wolves-julich",
-      "is_new": true
-    },
-    {
-      "title": "Novellas with Groff",
-      "link": "https://movq.de/blog/postings/2026-10-31/0/POSTING-en.html",
-      "is_new": false
-    },
-    {
-      "title": "Parchment Paper History: How We Got Paper Perfect for Baking (2019)",
-      "link": "https://tedium.co/2019/11/21/nonstick-parchment-paper-history/",
-      "is_new": false
-    },
-    {
-      "title": "Frontier Airlines Likely Breached",
-      "link": "https://www.reddit.com/r/frontierairlines/comments/1xl20e8/psa_email_scam/",
-      "is_new": false
-    },
-    {
-      "title": "Patrick Stewart taught us what good men do with power",
-      "link": "https://www.vox.com/politics/508526/patrick-stewart-jean-luc-picard-star-trek-liberalism",
-      "is_new": false
-    },
-    {
-      "title": "U.S. workers took home their smallest share of capital since at least 1947",
-      "link": "https://fortune.com/article/why-did-us-workers-just-take-home-smallest-share-of-capital-since-1947-lowest-ever-recorded/",
-      "is_new": true
-    },
-    {
-      "title": "Landline phones will switch off across Britland in 100 days, no extensions",
-      "link": "https://www.theregister.com/networks/2026/11/01/landline-phones-will-switch-off-across-britland-in-100-days-no-extensions-openreach/5306673",
-      "is_new": false
     }
   ]
 }
