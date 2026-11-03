@@ -1,70 +1,162 @@
 {
-  "crawled_at": "2026-11-04 02:29",
-  "prev_crawled_at": "2026-11-03 18:11",
+  "crawled_at": "2026-11-04 07:51",
+  "prev_crawled_at": "2026-11-04 02:29",
   "items": [
     {
-      "title": "Jailbreaking my car's navigation system just so I can change the time",
-      "link": "https://blog.nns.ee/2026/11/02/renault-hack/",
+      "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
+      "link": "https://arxiv.org/abs/2605.29713",
       "is_new": true
     },
     {
-      "title": "Mac at Any Scale",
-      "link": "https://namespace.so/blog/mac-at-any-scale",
+      "title": "The Internals of PostgreSQL",
+      "link": "https://www.interdb.jp/pg/index.html",
+      "is_new": true
+    },
+    {
+      "title": "Safari introduces Adaptive Dark Mode in 27.3",
+      "link": "https://webkit.org/blog/18541/introducing-adaptive-dark-mode/",
+      "is_new": true
+    },
+    {
+      "title": "Jailbreaking my car's navigation system just so I can change the time",
+      "link": "https://blog.nns.ee/2026/11/02/renault-hack/",
+      "is_new": false
+    },
+    {
+      "title": "Stringman, an $800 open-source room scale gripper robot",
+      "link": "https://neufangled.com/",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: HackerTV – HN's most-recommended Youtube videos as 24/7 TV channels",
+      "link": "https://hackertv.org",
+      "is_new": true
+    },
+    {
+      "title": "macOS 27 does not support CoreStorage volumes",
+      "link": "https://wadetregaskis.com/macos-27-golden-gate-does-not-actually-support-corestorage-or-hfs-volumes/",
+      "is_new": true
+    },
+    {
+      "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
+      "link": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
+      "is_new": true
+    },
+    {
+      "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
+      "link": "https://github.com/postmanlabs/postman-app-support/issues/14370",
+      "is_new": true
+    },
+    {
+      "title": "Japan's Jimi 'Mundane' Halloween Costumes of 2026",
+      "link": "https://spoon-tamago.com/japan-jimi-mundane-halloween-costumes-2026/",
       "is_new": true
     },
     {
       "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
       "link": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
+      "is_new": false
+    },
+    {
+      "title": "Show HN: Kairos – Open-source risk and fraud decisioning platform",
+      "link": "https://github.com/finic-ai/kairos",
       "is_new": true
     },
     {
-      "title": "Schools that block Google’s A.I. will lose student access to its search engine",
-      "link": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
+      "title": "Introduction to Programming in ATS",
+      "link": "https://ats-lang.sourceforge.net/DOCUMENT/INT2PROGINATS/HTML/book1.html",
       "is_new": true
     },
     {
-      "title": "The 'Astra can read and write weights to improve Qwen' post is misleading",
-      "link": "https://honnibal.dev/blog/astra-read-write-misleading",
+      "title": "We're Training a Figma-Fluent Editing Model",
+      "link": "https://www.figma.com/blog/training-a-figma-fluent-editing-model/",
       "is_new": true
     },
     {
-      "title": "OpenAI seems to be silently re-enabling model training on Codex chats",
-      "link": "https://news.ycombinator.com/item?id=50352757",
+      "title": "Preparing for the Flipper One Kickstarter and opening pre-orders",
+      "link": "https://flipper.net/pages/flipper-one",
+      "is_new": true
+    },
+    {
+      "title": "Pratt parsing is a black box",
+      "link": "https://vinipsmaker.github.io/blog/article/pratt-parsing-is-a-black-box/",
+      "is_new": true
+    },
+    {
+      "title": "Curiosity Traps",
+      "link": "https://www.autodidacts.io/curiosity-traps/",
       "is_new": true
     },
     {
       "title": "Ashby (YC W19) Is Hiring EMs",
       "link": "https://www.ashbyhq.com/careers?ashby_jid=695b1ce6-c375-4fad-94ef-61b50a3fbd28&utm_source=hn",
-      "is_new": true
+      "is_new": false
+    },
+    {
+      "title": "The 'Astra can read and write weights to improve Qwen' post is misleading",
+      "link": "https://honnibal.dev/blog/astra-read-write-misleading",
+      "is_new": false
     },
     {
       "title": "Writing seen in PHerc. 306B, for the first time in 2000 years",
       "link": "https://scrollprize.substack.com/p/writing-seen-in-pherc-306b-for-the",
+      "is_new": false
+    },
+    {
+      "title": "Could a modern chess engine on a Pentium have defeated Kasparov in 1996?",
+      "link": "https://nicholas.carlini.com/writing/2026/algorithmic-improvements-chess.html",
+      "is_new": false
+    },
+    {
+      "title": "Mac at Any Scale",
+      "link": "https://namespace.so/blog/mac-at-any-scale",
+      "is_new": false
+    },
+    {
+      "title": "Antimony: CAD Software Evolved from Lisp Machines and Not Drafting Tables (2015)",
+      "link": "https://www.mattkeeter.com/projects/antimony/3/",
+      "is_new": false
+    },
+    {
+      "title": "US tech giants' hidden AI debt swells 90% to $3.2T in 6 months",
+      "link": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months",
       "is_new": true
     },
     {
-      "title": "Tiny Basic for Arduino",
-      "link": "https://dilshan.github.io/tiny-basic/",
+      "title": "How I use AI (Oct 2026)",
+      "link": "https://ben.stolovitz.com/posts/how-use-ai-oct-2026/",
       "is_new": true
     },
     {
       "title": "Kalshi and its co-founders face felony charges for violating Utah gambling laws",
       "link": "https://arstechnica.com/tech-policy/2026/10/trump-admin-sues-utah-to-save-kalshi-from-the-states-total-ban-on-gambling/",
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "USDB: Scaling Storage for Next-Generation Recommender Systems at ByteDance",
       "link": "https://arxiv.org/abs/2611.02618",
-      "is_new": true
+      "is_new": false
     },
     {
-      "title": "Could a modern chess engine on a Pentium have defeated Kasparov in 1996?",
-      "link": "https://nicholas.carlini.com/writing/2026/algorithmic-improvements-chess.html",
-      "is_new": true
+      "title": "Google will turn off search for schools that reject AI",
+      "link": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
+      "is_new": false
     },
     {
-      "title": "Antimony: CAD Software Evolved from Lisp Machines and Not Drafting Tables",
-      "link": "https://www.mattkeeter.com/projects/antimony/3/",
+      "title": "Gitbook Breached",
+      "link": "https://news.ycombinator.com/item?id=50354336",
+      "is_new": false
+    },
+    {
+      "title": "Tiny Basic for Arduino",
+      "link": "https://dilshan.github.io/tiny-basic/",
+      "is_new": false
+    }
+  ],
+  "removed": [
+    {
+      "title": "OpenAI seems to be silently re-enabling model training on Codex chats",
+      "link": "https://news.ycombinator.com/item?id=50352757",
       "is_new": true
     },
     {
@@ -75,11 +167,6 @@
     {
       "title": "Study estimates 75% of NFL players who died over 15-year span had CTE",
       "link": "https://www.nbcnews.com/health/health-news/study-estimates-75-nfl-players-died-15-year-span-may-cte-rcna605975",
-      "is_new": true
-    },
-    {
-      "title": "Gitbook Breached",
-      "link": "https://news.ycombinator.com/item?id=50354336",
       "is_new": true
     },
     {
@@ -150,143 +237,6 @@
     {
       "title": "Octomind – open-source AI harness that saves your tokens, static rust",
       "link": "https://github.com/Muvon/octomind",
-      "is_new": true
-    }
-  ],
-  "removed": [
-    {
-      "title": "Astra can read and write weights to improve Qwen",
-      "link": "https://rikiyat.github.io/blog/weight-space-programming/",
-      "is_new": false
-    },
-    {
-      "title": "DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs",
-      "link": "https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio",
-      "is_new": false
-    },
-    {
-      "title": "European RISC-V Industrial Computing Initiative",
-      "link": "https://erici.eu",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: Subvocal – Talk to your computer without making noise",
-      "link": "https://news.ycombinator.com/item?id=50340088",
-      "is_new": false
-    },
-    {
-      "title": "Resisting Cognitive Surrender",
-      "link": "https://knlb.dev/essays/surrender",
-      "is_new": true
-    },
-    {
-      "title": "Efficient algorithms, the Exponential Time Hypothesis, and losing the plot",
-      "link": "https://www.argmin.net/p/galactus-the-devourer",
-      "is_new": true
-    },
-    {
-      "title": "US boy names that became girl names and vice versa",
-      "link": "https://namedaisy.com/blog/boy-names-that-became-girl-names",
-      "is_new": false
-    },
-    {
-      "title": "If you love a website, back it up",
-      "link": "https://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/",
-      "is_new": false
-    },
-    {
-      "title": "Scaling Git at OpenAI",
-      "link": "https://openai.com/index/scaling-git-at-openai/",
-      "is_new": true
-    },
-    {
-      "title": "uBlock Origin filter to block autoplay videos in TechCrunch",
-      "link": "https://cornfieldlabs.github.io/posts/ublock-stop-techcrunch-autoplay-video/post.html",
-      "is_new": true
-    },
-    {
-      "title": "Self-Employed? Solopreneur? NIST Has a Cybersecurity Guide Just for You",
-      "link": "https://www.nist.gov/news-events/news/2026/11/self-employed-solopreneur-nist-has-cybersecurity-guide-just-you",
-      "is_new": false
-    },
-    {
-      "title": "Show HN: ReBirth 338 in Browser",
-      "link": "https://margeux.com/rb338.html",
-      "is_new": true
-    },
-    {
-      "title": "Open-Source 5G Ran Platforms: A Dual Perspective on Performance and Capabilities",
-      "link": "https://arxiv.org/abs/2608.25820",
-      "is_new": true
-    },
-    {
-      "title": "Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app",
-      "link": "https://momentic.ai/",
-      "is_new": false
-    },
-    {
-      "title": "Show HN: Warsaw in voxels – An interactive 3D map of the city centre",
-      "link": "https://p.migdal.pl/warsaw-vibe-voxel/",
-      "is_new": false
-    },
-    {
-      "title": "Shrinking NixOS RAM footprint and resource requirements to the bare minimum",
-      "link": "https://lowendspirit.com/discussion/11543/shrinking-nixos-ram-footprint-and-resource-requirements-to-the-bare-minimum",
-      "is_new": true
-    },
-    {
-      "title": "Ask HN: Who is hiring? (November 2026)",
-      "link": "https://news.ycombinator.com/item?id=50338728",
-      "is_new": false
-    },
-    {
-      "title": "Egoless Mathematics in the AI Era",
-      "link": "https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/",
-      "is_new": false
-    },
-    {
-      "title": "SLAC researchers find proof of altermagnetism, a new magnetic phase",
-      "link": "https://www6.slac.stanford.edu/news/2026-10-29-slac-researchers-find-proof-altermagnetism-new-magnetic-phase",
-      "is_new": false
-    },
-    {
-      "title": "Optical Circuit Switch Technology Built on Low-Loss Silicon Photonics Platform",
-      "link": "https://www.psiquantum.com/news-import/psiquantum-unveils-optical-circuit-switch-technology-built-on-advanced-low-loss-silicon-photonics-platform",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: I built a little browser game to practice Vim commands",
-      "link": "https://hjkl.duy.run",
-      "is_new": true
-    },
-    {
-      "title": "The SEC Should Block Anthropic's IPO to Protect the Public",
-      "link": "https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/",
-      "is_new": false
-    },
-    {
-      "title": "Cloudflare experiencing multiple active incidents",
-      "link": "https://www.cloudflarestatus.com/",
-      "is_new": true
-    },
-    {
-      "title": "Polyend releases the Tracker firmware source code",
-      "link": "https://polyend.com/whats-up/tracker-the-biggest-update-yet/",
-      "is_new": false
-    },
-    {
-      "title": "Ubuntu still has not released patch for Linux 0day RCE in almost 3 weeks",
-      "link": "https://freenode.net/article/ubuntu-lts-kernels-still-unfixed-for-critical-cve-2026-98432",
-      "is_new": false
-    },
-    {
-      "title": "WTF Ubuntu?",
-      "link": "https://chalmovsky.com/posts/wtf-ubuntu",
-      "is_new": false
-    },
-    {
-      "title": "V100 SXM2 pinout and NVLink reference",
-      "link": "https://github.com/pigeon-labs-stack/v100-sxm2-reference",
       "is_new": true
     }
   ]
