@@ -1,6 +1,6 @@
 {
-  "crawled_at": "2026-11-03 10:57",
-  "prev_crawled_at": "2026-11-03 04:06",
+  "crawled_at": "2026-11-03 18:11",
+  "prev_crawled_at": "2026-11-03 10:57",
   "items": [
     {
       "title": "Astra can read and write weights to improve Qwen",
@@ -8,13 +8,43 @@
       "is_new": false
     },
     {
-      "title": "Show HN: Subvocal – Talk to your computer without making noise",
-      "link": "https://news.ycombinator.com/item?id=50340088",
+      "title": "Nvidia – open-source auto-ontology",
+      "link": "https://github.com/NVIDIA/auto-ontology",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: Hacker Times, a New York Times-inspired version of Hacker News",
+      "link": "https://hackertimes.ca/",
       "is_new": true
     },
     {
       "title": "DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs",
       "link": "https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio",
+      "is_new": false
+    },
+    {
+      "title": "European RISC-V Industrial Computing Initiative",
+      "link": "https://erici.eu",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: Subvocal – Talk to your computer without making noise",
+      "link": "https://news.ycombinator.com/item?id=50340088",
+      "is_new": false
+    },
+    {
+      "title": "Resisting Cognitive Surrender",
+      "link": "https://knlb.dev/essays/surrender",
+      "is_new": true
+    },
+    {
+      "title": "Toit v2.0.0",
+      "link": "https://toit.io/blog/toit-v2-0-0/",
+      "is_new": true
+    },
+    {
+      "title": "Efficient algorithms, the Exponential Time Hypothesis, and losing the plot",
+      "link": "https://www.argmin.net/p/galactus-the-devourer",
       "is_new": true
     },
     {
@@ -28,6 +58,31 @@
       "is_new": false
     },
     {
+      "title": "Scaling Git at OpenAI",
+      "link": "https://openai.com/index/scaling-git-at-openai/",
+      "is_new": true
+    },
+    {
+      "title": "uBlock Origin filter to block autoplay videos in TechCrunch",
+      "link": "https://cornfieldlabs.github.io/posts/ublock-stop-techcrunch-autoplay-video/post.html",
+      "is_new": true
+    },
+    {
+      "title": "Self-Employed? Solopreneur? NIST Has a Cybersecurity Guide Just for You",
+      "link": "https://www.nist.gov/news-events/news/2026/11/self-employed-solopreneur-nist-has-cybersecurity-guide-just-you",
+      "is_new": false
+    },
+    {
+      "title": "Show HN: ReBirth 338 in Browser",
+      "link": "https://margeux.com/rb338.html",
+      "is_new": true
+    },
+    {
+      "title": "Open-Source 5G Ran Platforms: A Dual Perspective on Performance and Capabilities",
+      "link": "https://arxiv.org/abs/2608.25820",
+      "is_new": true
+    },
+    {
       "title": "Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app",
       "link": "https://momentic.ai/",
       "is_new": false
@@ -38,13 +93,8 @@
       "is_new": false
     },
     {
-      "title": "The SEC Should Block Anthropic's IPO to Protect the Public",
-      "link": "https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/",
-      "is_new": true
-    },
-    {
-      "title": "Intel stock collapse worsens as $3.5T chip rout spreads",
-      "link": "https://finance.yahoo.com/markets/article/the-intel-stock-collapse-is-getting-worse--and-the-37-trillion-chip-rout-is-spreading-212154947.html",
+      "title": "Shrinking NixOS RAM footprint and resource requirements to the bare minimum",
+      "link": "https://lowendspirit.com/discussion/11543/shrinking-nixos-ram-footprint-and-resource-requirements-to-the-bare-minimum",
       "is_new": true
     },
     {
@@ -53,23 +103,60 @@
       "is_new": false
     },
     {
-      "title": "Self-Employed? Solopreneur? NIST Has a Cybersecurity Guide Just for You",
-      "link": "https://www.nist.gov/news-events/news/2026/11/self-employed-solopreneur-nist-has-cybersecurity-guide-just-you",
-      "is_new": true
-    },
-    {
       "title": "Egoless Mathematics in the AI Era",
       "link": "https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/",
       "is_new": false
     },
     {
-      "title": "Ubuntu still has not released patch for Linux 0day RCE in almost 3 weeks",
-      "link": "https://freenode.net/article/ubuntu-lts-kernels-still-unfixed-for-critical-cve-2026-98432",
+      "title": "SLAC researchers find proof of altermagnetism, a new magnetic phase",
+      "link": "https://www6.slac.stanford.edu/news/2026-10-29-slac-researchers-find-proof-altermagnetism-new-magnetic-phase",
+      "is_new": false
+    },
+    {
+      "title": "Optical Circuit Switch Technology Built on Low-Loss Silicon Photonics Platform",
+      "link": "https://www.psiquantum.com/news-import/psiquantum-unveils-optical-circuit-switch-technology-built-on-advanced-low-loss-silicon-photonics-platform",
       "is_new": true
     },
     {
-      "title": "SLAC researchers find proof of altermagnetism, a new magnetic phase",
-      "link": "https://www6.slac.stanford.edu/news/2026-10-29-slac-researchers-find-proof-altermagnetism-new-magnetic-phase",
+      "title": "Show HN: I built a little browser game to practice Vim commands",
+      "link": "https://hjkl.duy.run",
+      "is_new": true
+    },
+    {
+      "title": "The SEC Should Block Anthropic's IPO to Protect the Public",
+      "link": "https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/",
+      "is_new": false
+    },
+    {
+      "title": "Cloudflare experiencing multiple active incidents",
+      "link": "https://www.cloudflarestatus.com/",
+      "is_new": true
+    },
+    {
+      "title": "Polyend releases the Tracker firmware source code",
+      "link": "https://polyend.com/whats-up/tracker-the-biggest-update-yet/",
+      "is_new": false
+    },
+    {
+      "title": "Ubuntu still has not released patch for Linux 0day RCE in almost 3 weeks",
+      "link": "https://freenode.net/article/ubuntu-lts-kernels-still-unfixed-for-critical-cve-2026-98432",
+      "is_new": false
+    },
+    {
+      "title": "WTF Ubuntu?",
+      "link": "https://chalmovsky.com/posts/wtf-ubuntu",
+      "is_new": false
+    },
+    {
+      "title": "V100 SXM2 pinout and NVLink reference",
+      "link": "https://github.com/pigeon-labs-stack/v100-sxm2-reference",
+      "is_new": true
+    }
+  ],
+  "removed": [
+    {
+      "title": "Intel stock collapse worsens as $3.5T chip rout spreads",
+      "link": "https://finance.yahoo.com/markets/article/the-intel-stock-collapse-is-getting-worse--and-the-37-trillion-chip-rout-is-spreading-212154947.html",
       "is_new": true
     },
     {
@@ -80,16 +167,6 @@
     {
       "title": "WorkOS reports security breach",
       "link": "https://news.ycombinator.com/item?id=50345712",
-      "is_new": true
-    },
-    {
-      "title": "WTF Ubuntu?",
-      "link": "https://chalmovsky.com/posts/wtf-ubuntu",
-      "is_new": false
-    },
-    {
-      "title": "Polyend releases the Tracker firmware source code",
-      "link": "https://polyend.com/whats-up/tracker-the-biggest-update-yet/",
       "is_new": true
     },
     {
@@ -150,83 +227,6 @@
     {
       "title": "Show HN: I've updated my Linux System Call website and API",
       "link": "https://syscall.sh/",
-      "is_new": false
-    }
-  ],
-  "removed": [
-    {
-      "title": "Show HN: Subvocal – Talk to your computer without making noise",
-      "link": "https://subvocal.company/",
-      "is_new": true
-    },
-    {
-      "title": "Agentic Backdoors via Pretraining Poisoning",
-      "link": "https://arxiv.org/abs/2610.37741",
-      "is_new": true
-    },
-    {
-      "title": "Let Me Ch...",
-      "link": "https://blog.alxgsv.com/let-me-check/",
-      "is_new": true
-    },
-    {
-      "title": "SOML – A Config Format for Humans",
-      "link": "https://github.com/soml-lang/soml",
-      "is_new": true
-    },
-    {
-      "title": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
-      "link": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
-      "is_new": true
-    },
-    {
-      "title": "I Read the Clankers' Code",
-      "link": "https://fev.al/posts/i-read-the-code/",
-      "is_new": true
-    },
-    {
-      "title": "LongCat-2.5: Native Multimodality for Agentic Tasks",
-      "link": "https://longcat.ai/blog/longcat-2.5/",
-      "is_new": true
-    },
-    {
-      "title": "Byesky: Wipe your Bluesky account clean",
-      "link": "https://byesky.pirhoo.com",
-      "is_new": true
-    },
-    {
-      "title": "My Favourite Laptop",
-      "link": "https://blog.jsbarretto.com/post/laptop",
-      "is_new": true
-    },
-    {
-      "title": "Postgres 19 is late because so many more bugs are being found now",
-      "link": "http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html",
-      "is_new": false
-    },
-    {
-      "title": "Bones may release proteins that slow aging and extend life span",
-      "link": "https://www.science.org/content/article/bones-may-release-proteins-slow-aging-and-extend-life-span",
-      "is_new": false
-    },
-    {
-      "title": "Supermarket freezers across Europe hit by second suspected cyber-attack",
-      "link": "https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack",
-      "is_new": true
-    },
-    {
-      "title": "The U.S. Census Bureau and \"Super Intelligence\"",
-      "link": "https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/",
-      "is_new": true
-    },
-    {
-      "title": "GPT-Rosalind-6 System Card Addendum",
-      "link": "https://deploymentsafety.openai.com/gpt-rosalind-6",
-      "is_new": true
-    },
-    {
-      "title": "Ask HN: Which TV do you recommend for privacy?",
-      "link": "https://news.ycombinator.com/item?id=50328896",
       "is_new": false
     }
   ]
