@@ -1,21 +1,11 @@
 {
-  "crawled_at": "2026-11-04 07:51",
-  "prev_crawled_at": "2026-11-04 02:29",
+  "crawled_at": "2026-11-04 11:52",
+  "prev_crawled_at": "2026-11-04 07:51",
   "items": [
-    {
-      "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
-      "link": "https://arxiv.org/abs/2605.29713",
-      "is_new": true
-    },
     {
       "title": "The Internals of PostgreSQL",
       "link": "https://www.interdb.jp/pg/index.html",
-      "is_new": true
-    },
-    {
-      "title": "Safari introduces Adaptive Dark Mode in 27.3",
-      "link": "https://webkit.org/blog/18541/introducing-adaptive-dark-mode/",
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Jailbreaking my car's navigation system just so I can change the time",
@@ -25,32 +15,32 @@
     {
       "title": "Stringman, an $800 open-source room scale gripper robot",
       "link": "https://neufangled.com/",
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Show HN: HackerTV – HN's most-recommended Youtube videos as 24/7 TV channels",
       "link": "https://hackertv.org",
+      "is_new": false
+    },
+    {
+      "title": "Safari introduces Adaptive Dark Mode in 27.3",
+      "link": "https://webkit.org/blog/18541/introducing-adaptive-dark-mode/",
+      "is_new": false
+    },
+    {
+      "title": "Giant Canyon on Mars Is Still Tectonically Active Today",
+      "link": "https://lamont.columbia.edu/news/giant-canyon-mars-still-tectonically-active-today",
       "is_new": true
     },
     {
-      "title": "macOS 27 does not support CoreStorage volumes",
-      "link": "https://wadetregaskis.com/macos-27-golden-gate-does-not-actually-support-corestorage-or-hfs-volumes/",
-      "is_new": true
-    },
-    {
-      "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
-      "link": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
-      "is_new": true
-    },
-    {
-      "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
-      "link": "https://github.com/postmanlabs/postman-app-support/issues/14370",
+      "title": "Microsoft fixes a Windows 11 annoyance as PC revenue declines",
+      "link": "https://arstechnica.com/gadgets/2026/10/windows-11-gets-right-click-menu-improvements-as-pc-revenue-slides/",
       "is_new": true
     },
     {
       "title": "Japan's Jimi 'Mundane' Halloween Costumes of 2026",
       "link": "https://spoon-tamago.com/japan-jimi-mundane-halloween-costumes-2026/",
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
@@ -58,48 +48,53 @@
       "is_new": false
     },
     {
+      "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
+      "link": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
+      "is_new": false
+    },
+    {
+      "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
+      "link": "https://arxiv.org/abs/2605.29713",
+      "is_new": false
+    },
+    {
       "title": "Show HN: Kairos – Open-source risk and fraud decisioning platform",
       "link": "https://github.com/finic-ai/kairos",
+      "is_new": false
+    },
+    {
+      "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
+      "link": "https://github.com/postmanlabs/postman-app-support/issues/14370",
+      "is_new": false
+    },
+    {
+      "title": "There is no posttraining data commons",
+      "link": "https://openathena.ai/blog/there-is-no-posttraining-data-commons/",
       "is_new": true
+    },
+    {
+      "title": "We're training a Figma-fluent editing model",
+      "link": "https://www.figma.com/blog/training-a-figma-fluent-editing-model/",
+      "is_new": false
+    },
+    {
+      "title": "US tech giants' hidden AI debt swells 90% to $3.2T in 6 months",
+      "link": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months",
+      "is_new": false
     },
     {
       "title": "Introduction to Programming in ATS",
       "link": "https://ats-lang.sourceforge.net/DOCUMENT/INT2PROGINATS/HTML/book1.html",
-      "is_new": true
+      "is_new": false
     },
     {
-      "title": "We're Training a Figma-Fluent Editing Model",
-      "link": "https://www.figma.com/blog/training-a-figma-fluent-editing-model/",
-      "is_new": true
-    },
-    {
-      "title": "Preparing for the Flipper One Kickstarter and opening pre-orders",
-      "link": "https://flipper.net/pages/flipper-one",
-      "is_new": true
-    },
-    {
-      "title": "Pratt parsing is a black box",
-      "link": "https://vinipsmaker.github.io/blog/article/pratt-parsing-is-a-black-box/",
-      "is_new": true
+      "title": "How I use AI (Oct 2026)",
+      "link": "https://ben.stolovitz.com/posts/how-use-ai-oct-2026/",
+      "is_new": false
     },
     {
       "title": "Curiosity Traps",
       "link": "https://www.autodidacts.io/curiosity-traps/",
-      "is_new": true
-    },
-    {
-      "title": "Ashby (YC W19) Is Hiring EMs",
-      "link": "https://www.ashbyhq.com/careers?ashby_jid=695b1ce6-c375-4fad-94ef-61b50a3fbd28&utm_source=hn",
-      "is_new": false
-    },
-    {
-      "title": "The 'Astra can read and write weights to improve Qwen' post is misleading",
-      "link": "https://honnibal.dev/blog/astra-read-write-misleading",
-      "is_new": false
-    },
-    {
-      "title": "Writing seen in PHerc. 306B, for the first time in 2000 years",
-      "link": "https://scrollprize.substack.com/p/writing-seen-in-pherc-306b-for-the",
       "is_new": false
     },
     {
@@ -108,7 +103,42 @@
       "is_new": false
     },
     {
-      "title": "Mac at Any Scale",
+      "title": "C++26 Disapproved",
+      "link": "https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/",
+      "is_new": true
+    },
+    {
+      "title": "The 'Astra can read and write weights to improve Qwen' post is misleading",
+      "link": "https://honnibal.dev/blog/astra-read-write-misleading",
+      "is_new": false
+    },
+    {
+      "title": "Union Types and Option Types (2025)",
+      "link": "https://tibleiz.net/blog/2025-03-16-union-types-and-option-types.html",
+      "is_new": true
+    },
+    {
+      "title": "Pratt parsing is a black box",
+      "link": "https://vinipsmaker.github.io/blog/article/pratt-parsing-is-a-black-box/",
+      "is_new": false
+    },
+    {
+      "title": "Writing seen in PHerc. 306B, for the first time in 2000 years",
+      "link": "https://scrollprize.substack.com/p/writing-seen-in-pherc-306b-for-the",
+      "is_new": false
+    },
+    {
+      "title": "Ashby (YC W19) Is Hiring EMs",
+      "link": "https://www.ashbyhq.com/careers?ashby_jid=695b1ce6-c375-4fad-94ef-61b50a3fbd28&utm_source=hn",
+      "is_new": false
+    },
+    {
+      "title": "Killing what can't be handled – putting a spaghetti demon to eternal rest",
+      "link": "https://themaister.net/blog/2026/10/29/killing-what-cant-be-handled-putting-a-spaghetti-demon-to-eternal-rest/",
+      "is_new": true
+    },
+    {
+      "title": "Mac at any scale",
       "link": "https://namespace.so/blog/mac-at-any-scale",
       "is_new": false
     },
@@ -118,13 +148,15 @@
       "is_new": false
     },
     {
-      "title": "US tech giants' hidden AI debt swells 90% to $3.2T in 6 months",
-      "link": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months",
-      "is_new": true
-    },
+      "title": "Preparing for the Flipper One Kickstarter and opening pre-orders",
+      "link": "https://flipper.net/pages/flipper-one",
+      "is_new": false
+    }
+  ],
+  "removed": [
     {
-      "title": "How I use AI (Oct 2026)",
-      "link": "https://ben.stolovitz.com/posts/how-use-ai-oct-2026/",
+      "title": "macOS 27 does not support CoreStorage volumes",
+      "link": "https://wadetregaskis.com/macos-27-golden-gate-does-not-actually-support-corestorage-or-hfs-volumes/",
       "is_new": true
     },
     {
@@ -151,93 +183,6 @@
       "title": "Tiny Basic for Arduino",
       "link": "https://dilshan.github.io/tiny-basic/",
       "is_new": false
-    }
-  ],
-  "removed": [
-    {
-      "title": "OpenAI seems to be silently re-enabling model training on Codex chats",
-      "link": "https://news.ycombinator.com/item?id=50352757",
-      "is_new": true
-    },
-    {
-      "title": "Charles Tandy, the mastermind behind Radio Shack",
-      "link": "https://dfarq.homeip.net/charles-tandy-the-mastermind-behind-radio-shack/",
-      "is_new": true
-    },
-    {
-      "title": "Study estimates 75% of NFL players who died over 15-year span had CTE",
-      "link": "https://www.nbcnews.com/health/health-news/study-estimates-75-nfl-players-died-15-year-span-may-cte-rcna605975",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: HackerChurn – which SaaS tools HN wants to cancel",
-      "link": "https://hissingkitty.com/hacker-churn",
-      "is_new": true
-    },
-    {
-      "title": "Katamari Damacy but it's The Met collection",
-      "link": "https://katamari.vaguespac.es/",
-      "is_new": true
-    },
-    {
-      "title": "Embedding boolean circuits in a neural network",
-      "link": "https://edwardbenson.com/2026/10/embedding-boolean-circuits-in-a-neural-network",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: Interactive notes on RLHF, attention, LoRA and LLM evals",
-      "link": "https://concepts.laxmena.com/",
-      "is_new": true
-    },
-    {
-      "title": "Bear turns 10, and it still feels like day one",
-      "link": "https://blog.bear.app/2026/11/bear-turns-10-and-it-still-feels-like-day-one/",
-      "is_new": true
-    },
-    {
-      "title": "Handles are the better pointers (2018)",
-      "link": "https://floooh.github.io/2018/06/17/handles-vs-pointers.html",
-      "is_new": true
-    },
-    {
-      "title": "Why Don't We Live in an Art Nouveau World?",
-      "link": "https://asteriskmag.com/issues/16/why-don-t-we-life-in-an-art-nouveau-world",
-      "is_new": true
-    },
-    {
-      "title": "Toit v2.0.0",
-      "link": "https://toit.io/blog/toit-v2-0-0/",
-      "is_new": false
-    },
-    {
-      "title": "Nvidia – open-source auto-ontology",
-      "link": "https://github.com/NVIDIA/auto-ontology",
-      "is_new": false
-    },
-    {
-      "title": "Quili AI",
-      "link": "https://www.quili.ai/",
-      "is_new": true
-    },
-    {
-      "title": "No brother of mine will play the flute",
-      "link": "https://homosabiens.substack.com/p/no-brother-of-mine-will-play-the",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: Hacker Times, a New York Times-inspired version of Hacker News",
-      "link": "https://hackertimes.ca/",
-      "is_new": false
-    },
-    {
-      "title": "Killing what can't be handled – putting a spaghetti demon to eternal rest",
-      "link": "https://themaister.net/blog/2026/10/29/killing-what-cant-be-handled-putting-a-spaghetti-demon-to-eternal-rest/",
-      "is_new": true
-    },
-    {
-      "title": "Octomind – open-source AI harness that saves your tokens, static rust",
-      "link": "https://github.com/Muvon/octomind",
-      "is_new": true
     }
   ]
 }
