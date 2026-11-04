@@ -1,16 +1,106 @@
 {
-  "crawled_at": "2026-11-04 11:52",
-  "prev_crawled_at": "2026-11-04 07:51",
+  "crawled_at": "2026-11-05 03:24",
+  "prev_crawled_at": "2026-11-04 11:52",
   "items": [
     {
-      "title": "The Internals of PostgreSQL",
-      "link": "https://www.interdb.jp/pg/index.html",
-      "is_new": false
+      "title": "AI is forcing us to pay off 40 years of technical debt",
+      "link": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+      "is_new": true
     },
     {
-      "title": "Jailbreaking my car's navigation system just so I can change the time",
-      "link": "https://blog.nns.ee/2026/11/02/renault-hack/",
-      "is_new": false
+      "title": "Progress on provable inference for large language models",
+      "link": "https://www.anthropic.com/research/provable-inference",
+      "is_new": true
+    },
+    {
+      "title": "Guerrilla bike lanes: San Francisco makes illicit infrastructure permanent (2016)",
+      "link": "https://99percentinvisible.org/article/guerrilla-bike-lanes-san-francisco-makes-illicit-infrastructure-permanent/",
+      "is_new": true
+    },
+    {
+      "title": "Launch HN: Kino AI (YC S23) – AI media manager and video editor",
+      "link": "https://news.ycombinator.com/item?id=50368804",
+      "is_new": true
+    },
+    {
+      "title": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
+      "link": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop",
+      "is_new": true
+    },
+    {
+      "title": "AMD expects to outsell Intel in Q4 for the first time in history",
+      "link": "https://www.tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections",
+      "is_new": true
+    },
+    {
+      "title": "North Korean fake job interview led to $6.3B Binance heist",
+      "link": "https://www.theregister.com/security/2026/11/03/north-korean-fake-job-interview-led-to-63b-binance-heist/5307398",
+      "is_new": true
+    },
+    {
+      "title": "Verification Is Not Knowledge: Science needs more than answers",
+      "link": "https://blog.cosmos-institute.org/p/verification-is-not-knowledge",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: I built a tool that prices a prebuilt PC part by part",
+      "link": "https://pcdealcheck.com/",
+      "is_new": true
+    },
+    {
+      "title": "Incident with Pull Requests, Git Operations and Issues",
+      "link": "https://www.githubstatus.com/incidents/smtdswd1h2w4",
+      "is_new": true
+    },
+    {
+      "title": "Kimi K3.1 Pro model weights are out",
+      "link": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+      "is_new": true
+    },
+    {
+      "title": "BYD doubles its Brazil market share to 9.7% a year after opening its local plant",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-03/china-s-byd-doubles-market-share-in-brazil-with-new-plant-eyed",
+      "is_new": true
+    },
+    {
+      "title": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
+      "link": "https://news.ycombinator.com/item?id=50363461",
+      "is_new": true
+    },
+    {
+      "title": "Tencent Hy4",
+      "link": "https://hy.tencent.ai/research/hy4",
+      "is_new": true
+    },
+    {
+      "title": "This Month in Ladybird – October 2026",
+      "link": "https://ladybird.org/newsletter/2026-10-31/",
+      "is_new": true
+    },
+    {
+      "title": "Jelly Sheet",
+      "link": "https://mrdoob.github.io/codevember-2026/01/",
+      "is_new": true
+    },
+    {
+      "title": "Letting users trust their own MCP clients, without opening a phishing hole",
+      "link": "https://streamvessel.com/blog/mcp-trusted-redirect-uris",
+      "is_new": true
+    },
+    {
+      "title": "Adding Window Functions to a Spreadsheet",
+      "link": "https://www.getgrist.com/blog/running-totals-you-dont-have-to-chase/",
+      "is_new": true
+    },
+    {
+      "title": "Kitty 0.50",
+      "link": "https://sw.kovidgoyal.net/kitty/changelog/",
+      "is_new": true
+    },
+    {
+      "title": "Debian apt security update (man-in-the-middle)",
+      "link": "https://lists.debian.org/debian-security-announce/2026/msg00526.html?pow_referer=",
+      "is_new": true
     },
     {
       "title": "Stringman, an $800 open-source room scale gripper robot",
@@ -18,19 +108,61 @@
       "is_new": false
     },
     {
+      "title": "Evergreen: A Provably Safe Systems Language",
+      "link": "https://evergreenlang.net",
+      "is_new": true
+    },
+    {
+      "title": "Mocktastic: A Meshtastic Node on Arduino",
+      "link": "https://github.com/Vapmuz/Mocktastic",
+      "is_new": true
+    },
+    {
+      "title": "An end to buggy web apps",
+      "link": "https://replay.io/blog/an-end-to-buggy-web-apps",
+      "is_new": true
+    },
+    {
+      "title": "The Internals of PostgreSQL",
+      "link": "https://www.interdb.jp/pg/index.html",
+      "is_new": false
+    },
+    {
+      "title": "Pierre Computer is being acquired by OpenAI",
+      "link": "https://twitter.com/pierrecomputer/status/2117999036175188183",
+      "is_new": true
+    },
+    {
+      "title": "Synaptics Appears to Use Legal Threats to Block Open-Source DisplayLink Driver",
+      "link": "https://www.phoronix.com/news/Synaptics-Blocks-Vino-Driver",
+      "is_new": true
+    },
+    {
+      "title": "The lost malloc()",
+      "link": "https://napcakes.nekoweb.org/posts/malloc/",
+      "is_new": true
+    },
+    {
       "title": "Show HN: HackerTV – HN's most-recommended Youtube videos as 24/7 TV channels",
       "link": "https://hackertv.org",
+      "is_new": false
+    },
+    {
+      "title": "Giant canyon on Mars is still tectonically active",
+      "link": "https://lamont.columbia.edu/news/giant-canyon-mars-still-tectonically-active-today",
+      "is_new": false
+    }
+  ],
+  "removed": [
+    {
+      "title": "Jailbreaking my car's navigation system just so I can change the time",
+      "link": "https://blog.nns.ee/2026/11/02/renault-hack/",
       "is_new": false
     },
     {
       "title": "Safari introduces Adaptive Dark Mode in 27.3",
       "link": "https://webkit.org/blog/18541/introducing-adaptive-dark-mode/",
       "is_new": false
-    },
-    {
-      "title": "Giant Canyon on Mars Is Still Tectonically Active Today",
-      "link": "https://lamont.columbia.edu/news/giant-canyon-mars-still-tectonically-active-today",
-      "is_new": true
     },
     {
       "title": "Microsoft fixes a Windows 11 annoyance as PC revenue declines",
@@ -150,38 +282,6 @@
     {
       "title": "Preparing for the Flipper One Kickstarter and opening pre-orders",
       "link": "https://flipper.net/pages/flipper-one",
-      "is_new": false
-    }
-  ],
-  "removed": [
-    {
-      "title": "macOS 27 does not support CoreStorage volumes",
-      "link": "https://wadetregaskis.com/macos-27-golden-gate-does-not-actually-support-corestorage-or-hfs-volumes/",
-      "is_new": true
-    },
-    {
-      "title": "Kalshi and its co-founders face felony charges for violating Utah gambling laws",
-      "link": "https://arstechnica.com/tech-policy/2026/10/trump-admin-sues-utah-to-save-kalshi-from-the-states-total-ban-on-gambling/",
-      "is_new": false
-    },
-    {
-      "title": "USDB: Scaling Storage for Next-Generation Recommender Systems at ByteDance",
-      "link": "https://arxiv.org/abs/2611.02618",
-      "is_new": false
-    },
-    {
-      "title": "Google will turn off search for schools that reject AI",
-      "link": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
-      "is_new": false
-    },
-    {
-      "title": "Gitbook Breached",
-      "link": "https://news.ycombinator.com/item?id=50354336",
-      "is_new": false
-    },
-    {
-      "title": "Tiny Basic for Arduino",
-      "link": "https://dilshan.github.io/tiny-basic/",
       "is_new": false
     }
   ]
