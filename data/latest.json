@@ -1,60 +1,167 @@
 {
-  "crawled_at": "2026-11-05 03:24",
-  "prev_crawled_at": "2026-11-04 11:52",
+  "crawled_at": "2026-11-05 09:06",
+  "prev_crawled_at": "2026-11-05 03:24",
   "items": [
+    {
+      "title": "Residential proxies detected on White House network",
+      "link": "https://layer3intel.com/blog/residential-proxies-white-house-network",
+      "is_new": true
+    },
+    {
+      "title": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
+      "link": "https://www.ricursive.com/ripple",
+      "is_new": true
+    },
     {
       "title": "AI is forcing us to pay off 40 years of technical debt",
       "link": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+      "is_new": false
+    },
+    {
+      "title": "Insects don't swarm at LED lights",
+      "link": "https://www.birdsoutsidemywindow.org/2026/11/03/insects-dont-swarm-at-led-lights/",
       "is_new": true
     },
     {
-      "title": "Progress on provable inference for large language models",
-      "link": "https://www.anthropic.com/research/provable-inference",
+      "title": "Hacking the Xbox 360 Hypervisor Part 3: Bad Update Improvements",
+      "link": "https://icode4.coffee/?p=1746",
       "is_new": true
     },
     {
-      "title": "Guerrilla bike lanes: San Francisco makes illicit infrastructure permanent (2016)",
-      "link": "https://99percentinvisible.org/article/guerrilla-bike-lanes-san-francisco-makes-illicit-infrastructure-permanent/",
+      "title": "A new Go API for JSON",
+      "link": "https://go.dev/blog/jsonv2",
+      "is_new": true
+    },
+    {
+      "title": "Kimi K3.1 Pro model weights are out",
+      "link": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+      "is_new": false
+    },
+    {
+      "title": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
+      "link": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra",
+      "is_new": true
+    },
+    {
+      "title": "Less Popular Than Coal",
+      "link": "https://www.argmin.net/p/less-popular-than-coal",
+      "is_new": true
+    },
+    {
+      "title": "Conductor is joining Meta",
+      "link": "https://www.conductor.build/announcement",
       "is_new": true
     },
     {
       "title": "Launch HN: Kino AI (YC S23) – AI media manager and video editor",
       "link": "https://news.ycombinator.com/item?id=50368804",
+      "is_new": false
+    },
+    {
+      "title": "Introducing Images 2.6",
+      "link": "https://openai.com/index/introducing-images-2-6/",
       "is_new": true
+    },
+    {
+      "title": "Local privilege escalation vulnerabilities in Linux",
+      "link": "https://openai.com/index/a-thousand-fewer-paths-to-root/",
+      "is_new": true
+    },
+    {
+      "title": "Progress on provable inference for large language models",
+      "link": "https://www.anthropic.com/research/provable-inference",
+      "is_new": false
     },
     {
       "title": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
       "link": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop",
+      "is_new": false
+    },
+    {
+      "title": "Show HN: After a decade of reversing, I got co-op working in DOS Wing Commander",
+      "link": "https://fireflyk64.github.io/wcmulti/",
       "is_new": true
+    },
+    {
+      "title": "Guerrilla bike lanes: San Francisco makes illicit infrastructure permanent (2016)",
+      "link": "https://99percentinvisible.org/article/guerrilla-bike-lanes-san-francisco-makes-illicit-infrastructure-permanent/",
+      "is_new": false
+    },
+    {
+      "title": "Is Curiosity Good for Us?",
+      "link": "https://www.lrb.co.uk/the-paper/v48/n20/adam-phillips/is-curiosity-good-for-us",
+      "is_new": true
+    },
+    {
+      "title": "Successful People (2013)",
+      "link": "https://blog.samaltman.com/successful-people",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: Gauge – Open-Source CLI to recursively improve your docs",
+      "link": "https://github.com/gauge-sh/gauge-cli",
+      "is_new": true
+    },
+    {
+      "title": "OpenAI to acquire Pierre Computer Company",
+      "link": "https://openai.com/index/openai-to-acquire-pierre/",
+      "is_new": true
+    },
+    {
+      "title": "A wave of plastic-free coffee pods and machines",
+      "link": "https://www.cnn.com/2026/11/02/food/coffee-machine-plastic-free",
+      "is_new": true
+    },
+    {
+      "title": "Ask HN: What's your current AI agentic setup?",
+      "link": "https://news.ycombinator.com/item?id=50366117",
+      "is_new": true
+    },
+    {
+      "title": "Tencent Hy4",
+      "link": "https://hy.tencent.ai/research/hy4",
+      "is_new": false
     },
     {
       "title": "AMD expects to outsell Intel in Q4 for the first time in history",
       "link": "https://www.tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections",
+      "is_new": false
+    },
+    {
+      "title": "Have I befriended a murderer?",
+      "link": "https://longreads.com/2026/11/03/murder-friendship-doubt/",
       "is_new": true
     },
+    {
+      "title": "Show HN: The DNA of DOOM – How code structure survives across 44 ports",
+      "link": "https://squid-protocol.github.io/gitgalaxy/museum-of-code/doom-dna/",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: I built a tool that prices a pre-built PC part by part",
+      "link": "https://pcdealcheck.com/",
+      "is_new": false
+    },
+    {
+      "title": "Verification Is Not Knowledge: Science needs more than answers",
+      "link": "https://blog.cosmos-institute.org/p/verification-is-not-knowledge",
+      "is_new": false
+    },
+    {
+      "title": "Death Comes for XSLT",
+      "link": "https://dbushell.com/2026/11/03/xslt-rip/",
+      "is_new": true
+    }
+  ],
+  "removed": [
     {
       "title": "North Korean fake job interview led to $6.3B Binance heist",
       "link": "https://www.theregister.com/security/2026/11/03/north-korean-fake-job-interview-led-to-63b-binance-heist/5307398",
       "is_new": true
     },
     {
-      "title": "Verification Is Not Knowledge: Science needs more than answers",
-      "link": "https://blog.cosmos-institute.org/p/verification-is-not-knowledge",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: I built a tool that prices a prebuilt PC part by part",
-      "link": "https://pcdealcheck.com/",
-      "is_new": true
-    },
-    {
       "title": "Incident with Pull Requests, Git Operations and Issues",
       "link": "https://www.githubstatus.com/incidents/smtdswd1h2w4",
-      "is_new": true
-    },
-    {
-      "title": "Kimi K3.1 Pro model weights are out",
-      "link": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
       "is_new": true
     },
     {
@@ -65,11 +172,6 @@
     {
       "title": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
       "link": "https://news.ycombinator.com/item?id=50363461",
-      "is_new": true
-    },
-    {
-      "title": "Tencent Hy4",
-      "link": "https://hy.tencent.ai/research/hy4",
       "is_new": true
     },
     {
@@ -150,138 +252,6 @@
     {
       "title": "Giant canyon on Mars is still tectonically active",
       "link": "https://lamont.columbia.edu/news/giant-canyon-mars-still-tectonically-active-today",
-      "is_new": false
-    }
-  ],
-  "removed": [
-    {
-      "title": "Jailbreaking my car's navigation system just so I can change the time",
-      "link": "https://blog.nns.ee/2026/11/02/renault-hack/",
-      "is_new": false
-    },
-    {
-      "title": "Safari introduces Adaptive Dark Mode in 27.3",
-      "link": "https://webkit.org/blog/18541/introducing-adaptive-dark-mode/",
-      "is_new": false
-    },
-    {
-      "title": "Microsoft fixes a Windows 11 annoyance as PC revenue declines",
-      "link": "https://arstechnica.com/gadgets/2026/10/windows-11-gets-right-click-menu-improvements-as-pc-revenue-slides/",
-      "is_new": true
-    },
-    {
-      "title": "Japan's Jimi 'Mundane' Halloween Costumes of 2026",
-      "link": "https://spoon-tamago.com/japan-jimi-mundane-halloween-costumes-2026/",
-      "is_new": false
-    },
-    {
-      "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
-      "link": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
-      "is_new": false
-    },
-    {
-      "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
-      "link": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
-      "is_new": false
-    },
-    {
-      "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
-      "link": "https://arxiv.org/abs/2605.29713",
-      "is_new": false
-    },
-    {
-      "title": "Show HN: Kairos – Open-source risk and fraud decisioning platform",
-      "link": "https://github.com/finic-ai/kairos",
-      "is_new": false
-    },
-    {
-      "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
-      "link": "https://github.com/postmanlabs/postman-app-support/issues/14370",
-      "is_new": false
-    },
-    {
-      "title": "There is no posttraining data commons",
-      "link": "https://openathena.ai/blog/there-is-no-posttraining-data-commons/",
-      "is_new": true
-    },
-    {
-      "title": "We're training a Figma-fluent editing model",
-      "link": "https://www.figma.com/blog/training-a-figma-fluent-editing-model/",
-      "is_new": false
-    },
-    {
-      "title": "US tech giants' hidden AI debt swells 90% to $3.2T in 6 months",
-      "link": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months",
-      "is_new": false
-    },
-    {
-      "title": "Introduction to Programming in ATS",
-      "link": "https://ats-lang.sourceforge.net/DOCUMENT/INT2PROGINATS/HTML/book1.html",
-      "is_new": false
-    },
-    {
-      "title": "How I use AI (Oct 2026)",
-      "link": "https://ben.stolovitz.com/posts/how-use-ai-oct-2026/",
-      "is_new": false
-    },
-    {
-      "title": "Curiosity Traps",
-      "link": "https://www.autodidacts.io/curiosity-traps/",
-      "is_new": false
-    },
-    {
-      "title": "Could a modern chess engine on a Pentium have defeated Kasparov in 1996?",
-      "link": "https://nicholas.carlini.com/writing/2026/algorithmic-improvements-chess.html",
-      "is_new": false
-    },
-    {
-      "title": "C++26 Disapproved",
-      "link": "https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/",
-      "is_new": true
-    },
-    {
-      "title": "The 'Astra can read and write weights to improve Qwen' post is misleading",
-      "link": "https://honnibal.dev/blog/astra-read-write-misleading",
-      "is_new": false
-    },
-    {
-      "title": "Union Types and Option Types (2025)",
-      "link": "https://tibleiz.net/blog/2025-03-16-union-types-and-option-types.html",
-      "is_new": true
-    },
-    {
-      "title": "Pratt parsing is a black box",
-      "link": "https://vinipsmaker.github.io/blog/article/pratt-parsing-is-a-black-box/",
-      "is_new": false
-    },
-    {
-      "title": "Writing seen in PHerc. 306B, for the first time in 2000 years",
-      "link": "https://scrollprize.substack.com/p/writing-seen-in-pherc-306b-for-the",
-      "is_new": false
-    },
-    {
-      "title": "Ashby (YC W19) Is Hiring EMs",
-      "link": "https://www.ashbyhq.com/careers?ashby_jid=695b1ce6-c375-4fad-94ef-61b50a3fbd28&utm_source=hn",
-      "is_new": false
-    },
-    {
-      "title": "Killing what can't be handled – putting a spaghetti demon to eternal rest",
-      "link": "https://themaister.net/blog/2026/10/29/killing-what-cant-be-handled-putting-a-spaghetti-demon-to-eternal-rest/",
-      "is_new": true
-    },
-    {
-      "title": "Mac at any scale",
-      "link": "https://namespace.so/blog/mac-at-any-scale",
-      "is_new": false
-    },
-    {
-      "title": "Antimony: CAD Software Evolved from Lisp Machines and Not Drafting Tables (2015)",
-      "link": "https://www.mattkeeter.com/projects/antimony/3/",
-      "is_new": false
-    },
-    {
-      "title": "Preparing for the Flipper One Kickstarter and opening pre-orders",
-      "link": "https://flipper.net/pages/flipper-one",
       "is_new": false
     }
   ]
