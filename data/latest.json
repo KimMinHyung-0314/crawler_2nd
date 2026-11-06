@@ -1,15 +1,30 @@
 {
-  "crawled_at": "2026-11-06 12:05",
-  "prev_crawled_at": "2026-11-06 07:29",
+  "crawled_at": "2026-11-06 20:46",
+  "prev_crawled_at": "2026-11-06 12:05",
   "items": [
     {
-      "title": "Claude Code sends your email address to websites",
-      "link": "https://github.com/anthropics/claude-code/issues/107757",
+      "title": "Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS",
+      "link": "https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105",
       "is_new": true
     },
     {
-      "title": "Search for everyone",
-      "link": "https://kagi.com/changelog#11820",
+      "title": "Blender's UI and Runtime: Much Faster Than GPUI",
+      "link": "https://github.com/ppmpreetham/BUI",
+      "is_new": true
+    },
+    {
+      "title": "Living beyond the limits of survival: wood ants trapped in a gigantic pitfall (2016)",
+      "link": "https://jhr.pensoft.net/articles.php?id=9096",
+      "is_new": true
+    },
+    {
+      "title": "Claude Code sends your email address to websites",
+      "link": "https://github.com/anthropics/claude-code/issues/107757",
+      "is_new": false
+    },
+    {
+      "title": "Kugelblitz – Mac-Native Google Earth Alternative",
+      "link": "https://apps.metaebene.me/en/kugelblitz",
       "is_new": true
     },
     {
@@ -23,14 +38,24 @@
       "is_new": false
     },
     {
-      "title": "Inkling 2 Small",
-      "link": "https://thinkingmachines.ai/news/inkling-2-small/",
+      "title": "Pwn.college",
+      "link": "https://pwn.college/",
       "is_new": true
     },
     {
-      "title": "Alpine Linux Security Advisory: OpenSSH-server password authentication bypass",
-      "link": "https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/",
-      "is_new": false
+      "title": "Hardcoded credentials and other issues in Tata Motors App",
+      "link": "https://www.cert-in.org.in/s2cMainServlet?pageid=PUBVLNOTES01&VLCODE=CIVN-2026-0537",
+      "is_new": true
+    },
+    {
+      "title": "From Linux to Wikipedia: How Volunteers Build the Internet",
+      "link": "https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet/",
+      "is_new": true
+    },
+    {
+      "title": "Nvidia Kubernetes Engine (NVKE)",
+      "link": "https://github.com/dsx-ai-factory/nvke",
+      "is_new": true
     },
     {
       "title": "The Hackintosh Reborn",
@@ -38,58 +63,33 @@
       "is_new": false
     },
     {
+      "title": "Inkling 2 Small",
+      "link": "https://thinkingmachines.ai/news/inkling-2-small/",
+      "is_new": false
+    },
+    {
+      "title": "Multiplayer tanks that demolish real buildings from OpenStreetMap",
+      "link": "https://worldstrike.fun/",
+      "is_new": true
+    },
+    {
       "title": "Window Sweaters",
       "link": "https://github.com/saragordic/window-sweaters",
       "is_new": false
     },
     {
+      "title": "Britain to make salary disclosure in job ads mandatory",
+      "link": "https://www.reuters.com/business/world-at-work/britain-make-salary-disclosure-job-ads-mandatory-2026-11-05/",
+      "is_new": true
+    },
+    {
+      "title": "I struggle to believe that AI R&D is ingenious",
+      "link": "https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL",
+      "is_new": true
+    },
+    {
       "title": "Show HN: Firenook – Firebase emulators in Rust: 40× faster writes, 10× less RAM",
       "link": "https://firenook.dev/",
-      "is_new": true
-    },
-    {
-      "title": "Tencent Launches Hy4, One of the Leading Open-Source AI Models",
-      "link": "https://www.tencent.com/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-models/",
-      "is_new": false
-    },
-    {
-      "title": "Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3",
-      "link": "https://github.com/rivet-dev/rivet",
-      "is_new": false
-    },
-    {
-      "title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
-      "link": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
-      "is_new": true
-    },
-    {
-      "title": "Goodbye from Salon",
-      "link": "https://www.salon.com/2026/11/05/goodbye-from-salon/",
-      "is_new": false
-    },
-    {
-      "title": "Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights)",
-      "link": "https://www.linum.ai/field-notes/pjit-21k",
-      "is_new": false
-    },
-    {
-      "title": "Brazilian Credit Guarantor Fund Data Breach Affecting PII and Payout Data",
-      "link": "https://www.fgc.org.br/comunicado",
-      "is_new": true
-    },
-    {
-      "title": "September in Servo: <progress>, rounded rectangles, and more",
-      "link": "https://servo.org/blog/2026/11/05/september-in-servo/",
-      "is_new": false
-    },
-    {
-      "title": "MoofTCP – A modern replacement for MacTCP on 68k Macs",
-      "link": "https://github.com/matthewmrichter/mooftcp",
-      "is_new": true
-    },
-    {
-      "title": "Download your favourite YouTube videos",
-      "link": "https://criminallyvulgar.dev/you-should-absolutely-download-your-favourite-youtube-videos/",
       "is_new": false
     },
     {
@@ -98,14 +98,86 @@
       "is_new": false
     },
     {
-      "title": "Introducing Pangram Image 1.0",
-      "link": "https://www.pangram.com/blog/introducing-pangram-image-1-0",
+      "title": "Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3",
+      "link": "https://github.com/rivet-dev/rivet",
       "is_new": false
     },
     {
       "title": "I wish tech companies knew more about me",
       "link": "https://rakhim.exotext.com/i-wish-tech-companies-knew-more-about-me",
       "is_new": false
+    },
+    {
+      "title": "Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights)",
+      "link": "https://www.linum.ai/field-notes/pjit-21k",
+      "is_new": false
+    },
+    {
+      "title": "App Store 2026 in numbers: AI, pricing, abandoned apps",
+      "link": "https://obelisk.club/research/app-store-2026",
+      "is_new": true
+    },
+    {
+      "title": "September in Servo: <progress>, rounded rectangles, and more",
+      "link": "https://servo.org/blog/2026/11/05/september-in-servo/",
+      "is_new": false
+    },
+    {
+      "title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
+      "link": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
+      "is_new": false
+    },
+    {
+      "title": "MoofTCP – A modern replacement for MacTCP on 68k Macs",
+      "link": "https://github.com/matthewmrichter/mooftcp",
+      "is_new": false
+    },
+    {
+      "title": "Download your favourite YouTube videos",
+      "link": "https://criminallyvulgar.dev/you-should-absolutely-download-your-favourite-youtube-videos/",
+      "is_new": false
+    },
+    {
+      "title": "MCP Explained",
+      "link": "https://mcp-explained.com/",
+      "is_new": false
+    },
+    {
+      "title": "Pangram Image 1.0",
+      "link": "https://www.pangram.com/blog/introducing-pangram-image-1-0",
+      "is_new": false
+    },
+    {
+      "title": "Obscure audio codec is a perfect fit for the N64",
+      "link": "https://phoboslab.org/log/2026/11/n64-ulc-codec",
+      "is_new": false
+    }
+  ],
+  "removed": [
+    {
+      "title": "Search for everyone",
+      "link": "https://kagi.com/changelog#11820",
+      "is_new": true
+    },
+    {
+      "title": "Alpine Linux Security Advisory: OpenSSH-server password authentication bypass",
+      "link": "https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/",
+      "is_new": false
+    },
+    {
+      "title": "Tencent Launches Hy4, One of the Leading Open-Source AI Models",
+      "link": "https://www.tencent.com/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-models/",
+      "is_new": false
+    },
+    {
+      "title": "Goodbye from Salon",
+      "link": "https://www.salon.com/2026/11/05/goodbye-from-salon/",
+      "is_new": false
+    },
+    {
+      "title": "Brazilian Credit Guarantor Fund Data Breach Affecting PII and Payout Data",
+      "link": "https://www.fgc.org.br/comunicado",
+      "is_new": true
     },
     {
       "title": "OpenSSH 10.6p2 Critical workaround for alpine without PAM",
@@ -118,18 +190,8 @@
       "is_new": false
     },
     {
-      "title": "MCP Explained",
-      "link": "https://mcp-explained.com/",
-      "is_new": false
-    },
-    {
       "title": "Bild AI (YC W25) Is Hiring Founding Product Engineers",
       "link": "https://www.ycombinator.com/companies/bild-ai/jobs",
-      "is_new": false
-    },
-    {
-      "title": "Obscure audio codec is a perfect fit for the N64",
-      "link": "https://phoboslab.org/log/2026/11/n64-ulc-codec",
       "is_new": false
     },
     {
@@ -151,43 +213,6 @@
       "title": "Baidu released ERNIE 5.5 Flash Base",
       "link": "https://ernie.baidu.com/release/ernie-5-5-flash-base/",
       "is_new": false
-    }
-  ],
-  "removed": [
-    {
-      "title": "Kagi Search for Everyone",
-      "link": "https://kagi.com/changelog",
-      "is_new": true
-    },
-    {
-      "title": "The Cost of Blogging",
-      "link": "https://onlinegoddess.net/2026/11/the-cost-of-blogging/",
-      "is_new": true
-    },
-    {
-      "title": "The Lisp curse, now coming to your ecosystem",
-      "link": "https://javahippie.net/programming/llm/2026/03/05/the-lisp-curse-coming-to-your-ecosystem.html",
-      "is_new": true
-    },
-    {
-      "title": "$2.5T has been wiped from US stocks",
-      "link": "https://www.reddit.com/r/StockMarket/comments/1xopjao/25_trillion_has_been_wiped_from_us_stocks/",
-      "is_new": true
-    },
-    {
-      "title": "We can do better than line-buffered output",
-      "link": "https://nullprogram.com/blog/2026/11/05/",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: Stroq – a local audit of what your coding agent did and why",
-      "link": "https://github.com/AGGIB/Stroq",
-      "is_new": true
-    },
-    {
-      "title": "Discord is ditching Electron and its new app uses less RAM",
-      "link": "https://www.theverge.com/news/1027379/discord-ditching-electron-web-app",
-      "is_new": true
     }
   ]
 }
