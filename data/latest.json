@@ -1,45 +1,162 @@
 {
-  "crawled_at": "2026-11-06 07:29",
-  "prev_crawled_at": "2026-11-05 16:40",
+  "crawled_at": "2026-11-06 12:05",
+  "prev_crawled_at": "2026-11-06 07:29",
   "items": [
     {
-      "title": "Kagi Search for Everyone",
-      "link": "https://kagi.com/changelog",
+      "title": "Claude Code sends your email address to websites",
+      "link": "https://github.com/anthropics/claude-code/issues/107757",
       "is_new": true
     },
     {
-      "title": "MS Paint Remote Code Execution Vulnerability",
-      "link": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
+      "title": "Search for everyone",
+      "link": "https://kagi.com/changelog#11820",
       "is_new": true
     },
     {
       "title": "sshole",
       "link": "https://sshhole.com",
+      "is_new": false
+    },
+    {
+      "title": "MS Paint Remote Code Execution Vulnerability",
+      "link": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
+      "is_new": false
+    },
+    {
+      "title": "Inkling 2 Small",
+      "link": "https://thinkingmachines.ai/news/inkling-2-small/",
       "is_new": true
     },
     {
       "title": "Alpine Linux Security Advisory: OpenSSH-server password authentication bypass",
       "link": "https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/",
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "The Hackintosh Reborn",
       "link": "https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/",
+      "is_new": false
+    },
+    {
+      "title": "Window Sweaters",
+      "link": "https://github.com/saragordic/window-sweaters",
+      "is_new": false
+    },
+    {
+      "title": "Show HN: Firenook – Firebase emulators in Rust: 40× faster writes, 10× less RAM",
+      "link": "https://firenook.dev/",
       "is_new": true
     },
     {
       "title": "Tencent Launches Hy4, One of the Leading Open-Source AI Models",
       "link": "https://www.tencent.com/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-models/",
-      "is_new": true
+      "is_new": false
     },
     {
-      "title": "Window Sweaters",
-      "link": "https://github.com/saragordic/window-sweaters",
+      "title": "Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3",
+      "link": "https://github.com/rivet-dev/rivet",
+      "is_new": false
+    },
+    {
+      "title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
+      "link": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
       "is_new": true
     },
     {
       "title": "Goodbye from Salon",
       "link": "https://www.salon.com/2026/11/05/goodbye-from-salon/",
+      "is_new": false
+    },
+    {
+      "title": "Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights)",
+      "link": "https://www.linum.ai/field-notes/pjit-21k",
+      "is_new": false
+    },
+    {
+      "title": "Brazilian Credit Guarantor Fund Data Breach Affecting PII and Payout Data",
+      "link": "https://www.fgc.org.br/comunicado",
+      "is_new": true
+    },
+    {
+      "title": "September in Servo: <progress>, rounded rectangles, and more",
+      "link": "https://servo.org/blog/2026/11/05/september-in-servo/",
+      "is_new": false
+    },
+    {
+      "title": "MoofTCP – A modern replacement for MacTCP on 68k Macs",
+      "link": "https://github.com/matthewmrichter/mooftcp",
+      "is_new": true
+    },
+    {
+      "title": "Download your favourite YouTube videos",
+      "link": "https://criminallyvulgar.dev/you-should-absolutely-download-your-favourite-youtube-videos/",
+      "is_new": false
+    },
+    {
+      "title": "Motorola Signature 27 with GrapheneOS support",
+      "link": "https://motorolanews.com/motorola-signature-27-2/",
+      "is_new": false
+    },
+    {
+      "title": "Introducing Pangram Image 1.0",
+      "link": "https://www.pangram.com/blog/introducing-pangram-image-1-0",
+      "is_new": false
+    },
+    {
+      "title": "I wish tech companies knew more about me",
+      "link": "https://rakhim.exotext.com/i-wish-tech-companies-knew-more-about-me",
+      "is_new": false
+    },
+    {
+      "title": "OpenSSH 10.6p2 Critical workaround for alpine without PAM",
+      "link": "https://www.openssh.org/releasenotes.html#10.6p2",
+      "is_new": false
+    },
+    {
+      "title": "GPT-6 Astra covertly underperforms on safety research",
+      "link": "https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/",
+      "is_new": false
+    },
+    {
+      "title": "MCP Explained",
+      "link": "https://mcp-explained.com/",
+      "is_new": false
+    },
+    {
+      "title": "Bild AI (YC W25) Is Hiring Founding Product Engineers",
+      "link": "https://www.ycombinator.com/companies/bild-ai/jobs",
+      "is_new": false
+    },
+    {
+      "title": "Obscure audio codec is a perfect fit for the N64",
+      "link": "https://phoboslab.org/log/2026/11/n64-ulc-codec",
+      "is_new": false
+    },
+    {
+      "title": "The Stacks Project, Formalized in Lean",
+      "link": "https://axiommath.ai/research/the-stacks-project-formalized/",
+      "is_new": false
+    },
+    {
+      "title": "My psychophysics as a bilateral cochlear implant user",
+      "link": "https://claude.ai/artifact/L8qsMc3SorytGW3LA81nYf",
+      "is_new": false
+    },
+    {
+      "title": "Hungary: Communist-era files released, up to 60k former agents revealed",
+      "link": "https://www.euronews.com/2026/11/04/hungary-communist-era-files-opened-up-to-60000-former-agents-revealed",
+      "is_new": false
+    },
+    {
+      "title": "Baidu released ERNIE 5.5 Flash Base",
+      "link": "https://ernie.baidu.com/release/ernie-5-5-flash-base/",
+      "is_new": false
+    }
+  ],
+  "removed": [
+    {
+      "title": "Kagi Search for Everyone",
+      "link": "https://kagi.com/changelog",
       "is_new": true
     },
     {
@@ -48,83 +165,13 @@
       "is_new": true
     },
     {
-      "title": "Motorola Signature 27 with GrapheneOS support",
-      "link": "https://motorolanews.com/motorola-signature-27-2/",
-      "is_new": true
-    },
-    {
-      "title": "Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3",
-      "link": "https://github.com/rivet-dev/rivet",
-      "is_new": true
-    },
-    {
-      "title": "My psychophysics as a bilateral cochlear implant user",
-      "link": "https://claude.ai/artifact/L8qsMc3SorytGW3LA81nYf",
-      "is_new": true
-    },
-    {
-      "title": "September in Servo: <progress>, rounded rectangles, and more",
-      "link": "https://servo.org/blog/2026/11/05/september-in-servo/",
-      "is_new": true
-    },
-    {
-      "title": "Download your favourite YouTube videos",
-      "link": "https://criminallyvulgar.dev/you-should-absolutely-download-your-favourite-youtube-videos/",
-      "is_new": true
-    },
-    {
-      "title": "I wish tech companies knew more about me",
-      "link": "https://rakhim.exotext.com/i-wish-tech-companies-knew-more-about-me",
-      "is_new": true
-    },
-    {
-      "title": "OpenSSH 10.6p2 Critical workaround for alpine without PAM",
-      "link": "https://www.openssh.org/releasenotes.html#10.6p2",
-      "is_new": true
-    },
-    {
-      "title": "Bild AI (YC W25) Is Hiring Founding Product Engineers",
-      "link": "https://www.ycombinator.com/companies/bild-ai/jobs",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights)",
-      "link": "https://www.linum.ai/field-notes/pjit-21k",
-      "is_new": true
-    },
-    {
-      "title": "MCP Explained",
-      "link": "https://mcp-explained.com/",
-      "is_new": true
-    },
-    {
-      "title": "Obscure audio codec is a perfect fit for the N64",
-      "link": "https://phoboslab.org/log/2026/11/n64-ulc-codec",
-      "is_new": true
-    },
-    {
       "title": "The Lisp curse, now coming to your ecosystem",
       "link": "https://javahippie.net/programming/llm/2026/03/05/the-lisp-curse-coming-to-your-ecosystem.html",
       "is_new": true
     },
     {
-      "title": "The Stacks Project, Formalized in Lean",
-      "link": "https://axiommath.ai/research/the-stacks-project-formalized/",
-      "is_new": true
-    },
-    {
       "title": "$2.5T has been wiped from US stocks",
       "link": "https://www.reddit.com/r/StockMarket/comments/1xopjao/25_trillion_has_been_wiped_from_us_stocks/",
-      "is_new": true
-    },
-    {
-      "title": "Introducing Pangram Image 1.0",
-      "link": "https://www.pangram.com/blog/introducing-pangram-image-1-0",
-      "is_new": true
-    },
-    {
-      "title": "GPT-6 Astra covertly underperforms on safety research",
-      "link": "https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/",
       "is_new": true
     },
     {
@@ -138,171 +185,9 @@
       "is_new": true
     },
     {
-      "title": "Hungary: Communist-era files released, up to 60k former agents revealed",
-      "link": "https://www.euronews.com/2026/11/04/hungary-communist-era-files-opened-up-to-60000-former-agents-revealed",
-      "is_new": true
-    },
-    {
-      "title": "Baidu released ERNIE 5.5 Flash Base",
-      "link": "https://ernie.baidu.com/release/ernie-5-5-flash-base/",
-      "is_new": true
-    },
-    {
       "title": "Discord is ditching Electron and its new app uses less RAM",
       "link": "https://www.theverge.com/news/1027379/discord-ditching-electron-web-app",
       "is_new": true
-    }
-  ],
-  "removed": [
-    {
-      "title": "Residential proxies detected on White House network",
-      "link": "https://layer3intel.com/blog/residential-proxies-white-house-network",
-      "is_new": false
-    },
-    {
-      "title": "Lemmings CSS Animation",
-      "link": "https://markblah.github.io/lemmings/",
-      "is_new": true
-    },
-    {
-      "title": "Images 2.6",
-      "link": "https://openai.com/index/introducing-images-2-6/",
-      "is_new": false
-    },
-    {
-      "title": "A thousand fewer paths to root",
-      "link": "https://openai.com/index/a-thousand-fewer-paths-to-root/",
-      "is_new": false
-    },
-    {
-      "title": "Altera Announces Agilex 2X, a Complete FPGA and SoC Portfolio",
-      "link": "https://www.altera.com/newsroom/agilex-2x",
-      "is_new": true
-    },
-    {
-      "title": "Kimi K3.1 Pro model weights are out",
-      "link": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
-      "is_new": false
-    },
-    {
-      "title": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
-      "link": "https://www.ricursive.com/ripple",
-      "is_new": false
-    },
-    {
-      "title": "Spreading Liquid with Three.js",
-      "link": "https://mofu-dev.com/en/blog/fluid-foundation/",
-      "is_new": true
-    },
-    {
-      "title": "Insects don't swarm at LED lights",
-      "link": "https://www.birdsoutsidemywindow.org/2026/11/03/insects-dont-swarm-at-led-lights/",
-      "is_new": false
-    },
-    {
-      "title": "A new Go API for JSON",
-      "link": "https://go.dev/blog/jsonv2",
-      "is_new": false
-    },
-    {
-      "title": "Starfall – Affordable, routine access to microgravity",
-      "link": "https://www.spacex.com/starfall",
-      "is_new": true
-    },
-    {
-      "title": "So my ISP was hijacking my DNS",
-      "link": "https://www.karthihegde.dev/posts/dns_tampering",
-      "is_new": true
-    },
-    {
-      "title": "Hacking the Xbox 360 Hypervisor Part 3: Bad Update Improvements",
-      "link": "https://icode4.coffee/?p=1746",
-      "is_new": false
-    },
-    {
-      "title": "Conductor is joining Meta",
-      "link": "https://www.conductor.build/announcement",
-      "is_new": false
-    },
-    {
-      "title": "Future Maintenance of Mbed TLS",
-      "link": "https://lists.trustedfirmware.org/archives/list/mbed-tls@lists.trustedfirmware.org/thread/YPIGCB7WN6GCHOGEGKOJXUYAP7OK527W/",
-      "is_new": true
-    },
-    {
-      "title": "Partial Operator Precedence",
-      "link": "https://ziglang.org/devlog/2026/#2026-10-24",
-      "is_new": true
-    },
-    {
-      "title": "AI is forcing us to pay off 40 years of technical debt",
-      "link": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
-      "is_new": false
-    },
-    {
-      "title": "Ask HN: What's your current AI agentic setup?",
-      "link": "https://news.ycombinator.com/item?id=50366117",
-      "is_new": false
-    },
-    {
-      "title": "Show HN: After a decade of reversing, I got co-op working in DOS Wing Commander",
-      "link": "https://fireflyk64.github.io/wcmulti/",
-      "is_new": false
-    },
-    {
-      "title": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
-      "link": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra",
-      "is_new": false
-    },
-    {
-      "title": "Progress on provable inference for large language models",
-      "link": "https://www.anthropic.com/research/provable-inference",
-      "is_new": false
-    },
-    {
-      "title": "Launch HN: Kino AI (YC S23) – AI media manager and video editor",
-      "link": "https://news.ycombinator.com/item?id=50368804",
-      "is_new": false
-    },
-    {
-      "title": "Guerrilla bike lanes: San Francisco makes illicit infrastructure permanent (2016)",
-      "link": "https://99percentinvisible.org/article/guerrilla-bike-lanes-san-francisco-makes-illicit-infrastructure-permanent/",
-      "is_new": false
-    },
-    {
-      "title": "OpenAI to acquire Pierre Computer Company",
-      "link": "https://openai.com/index/openai-to-acquire-pierre/",
-      "is_new": false
-    },
-    {
-      "title": "A wave of plastic-free coffee pods and machines",
-      "link": "https://www.cnn.com/2026/11/02/food/coffee-machine-plastic-free",
-      "is_new": false
-    },
-    {
-      "title": "Basically no one is using AI agents for their DoorDash orders",
-      "link": "https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/",
-      "is_new": true
-    },
-    {
-      "title": "Tencent Hy4",
-      "link": "https://hy.tencent.ai/research/hy4",
-      "is_new": false
-    },
-    {
-      "title": "11 Nanoseconds per Word: Over-Optimizing Anagrams",
-      "link": "https://wiredream.com/anagram-fun/",
-      "is_new": true
-    },
-    {
-      "title": "'It's just vape, nail, charity shops': Can anything save UK high street?",
-      "link": "https://www.theguardian.com/business/2026/nov/04/what-can-save-the-british-high-street-rotherham",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: The DNA of DOOM – How code structure survives across 44 ports",
-      "link": "https://squid-protocol.github.io/gitgalaxy/museum-of-code/doom-dna/",
-      "is_new": false
     }
   ]
 }
