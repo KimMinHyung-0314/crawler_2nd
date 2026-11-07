@@ -1,10 +1,25 @@
 {
-  "crawled_at": "2026-11-07 20:28",
-  "prev_crawled_at": "2026-11-07 13:28",
+  "crawled_at": "2026-11-08 02:22",
+  "prev_crawled_at": "2026-11-07 20:28",
   "items": [
     {
-      "title": "Upload Your RAM",
-      "link": "https://uploadyourram.org",
+      "title": "They don't make 'em like that any more: Borland Turbo Pascal 7",
+      "link": "https://kevinboone.me/tpwin.html",
+      "is_new": true
+    },
+    {
+      "title": "The $8 Linux Computer (2022)",
+      "link": "http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html",
+      "is_new": true
+    },
+    {
+      "title": "Need for Speed Underground 2 online in the browser",
+      "link": "https://nfsu2.xyz/",
+      "is_new": false
+    },
+    {
+      "title": "How Long Can Life Wait?",
+      "link": "https://mceglowski.substack.com/p/how-long-can-life-wait",
       "is_new": true
     },
     {
@@ -13,19 +28,39 @@
       "is_new": false
     },
     {
+      "title": "Running a law firm on Free software",
+      "link": "https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/",
+      "is_new": true
+    },
+    {
+      "title": "Text.js: Build full-stack React apps that render inside console.log",
+      "link": "https://textjs.org/",
+      "is_new": true
+    },
+    {
+      "title": "British Library Legal deposit and web archiving",
+      "link": "https://www.bl.uk/services/legal-deposit/web-archiving",
+      "is_new": true
+    },
+    {
       "title": "Every Mac comes with an (undocumented) family member classifier",
       "link": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
-      "is_new": true
-    },
-    {
-      "title": "Need for Speed Underground 2 online in the browser",
-      "link": "https://nfsu2.xyz/",
-      "is_new": true
-    },
-    {
-      "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
-      "link": "https://hightouch.com/blog/llm-judges-identity-resolution",
       "is_new": false
+    },
+    {
+      "title": "Ask HN: How did you convince family and friends to join your XMPP/Matrix server?",
+      "link": "https://news.ycombinator.com/item?id=50405250",
+      "is_new": true
+    },
+    {
+      "title": "Tasfer: a text editor drawn on a 2D canvas",
+      "link": "https://www.hamza.se/blog/tasfer",
+      "is_new": true
+    },
+    {
+      "title": "Building the NBC News Big Board",
+      "link": "https://ejfox.com/projects/nbc-big-board",
+      "is_new": true
     },
     {
       "title": "Tesla to wind down Cybertruck production",
@@ -33,34 +68,24 @@
       "is_new": false
     },
     {
-      "title": "A barbarian tribe's mythic origin story is true, ancient DNA reveals",
-      "link": "https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals",
+      "title": "ToothPaste",
+      "link": "https://brisk4t.github.io/blog/toothpaste/",
       "is_new": true
     },
     {
-      "title": "The Components of Agent Memory",
-      "link": "https://www.anthropic.com/research/components-of-agent-memory",
+      "title": "The Gordon Gekko Effect: The Role of Culture in the Financial Industry [pdf]",
+      "link": "https://www.newyorkfed.org/medialibrary/media/research/epr/2016/epr_2016_gordon-gekko-effect_lo.pdf",
       "is_new": true
     },
     {
-      "title": "Enterprise Brain – Memory that learns from work",
-      "link": "https://www.ampup.ai/companybrain",
+      "title": "Show HN: Spindle – a full-featured, type-safe web framework for OCaml 5",
+      "link": "https://github.com/hyphatech/spindle",
       "is_new": true
     },
     {
-      "title": "RealPage rent-pricing case wraps with nearly $360M to renters",
-      "link": "https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/",
+      "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
+      "link": "https://hightouch.com/blog/llm-judges-identity-resolution",
       "is_new": false
-    },
-    {
-      "title": "Port 0: The Port That Does Not Exist",
-      "link": "https://acid.vegas/blog/the-port-that-does-not-exist/",
-      "is_new": true
-    },
-    {
-      "title": "PostgreSQL Internals [pdf]",
-      "link": "https://edu.postgrespro.com/postgresql_internals-14_en.pdf",
-      "is_new": true
     },
     {
       "title": "Greece has its own Pompeii: Thera buried Akrotiri in ash 17th-16th century BCE",
@@ -73,14 +98,29 @@
       "is_new": false
     },
     {
+      "title": "The Components of Agent Memory",
+      "link": "https://www.anthropic.com/research/components-of-agent-memory",
+      "is_new": false
+    },
+    {
+      "title": "RealPage rent-pricing case wraps with nearly $360M to renters",
+      "link": "https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/",
+      "is_new": false
+    },
+    {
+      "title": "PostgreSQL Internals [pdf] (2023)",
+      "link": "https://edu.postgrespro.com/postgresql_internals-14_en.pdf",
+      "is_new": false
+    },
+    {
       "title": "Firecracker VM Escape: PwnEscape Part 2",
       "link": "https://pwn.ai/blog/firecracker-escape",
       "is_new": false
     },
     {
-      "title": "The Flash C Compiler",
-      "link": "https://blog.adafruit.com/2026/10/31/flash-c-compiler/",
-      "is_new": true
+      "title": "8088 Domination Post-Mortem",
+      "link": "https://trixter.oldskool.org/2014/06/19/8088-domination-post-mortem-part-1/",
+      "is_new": false
     },
     {
       "title": "Notes on San Marino",
@@ -90,11 +130,38 @@
     {
       "title": "The great butter and cheese fire of 1991",
       "link": "https://www.wisfarmer.com/story/opinion/columnists/2022/05/11/over-20-m-lbs-commodities-lost-great-butter-fire-1991/9650051002/",
+      "is_new": false
+    },
+    {
+      "title": "Upload Your RAM",
+      "link": "https://uploadyourram.org",
+      "is_new": false
+    },
+    {
+      "title": "The Flash C Compiler",
+      "link": "https://blog.adafruit.com/2026/10/31/flash-c-compiler/",
+      "is_new": false
+    },
+    {
+      "title": "A barbarian tribe's mythic origin story is true, ancient DNA reveals",
+      "link": "https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals",
+      "is_new": false
+    },
+    {
+      "title": "GitHub's new Git storage architecture",
+      "link": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
+      "is_new": false
+    }
+  ],
+  "removed": [
+    {
+      "title": "Enterprise Brain – Memory that learns from work",
+      "link": "https://www.ampup.ai/companybrain",
       "is_new": true
     },
     {
-      "title": "8088 Domination Post-Mortem",
-      "link": "https://trixter.oldskool.org/2014/06/19/8088-domination-post-mortem-part-1/",
+      "title": "Port 0: The Port That Does Not Exist",
+      "link": "https://acid.vegas/blog/the-port-that-does-not-exist/",
       "is_new": true
     },
     {
@@ -105,11 +172,6 @@
     {
       "title": "Can GROUP BY still be optimized after all these years?",
       "link": "https://pivotlake.io/blog/know-your-limit-faster-top-k-aggregation/",
-      "is_new": false
-    },
-    {
-      "title": "GitHub's new Git storage architecture",
-      "link": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
       "is_new": false
     },
     {
@@ -150,73 +212,6 @@
     {
       "title": "Chomsky and the two cultures of statistical learning (2011)",
       "link": "https://www.norvig.com/chomsky.html",
-      "is_new": false
-    }
-  ],
-  "removed": [
-    {
-      "title": "I Toured Unitree's Factory. I'm More Bullish on the West",
-      "link": "https://josef.cn/blog/unitree",
-      "is_new": true
-    },
-    {
-      "title": "What do the next 4000 emoji look like?",
-      "link": "https://jenniferdaniel.substack.com/p/what-do-the-next-4000-emoji-look",
-      "is_new": true
-    },
-    {
-      "title": "Lighting the Skies",
-      "link": "https://computer.rip/2026-10-25-searchlights.html",
-      "is_new": true
-    },
-    {
-      "title": "The AI sell-off compared to well-known stock market crashes",
-      "link": "https://www.kadoa.com/companies/insights/ai-selloff-perspective",
-      "is_new": true
-    },
-    {
-      "title": "Panthera: Ampere's CPU Performance Model",
-      "link": "https://github.com/AmpereComputing/panthera",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: Tmux-restore saves tmux windows and agent sessions across reboots",
-      "link": "https://github.com/andrewboldi/tmux-restore",
-      "is_new": true
-    },
-    {
-      "title": "Sodium-ion batteries approach cost parity with LFP",
-      "link": "https://www.pv-magazine.com/2026/11/06/sodium-ion-batteries-approach-cost-parity-with-lfp-with-70-gwh-covered-by-supply-agreements/",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: Waymark – A workflow engine that compiles jobs instead of replaying",
-      "link": "https://github.com/piercefreeman/waymark",
-      "is_new": false
-    },
-    {
-      "title": "Replit rebuilt its sandbox engine with microVMs",
-      "link": "https://frontier.replit.com/sandbox-engine-microvms-part-1/",
-      "is_new": false
-    },
-    {
-      "title": "Anthropic IPO buyers see valuation as low as $1.1T",
-      "link": "https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout",
-      "is_new": false
-    },
-    {
-      "title": "Memorilla: Latent Semantic Memory for LLMs",
-      "link": "https://arxiv.org/abs/2610.21375",
-      "is_new": false
-    },
-    {
-      "title": "UpCodes (YC S17) is hiring SDR's to sell AI compliance software",
-      "link": "https://up.codes/careers?utm_source=HN",
-      "is_new": false
-    },
-    {
-      "title": "How octopuses squeeze through too small gaps",
-      "link": "https://journals.biologists.com/jeb/article/229/21/jeb253615/373332/How-octopuses-squeeze-through-too-small-gaps",
       "is_new": false
     }
   ]
