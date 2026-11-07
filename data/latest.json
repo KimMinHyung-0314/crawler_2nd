@@ -1,15 +1,30 @@
 {
-  "crawled_at": "2026-11-08 02:22",
-  "prev_crawled_at": "2026-11-07 20:28",
+  "crawled_at": "2026-11-08 06:23",
+  "prev_crawled_at": "2026-11-08 02:22",
   "items": [
     {
-      "title": "They don't make 'em like that any more: Borland Turbo Pascal 7",
-      "link": "https://kevinboone.me/tpwin.html",
+      "title": "The end of Microsoft Research's AI Frontiers group",
+      "link": "https://hunch.net/?p=13764006",
       "is_new": true
     },
     {
-      "title": "The $8 Linux Computer (2022)",
-      "link": "http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html",
+      "title": "What I run on my $10 USD OpenStick homelab",
+      "link": "https://blog.bosscher.ch/posts/openstick/",
+      "is_new": true
+    },
+    {
+      "title": "Apple’s grey list: Words and phrases your iPhone won’t help you spell",
+      "link": "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller",
+      "link": "https://github.com/hedgerow-dev/coldframe",
+      "is_new": true
+    },
+    {
+      "title": "MaxxBench – \"Nice DeepSWE score. But is it true?\"",
+      "link": "https://maxxbench.unlap.ai/research/why-maxxbench/",
       "is_new": true
     },
     {
@@ -18,8 +33,38 @@
       "is_new": false
     },
     {
-      "title": "How Long Can Life Wait?",
+      "title": "Five memorable books about programming (2008)",
+      "link": "https://prog21.dadgum.com/19.html",
+      "is_new": true
+    },
+    {
+      "title": "The $8 Linux Computer (2022)",
+      "link": "http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html",
+      "is_new": false
+    },
+    {
+      "title": "Every Mac comes with an (undocumented) family member classifier",
+      "link": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
+      "is_new": false
+    },
+    {
+      "title": "Shadow of the Sun",
+      "link": "https://mattlakeman.org/2021/07/27/shadow-of-the-sun/",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: Where Were We",
+      "link": "https://wherewerewe.app/",
+      "is_new": true
+    },
+    {
+      "title": "How long can life wait?",
       "link": "https://mceglowski.substack.com/p/how-long-can-life-wait",
+      "is_new": false
+    },
+    {
+      "title": "Every processor die anyone has photographed and given away",
+      "link": "https://sheets.works/data-viz/cpu-dies",
       "is_new": true
     },
     {
@@ -28,24 +73,91 @@
       "is_new": false
     },
     {
+      "title": "GeoWorks, Microsoft Windows' Upstart '90s Competitor",
+      "link": "https://www.atlasobscura.com/articles/the-history-of-geoworks-microsoft-windows-upstart-90s-competitor",
+      "is_new": true
+    },
+    {
+      "title": "Every Windows 11 app should kill Electron, and Discord just showed why",
+      "link": "https://www.windowslatest.com/2026/11/06/every-windows-11-app-should-kill-electron-and-discord-just-showed-why-no-starting-screen-and-70-less-ram-even-with-two-accounts-signed-in/",
+      "is_new": true
+    },
+    {
+      "title": "Terry Pratchett's Study",
+      "link": "https://www.sussi.dk/terry-pratchetts-study",
+      "is_new": true
+    },
+    {
+      "title": "The typo generation is damaging literature",
+      "link": "https://www.metropolitanreview.org/p/the-typo-generation-is-damaging-literature",
+      "is_new": true
+    },
+    {
       "title": "Running a law firm on Free software",
       "link": "https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/",
+      "is_new": false
+    },
+    {
+      "title": "Show HN: Green tests are not proof – verifier for C/C++ and firmware fixes",
+      "link": "https://unfix.dev/",
       "is_new": true
     },
     {
       "title": "Text.js: Build full-stack React apps that render inside console.log",
       "link": "https://textjs.org/",
+      "is_new": false
+    },
+    {
+      "title": "Asahi Linux Progress Linux 7.3",
+      "link": "https://asahilinux.org/2026/11/progress-report-7-3/",
       "is_new": true
     },
+    {
+      "title": "They don't make 'em like that any more: Borland Turbo Pascal 7",
+      "link": "https://kevinboone.me/tpwin.html",
+      "is_new": false
+    },
+    {
+      "title": "A barbarian tribe's mythic origin story is true, ancient DNA reveals",
+      "link": "https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals",
+      "is_new": false
+    },
+    {
+      "title": "Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8",
+      "link": "https://github.com/Video-Rebirth/hyperflow-h3-flash",
+      "is_new": true
+    },
+    {
+      "title": "We know 15k websites are infected. how do we tell them?",
+      "link": "https://scotthelme.co.uk/we-know-15-579-websites-are-infected-how-do-we-tell-them/",
+      "is_new": true
+    },
+    {
+      "title": "Yes, You Can Pass a Nuclear Missile Driving on Interstate 80 Through Wyoming",
+      "link": "https://cowboystatedaily.com/2026/11/04/yes-you-can-pass-a-nuclear-missile-driving-on-interstate-80-through-wyoming/",
+      "is_new": true
+    },
+    {
+      "title": "What do the next 4000 emoji look like?",
+      "link": "https://jenniferdaniel.substack.com/p/what-do-the-next-4000-emoji-look",
+      "is_new": true
+    },
+    {
+      "title": "The Gordon Gekko Effect: The Role of Culture in the Financial Industry [pdf] (2016)",
+      "link": "https://www.newyorkfed.org/medialibrary/media/research/epr/2016/epr_2016_gordon-gekko-effect_lo.pdf",
+      "is_new": false
+    },
+    {
+      "title": "The Components of Agent Memory",
+      "link": "https://www.anthropic.com/research/components-of-agent-memory",
+      "is_new": false
+    }
+  ],
+  "removed": [
     {
       "title": "British Library Legal deposit and web archiving",
       "link": "https://www.bl.uk/services/legal-deposit/web-archiving",
       "is_new": true
-    },
-    {
-      "title": "Every Mac comes with an (undocumented) family member classifier",
-      "link": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
-      "is_new": false
     },
     {
       "title": "Ask HN: How did you convince family and friends to join your XMPP/Matrix server?",
@@ -73,11 +185,6 @@
       "is_new": true
     },
     {
-      "title": "The Gordon Gekko Effect: The Role of Culture in the Financial Industry [pdf]",
-      "link": "https://www.newyorkfed.org/medialibrary/media/research/epr/2016/epr_2016_gordon-gekko-effect_lo.pdf",
-      "is_new": true
-    },
-    {
       "title": "Show HN: Spindle – a full-featured, type-safe web framework for OCaml 5",
       "link": "https://github.com/hyphatech/spindle",
       "is_new": true
@@ -95,11 +202,6 @@
     {
       "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
       "link": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/",
-      "is_new": false
-    },
-    {
-      "title": "The Components of Agent Memory",
-      "link": "https://www.anthropic.com/research/components-of-agent-memory",
       "is_new": false
     },
     {
@@ -143,75 +245,8 @@
       "is_new": false
     },
     {
-      "title": "A barbarian tribe's mythic origin story is true, ancient DNA reveals",
-      "link": "https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals",
-      "is_new": false
-    },
-    {
       "title": "GitHub's new Git storage architecture",
       "link": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
-      "is_new": false
-    }
-  ],
-  "removed": [
-    {
-      "title": "Enterprise Brain – Memory that learns from work",
-      "link": "https://www.ampup.ai/companybrain",
-      "is_new": true
-    },
-    {
-      "title": "Port 0: The Port That Does Not Exist",
-      "link": "https://acid.vegas/blog/the-port-that-does-not-exist/",
-      "is_new": true
-    },
-    {
-      "title": "Asahi Linux Progress Linux 7.3",
-      "link": "https://asahilinux.org/2026/11/progress-report-7-3/",
-      "is_new": true
-    },
-    {
-      "title": "Can GROUP BY still be optimized after all these years?",
-      "link": "https://pivotlake.io/blog/know-your-limit-faster-top-k-aggregation/",
-      "is_new": false
-    },
-    {
-      "title": "First steps in bare-metal programming using UEFI",
-      "link": "https://kevinboone.me/efitest_index.html",
-      "is_new": false
-    },
-    {
-      "title": "Gemini Omni 1.2 Flash",
-      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
-      "is_new": false
-    },
-    {
-      "title": "AI is dramatically accelerating AI research",
-      "link": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
-      "is_new": false
-    },
-    {
-      "title": "Devvm.dev: One VM for every project",
-      "link": "https://devvm.dev/",
-      "is_new": false
-    },
-    {
-      "title": "Restaurant Delivery Payment-Skimming Campaign",
-      "link": "https://www.infohawk.com/news/2026-11-05-scamwich-restaurant-skimming",
-      "is_new": false
-    },
-    {
-      "title": "Google has acquired Crusoe's data center site in southeast Wyoming",
-      "link": "https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update",
-      "is_new": false
-    },
-    {
-      "title": "Bug Finding Considered Harmful?",
-      "link": "https://alperenkeles.com/posts/bug-finding-considered-harmful/",
-      "is_new": true
-    },
-    {
-      "title": "Chomsky and the two cultures of statistical learning (2011)",
-      "link": "https://www.norvig.com/chomsky.html",
       "is_new": false
     }
   ]
