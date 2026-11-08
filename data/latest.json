@@ -1,45 +1,90 @@
 {
-  "crawled_at": "2026-11-09 00:44",
-  "prev_crawled_at": "2026-11-08 17:30",
+  "crawled_at": "2026-11-09 05:07",
+  "prev_crawled_at": "2026-11-09 00:44",
   "items": [
+    {
+      "title": "Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
+      "link": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+      "is_new": true
+    },
+    {
+      "title": "Outlook.com Is Quietly Rejecting Email from Domains Without DMARC",
+      "link": "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc",
+      "is_new": true
+    },
+    {
+      "title": "Dux: Free, open-source Wayland desktop shell with file manager and theming",
+      "link": "https://duxlabs.dev/",
+      "is_new": true
+    },
+    {
+      "title": "How I Fight AI Brain Fry",
+      "link": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
+      "is_new": true
+    },
+    {
+      "title": "Declarative Dragging",
+      "link": "https://declarative-dragging.github.io/",
+      "is_new": true
+    },
     {
       "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
       "link": "https://github.com/synchopate/llama-modchip",
+      "is_new": false
+    },
+    {
+      "title": "RAM Altman: Linux Script Emails Sam Altman Daily How Much Unused RAM in Your PC",
+      "link": "https://respawnfirst.com/linux-script-emails-sam-altman-unused-ram-ram-altman/",
       "is_new": true
     },
     {
-      "title": "Porting Android 16 to my blind mother's keypad phone",
-      "link": "https://z1x.us/blog/four-hundred-bucks-of-e-waste",
+      "title": "Writing as a thinking tool",
+      "link": "http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html",
+      "is_new": false
+    },
+    {
+      "title": "Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
+      "link": "https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c",
       "is_new": true
     },
     {
-      "title": "Quadrillion-parameter transformers and how to train them",
-      "link": "https://qlabs.sh/research/parameters",
+      "title": "The Reconstruction of Torn Documents",
+      "link": "https://www.bundesarchiv.de/en/stasi-records-archive/the-reconstruction-of-torn-documents/",
       "is_new": true
     },
     {
-      "title": "JIT bitmap text rendering for microcontrollers",
-      "link": "https://linebender.org/blog/jit-bitmap-text/",
+      "title": "A Little Snitch for Windows",
+      "link": "https://packethound.app/",
       "is_new": true
     },
     {
-      "title": "Goodbye Claude, Hello Pi",
+      "title": "I'm not a fan of Deno's security model (2024)",
+      "link": "https://goldstein.lol/posts/deno-security/",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: Vegetable Gardening for Engineers",
+      "link": "https://jrcpl.us/contrib/2020/gardening-for-engineers/",
+      "is_new": true
+    },
+    {
+      "title": "Goodbye Claude, hello Pi",
       "link": "https://caleb.software/posts/claude-to-pi.html",
       "is_new": false
     },
     {
-      "title": "Person of Interest",
-      "link": "https://krthr.co/person-of-interest/",
+      "title": "Porting Android 16 to my blind mother's keypad phone",
+      "link": "https://z1x.us/blog/four-hundred-bucks-of-e-waste",
+      "is_new": false
+    },
+    {
+      "title": "Edward Hopper's Iconic Painting, \"Nighthawks",
+      "link": "https://lithub.com/the-story-behind-edward-hoppers-iconic-painting-nighthawks/",
       "is_new": true
     },
     {
-      "title": "Writing as a Thinking Tool",
-      "link": "http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html",
-      "is_new": true
-    },
-    {
-      "title": "Agent memory needs its OpenTelemetry moment",
-      "link": "https://www.lorekit.io/blog/open-agent-memory-format",
+      "title": "How to prove equations using diagrams, part 1",
+      "link": "https://www.epatters.org/post/e-graphs-1/",
       "is_new": true
     },
     {
@@ -48,14 +93,71 @@
       "is_new": false
     },
     {
+      "title": "JIT bitmap text rendering for microcontrollers",
+      "link": "https://linebender.org/blog/jit-bitmap-text/",
+      "is_new": false
+    },
+    {
       "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
       "link": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+      "is_new": false
+    },
+    {
+      "title": "Ads in Popular Apps Give Police a Powerful Tool to Spy on Users",
+      "link": "https://www.bloomberg.com/features/2026-police-phone-tracking-advertising-tech/",
+      "is_new": true
+    },
+    {
+      "title": "Playing Zork 1 on a CP/M emulator on Linux (2021)",
+      "link": "https://kevinboone.me/cpmzork.html",
+      "is_new": true
+    },
+    {
+      "title": "A field guide to CAPTCHA types and how they break",
+      "link": "https://github.com/vsmutok/FuckCaptcha",
+      "is_new": true
+    },
+    {
+      "title": "Agent memory needs its OpenTelemetry moment",
+      "link": "https://www.lorekit.io/blog/open-agent-memory-format",
       "is_new": false
     },
     {
       "title": "Clj.rs – a Clojure dialect implemented in Rust",
       "link": "https://clj.rs/",
       "is_new": false
+    },
+    {
+      "title": "Petered",
+      "link": "https://aworkinglibrary.com/writing/petered",
+      "is_new": false
+    },
+    {
+      "title": "The Gordon Gekko effect: The role of culture in the financial industry (2016) [pdf]",
+      "link": "https://www.newyorkfed.org/medialibrary/media/research/epr/2016/epr_2016_gordon-gekko-effect_lo.pdf",
+      "is_new": true
+    },
+    {
+      "title": "Person of Interest",
+      "link": "https://krthr.co/person-of-interest/",
+      "is_new": false
+    },
+    {
+      "title": "Starship Flight 15 on 11/13 plans to catch both booster and ship",
+      "link": "https://www.spacex.com/launches/starship-flight-15",
+      "is_new": true
+    },
+    {
+      "title": "Tasfer: a text editor drawn on a 2D canvas",
+      "link": "https://www.hamza.se/blog/tasfer",
+      "is_new": true
+    }
+  ],
+  "removed": [
+    {
+      "title": "Quadrillion-parameter transformers and how to train them",
+      "link": "https://qlabs.sh/research/parameters",
+      "is_new": true
     },
     {
       "title": "Earliest evidence of cannabis use found in ancient Siberian tomb",
@@ -123,11 +225,6 @@
       "is_new": false
     },
     {
-      "title": "Petered (what happens after the Peter Principle)",
-      "link": "https://aworkinglibrary.com/writing/petered",
-      "is_new": true
-    },
-    {
       "title": "WaveDudeNext 2D Wave Simulator",
       "link": "https://github.com/graealex/WaveDudeNext",
       "is_new": true
@@ -151,83 +248,6 @@
       "title": "Multi-Column Different-Speed Scrolling",
       "link": "https://blog.master.dev/multi-column-different-speed-scrolling/",
       "is_new": true
-    }
-  ],
-  "removed": [
-    {
-      "title": "Amsterdam School",
-      "link": "https://architecture-history.org/schools/AMSTERDAM%20SCHOOL.html",
-      "is_new": true
-    },
-    {
-      "title": "The end of Microsoft Research's AI Frontiers group",
-      "link": "https://hunch.net/?p=13764006",
-      "is_new": false
-    },
-    {
-      "title": "Commodore PET – The Worlds First Personal Computer",
-      "link": "https://www.commodore.ca/commodore-products/commodore-pet-the-worlds-first-personal-computer/",
-      "is_new": false
-    },
-    {
-      "title": "Apple’s grey list: Words and phrases your iPhone won’t help you spell",
-      "link": "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you",
-      "is_new": false
-    },
-    {
-      "title": "The $8 Linux Computer (2022)",
-      "link": "http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html",
-      "is_new": false
-    },
-    {
-      "title": "Turning every radio into a radar",
-      "link": "https://tiaminetworks.com/turning-every-radio-into-a-radar/",
-      "is_new": false
-    },
-    {
-      "title": "ZapFast: A fast, native WhatsApp client in Rust and egui",
-      "link": "https://github.com/crmne/zapfast",
-      "is_new": true
-    },
-    {
-      "title": "Every processor die anyone has photographed and given away",
-      "link": "https://sheets.works/data-viz/cpu-dies",
-      "is_new": false
-    },
-    {
-      "title": "Asahi Linux Progress Linux 7.3",
-      "link": "https://asahilinux.org/2026/11/progress-report-7-3/",
-      "is_new": false
-    },
-    {
-      "title": "Five memorable books about programming (2008)",
-      "link": "https://prog21.dadgum.com/19.html",
-      "is_new": false
-    },
-    {
-      "title": "GeoWorks, Microsoft Windows' Upstart '90s Competitor (2016)",
-      "link": "https://www.atlasobscura.com/articles/the-history-of-geoworks-microsoft-windows-upstart-90s-competitor",
-      "is_new": false
-    },
-    {
-      "title": "A barbarian tribe's mythic origin story is true, ancient DNA reveals",
-      "link": "https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals",
-      "is_new": false
-    },
-    {
-      "title": "Show HN: Maple – Sub-2-BPW Moe Pruning to Run Gemma 4 26B at 45 TPS on a 6GB GPU",
-      "link": "https://github.com/AmSach/maple",
-      "is_new": true
-    },
-    {
-      "title": "Running a law firm on Free software",
-      "link": "https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/",
-      "is_new": false
-    },
-    {
-      "title": "Retro Song Bird: Plug in any Game Boy cartridge to hear the soundtrack",
-      "link": "https://www.retrosongbird.com/",
-      "is_new": false
     }
   ]
 }
