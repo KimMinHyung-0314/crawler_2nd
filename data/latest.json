@@ -1,15 +1,10 @@
 {
-  "crawled_at": "2026-11-08 10:01",
-  "prev_crawled_at": "2026-11-08 06:23",
+  "crawled_at": "2026-11-08 17:30",
+  "prev_crawled_at": "2026-11-08 10:01",
   "items": [
     {
-      "title": "The end of Microsoft Research's AI Frontiers group",
-      "link": "https://hunch.net/?p=13764006",
-      "is_new": false
-    },
-    {
-      "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
-      "link": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+      "title": "Goodbye Claude, Hello Pi",
+      "link": "https://caleb.software/posts/claude-to-pi.html",
       "is_new": true
     },
     {
@@ -18,33 +13,23 @@
       "is_new": false
     },
     {
-      "title": "GitHub New pull request overview page in public preview",
-      "link": "https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/",
+      "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+      "link": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+      "is_new": false
+    },
+    {
+      "title": "Kirlian Photography: Building Your Own Equipment",
+      "link": "https://imagesco.com/articles/kirlian/kirlian-photography.html",
       "is_new": true
     },
     {
       "title": "Making any integer with four 2s (2025)",
       "link": "https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/",
-      "is_new": true
-    },
-    {
-      "title": "Apple’s grey list: Words and phrases your iPhone won’t help you spell",
-      "link": "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you",
       "is_new": false
     },
     {
-      "title": "MaxxBench – \"Nice DeepSWE score. But is it true?\"",
-      "link": "https://maxxbench.unlap.ai/research/why-maxxbench/",
-      "is_new": false
-    },
-    {
-      "title": "Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller",
-      "link": "https://github.com/hedgerow-dev/coldframe",
-      "is_new": false
-    },
-    {
-      "title": "Uranium cubes reveal why the German nuclear project failed",
-      "link": "https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed/",
+      "title": "Clj.rs – a Clojure dialect implemented in Rust",
+      "link": "https://clj.rs/",
       "is_new": true
     },
     {
@@ -53,18 +38,18 @@
       "is_new": false
     },
     {
-      "title": "Turning Every Radio into a Radar",
-      "link": "https://tiaminetworks.com/turning-every-radio-into-a-radar/",
-      "is_new": true
+      "title": "MaxxBench – \"Nice DeepSWE score. But is it true?\"",
+      "link": "https://maxxbench.unlap.ai/research/why-maxxbench/",
+      "is_new": false
     },
     {
-      "title": "Study solved a 150-year-old mystery into the identity of the extinct giant crane",
-      "link": "https://www.bournemouth.ac.uk/news/2026-10-28/study-has-solved-150-year-old-mystery-identity-extinct-giant-crane",
-      "is_new": true
+      "title": "Uranium cubes reveal why the German nuclear project failed",
+      "link": "https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed/",
+      "is_new": false
     },
     {
-      "title": "Five memorable books about programming (2008)",
-      "link": "https://prog21.dadgum.com/19.html",
+      "title": "GitHub New pull request overview page in public preview",
+      "link": "https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/",
       "is_new": false
     },
     {
@@ -73,19 +58,14 @@
       "is_new": false
     },
     {
-      "title": "Retro Song Bird: Plug in any Game Boy cartridge to hear the soundtrack",
-      "link": "https://www.retrosongbird.com/",
+      "title": "Consumer brain wave headsets threaten privacy",
+      "link": "https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users?referrer=https%3A%2F%2Fwww.google.com%2F",
       "is_new": true
     },
     {
-      "title": "Show HN: An offline desktop companion to help maintain a healthy blink rhythm",
-      "link": "https://eyesrhythm.com/",
+      "title": "ISponsorBlockTV: SponsorBlock client for all YouTube TV clients",
+      "link": "https://github.com/dmunozv04/isponsorblocktv",
       "is_new": true
-    },
-    {
-      "title": "The $8 Linux Computer (2022)",
-      "link": "http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html",
-      "is_new": false
     },
     {
       "title": "Every Windows 11 app should kill Electron, and Discord just showed why",
@@ -93,8 +73,95 @@
       "is_new": false
     },
     {
+      "title": "Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller",
+      "link": "https://github.com/hedgerow-dev/coldframe",
+      "is_new": false
+    },
+    {
+      "title": "Amsterdam School",
+      "link": "https://architecture-history.org/schools/AMSTERDAM%20SCHOOL.html",
+      "is_new": true
+    },
+    {
+      "title": "The end of Microsoft Research's AI Frontiers group",
+      "link": "https://hunch.net/?p=13764006",
+      "is_new": false
+    },
+    {
       "title": "Commodore PET – The Worlds First Personal Computer",
       "link": "https://www.commodore.ca/commodore-products/commodore-pet-the-worlds-first-personal-computer/",
+      "is_new": false
+    },
+    {
+      "title": "Apple’s grey list: Words and phrases your iPhone won’t help you spell",
+      "link": "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you",
+      "is_new": false
+    },
+    {
+      "title": "The $8 Linux Computer (2022)",
+      "link": "http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html",
+      "is_new": false
+    },
+    {
+      "title": "Turning every radio into a radar",
+      "link": "https://tiaminetworks.com/turning-every-radio-into-a-radar/",
+      "is_new": false
+    },
+    {
+      "title": "ZapFast: A fast, native WhatsApp client in Rust and egui",
+      "link": "https://github.com/crmne/zapfast",
+      "is_new": true
+    },
+    {
+      "title": "Every processor die anyone has photographed and given away",
+      "link": "https://sheets.works/data-viz/cpu-dies",
+      "is_new": false
+    },
+    {
+      "title": "Asahi Linux Progress Linux 7.3",
+      "link": "https://asahilinux.org/2026/11/progress-report-7-3/",
+      "is_new": false
+    },
+    {
+      "title": "Five memorable books about programming (2008)",
+      "link": "https://prog21.dadgum.com/19.html",
+      "is_new": false
+    },
+    {
+      "title": "GeoWorks, Microsoft Windows' Upstart '90s Competitor (2016)",
+      "link": "https://www.atlasobscura.com/articles/the-history-of-geoworks-microsoft-windows-upstart-90s-competitor",
+      "is_new": false
+    },
+    {
+      "title": "A barbarian tribe's mythic origin story is true, ancient DNA reveals",
+      "link": "https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals",
+      "is_new": false
+    },
+    {
+      "title": "Show HN: Maple – Sub-2-BPW Moe Pruning to Run Gemma 4 26B at 45 TPS on a 6GB GPU",
+      "link": "https://github.com/AmSach/maple",
+      "is_new": true
+    },
+    {
+      "title": "Running a law firm on Free software",
+      "link": "https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/",
+      "is_new": false
+    },
+    {
+      "title": "Retro Song Bird: Plug in any Game Boy cartridge to hear the soundtrack",
+      "link": "https://www.retrosongbird.com/",
+      "is_new": false
+    }
+  ],
+  "removed": [
+    {
+      "title": "Study solved a 150-year-old mystery into the identity of the extinct giant crane",
+      "link": "https://www.bournemouth.ac.uk/news/2026-10-28/study-has-solved-150-year-old-mystery-identity-extinct-giant-crane",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: An offline desktop companion to help maintain a healthy blink rhythm",
+      "link": "https://eyesrhythm.com/",
       "is_new": true
     },
     {
@@ -108,11 +175,6 @@
       "is_new": true
     },
     {
-      "title": "GeoWorks, Microsoft Windows' Upstart '90s Competitor (2016)",
-      "link": "https://www.atlasobscura.com/articles/the-history-of-geoworks-microsoft-windows-upstart-90s-competitor",
-      "is_new": false
-    },
-    {
       "title": "Text.js: Build full-stack React apps that render inside console.log",
       "link": "https://textjs.org/",
       "is_new": false
@@ -123,11 +185,6 @@
       "is_new": false
     },
     {
-      "title": "Every processor die anyone has photographed and given away",
-      "link": "https://sheets.works/data-viz/cpu-dies",
-      "is_new": false
-    },
-    {
       "title": "Shadow of the Sun (2021)",
       "link": "https://mattlakeman.org/2021/07/27/shadow-of-the-sun/",
       "is_new": false
@@ -135,78 +192,6 @@
     {
       "title": "Terry Pratchett's Study",
       "link": "https://www.sussi.dk/terry-pratchetts-study",
-      "is_new": false
-    },
-    {
-      "title": "Running a law firm on Free software",
-      "link": "https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/",
-      "is_new": false
-    },
-    {
-      "title": "Asahi Linux Progress Linux 7.3",
-      "link": "https://asahilinux.org/2026/11/progress-report-7-3/",
-      "is_new": false
-    },
-    {
-      "title": "A barbarian tribe's mythic origin story is true, ancient DNA reveals",
-      "link": "https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals",
-      "is_new": false
-    }
-  ],
-  "removed": [
-    {
-      "title": "Show HN: Where Were We",
-      "link": "https://wherewerewe.app/",
-      "is_new": true
-    },
-    {
-      "title": "Libghostty 1.0",
-      "link": "https://mitchellh.com/writing/libghostty-1-0",
-      "is_new": false
-    },
-    {
-      "title": "The typo generation is damaging literature",
-      "link": "https://www.metropolitanreview.org/p/the-typo-generation-is-damaging-literature",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: Green tests are not proof – verifier for C/C++ and firmware fixes",
-      "link": "https://unfix.dev/",
-      "is_new": true
-    },
-    {
-      "title": "They don't make 'em like that any more: Borland Turbo Pascal 7",
-      "link": "https://kevinboone.me/tpwin.html",
-      "is_new": false
-    },
-    {
-      "title": "Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8",
-      "link": "https://github.com/Video-Rebirth/hyperflow-h3-flash",
-      "is_new": true
-    },
-    {
-      "title": "We know 15k websites are infected. how do we tell them?",
-      "link": "https://scotthelme.co.uk/we-know-15-579-websites-are-infected-how-do-we-tell-them/",
-      "is_new": true
-    },
-    {
-      "title": "Yes, You Can Pass a Nuclear Missile Driving on Interstate 80 Through Wyoming",
-      "link": "https://cowboystatedaily.com/2026/11/04/yes-you-can-pass-a-nuclear-missile-driving-on-interstate-80-through-wyoming/",
-      "is_new": true
-    },
-    {
-      "title": "What do the next 4000 emoji look like?",
-      "link": "https://jenniferdaniel.substack.com/p/what-do-the-next-4000-emoji-look",
-      "is_new": true
-    },
-    {
-      "title": "The Gordon Gekko Effect: The Role of Culture in the Financial Industry [pdf] (2016)",
-      "link": "https://www.newyorkfed.org/medialibrary/media/research/epr/2016/epr_2016_gordon-gekko-effect_lo.pdf",
-      "is_new": false
-    },
-    {
-      "title": "The Components of Agent Memory",
-      "link": "https://www.anthropic.com/research/components-of-agent-memory",
       "is_new": false
     }
   ]
