@@ -1,30 +1,25 @@
 {
-  "crawled_at": "2026-11-09 09:28",
-  "prev_crawled_at": "2026-11-09 05:07",
+  "crawled_at": "2026-11-09 16:36",
+  "prev_crawled_at": "2026-11-09 09:28",
   "items": [
     {
       "title": "KetchUp – Open-source SketchUp alternative built with Rust and WebGPU",
       "link": "https://ketchup3d.github.io/app/",
+      "is_new": false
+    },
+    {
+      "title": "Unlocking any car from X brand in most of the world",
+      "link": "https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/",
+      "is_new": true
+    },
+    {
+      "title": "I'm not convinced the AI bubble exists",
+      "link": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists",
       "is_new": true
     },
     {
       "title": "Chimera Vocal Synth",
       "link": "https://chimera-vocal-synth.vercel.app/",
-      "is_new": true
-    },
-    {
-      "title": "Herb Sutter: When a language's creator and its owners strongly disagree [pdf]",
-      "link": "https://isocpp.org/files/papers/P4454R0.pdf",
-      "is_new": true
-    },
-    {
-      "title": "Ask HN: What are you working on? (November 2026)",
-      "link": "https://news.ycombinator.com/item?id=50417407",
-      "is_new": true
-    },
-    {
-      "title": "Dux: Free, open-source Wayland desktop shell with file manager and theming",
-      "link": "https://duxlabs.dev/",
       "is_new": false
     },
     {
@@ -33,8 +28,53 @@
       "is_new": false
     },
     {
-      "title": "Outlook.com Is Quietly Rejecting Email from Domains Without DMARC",
+      "title": "Dux: Free, open-source Wayland desktop shell with file manager and theming",
+      "link": "https://duxlabs.dev/",
+      "is_new": false
+    },
+    {
+      "title": "Outlook.com is rejecting email from domains without DMARC",
       "link": "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc",
+      "is_new": false
+    },
+    {
+      "title": "Ask HN: What are you working on? (November 2026)",
+      "link": "https://news.ycombinator.com/item?id=50417407",
+      "is_new": false
+    },
+    {
+      "title": "Nvidia CEO Jensen Huang's letter to staff about affair",
+      "link": "https://nvidianews.nvidia.com/news/a-message-to-our-company",
+      "is_new": true
+    },
+    {
+      "title": "A Critique of GPUI",
+      "link": "https://blog.zortax.de/posts/a-critique-of-gpui",
+      "is_new": true
+    },
+    {
+      "title": "Ask HN: How do you manage your AI agents' context across clients and projects?",
+      "link": "https://news.ycombinator.com/item?id=50403153",
+      "is_new": true
+    },
+    {
+      "title": "RIP, Harvest",
+      "link": "https://aphyr.com/posts/427-rip-harvest",
+      "is_new": true
+    },
+    {
+      "title": "The Qlobe: Rotating Quine (2010)",
+      "link": "http://mamememo.blogspot.com/2010/09/qlobe.html",
+      "is_new": true
+    },
+    {
+      "title": "Quasi-Logarithmic Kitchen Timer",
+      "link": "https://blog.coredump.cx/p/quasi-logarithmic-kitchen-timer",
+      "is_new": true
+    },
+    {
+      "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+      "link": "https://github.com/synchopate/llama-modchip",
       "is_new": false
     },
     {
@@ -43,19 +83,81 @@
       "is_new": false
     },
     {
-      "title": "The Web Is More Than Enough, by Paul Ford",
-      "link": "https://ftrain.com/aboard-the-web-is-more-than-enough",
+      "title": "Ur-Nammu Founder of the Sumerian Renaissance",
+      "link": "https://www.worldhistory.org/Ur-Nammu/",
       "is_new": true
     },
+    {
+      "title": "Show HN: Flide: Make Jev-like decision models up to 9.5x faster",
+      "link": "https://github.com/OmniJev/Flide",
+      "is_new": true
+    },
+    {
+      "title": "When a language's creator and its owners strongly disagree [pdf]",
+      "link": "https://isocpp.org/files/papers/P4454R0.pdf",
+      "is_new": false
+    },
+    {
+      "title": "Writing as a thinking tool",
+      "link": "http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html",
+      "is_new": false
+    },
+    {
+      "title": "Show HN: JavaScript web apps with WASM layout and GPU rendering in 280 KB",
+      "link": "https://github.com/rkaehn/uniform",
+      "is_new": true
+    },
+    {
+      "title": "Branching Beyond Leonardo: The Evolution of Tree Architecture Theory",
+      "link": "https://blue-continuum.com/branching-beyond-leonardo",
+      "is_new": true
+    },
+    {
+      "title": "The Web Is More Than Enough, by Paul Ford",
+      "link": "https://ftrain.com/aboard-the-web-is-more-than-enough",
+      "is_new": false
+    },
+    {
+      "title": "Show HN: My compact, bio inspired distributed edge detection algorithm",
+      "link": "https://github.com/RenderBear/haci",
+      "is_new": true
+    },
+    {
+      "title": "Goodbye Claude, hello Pi",
+      "link": "https://caleb.software/posts/claude-to-pi.html",
+      "is_new": false
+    },
+    {
+      "title": "How I Fight AI Brain Fry",
+      "link": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
+      "is_new": false
+    },
+    {
+      "title": "Air holes turn silicon wafers into flat UV focusing mirrors for compact optics",
+      "link": "https://phys.org/news/2026-11-air-holes-silicon-wafers-flat.html",
+      "is_new": true
+    },
+    {
+      "title": "A Bit about Email",
+      "link": "https://maurycyz.com/misc/email/",
+      "is_new": true
+    },
+    {
+      "title": "Playing with the STM32MP2",
+      "link": "https://serd.es/2026/11/08/playing-with-stm32mp2.html",
+      "is_new": false
+    },
+    {
+      "title": "JIT bitmap text rendering for microcontrollers",
+      "link": "https://linebender.org/blog/jit-bitmap-text/",
+      "is_new": false
+    }
+  ],
+  "removed": [
     {
       "title": "Nvidia CEO Jensen Huang's letter to staff about affair",
       "link": "https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-affair-email-to-company",
       "is_new": true
-    },
-    {
-      "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
-      "link": "https://github.com/synchopate/llama-modchip",
-      "is_new": false
     },
     {
       "title": "Edward Hopper's Iconic Painting, \"Nighthawks",
@@ -68,16 +170,6 @@
       "is_new": true
     },
     {
-      "title": "Writing as a thinking tool",
-      "link": "http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html",
-      "is_new": false
-    },
-    {
-      "title": "Playing with the STM32MP2",
-      "link": "https://serd.es/2026/11/08/playing-with-stm32mp2.html",
-      "is_new": true
-    },
-    {
       "title": "The Kekulé Problem – Cormac McCarthy",
       "link": "https://nautil.us/the-kekul-problem-236574",
       "is_new": true
@@ -85,11 +177,6 @@
     {
       "title": "Show HN: Vegetable Gardening for Engineers",
       "link": "https://jrcpl.us/contrib/2020/gardening-for-engineers/",
-      "is_new": false
-    },
-    {
-      "title": "Goodbye Claude, hello Pi",
-      "link": "https://caleb.software/posts/claude-to-pi.html",
       "is_new": false
     },
     {
@@ -123,11 +210,6 @@
       "is_new": false
     },
     {
-      "title": "How I Fight AI Brain Fry",
-      "link": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
-      "is_new": false
-    },
-    {
       "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
       "link": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
       "is_new": false
@@ -143,66 +225,9 @@
       "is_new": false
     },
     {
-      "title": "JIT bitmap text rendering for microcontrollers",
-      "link": "https://linebender.org/blog/jit-bitmap-text/",
-      "is_new": false
-    },
-    {
       "title": "Agent memory needs its OpenTelemetry moment",
       "link": "https://www.lorekit.io/blog/open-agent-memory-format",
       "is_new": false
-    }
-  ],
-  "removed": [
-    {
-      "title": "RAM Altman: Linux Script Emails Sam Altman Daily How Much Unused RAM in Your PC",
-      "link": "https://respawnfirst.com/linux-script-emails-sam-altman-unused-ram-ram-altman/",
-      "is_new": true
-    },
-    {
-      "title": "Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
-      "link": "https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c",
-      "is_new": true
-    },
-    {
-      "title": "What I run on my $10 USD OpenStick homelab",
-      "link": "https://blog.bosscher.ch/posts/openstick/",
-      "is_new": false
-    },
-    {
-      "title": "Ads in Popular Apps Give Police a Powerful Tool to Spy on Users",
-      "link": "https://www.bloomberg.com/features/2026-police-phone-tracking-advertising-tech/",
-      "is_new": true
-    },
-    {
-      "title": "A field guide to CAPTCHA types and how they break",
-      "link": "https://github.com/vsmutok/FuckCaptcha",
-      "is_new": true
-    },
-    {
-      "title": "Clj.rs – a Clojure dialect implemented in Rust",
-      "link": "https://clj.rs/",
-      "is_new": false
-    },
-    {
-      "title": "Petered",
-      "link": "https://aworkinglibrary.com/writing/petered",
-      "is_new": false
-    },
-    {
-      "title": "The Gordon Gekko effect: The role of culture in the financial industry (2016) [pdf]",
-      "link": "https://www.newyorkfed.org/medialibrary/media/research/epr/2016/epr_2016_gordon-gekko-effect_lo.pdf",
-      "is_new": true
-    },
-    {
-      "title": "Person of Interest",
-      "link": "https://krthr.co/person-of-interest/",
-      "is_new": false
-    },
-    {
-      "title": "Tasfer: a text editor drawn on a 2D canvas",
-      "link": "https://www.hamza.se/blog/tasfer",
-      "is_new": true
     }
   ]
 }
