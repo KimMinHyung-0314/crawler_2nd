@@ -1,22 +1,159 @@
 {
-  "crawled_at": "2026-11-09 16:36",
-  "prev_crawled_at": "2026-11-09 09:28",
+  "crawled_at": "2026-11-10 03:14",
+  "prev_crawled_at": "2026-11-09 16:36",
   "items": [
+    {
+      "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
+      "link": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
+      "is_new": true
+    },
+    {
+      "title": "Fold Epic Paper Airplanes",
+      "link": "https://www.foldableflight.com",
+      "is_new": true
+    },
+    {
+      "title": "Magenta solar panels may be agrivoltaics' cleverest trick yet",
+      "link": "https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet/",
+      "is_new": true
+    },
+    {
+      "title": "When will this stop? The Raspberry Pi 5 16GB SBC now sells for $385",
+      "link": "https://www.cnx-software.com/2026/11/03/when-will-this-stop-the-raspberry-pi-5-16gb-sbc-now-sells-for-385/",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: DBDelve – Open-Source DB Client Made with Rust and GPUI",
+      "link": "https://news.ycombinator.com/item?id=50427934",
+      "is_new": true
+    },
+    {
+      "title": "Going back two years on Hacker News is like entering another, better universe",
+      "link": "https://news.ycombinator.com/front?day=2024-11-08",
+      "is_new": true
+    },
+    {
+      "title": "Zebkit – Chromium as an embeddable library",
+      "link": "https://github.com/ikey4u/zebkit",
+      "is_new": true
+    },
+    {
+      "title": "Y/N (YC S23) Is Hiring a Growth Lead to Distribute Superhuman A.I. Storytelling",
+      "link": "https://www.ycombinator.com/companies/yn/jobs/TjDn3YZ-founding-growth-marketer",
+      "is_new": true
+    },
+    {
+      "title": "Is Opus 5.5 nerfed? Thinking patterns changed on November 3",
+      "link": "https://twitter.com/shanemelaugh/status/2119192075505893695",
+      "is_new": true
+    },
+    {
+      "title": "What is malloc doing, anyway?",
+      "link": "https://benmandrew.com/articles/what-is-malloc-doing-anyway",
+      "is_new": true
+    },
+    {
+      "title": "The same H100 costs $2.69 or $12.29 an hour depending where you rent it",
+      "link": "https://github.com/datareceipts/data-receipts/tree/main/109-gpu-pricing",
+      "is_new": true
+    },
+    {
+      "title": "Pigshell: Unix the Web",
+      "link": "http://pigshell.com/v/0.6.4/",
+      "is_new": true
+    },
+    {
+      "title": "Unlocking any car from X brand in most of the world",
+      "link": "https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/",
+      "is_new": false
+    },
+    {
+      "title": "Cryptocurrency lawsuit: Ethereum Foundation required \"suicide pledge\"",
+      "link": "https://www.denverpost.com/2026/11/06/ethereum-suicide-pledge-lawsuit-mandate-boulder-crypto/",
+      "is_new": true
+    },
+    {
+      "title": "Isn't It Time for AVIF Everywhere?",
+      "link": "https://www.michaelponders.com/2026/11/isnt-it-time-for-avif-everywhere.html",
+      "is_new": true
+    },
+    {
+      "title": "Fun things to do with your VM/370 CE machine – Fun with big computers",
+      "link": "https://rbanffy.github.io/fun-with-big-computers/fun-with-vm370/",
+      "is_new": true
+    },
+    {
+      "title": "I saw your HN comment",
+      "link": "https://joshstrange.com/2026/11/09/i-saw-your-hn-comment/",
+      "is_new": true
+    },
     {
       "title": "KetchUp – Open-source SketchUp alternative built with Rust and WebGPU",
       "link": "https://ketchup3d.github.io/app/",
       "is_new": false
     },
     {
-      "title": "Unlocking any car from X brand in most of the world",
-      "link": "https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/",
+      "title": "Next-Concept Modeling: Fast, Parallel Coarse-to-Fine Text Generation",
+      "link": "https://arxiv.org/abs/2610.14162",
+      "is_new": true
+    },
+    {
+      "title": "Starship Flight 15 on 11/13 plans to catch both booster and ship",
+      "link": "https://www.spacex.com/launches/starship-flight-15",
+      "is_new": true
+    },
+    {
+      "title": "Active Benchmarking",
+      "link": "https://www.brendangregg.com/activebenchmarking.html",
+      "is_new": true
+    },
+    {
+      "title": "The Web Is More Than Enough",
+      "link": "https://ftrain.com/aboard-the-web-is-more-than-enough",
+      "is_new": false
+    },
+    {
+      "title": "Try Gleam",
+      "link": "https://nchagnet.eu/blog/you-should-try-gleam",
+      "is_new": true
+    },
+    {
+      "title": "Children of Men: The future is a mirror for the present",
+      "link": "https://reactormag.com/children-of-men-the-future-is-a-mirror-for-the-present/",
+      "is_new": true
+    },
+    {
+      "title": "Turning the HEIC decoder into a SHA-256 computer",
+      "link": "https://www.irisc2.com/blog/heic-hashquine",
+      "is_new": true
+    },
+    {
+      "title": "The Learjet Repo Man (2009)",
+      "link": "https://www.salon.com/2009/06/06/lear_jet_repo_man/",
+      "is_new": true
+    },
+    {
+      "title": "Pointer Provenance in Rust vs. C++: Pointers Are Not Just Glorified Ints",
+      "link": "https://sofiabelen.github.io/projects/pointer-provenance-in-rust-vs-cpp/",
       "is_new": true
     },
     {
       "title": "I'm not convinced the AI bubble exists",
       "link": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists",
-      "is_new": true
+      "is_new": false
     },
+    {
+      "title": "Outlook.com is rejecting email from domains without DMARC",
+      "link": "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc",
+      "is_new": false
+    },
+    {
+      "title": "Burying the Evidence: nine out of every 10 time capsules go missing",
+      "link": "https://longreads.com/2026/11/05/time-capsules-ashley-stimpson/",
+      "is_new": true
+    }
+  ],
+  "removed": [
     {
       "title": "Chimera Vocal Synth",
       "link": "https://chimera-vocal-synth.vercel.app/",
@@ -30,11 +167,6 @@
     {
       "title": "Dux: Free, open-source Wayland desktop shell with file manager and theming",
       "link": "https://duxlabs.dev/",
-      "is_new": false
-    },
-    {
-      "title": "Outlook.com is rejecting email from domains without DMARC",
-      "link": "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc",
       "is_new": false
     },
     {
@@ -113,11 +245,6 @@
       "is_new": true
     },
     {
-      "title": "The Web Is More Than Enough, by Paul Ford",
-      "link": "https://ftrain.com/aboard-the-web-is-more-than-enough",
-      "is_new": false
-    },
-    {
       "title": "Show HN: My compact, bio inspired distributed edge detection algorithm",
       "link": "https://github.com/RenderBear/haci",
       "is_new": true
@@ -150,83 +277,6 @@
     {
       "title": "JIT bitmap text rendering for microcontrollers",
       "link": "https://linebender.org/blog/jit-bitmap-text/",
-      "is_new": false
-    }
-  ],
-  "removed": [
-    {
-      "title": "Nvidia CEO Jensen Huang's letter to staff about affair",
-      "link": "https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-affair-email-to-company",
-      "is_new": true
-    },
-    {
-      "title": "Edward Hopper's Iconic Painting, \"Nighthawks",
-      "link": "https://lithub.com/the-story-behind-edward-hoppers-iconic-painting-nighthawks/",
-      "is_new": false
-    },
-    {
-      "title": "The History of Djgpp (1998)",
-      "link": "https://www.delorie.com/djgpp/history.html",
-      "is_new": true
-    },
-    {
-      "title": "The Kekulé Problem – Cormac McCarthy",
-      "link": "https://nautil.us/the-kekul-problem-236574",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: Vegetable Gardening for Engineers",
-      "link": "https://jrcpl.us/contrib/2020/gardening-for-engineers/",
-      "is_new": false
-    },
-    {
-      "title": "I'm not a fan of Deno's security model (2024)",
-      "link": "https://goldstein.lol/posts/deno-security/",
-      "is_new": false
-    },
-    {
-      "title": "Nvidia Board of Directors Is Investigating Jensen Huang",
-      "link": "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors",
-      "is_new": true
-    },
-    {
-      "title": "A Little Snitch for Windows",
-      "link": "https://packethound.app/",
-      "is_new": false
-    },
-    {
-      "title": "Porting Android 16 to my blind mother's keypad phone",
-      "link": "https://z1x.us/blog/four-hundred-bucks-of-e-waste",
-      "is_new": false
-    },
-    {
-      "title": "Playing Zork 1 on a CP/M emulator on Linux (2021)",
-      "link": "https://kevinboone.me/cpmzork.html",
-      "is_new": false
-    },
-    {
-      "title": "Starship Flight 15 on 11/13 plans to catch both booster and ship",
-      "link": "https://www.spacex.com/launches/starship-flight-15",
-      "is_new": false
-    },
-    {
-      "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
-      "link": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
-      "is_new": false
-    },
-    {
-      "title": "The Reconstruction of Torn Documents",
-      "link": "https://www.bundesarchiv.de/en/stasi-records-archive/the-reconstruction-of-torn-documents/",
-      "is_new": false
-    },
-    {
-      "title": "How to prove equations using diagrams, part 1",
-      "link": "https://www.epatters.org/post/e-graphs-1/",
-      "is_new": false
-    },
-    {
-      "title": "Agent memory needs its OpenTelemetry moment",
-      "link": "https://www.lorekit.io/blog/open-agent-memory-format",
       "is_new": false
     }
   ]
