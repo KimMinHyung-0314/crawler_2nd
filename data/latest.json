@@ -1,10 +1,60 @@
 {
-  "crawled_at": "2026-11-10 18:10",
-  "prev_crawled_at": "2026-11-10 10:51",
+  "crawled_at": "2026-11-11 02:27",
+  "prev_crawled_at": "2026-11-10 18:10",
   "items": [
+    {
+      "title": "Blender 5.3 released with Gaussian Splat support",
+      "link": "https://www.blender.org/download/releases/5-3/",
+      "is_new": true
+    },
+    {
+      "title": ".name Grandfathered",
+      "link": "https://neil.fraser.name/news/2026/11/10/",
+      "is_new": true
+    },
+    {
+      "title": "AlphaProof Code",
+      "link": "https://deepmind.google/blog/introducing-alphaproof-code/",
+      "is_new": true
+    },
+    {
+      "title": "Smart home devices should work without the internet",
+      "link": "https://docodethatmatters.com/home-automation-overnight-success/",
+      "is_new": true
+    },
+    {
+      "title": "Gemini 4 Carbon is now available",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/",
+      "is_new": true
+    },
+    {
+      "title": "The Hardest Tarball?",
+      "link": "https://stoppels.ch/2026/11/07/the-hardest-tarball.html",
+      "is_new": true
+    },
     {
       "title": "Amazon saves millions by replacing Sonnet 4.6 with Strands Decider",
       "link": "https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/",
+      "is_new": false
+    },
+    {
+      "title": "Show HN: Valencia, Spain in Sim City/Isometric View",
+      "link": "https://tinyvalencia.com/",
+      "is_new": true
+    },
+    {
+      "title": "NetBSD 11 desktop on a Raspberry Pi 4",
+      "link": "https://neongd.com/articles/netbsd11-rpi4.gmi",
+      "is_new": true
+    },
+    {
+      "title": "What's new in the .NET 11 runtime",
+      "link": "https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-11/runtime",
+      "is_new": true
+    },
+    {
+      "title": "Taking another shot at the cheap IP camera, part 2",
+      "link": "https://ericswpark.com/blog/2026/2026-11-09-ip-camera-pt2/",
       "is_new": true
     },
     {
@@ -13,19 +63,84 @@
       "is_new": false
     },
     {
+      "title": "AMD's Zen 6 Family: Feeding the Beast",
+      "link": "https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast",
+      "is_new": true
+    },
+    {
+      "title": "Queens Public library under ransomware attack e-borrowing suspended",
+      "link": "https://connect.queenslibrary.org/",
+      "is_new": true
+    },
+    {
+      "title": "I deleted all my SSH keys",
+      "link": "https://blog.infected.systems/posts/2026-11-03-i-deleted-all-my-ssh-keys/",
+      "is_new": true
+    },
+    {
+      "title": "PHP2Shell Deep Dive",
+      "link": "https://djad04.github.io/php2shell-deep-dive/",
+      "is_new": true
+    },
+    {
+      "title": "The Death Knell of Digital Search",
+      "link": "https://www.newyorker.com/culture/infinite-scroll/the-death-knell-of-digital-search",
+      "is_new": true
+    },
+    {
+      "title": "Let over Lambda–50 Years of Lisp (2008)",
+      "link": "https://letoverlambda.com/",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: Ghanaian street games you can play in the browser",
+      "link": "https://www.ghanastreetgames.com/",
+      "is_new": true
+    },
+    {
+      "title": "Here comes the sun[light]:An ambient Daylight Clock with time and space controls",
+      "link": "https://hannahilea.com/blog/daylight-clock/",
+      "is_new": true
+    },
+    {
+      "title": "Tailscale's DNS IPv6 spells out \"Tailscale\"",
+      "link": "https://www.reddit.com/r/Tailscale/comments/1xsr24r/tailscales_dns_ipv6_spells_out_tailscale_easter/",
+      "is_new": true
+    },
+    {
       "title": "USPS now offers official ZIP Code boundary polygons",
       "link": "https://postalpro.usps.com/zcb",
       "is_new": false
     },
     {
-      "title": "Your TV can see through walls",
-      "link": "https://maurycyz.com/projects/fading/",
+      "title": "Simon Winchester, Author of 'The Professor and the Madman,' Has Died",
+      "link": "https://www.nytimes.com/2026/11/04/obituaries/simon-winchester-dead.html",
       "is_new": true
+    },
+    {
+      "title": "Palantir hires a former Democratic senator as it faces scrutiny in new Congress",
+      "link": "https://text.npr.org/nx-s1-6029641",
+      "is_new": true
+    },
+    {
+      "title": "Your TV can see through walls (2025)",
+      "link": "https://maurycyz.com/projects/fading/",
+      "is_new": false
+    },
+    {
+      "title": "Fireworks AI security breach impacts Notion and their customers",
+      "link": "https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor",
+      "is_new": false
+    },
+    {
+      "title": "Foldable Flight: The Best Paper Airplanes",
+      "link": "https://www.foldableflight.com",
+      "is_new": false
     },
     {
       "title": "Locating the source of a mysterious beep",
       "link": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "E-means: Outperforming k-means in one-tenth the epochs",
@@ -36,12 +151,9 @@
       "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
       "link": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
       "is_new": false
-    },
-    {
-      "title": "Foldable Flight: The Best Paper Airplanes",
-      "link": "https://www.foldableflight.com",
-      "is_new": false
-    },
+    }
+  ],
+  "removed": [
     {
       "title": "Horible public key tricks",
       "link": "https://maurycyz.com/projects/badcert/",
@@ -65,11 +177,6 @@
     {
       "title": "Formalizing CPython",
       "link": "https://broyojo.com/python-formalization/",
-      "is_new": true
-    },
-    {
-      "title": "Fireworks AI security breach impacts Notion and their customers",
-      "link": "https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor",
       "is_new": true
     },
     {
@@ -150,73 +257,6 @@
     {
       "title": "Parking-app convenience fees in 312 U.S. cities (median $0.35 per session)",
       "link": "https://parkgraph.com/parking-app-fees",
-      "is_new": false
-    }
-  ],
-  "removed": [
-    {
-      "title": "TPU 8tx and TPU 8i Max",
-      "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/",
-      "is_new": true
-    },
-    {
-      "title": "Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
-      "link": "https://artificialanalysis.ai/models/claude-fable-5-2",
-      "is_new": true
-    },
-    {
-      "title": "Is Opus 5.5 nerfed? Thinking patterns changed on November 3",
-      "link": "https://twitter.com/shanemelaugh/status/2119192075505893695",
-      "is_new": false
-    },
-    {
-      "title": "An ode to livelyness analysis; SSA to registers",
-      "link": "https://xnacly.me/posts/2026/an-ode-to-livelyness-analysis/",
-      "is_new": true
-    },
-    {
-      "title": "CUI – Native UI components for C",
-      "link": "https://yappologistic.github.io/CUI/",
-      "is_new": true
-    },
-    {
-      "title": "A renowned scientist, a deadly snakebite, and a diary that documented it (2025)",
-      "link": "https://www.cbsnews.com/chicago/news/field-museum-karl-patterson-schmidt-deadly-snakebite-diary/",
-      "is_new": true
-    },
-    {
-      "title": "Y/N (YC S23) is hiring a growth lead to distribute superhuman A.I. storytelling",
-      "link": "https://www.ycombinator.com/companies/yn/jobs/TjDn3YZ-founding-growth-marketer",
-      "is_new": false
-    },
-    {
-      "title": "What is malloc doing, anyway?",
-      "link": "https://benmandrew.com/articles/what-is-malloc-doing-anyway",
-      "is_new": false
-    },
-    {
-      "title": "Deuterium's Impact on OLED Displays (2024)",
-      "link": "https://www.oled-info.com/deuteriums-impact-oled-displays",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: STE80 Humanizer – de-AI text by writing 80% of the way to ASD-STE100",
-      "link": "https://github.com/Dodaios/ste80-humanizer",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: Someone Was Here – Find out who used your Mac while you were away",
-      "link": "https://someonewashere.app/",
-      "is_new": true
-    },
-    {
-      "title": "Possible 19th-century castaway camp found on Isla de los Estados",
-      "link": "https://phys.org/news/2026-11-archaeologists-uncover-19th-century-castaway.html",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: DBDelve – Open-Source DB Client Made with Rust and GPUI",
-      "link": "https://news.ycombinator.com/item?id=50427934",
       "is_new": false
     }
   ]
