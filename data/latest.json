@@ -1,30 +1,162 @@
 {
-  "crawled_at": "2026-11-10 03:14",
-  "prev_crawled_at": "2026-11-09 16:36",
+  "crawled_at": "2026-11-10 10:51",
+  "prev_crawled_at": "2026-11-10 03:14",
   "items": [
+    {
+      "title": "USPS now offers official ZIP Code boundary polygons",
+      "link": "https://postalpro.usps.com/zcb",
+      "is_new": true
+    },
+    {
+      "title": "TPU 8tx and TPU 8i Max",
+      "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/",
+      "is_new": true
+    },
+    {
+      "title": "Fable 5.2 one-shotted my nephew's dream game",
+      "link": "https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game",
+      "is_new": true
+    },
+    {
+      "title": "Google Gemini routes personal Drive files and emails to human annotators",
+      "link": "https://github.com/thisisme6598/gemini_files/",
+      "is_new": true
+    },
+    {
+      "title": "Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
+      "link": "https://artificialanalysis.ai/models/claude-fable-5-2",
+      "is_new": true
+    },
+    {
+      "title": "Claude Fable 5.2 and Mythos 5.2",
+      "link": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+      "is_new": true
+    },
     {
       "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
       "link": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
+      "is_new": false
+    },
+    {
+      "title": "E-means: Outperforming k-means in one-tenth the epochs",
+      "link": "https://e-means.github.io/",
       "is_new": true
     },
     {
-      "title": "Fold Epic Paper Airplanes",
+      "title": "Foldable Flight: The Best Paper Airplanes",
       "link": "https://www.foldableflight.com",
+      "is_new": false
+    },
+    {
+      "title": "Our Smallest, Most Efficient Model: Muse Ember",
+      "link": "https://research.meta.ai/blog/muse-ember",
       "is_new": true
     },
     {
-      "title": "Magenta solar panels may be agrivoltaics' cleverest trick yet",
+      "title": "Horible public key tricks",
+      "link": "https://maurycyz.com/projects/badcert/",
+      "is_new": true
+    },
+    {
+      "title": "Infineon marks innovation milestone with 300mm power silicon carbide wafer",
+      "link": "https://www.infineon.com/press-release/2026/infpr202611-028",
+      "is_new": true
+    },
+    {
+      "title": "Semi-transparent, colored cadmium telluride photovoltaic panels in agrivoltaics",
       "link": "https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet/",
+      "is_new": false
+    },
+    {
+      "title": "Exact – a new cross platform UI framework by the Expo team",
+      "link": "https://github.com/expo/exact",
       "is_new": true
     },
     {
-      "title": "When will this stop? The Raspberry Pi 5 16GB SBC now sells for $385",
-      "link": "https://www.cnx-software.com/2026/11/03/when-will-this-stop-the-raspberry-pi-5-16gb-sbc-now-sells-for-385/",
+      "title": "A primer on GPUs and kernel optimization",
+      "link": "https://www.nabo.dev/blogs/kernel-primer",
+      "is_new": true
+    },
+    {
+      "title": "Is Opus 5.5 nerfed? Thinking patterns changed on November 3",
+      "link": "https://twitter.com/shanemelaugh/status/2119192075505893695",
+      "is_new": false
+    },
+    {
+      "title": "Parking-app convenience fees in 312 U.S. cities (median $0.35 per session)",
+      "link": "https://parkgraph.com/parking-app-fees",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: Every satellite that passed over any place this week, and its photos",
+      "link": "https://www.watched.earth",
+      "is_new": true
+    },
+    {
+      "title": "Never Gonna Print You Up",
+      "link": "https://dixken.de/blog/never-gonna-print-you-up",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: MeowDisplay Is iPhone Mirroring, but in Reverse",
+      "link": "https://meowdisplay.app/",
+      "is_new": true
+    },
+    {
+      "title": "An ode to livelyness analysis; SSA to registers",
+      "link": "https://xnacly.me/posts/2026/an-ode-to-livelyness-analysis/",
+      "is_new": true
+    },
+    {
+      "title": "CUI – Native UI components for C",
+      "link": "https://yappologistic.github.io/CUI/",
+      "is_new": true
+    },
+    {
+      "title": "A renowned scientist, a deadly snakebite, and a diary that documented it (2025)",
+      "link": "https://www.cbsnews.com/chicago/news/field-museum-karl-patterson-schmidt-deadly-snakebite-diary/",
+      "is_new": true
+    },
+    {
+      "title": "Y/N (YC S23) is hiring a growth lead to distribute superhuman A.I. storytelling",
+      "link": "https://www.ycombinator.com/companies/yn/jobs/TjDn3YZ-founding-growth-marketer",
+      "is_new": false
+    },
+    {
+      "title": "What is malloc doing, anyway?",
+      "link": "https://benmandrew.com/articles/what-is-malloc-doing-anyway",
+      "is_new": false
+    },
+    {
+      "title": "Deuterium's Impact on OLED Displays (2024)",
+      "link": "https://www.oled-info.com/deuteriums-impact-oled-displays",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: STE80 Humanizer – de-AI text by writing 80% of the way to ASD-STE100",
+      "link": "https://github.com/Dodaios/ste80-humanizer",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: Someone Was Here – Find out who used your Mac while you were away",
+      "link": "https://someonewashere.app/",
+      "is_new": true
+    },
+    {
+      "title": "Possible 19th-century castaway camp found on Isla de los Estados",
+      "link": "https://phys.org/news/2026-11-archaeologists-uncover-19th-century-castaway.html",
       "is_new": true
     },
     {
       "title": "Show HN: DBDelve – Open-Source DB Client Made with Rust and GPUI",
       "link": "https://news.ycombinator.com/item?id=50427934",
+      "is_new": false
+    }
+  ],
+  "removed": [
+    {
+      "title": "When will this stop? The Raspberry Pi 5 16GB SBC now sells for $385",
+      "link": "https://www.cnx-software.com/2026/11/03/when-will-this-stop-the-raspberry-pi-5-16gb-sbc-now-sells-for-385/",
       "is_new": true
     },
     {
@@ -35,21 +167,6 @@
     {
       "title": "Zebkit – Chromium as an embeddable library",
       "link": "https://github.com/ikey4u/zebkit",
-      "is_new": true
-    },
-    {
-      "title": "Y/N (YC S23) Is Hiring a Growth Lead to Distribute Superhuman A.I. Storytelling",
-      "link": "https://www.ycombinator.com/companies/yn/jobs/TjDn3YZ-founding-growth-marketer",
-      "is_new": true
-    },
-    {
-      "title": "Is Opus 5.5 nerfed? Thinking patterns changed on November 3",
-      "link": "https://twitter.com/shanemelaugh/status/2119192075505893695",
-      "is_new": true
-    },
-    {
-      "title": "What is malloc doing, anyway?",
-      "link": "https://benmandrew.com/articles/what-is-malloc-doing-anyway",
       "is_new": true
     },
     {
@@ -151,133 +268,6 @@
       "title": "Burying the Evidence: nine out of every 10 time capsules go missing",
       "link": "https://longreads.com/2026/11/05/time-capsules-ashley-stimpson/",
       "is_new": true
-    }
-  ],
-  "removed": [
-    {
-      "title": "Chimera Vocal Synth",
-      "link": "https://chimera-vocal-synth.vercel.app/",
-      "is_new": false
-    },
-    {
-      "title": "Declarative Dragging",
-      "link": "https://declarative-dragging.github.io/",
-      "is_new": false
-    },
-    {
-      "title": "Dux: Free, open-source Wayland desktop shell with file manager and theming",
-      "link": "https://duxlabs.dev/",
-      "is_new": false
-    },
-    {
-      "title": "Ask HN: What are you working on? (November 2026)",
-      "link": "https://news.ycombinator.com/item?id=50417407",
-      "is_new": false
-    },
-    {
-      "title": "Nvidia CEO Jensen Huang's letter to staff about affair",
-      "link": "https://nvidianews.nvidia.com/news/a-message-to-our-company",
-      "is_new": true
-    },
-    {
-      "title": "A Critique of GPUI",
-      "link": "https://blog.zortax.de/posts/a-critique-of-gpui",
-      "is_new": true
-    },
-    {
-      "title": "Ask HN: How do you manage your AI agents' context across clients and projects?",
-      "link": "https://news.ycombinator.com/item?id=50403153",
-      "is_new": true
-    },
-    {
-      "title": "RIP, Harvest",
-      "link": "https://aphyr.com/posts/427-rip-harvest",
-      "is_new": true
-    },
-    {
-      "title": "The Qlobe: Rotating Quine (2010)",
-      "link": "http://mamememo.blogspot.com/2010/09/qlobe.html",
-      "is_new": true
-    },
-    {
-      "title": "Quasi-Logarithmic Kitchen Timer",
-      "link": "https://blog.coredump.cx/p/quasi-logarithmic-kitchen-timer",
-      "is_new": true
-    },
-    {
-      "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
-      "link": "https://github.com/synchopate/llama-modchip",
-      "is_new": false
-    },
-    {
-      "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
-      "link": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
-      "is_new": false
-    },
-    {
-      "title": "Ur-Nammu Founder of the Sumerian Renaissance",
-      "link": "https://www.worldhistory.org/Ur-Nammu/",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: Flide: Make Jev-like decision models up to 9.5x faster",
-      "link": "https://github.com/OmniJev/Flide",
-      "is_new": true
-    },
-    {
-      "title": "When a language's creator and its owners strongly disagree [pdf]",
-      "link": "https://isocpp.org/files/papers/P4454R0.pdf",
-      "is_new": false
-    },
-    {
-      "title": "Writing as a thinking tool",
-      "link": "http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html",
-      "is_new": false
-    },
-    {
-      "title": "Show HN: JavaScript web apps with WASM layout and GPU rendering in 280 KB",
-      "link": "https://github.com/rkaehn/uniform",
-      "is_new": true
-    },
-    {
-      "title": "Branching Beyond Leonardo: The Evolution of Tree Architecture Theory",
-      "link": "https://blue-continuum.com/branching-beyond-leonardo",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: My compact, bio inspired distributed edge detection algorithm",
-      "link": "https://github.com/RenderBear/haci",
-      "is_new": true
-    },
-    {
-      "title": "Goodbye Claude, hello Pi",
-      "link": "https://caleb.software/posts/claude-to-pi.html",
-      "is_new": false
-    },
-    {
-      "title": "How I Fight AI Brain Fry",
-      "link": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
-      "is_new": false
-    },
-    {
-      "title": "Air holes turn silicon wafers into flat UV focusing mirrors for compact optics",
-      "link": "https://phys.org/news/2026-11-air-holes-silicon-wafers-flat.html",
-      "is_new": true
-    },
-    {
-      "title": "A Bit about Email",
-      "link": "https://maurycyz.com/misc/email/",
-      "is_new": true
-    },
-    {
-      "title": "Playing with the STM32MP2",
-      "link": "https://serd.es/2026/11/08/playing-with-stm32mp2.html",
-      "is_new": false
-    },
-    {
-      "title": "JIT bitmap text rendering for microcontrollers",
-      "link": "https://linebender.org/blog/jit-bitmap-text/",
-      "is_new": false
     }
   ]
 }
