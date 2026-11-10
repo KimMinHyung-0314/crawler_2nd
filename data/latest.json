@@ -1,36 +1,36 @@
 {
-  "crawled_at": "2026-11-10 10:51",
-  "prev_crawled_at": "2026-11-10 03:14",
+  "crawled_at": "2026-11-10 18:10",
+  "prev_crawled_at": "2026-11-10 10:51",
   "items": [
     {
-      "title": "USPS now offers official ZIP Code boundary polygons",
-      "link": "https://postalpro.usps.com/zcb",
-      "is_new": true
-    },
-    {
-      "title": "TPU 8tx and TPU 8i Max",
-      "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/",
-      "is_new": true
-    },
-    {
-      "title": "Fable 5.2 one-shotted my nephew's dream game",
-      "link": "https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game",
-      "is_new": true
-    },
-    {
-      "title": "Google Gemini routes personal Drive files and emails to human annotators",
-      "link": "https://github.com/thisisme6598/gemini_files/",
-      "is_new": true
-    },
-    {
-      "title": "Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
-      "link": "https://artificialanalysis.ai/models/claude-fable-5-2",
+      "title": "Amazon saves millions by replacing Sonnet 4.6 with Strands Decider",
+      "link": "https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/",
       "is_new": true
     },
     {
       "title": "Claude Fable 5.2 and Mythos 5.2",
       "link": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+      "is_new": false
+    },
+    {
+      "title": "USPS now offers official ZIP Code boundary polygons",
+      "link": "https://postalpro.usps.com/zcb",
+      "is_new": false
+    },
+    {
+      "title": "Your TV can see through walls",
+      "link": "https://maurycyz.com/projects/fading/",
       "is_new": true
+    },
+    {
+      "title": "Locating the source of a mysterious beep",
+      "link": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
+      "is_new": true
+    },
+    {
+      "title": "E-means: Outperforming k-means in one-tenth the epochs",
+      "link": "https://e-means.github.io/",
+      "is_new": false
     },
     {
       "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
@@ -38,28 +38,23 @@
       "is_new": false
     },
     {
-      "title": "E-means: Outperforming k-means in one-tenth the epochs",
-      "link": "https://e-means.github.io/",
-      "is_new": true
-    },
-    {
       "title": "Foldable Flight: The Best Paper Airplanes",
       "link": "https://www.foldableflight.com",
       "is_new": false
     },
     {
-      "title": "Our Smallest, Most Efficient Model: Muse Ember",
-      "link": "https://research.meta.ai/blog/muse-ember",
-      "is_new": true
-    },
-    {
       "title": "Horible public key tricks",
       "link": "https://maurycyz.com/projects/badcert/",
+      "is_new": false
+    },
+    {
+      "title": "Ultorg: The User Interface for Relational Databases",
+      "link": "https://www.ultorg.com/",
       "is_new": true
     },
     {
-      "title": "Infineon marks innovation milestone with 300mm power silicon carbide wafer",
-      "link": "https://www.infineon.com/press-release/2026/infpr202611-028",
+      "title": "A failed experiment in laptop cooling",
+      "link": "https://kevinboone.me/failed_cooling.html",
       "is_new": true
     },
     {
@@ -68,39 +63,111 @@
       "is_new": false
     },
     {
-      "title": "Exact – a new cross platform UI framework by the Expo team",
-      "link": "https://github.com/expo/exact",
+      "title": "Formalizing CPython",
+      "link": "https://broyojo.com/python-formalization/",
       "is_new": true
+    },
+    {
+      "title": "Fireworks AI security breach impacts Notion and their customers",
+      "link": "https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor",
+      "is_new": true
+    },
+    {
+      "title": "M John Harrison becomes first science fiction author to win the Booker prize",
+      "link": "https://www.theguardian.com/books/2026/nov/09/m-john-harrison-the-end-of-everything-wins-2026-booker-prize",
+      "is_new": true
+    },
+    {
+      "title": "CoreWeave bond yield tops 16% as AI credit stress rises",
+      "link": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
+      "is_new": true
+    },
+    {
+      "title": "How hard is it to check for whitespace?",
+      "link": "https://serce.me/posts/2026-10-30-how-hard-is-it-to-check-for-whitespace",
+      "is_new": true
+    },
+    {
+      "title": "The first 300-millimeter power silicon carbide (SiC) wafer",
+      "link": "https://www.infineon.com/press-release/2026/infpr202611-028",
+      "is_new": false
     },
     {
       "title": "A primer on GPUs and kernel optimization",
       "link": "https://www.nabo.dev/blogs/kernel-primer",
+      "is_new": false
+    },
+    {
+      "title": "Show HN: Every satellite that passed over any place this week, and its photos",
+      "link": "https://www.watched.earth",
+      "is_new": false
+    },
+    {
+      "title": "ClickHouse Acquires Xata",
+      "link": "https://xata.io/blog/xata-is-joining-clickhouse",
+      "is_new": true
+    },
+    {
+      "title": "Google Gemini routes personal Drive files and emails to human annotators",
+      "link": "https://github.com/thisisme6598/gemini_files/",
+      "is_new": false
+    },
+    {
+      "title": "Muse Ember: Our smallest, most efficient model",
+      "link": "https://research.meta.ai/blog/muse-ember",
+      "is_new": false
+    },
+    {
+      "title": "Fable 5.2 one-shotted my nephew's dream game",
+      "link": "https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game",
+      "is_new": false
+    },
+    {
+      "title": "On Being an Engineer in 2026",
+      "link": "https://twitter.com/shaharglazner/status/2119796029256032278",
+      "is_new": true
+    },
+    {
+      "title": "Never Gonna Print You Up",
+      "link": "https://dixken.de/blog/never-gonna-print-you-up",
+      "is_new": false
+    },
+    {
+      "title": "Time for AVIF everywhere?",
+      "link": "https://www.michaelponders.com/2026/11/isnt-it-time-for-avif-everywhere.html",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: MeowDisplay Is iPhone Mirroring, but in Reverse",
+      "link": "https://meowdisplay.app/",
+      "is_new": false
+    },
+    {
+      "title": "Exact – a new cross platform UI framework",
+      "link": "https://github.com/expo/exact",
+      "is_new": false
+    },
+    {
+      "title": "Parking-app convenience fees in 312 U.S. cities (median $0.35 per session)",
+      "link": "https://parkgraph.com/parking-app-fees",
+      "is_new": false
+    }
+  ],
+  "removed": [
+    {
+      "title": "TPU 8tx and TPU 8i Max",
+      "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/",
+      "is_new": true
+    },
+    {
+      "title": "Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
+      "link": "https://artificialanalysis.ai/models/claude-fable-5-2",
       "is_new": true
     },
     {
       "title": "Is Opus 5.5 nerfed? Thinking patterns changed on November 3",
       "link": "https://twitter.com/shanemelaugh/status/2119192075505893695",
       "is_new": false
-    },
-    {
-      "title": "Parking-app convenience fees in 312 U.S. cities (median $0.35 per session)",
-      "link": "https://parkgraph.com/parking-app-fees",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: Every satellite that passed over any place this week, and its photos",
-      "link": "https://www.watched.earth",
-      "is_new": true
-    },
-    {
-      "title": "Never Gonna Print You Up",
-      "link": "https://dixken.de/blog/never-gonna-print-you-up",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: MeowDisplay Is iPhone Mirroring, but in Reverse",
-      "link": "https://meowdisplay.app/",
-      "is_new": true
     },
     {
       "title": "An ode to livelyness analysis; SSA to registers",
@@ -151,123 +218,6 @@
       "title": "Show HN: DBDelve – Open-Source DB Client Made with Rust and GPUI",
       "link": "https://news.ycombinator.com/item?id=50427934",
       "is_new": false
-    }
-  ],
-  "removed": [
-    {
-      "title": "When will this stop? The Raspberry Pi 5 16GB SBC now sells for $385",
-      "link": "https://www.cnx-software.com/2026/11/03/when-will-this-stop-the-raspberry-pi-5-16gb-sbc-now-sells-for-385/",
-      "is_new": true
-    },
-    {
-      "title": "Going back two years on Hacker News is like entering another, better universe",
-      "link": "https://news.ycombinator.com/front?day=2024-11-08",
-      "is_new": true
-    },
-    {
-      "title": "Zebkit – Chromium as an embeddable library",
-      "link": "https://github.com/ikey4u/zebkit",
-      "is_new": true
-    },
-    {
-      "title": "The same H100 costs $2.69 or $12.29 an hour depending where you rent it",
-      "link": "https://github.com/datareceipts/data-receipts/tree/main/109-gpu-pricing",
-      "is_new": true
-    },
-    {
-      "title": "Pigshell: Unix the Web",
-      "link": "http://pigshell.com/v/0.6.4/",
-      "is_new": true
-    },
-    {
-      "title": "Unlocking any car from X brand in most of the world",
-      "link": "https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/",
-      "is_new": false
-    },
-    {
-      "title": "Cryptocurrency lawsuit: Ethereum Foundation required \"suicide pledge\"",
-      "link": "https://www.denverpost.com/2026/11/06/ethereum-suicide-pledge-lawsuit-mandate-boulder-crypto/",
-      "is_new": true
-    },
-    {
-      "title": "Isn't It Time for AVIF Everywhere?",
-      "link": "https://www.michaelponders.com/2026/11/isnt-it-time-for-avif-everywhere.html",
-      "is_new": true
-    },
-    {
-      "title": "Fun things to do with your VM/370 CE machine – Fun with big computers",
-      "link": "https://rbanffy.github.io/fun-with-big-computers/fun-with-vm370/",
-      "is_new": true
-    },
-    {
-      "title": "I saw your HN comment",
-      "link": "https://joshstrange.com/2026/11/09/i-saw-your-hn-comment/",
-      "is_new": true
-    },
-    {
-      "title": "KetchUp – Open-source SketchUp alternative built with Rust and WebGPU",
-      "link": "https://ketchup3d.github.io/app/",
-      "is_new": false
-    },
-    {
-      "title": "Next-Concept Modeling: Fast, Parallel Coarse-to-Fine Text Generation",
-      "link": "https://arxiv.org/abs/2610.14162",
-      "is_new": true
-    },
-    {
-      "title": "Starship Flight 15 on 11/13 plans to catch both booster and ship",
-      "link": "https://www.spacex.com/launches/starship-flight-15",
-      "is_new": true
-    },
-    {
-      "title": "Active Benchmarking",
-      "link": "https://www.brendangregg.com/activebenchmarking.html",
-      "is_new": true
-    },
-    {
-      "title": "The Web Is More Than Enough",
-      "link": "https://ftrain.com/aboard-the-web-is-more-than-enough",
-      "is_new": false
-    },
-    {
-      "title": "Try Gleam",
-      "link": "https://nchagnet.eu/blog/you-should-try-gleam",
-      "is_new": true
-    },
-    {
-      "title": "Children of Men: The future is a mirror for the present",
-      "link": "https://reactormag.com/children-of-men-the-future-is-a-mirror-for-the-present/",
-      "is_new": true
-    },
-    {
-      "title": "Turning the HEIC decoder into a SHA-256 computer",
-      "link": "https://www.irisc2.com/blog/heic-hashquine",
-      "is_new": true
-    },
-    {
-      "title": "The Learjet Repo Man (2009)",
-      "link": "https://www.salon.com/2009/06/06/lear_jet_repo_man/",
-      "is_new": true
-    },
-    {
-      "title": "Pointer Provenance in Rust vs. C++: Pointers Are Not Just Glorified Ints",
-      "link": "https://sofiabelen.github.io/projects/pointer-provenance-in-rust-vs-cpp/",
-      "is_new": true
-    },
-    {
-      "title": "I'm not convinced the AI bubble exists",
-      "link": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists",
-      "is_new": false
-    },
-    {
-      "title": "Outlook.com is rejecting email from domains without DMARC",
-      "link": "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc",
-      "is_new": false
-    },
-    {
-      "title": "Burying the Evidence: nine out of every 10 time capsules go missing",
-      "link": "https://longreads.com/2026/11/05/time-capsules-ashley-stimpson/",
-      "is_new": true
     }
   ]
 }
