@@ -1,15 +1,25 @@
 {
-  "crawled_at": "2026-11-11 07:46",
-  "prev_crawled_at": "2026-11-11 02:27",
+  "crawled_at": "2026-11-11 11:29",
+  "prev_crawled_at": "2026-11-11 07:46",
   "items": [
     {
-      "title": "Toyota brand Scion is back and it's going to sell a kei truck in America",
-      "link": "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/",
+      "title": "After 7 months, Glasswing overwelms maintainers with underwhelming findings",
+      "link": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
+      "is_new": false
+    },
+    {
+      "title": "A great old-timey game-programming hack (2013)",
+      "link": "https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html",
       "is_new": true
     },
     {
       "title": ".name Grandfathered",
       "link": "https://neil.fraser.name/news/2026/11/10/",
+      "is_new": false
+    },
+    {
+      "title": "Scion is back and is going to sell a kei truck in America",
+      "link": "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/",
       "is_new": false
     },
     {
@@ -20,27 +30,27 @@
     {
       "title": "Six Math Essentials by Terence Tao",
       "link": "https://teorth.github.io/tao-web/six-math-essentials.html",
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Synaptics patent claims stop work on DisplayLink drivers",
       "link": "https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/",
+      "is_new": false
+    },
+    {
+      "title": "Starlink Mini 2",
+      "link": "https://starlink.com/mini-2",
       "is_new": true
     },
     {
-      "title": "Sherman Anti-Trust Act (1890)",
-      "link": "https://www.archives.gov/milestone-documents/sherman-anti-trust-act",
+      "title": "Hacking the Meta Ray-Ban smartglasses",
+      "link": "https://p0pcycle.com/2026/11/06/hacking-the-meta-ray-ban-smartglasses/",
       "is_new": true
     },
     {
       "title": "Val Town is winding down",
       "link": "https://blog.val.town/winding-down",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
-      "link": "https://github.com/GoogleChrome/modern-web-guidance",
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "AlphaProof Code",
@@ -48,8 +58,38 @@
       "is_new": false
     },
     {
+      "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
+      "link": "https://github.com/GoogleChrome/modern-web-guidance",
+      "is_new": false
+    },
+    {
+      "title": "Pinot Noir: inside the criminal gangs making fake wine",
+      "link": "https://www.economist.com/interactive/2026/11/06/pinot-noir-inside-the-criminal-gangs-making-fake-wine",
+      "is_new": true
+    },
+    {
+      "title": "The DRAM interface and the PHY (why a DDR3+ interface must be tuned at boot)",
+      "link": "https://github.com/enjoy-digital/litedram/blob/master/doc/manual/03_dram_interface.md",
+      "is_new": true
+    },
+    {
+      "title": "LLMs Play Zachtronics' TIS-100",
+      "link": "https://tis-100.wincon.dev/",
+      "is_new": true
+    },
+    {
+      "title": "AI is an information gateway. Audiences still don't want it making their news",
+      "link": "https://www.niemanlab.org/2026/11/ai-is-becoming-an-information-gateway-audiences-still-dont-want-it-making-their-news/",
+      "is_new": true
+    },
+    {
       "title": "What objective is reasoning solving?",
       "link": "https://alexwang.ai/posts/reasoning-as-pathfinding/",
+      "is_new": false
+    },
+    {
+      "title": "$30M Raised to Redo the CPU",
+      "link": "https://tendrils.co/blog/2026-11-10/30m-raised",
       "is_new": true
     },
     {
@@ -58,39 +98,71 @@
       "is_new": false
     },
     {
-      "title": "rVPN – stealth VPN with end-to-end encryption",
-      "link": "https://rvpn.org/",
-      "is_new": true
-    },
-    {
       "title": "A comprehensive study of how fingerprintable users are",
       "link": "https://fingerprinting.study/",
-      "is_new": true
-    },
-    {
-      "title": "Stable URLs for 42,000 Huts and Peaks",
-      "link": "https://peter-hoffmann.com/2026/stable-urls-for-huts-and-peaks.html",
-      "is_new": true
-    },
-    {
-      "title": "After 7 Months, Glasswing Overwelms Maintainers with Underwhelming Findings",
-      "link": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Ableton Live 13",
       "link": "https://www.ableton.com/en/live/",
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Process Explorer for macOS",
       "link": "https://github.com/microsoft/Procexp-Mac",
+      "is_new": false
+    },
+    {
+      "title": "Sherman Anti-Trust Act (1890)",
+      "link": "https://www.archives.gov/milestone-documents/sherman-anti-trust-act",
+      "is_new": false
+    },
+    {
+      "title": "Why I wrote the BEAM book (2025)",
+      "link": "https://happihacking.com/blog/posts/2025/why_I_wrote_theBEAMBook/",
       "is_new": true
     },
     {
       "title": "Show HN: Valencia, Spain in Sim City/Isometric View",
       "link": "https://tinyvalencia.com/",
       "is_new": false
+    },
+    {
+      "title": "AI usage generates a fragile codebase",
+      "link": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
+      "is_new": false
+    },
+    {
+      "title": "Simon Winchester has died",
+      "link": "https://www.nytimes.com/2026/11/04/obituaries/simon-winchester-dead.html",
+      "is_new": true
+    },
+    {
+      "title": "Research taste in history: the importance of learning Babylonian math",
+      "link": "https://resobscura.substack.com/p/research-taste-in-history-the-importance",
+      "is_new": true
+    },
+    {
+      "title": "What's new in the .NET 11 runtime",
+      "link": "https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-11/runtime",
+      "is_new": false
+    },
+    {
+      "title": "Show HN: Aircad – Professional drafting and 3D modeling in the browser",
+      "link": "https://aircad.com",
+      "is_new": true
+    }
+  ],
+  "removed": [
+    {
+      "title": "rVPN – stealth VPN with end-to-end encryption",
+      "link": "https://rvpn.org/",
+      "is_new": true
+    },
+    {
+      "title": "Stable URLs for 42,000 Huts and Peaks",
+      "link": "https://peter-hoffmann.com/2026/stable-urls-for-huts-and-peaks.html",
+      "is_new": true
     },
     {
       "title": "Blender 5.3 released with Gaussian Splat support",
@@ -110,16 +182,6 @@
     {
       "title": "Claude Whiteboards, Claude Sheets, and Claude Data",
       "link": "https://claude.com/resources/articles/sheets-whiteboards-data",
-      "is_new": true
-    },
-    {
-      "title": "What's new in the .NET 11 runtime",
-      "link": "https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-11/runtime",
-      "is_new": false
-    },
-    {
-      "title": "AI usage generates a fragile codebase",
-      "link": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
       "is_new": true
     },
     {
@@ -150,113 +212,6 @@
     {
       "title": "NetBSD 11 desktop on a Raspberry Pi 4",
       "link": "https://neongd.com/articles/netbsd11-rpi4.gmi",
-      "is_new": false
-    }
-  ],
-  "removed": [
-    {
-      "title": "Gemini 4 Carbon is now available",
-      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/",
-      "is_new": true
-    },
-    {
-      "title": "The Hardest Tarball?",
-      "link": "https://stoppels.ch/2026/11/07/the-hardest-tarball.html",
-      "is_new": true
-    },
-    {
-      "title": "Amazon saves millions by replacing Sonnet 4.6 with Strands Decider",
-      "link": "https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/",
-      "is_new": false
-    },
-    {
-      "title": "Taking another shot at the cheap IP camera, part 2",
-      "link": "https://ericswpark.com/blog/2026/2026-11-09-ip-camera-pt2/",
-      "is_new": true
-    },
-    {
-      "title": "Claude Fable 5.2 and Mythos 5.2",
-      "link": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
-      "is_new": false
-    },
-    {
-      "title": "Queens Public library under ransomware attack e-borrowing suspended",
-      "link": "https://connect.queenslibrary.org/",
-      "is_new": true
-    },
-    {
-      "title": "PHP2Shell Deep Dive",
-      "link": "https://djad04.github.io/php2shell-deep-dive/",
-      "is_new": true
-    },
-    {
-      "title": "The Death Knell of Digital Search",
-      "link": "https://www.newyorker.com/culture/infinite-scroll/the-death-knell-of-digital-search",
-      "is_new": true
-    },
-    {
-      "title": "Let over Lambda–50 Years of Lisp (2008)",
-      "link": "https://letoverlambda.com/",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: Ghanaian street games you can play in the browser",
-      "link": "https://www.ghanastreetgames.com/",
-      "is_new": true
-    },
-    {
-      "title": "Here comes the sun[light]:An ambient Daylight Clock with time and space controls",
-      "link": "https://hannahilea.com/blog/daylight-clock/",
-      "is_new": true
-    },
-    {
-      "title": "Tailscale's DNS IPv6 spells out \"Tailscale\"",
-      "link": "https://www.reddit.com/r/Tailscale/comments/1xsr24r/tailscales_dns_ipv6_spells_out_tailscale_easter/",
-      "is_new": true
-    },
-    {
-      "title": "USPS now offers official ZIP Code boundary polygons",
-      "link": "https://postalpro.usps.com/zcb",
-      "is_new": false
-    },
-    {
-      "title": "Simon Winchester, Author of 'The Professor and the Madman,' Has Died",
-      "link": "https://www.nytimes.com/2026/11/04/obituaries/simon-winchester-dead.html",
-      "is_new": true
-    },
-    {
-      "title": "Palantir hires a former Democratic senator as it faces scrutiny in new Congress",
-      "link": "https://text.npr.org/nx-s1-6029641",
-      "is_new": true
-    },
-    {
-      "title": "Your TV can see through walls (2025)",
-      "link": "https://maurycyz.com/projects/fading/",
-      "is_new": false
-    },
-    {
-      "title": "Fireworks AI security breach impacts Notion and their customers",
-      "link": "https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor",
-      "is_new": false
-    },
-    {
-      "title": "Foldable Flight: The Best Paper Airplanes",
-      "link": "https://www.foldableflight.com",
-      "is_new": false
-    },
-    {
-      "title": "Locating the source of a mysterious beep",
-      "link": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
-      "is_new": false
-    },
-    {
-      "title": "E-means: Outperforming k-means in one-tenth the epochs",
-      "link": "https://e-means.github.io/",
-      "is_new": false
-    },
-    {
-      "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
-      "link": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
       "is_new": false
     }
   ]
