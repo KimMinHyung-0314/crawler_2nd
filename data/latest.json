@@ -1,16 +1,16 @@
 {
-  "crawled_at": "2026-11-11 11:29",
-  "prev_crawled_at": "2026-11-11 07:46",
+  "crawled_at": "2026-11-11 19:15",
+  "prev_crawled_at": "2026-11-11 11:29",
   "items": [
     {
-      "title": "After 7 months, Glasswing overwelms maintainers with underwhelming findings",
-      "link": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
-      "is_new": false
+      "title": "Protecting SSH Keys with macOS Secure Enclave",
+      "link": "https://gatezh.com/posts/macos-secure-enclave-ssh-keys/",
+      "is_new": true
     },
     {
-      "title": "A great old-timey game-programming hack (2013)",
-      "link": "https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html",
-      "is_new": true
+      "title": "Smart home devices should work without the internet",
+      "link": "https://docodethatmatters.com/home-automation-overnight-success/",
+      "is_new": false
     },
     {
       "title": ".name Grandfathered",
@@ -23,13 +23,33 @@
       "is_new": false
     },
     {
-      "title": "Smart home devices should work without the internet",
-      "link": "https://docodethatmatters.com/home-automation-overnight-success/",
+      "title": "Greg Kurtzer's Ginux is now a userspace kernel",
+      "link": "https://github.com/gmkurtzer/ginux",
+      "is_new": true
+    },
+    {
+      "title": "A great old-timey game-programming hack (2013)",
+      "link": "https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html",
       "is_new": false
     },
     {
-      "title": "Six Math Essentials by Terence Tao",
+      "title": "Apple has new Mac app coming to make running local AI models easy",
+      "link": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
+      "is_new": true
+    },
+    {
+      "title": "To deter bioterrorism, U.S. imposes new rules on ordering synthetic DNA",
+      "link": "https://www.science.org/content/article/deter-bioterrorism-u-s-imposes-new-rules-ordering-synthetic-dna",
+      "is_new": true
+    },
+    {
+      "title": "Six Math Essentials",
       "link": "https://teorth.github.io/tao-web/six-math-essentials.html",
+      "is_new": false
+    },
+    {
+      "title": "Why I wrote the BEAM book (2025)",
+      "link": "https://happihacking.com/blog/posts/2025/why_I_wrote_theBEAMBook/",
       "is_new": false
     },
     {
@@ -38,18 +58,13 @@
       "is_new": false
     },
     {
+      "title": "A Compendium of Abandoned Greenhouses",
+      "link": "https://www.messynessychic.com/2015/01/15/a-compendium-of-abandoned-greenhouses/",
+      "is_new": true
+    },
+    {
       "title": "Starlink Mini 2",
       "link": "https://starlink.com/mini-2",
-      "is_new": true
-    },
-    {
-      "title": "Hacking the Meta Ray-Ban smartglasses",
-      "link": "https://p0pcycle.com/2026/11/06/hacking-the-meta-ray-ban-smartglasses/",
-      "is_new": true
-    },
-    {
-      "title": "Val Town is winding down",
-      "link": "https://blog.val.town/winding-down",
       "is_new": false
     },
     {
@@ -58,10 +73,87 @@
       "is_new": false
     },
     {
+      "title": "Val Town is winding down",
+      "link": "https://blog.val.town/winding-down",
+      "is_new": false
+    },
+    {
+      "title": "Why Amstrad chose the 3\" drives",
+      "link": "https://www.cpcwiki.eu/forum/amstrad-cpc-hardware/why-amstrad-chose-the-3-drives/",
+      "is_new": true
+    },
+    {
+      "title": "Tracking Anthropic-discovered vulnerabilities",
+      "link": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
+      "is_new": false
+    },
+    {
+      "title": "A ZIP-style Prolog VM for trilog",
+      "link": "https://github.com/no382001/zipc",
+      "is_new": true
+    },
+    {
       "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
       "link": "https://github.com/GoogleChrome/modern-web-guidance",
       "is_new": false
     },
+    {
+      "title": "Hacking the Meta Ray-Ban smartglasses",
+      "link": "https://p0pcycle.com/2026/11/06/hacking-the-meta-ray-ban-smartglasses/",
+      "is_new": false
+    },
+    {
+      "title": "Claude Whiteboards, Claude Sheets, and Claude Data",
+      "link": "https://claude.com/resources/articles/sheets-whiteboards-data",
+      "is_new": true
+    },
+    {
+      "title": "AI usage generates a fragile codebase",
+      "link": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
+      "is_new": false
+    },
+    {
+      "title": "LLMs Play Zachtronics' TIS-100",
+      "link": "https://tis-100.wincon.dev/",
+      "is_new": false
+    },
+    {
+      "title": "AMD's Zen 6 Family: Feeding the Beast",
+      "link": "https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast",
+      "is_new": false
+    },
+    {
+      "title": "\"Jumping genes\" helped ants evolve after the extinction of the dinosaurs",
+      "link": "https://www.uni-muenster.de/news/view.php?cmdid=15659&utm_source=join1440&utm_medium=email&utm_placement=newsletter&user_id=66c4bf745d78644b3aa57b08",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: Black Ops II statically recompiled to native ARM64 macOS",
+      "link": "https://github.com/adrbn/bo2-mac",
+      "is_new": true
+    },
+    {
+      "title": "$30M Raised to Redo the CPU",
+      "link": "https://tendrils.co/blog/2026-11-10/30m-raised",
+      "is_new": false
+    },
+    {
+      "title": "Announcing .NET 11",
+      "link": "https://devblogs.microsoft.com/dotnet/announcing-dotnet-11/",
+      "is_new": true
+    },
+    {
+      "title": "Process Explorer for macOS",
+      "link": "https://github.com/microsoft/Procexp-Mac",
+      "is_new": false
+    },
+    {
+      "title": "Ableton Live 13",
+      "link": "https://www.ableton.com/en/live/",
+      "is_new": false
+    }
+  ],
+  "removed": [
     {
       "title": "Pinot Noir: inside the criminal gangs making fake wine",
       "link": "https://www.economist.com/interactive/2026/11/06/pinot-noir-inside-the-criminal-gangs-making-fake-wine",
@@ -70,11 +162,6 @@
     {
       "title": "The DRAM interface and the PHY (why a DDR3+ interface must be tuned at boot)",
       "link": "https://github.com/enjoy-digital/litedram/blob/master/doc/manual/03_dram_interface.md",
-      "is_new": true
-    },
-    {
-      "title": "LLMs Play Zachtronics' TIS-100",
-      "link": "https://tis-100.wincon.dev/",
       "is_new": true
     },
     {
@@ -88,28 +175,8 @@
       "is_new": false
     },
     {
-      "title": "$30M Raised to Redo the CPU",
-      "link": "https://tendrils.co/blog/2026-11-10/30m-raised",
-      "is_new": true
-    },
-    {
-      "title": "AMD's Zen 6 Family: Feeding the Beast",
-      "link": "https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast",
-      "is_new": false
-    },
-    {
       "title": "A comprehensive study of how fingerprintable users are",
       "link": "https://fingerprinting.study/",
-      "is_new": false
-    },
-    {
-      "title": "Ableton Live 13",
-      "link": "https://www.ableton.com/en/live/",
-      "is_new": false
-    },
-    {
-      "title": "Process Explorer for macOS",
-      "link": "https://github.com/microsoft/Procexp-Mac",
       "is_new": false
     },
     {
@@ -118,18 +185,8 @@
       "is_new": false
     },
     {
-      "title": "Why I wrote the BEAM book (2025)",
-      "link": "https://happihacking.com/blog/posts/2025/why_I_wrote_theBEAMBook/",
-      "is_new": true
-    },
-    {
       "title": "Show HN: Valencia, Spain in Sim City/Isometric View",
       "link": "https://tinyvalencia.com/",
-      "is_new": false
-    },
-    {
-      "title": "AI usage generates a fragile codebase",
-      "link": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
       "is_new": false
     },
     {
@@ -151,68 +208,6 @@
       "title": "Show HN: Aircad – Professional drafting and 3D modeling in the browser",
       "link": "https://aircad.com",
       "is_new": true
-    }
-  ],
-  "removed": [
-    {
-      "title": "rVPN – stealth VPN with end-to-end encryption",
-      "link": "https://rvpn.org/",
-      "is_new": true
-    },
-    {
-      "title": "Stable URLs for 42,000 Huts and Peaks",
-      "link": "https://peter-hoffmann.com/2026/stable-urls-for-huts-and-peaks.html",
-      "is_new": true
-    },
-    {
-      "title": "Blender 5.3 released with Gaussian Splat support",
-      "link": "https://www.blender.org/download/releases/5-3/",
-      "is_new": false
-    },
-    {
-      "title": "Life on Claude Nine",
-      "link": "https://babuschk.in/posts/2026-01-25-life-on-claude-nine.html",
-      "is_new": true
-    },
-    {
-      "title": "An Open Field Guide to Inference Engineering",
-      "link": "https://docs.modelplane.ai/guides/inference-guide",
-      "is_new": true
-    },
-    {
-      "title": "Claude Whiteboards, Claude Sheets, and Claude Data",
-      "link": "https://claude.com/resources/articles/sheets-whiteboards-data",
-      "is_new": true
-    },
-    {
-      "title": "The planet Vulcan: a cautionary tale",
-      "link": "https://kevinboone.me/vulcan.html",
-      "is_new": true
-    },
-    {
-      "title": "Apple has new Mac app coming to make running local AI models easy",
-      "link": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
-      "is_new": true
-    },
-    {
-      "title": "I deleted all my SSH keys",
-      "link": "https://blog.infected.systems/posts/2026-11-03-i-deleted-all-my-ssh-keys/",
-      "is_new": false
-    },
-    {
-      "title": "What constant surveillance is doing to children and parents",
-      "link": "https://www.theatlantic.com/magazine/2026/12/location-tracking-apps-parental-surveillance/689031/",
-      "is_new": true
-    },
-    {
-      "title": "M John Harrison becomes first science fiction author to win the Booker",
-      "link": "https://www.theguardian.com/books/2026/nov/09/m-john-harrison-the-end-of-everything-wins-2026-booker-prize",
-      "is_new": true
-    },
-    {
-      "title": "NetBSD 11 desktop on a Raspberry Pi 4",
-      "link": "https://neongd.com/articles/netbsd11-rpi4.gmi",
-      "is_new": false
     }
   ]
 }
