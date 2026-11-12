@@ -1,16 +1,21 @@
 {
-  "crawled_at": "2026-11-12 10:15",
-  "prev_crawled_at": "2026-11-12 03:20",
+  "crawled_at": "2026-11-12 18:12",
+  "prev_crawled_at": "2026-11-12 10:15",
   "items": [
     {
-      "title": "93% of Paint Splatters Are Valid Perl Programs (2019)",
-      "link": "https://www.mcmillen.dev/sigbovik/",
+      "title": "Humble Bundle just killed most of their security through vibecoding",
+      "link": "https://forums.spacebattles.com/threads/humble-bundle-just-completely-killed-most-of-their-security-through-vibecoding.1346295/",
       "is_new": true
     },
     {
-      "title": "AWS emulator",
-      "link": "https://github.com/aws/aws-emulator",
+      "title": "Jane Street: Socratic Tutor",
+      "link": "https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md",
       "is_new": true
+    },
+    {
+      "title": "93% of paint splatters are valid Perl programs (2019)",
+      "link": "https://www.mcmillen.dev/sigbovik/",
+      "is_new": false
     },
     {
       "title": "Tim Peters has died",
@@ -18,14 +23,24 @@
       "is_new": false
     },
     {
-      "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
-      "link": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+      "title": "Critical RCE Vulnerability in Apache HTTP Server",
+      "link": "https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability",
       "is_new": true
     },
     {
-      "title": "Lock Your GitHub Actions",
-      "link": "https://hugovk.dev/blog/2026/lock-github-actions/",
+      "title": "AWS emulator",
+      "link": "https://github.com/aws/aws-emulator",
+      "is_new": false
+    },
+    {
+      "title": "I gave an agent a lakehouse and control of my garden",
+      "link": "https://jatorre.github.io/garden/",
       "is_new": true
+    },
+    {
+      "title": "Nvidia is preparing to oust Jensen Huang",
+      "link": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad",
+      "is_new": false
     },
     {
       "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
@@ -35,36 +50,81 @@
     {
       "title": "Gemini Decisions API",
       "link": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+      "is_new": false
+    },
+    {
+      "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+      "link": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+      "is_new": false
+    },
+    {
+      "title": "Lock Your GitHub Actions",
+      "link": "https://hugovk.dev/blog/2026/lock-github-actions/",
+      "is_new": false
+    },
+    {
+      "title": "I'm Working on a FOSS Linux Pinbal Simulation Engine",
+      "link": "https://www.getlazarus.org/forums/topic/17/",
+      "is_new": true
+    },
+    {
+      "title": "Bad ideas that aren't bad anymore",
+      "link": "https://devonestes.com/bad-ideas-that-arent-bad-anymore",
+      "is_new": true
+    },
+    {
+      "title": "Darling Development Update – Q4 2026",
+      "link": "https://blog.darlinghq.org/2026/11/08/development-update-q4-2026/",
+      "is_new": true
+    },
+    {
+      "title": "A live tree of systemd jobs on the boot console",
+      "link": "https://codeberg.org/wvhulle/bootvine",
       "is_new": true
     },
     {
       "title": "Emacs in the Age of Magic",
       "link": "https://commandlinesystems.com/magic.txt",
-      "is_new": true
+      "is_new": false
     },
     {
-      "title": "A general purpose Apple Silicon layer for x86-64 PCs",
-      "link": "https://github.com/tylertms/Stela",
-      "is_new": true
-    },
-    {
-      "title": "Huawei releases MACaQ, its internal quantizer for local inference",
-      "link": "https://github.com/huawei-csl/MACaQ",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: I recreated Papers Please but you're deciding which YC startups to fund",
-      "link": "https://termsheetplease.com/",
+      "title": "Slavdom Unearthed: Marian Wawrzeniecki's Neopagan Paintings (1891–1923)",
+      "link": "https://publicdomainreview.org/collection/marian-wawrzeniecki/",
       "is_new": true
     },
     {
       "title": "The Utah Teapot",
       "link": "https://graphics.cs.utah.edu/teapot/",
+      "is_new": false
+    },
+    {
+      "title": "A general purpose Apple Silicon layer for x86-64 PCs",
+      "link": "https://github.com/tylertms/Stela",
+      "is_new": false
+    },
+    {
+      "title": "The Lost World of Aquaterra",
+      "link": "https://www.theatlantic.com/magazine/2026/12/aquaterra-ancient-human-migration/689029/",
       "is_new": true
     },
     {
-      "title": "Making the Iron Giant Live",
-      "link": "https://animationobsessive.substack.com/p/making-the-iron-giant-live",
+      "title": "Did Life Begin in an RNA World?",
+      "link": "https://www.quantamagazine.org/did-life-begin-in-an-rna-world-20261109/",
+      "is_new": true
+    },
+    {
+      "title": "My AI agents found an unmapped Maya site?",
+      "link": "https://pietromiotti.com/latest/maya-site",
+      "is_new": false
+    },
+    {
+      "title": "Hyper-Realistic Sand with WebGL2",
+      "link": "https://av.github.io/safe-sand/",
+      "is_new": false
+    },
+    {
+      "title": "Lean Grimoire",
+      "link": "https://terrytao.wordpress.com/2026/11/11/lean-grimoire/",
       "is_new": true
     },
     {
@@ -73,13 +133,35 @@
       "is_new": false
     },
     {
-      "title": "Nvidia is preparing to oust Jensen Huang",
-      "link": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad",
+      "title": "Show HN: Yogurt – Free, private, open-source alternative to Granola",
+      "link": "https://github.com/FrigadeHQ/yogurt",
+      "is_new": false
+    },
+    {
+      "title": "Huawei releases MACaQ, its internal quantizer for local inference",
+      "link": "https://github.com/huawei-csl/MACaQ",
+      "is_new": false
+    },
+    {
+      "title": "Using voltage glitching to unleash the A100 in my mining card",
+      "link": "https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/",
+      "is_new": false
+    },
+    {
+      "title": "Can a Linear Program Do Weight-Space Programming?",
+      "link": "https://nathan.rs/posts/weight-space-lp/",
+      "is_new": false
+    }
+  ],
+  "removed": [
+    {
+      "title": "Show HN: I recreated Papers Please but you're deciding which YC startups to fund",
+      "link": "https://termsheetplease.com/",
       "is_new": true
     },
     {
-      "title": "My AI agents found an unmapped Maya site?",
-      "link": "https://pietromiotti.com/latest/maya-site",
+      "title": "Making the Iron Giant Live",
+      "link": "https://animationobsessive.substack.com/p/making-the-iron-giant-live",
       "is_new": true
     },
     {
@@ -98,16 +180,6 @@
       "is_new": true
     },
     {
-      "title": "Hyper-Realistic Sand with WebGL2",
-      "link": "https://av.github.io/safe-sand/",
-      "is_new": false
-    },
-    {
-      "title": "Show HN: Yogurt – Free, private, open-source alternative to Granola",
-      "link": "https://github.com/FrigadeHQ/yogurt",
-      "is_new": false
-    },
-    {
       "title": "Launch HN: Pomerado (YC F26) – Turn any website into an MCP for agents",
       "link": "https://news.ycombinator.com/item?id=50455811",
       "is_new": true
@@ -120,16 +192,6 @@
     {
       "title": "The hardest notes to find on the guitar",
       "link": "https://www.gitori.com/blog/articles/hardest-notes-on-the-guitar-fretboard",
-      "is_new": false
-    },
-    {
-      "title": "Can a Linear Program Do Weight-Space Programming?",
-      "link": "https://nathan.rs/posts/weight-space-lp/",
-      "is_new": false
-    },
-    {
-      "title": "Using voltage glitching to unleash the A100 in my mining card",
-      "link": "https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/",
       "is_new": false
     },
     {
@@ -150,113 +212,6 @@
     {
       "title": "Tools for exploring the souls of large language models",
       "link": "https://oshea00.github.io/posts/tinygpt-visualizer/",
-      "is_new": true
-    }
-  ],
-  "removed": [
-    {
-      "title": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
-      "link": "https://pietromiotti.com/latest/maya-site/?maya",
-      "is_new": true
-    },
-    {
-      "title": "Launch HN: Pomerado (YC F26) – Turn any website into an MCP for agents",
-      "link": "https://pomerado.ai/",
-      "is_new": true
-    },
-    {
-      "title": "Pharo in the Browser with WebAssembly",
-      "link": "https://massimo-nocentini.github.io/pharo-vm/world.html",
-      "is_new": true
-    },
-    {
-      "title": "100x Developers",
-      "link": "https://jcarreras.es/posts/100x-developers/",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: Klad, a paint app your coding agent can drive (source-available)",
-      "link": "https://github.com/klad-app/klad",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: Godbolt-in-a-floating-window for Neovim (C, C++, Rust)",
-      "link": "https://github.com/0xdeadf1sh/AssemblyForNeovim",
-      "is_new": true
-    },
-    {
-      "title": "TimeNet: Open-source data infrastructure for Temporal Foundation Models",
-      "link": "https://github.com/OpenTSLM/TimeNet",
-      "is_new": true
-    },
-    {
-      "title": "I asked every TV manufacturer 17 questions about how they spy on you",
-      "link": "https://www.theverge.com/tech/1012372/tv-privacy-acr-questions",
-      "is_new": true
-    },
-    {
-      "title": "The Computer Graphics Book of Knowledge",
-      "link": "https://www.cs.cmu.edu/~ph/nyit/masson/history.htm",
-      "is_new": true
-    },
-    {
-      "title": "Tinfoil (YC P25) is hiring an applied AI security engineer in San Francisco",
-      "link": "https://news.ycombinator.com/item?id=50452404",
-      "is_new": true
-    },
-    {
-      "title": "Protecting SSH Keys with macOS Secure Enclave",
-      "link": "https://gatezh.com/posts/macos-secure-enclave-ssh-keys/",
-      "is_new": false
-    },
-    {
-      "title": "Apple is killing its Support Community forum next week",
-      "link": "https://www.theverge.com/tech/1031507/apple-community-support-forum-shutting-down",
-      "is_new": true
-    },
-    {
-      "title": "Hooked on Tuna",
-      "link": "https://theconversation.com/hooked-on-tuna-people-have-been-harvesting-these-ocean-predators-for-44-000-years-292428",
-      "is_new": true
-    },
-    {
-      "title": "We need more goat sacrifices",
-      "link": "https://www.experimental-history.com/p/we-need-more-goat-sacrifices",
-      "is_new": true
-    },
-    {
-      "title": "Attention to Mamba: A Recipe for Cross-Architecture Distillation",
-      "link": "https://machinelearning.apple.com/research/attention-mamba-distillation",
-      "is_new": true
-    },
-    {
-      "title": "EventSourcingDB 1.3.0 Is Available",
-      "link": "https://www.eventfoundation.io/resources/blog/eventsourcingdb-1-3-0-is-available",
-      "is_new": true
-    },
-    {
-      "title": "Multiple remote code execution vulnerabilities in danfoss sm-800A",
-      "link": "https://www.midnightblue.nl/blog/multiple-rce-danfoss-aksm800a",
-      "is_new": true
-    },
-    {
-      "title": "Peer-to-peer WebRTC connections with built-in signaling and discovery",
-      "link": "https://github.com/lukks/like-webrtc",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: Micron – Oberon with the Power of C",
-      "link": "https://github.com/rochus-keller/Micron",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: 3D to 2D, point clouds flattening (geometry images)",
-      "link": "https://github.com/Neighborhood-Grid/flatpoints",
-      "is_new": true
-    },
-    {
-      "title": "Reddit Migration's Impact on Lemmy (2023)",
-      "link": "https://www.jmis.org/archive/view_article?pid=jmis-10-4-333",
       "is_new": true
     }
   ]
