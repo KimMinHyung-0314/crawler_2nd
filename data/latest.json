@@ -1,55 +1,167 @@
 {
-  "crawled_at": "2026-11-13 02:53",
-  "prev_crawled_at": "2026-11-12 18:12",
+  "crawled_at": "2026-11-13 08:09",
+  "prev_crawled_at": "2026-11-13 02:53",
   "items": [
+    {
+      "title": "Jensen Huang resigns",
+      "link": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
+      "is_new": true
+    },
+    {
+      "title": "Rust 1.100",
+      "link": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
+      "is_new": true
+    },
+    {
+      "title": "Gemini 4 Hydrogen and Orchestrator",
+      "link": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
+      "is_new": true
+    },
+    {
+      "title": "Foundation Models framework",
+      "link": "https://developer.apple.com/foundation-models-framework/",
+      "is_new": true
+    },
+    {
+      "title": "Dwarf planet candidate appears which takes roughly 280 years to orbit our sun",
+      "link": "https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
+      "link": "https://github.com/simpsoka/zigzag",
+      "is_new": true
+    },
+    {
+      "title": "Service degradation on Microsoft 365",
+      "link": "https://status.cloud.microsoft/",
+      "is_new": true
+    },
+    {
+      "title": "AI is turning Apple's app review process into a nightmare for synth developers",
+      "link": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html",
+      "is_new": true
+    },
+    {
+      "title": "22-Year-Old PostgreSQL Bug Turned into Remote Code Execution",
+      "link": "https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/",
+      "is_new": true
+    },
+    {
+      "title": "I'm making LLMs work on small and old devices",
+      "link": "https://github.com/hyperionaidev/smolmaxxing/",
+      "is_new": false
+    },
+    {
+      "title": "Abandoned Quake 4 expansion finished by modders and now playable",
+      "link": "https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64",
+      "is_new": false
+    },
+    {
+      "title": "Relax: JIT compiler for Rust to reduce build times",
+      "link": "https://makepad.github.io/relax/",
+      "is_new": true
+    },
+    {
+      "title": "Safety in Algae Home Experiments",
+      "link": "https://chillphysicsenjoyer.substack.com/p/algae-safety-in-home-experiments",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: Kapso – Iterative learning from enterprise data",
+      "link": "https://news.ycombinator.com/item?id=50471281",
+      "is_new": true
+    },
+    {
+      "title": "Why writing correct software is hard and why math (alone) won’t help us (2016)",
+      "link": "https://pron.github.io/posts/correctness-and-complexity",
+      "is_new": false
+    },
+    {
+      "title": "Gemini 4 Hydrogen",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+      "is_new": true
+    },
+    {
+      "title": "Talking Zen 6 with Mike Clark at AMD In-Depth",
+      "link": "https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at",
+      "is_new": false
+    },
+    {
+      "title": "Distributed Ray Tracer",
+      "link": "https://ray.hatchet.run",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: AgentRun – open-source, Self-improving Managed Agents",
+      "link": "https://github.com/Parcha-ai/agentrun/blob/main/README.md",
+      "is_new": true
+    },
+    {
+      "title": "Anthropic IPO",
+      "link": "https://ipo.anthropic.com/us/",
+      "is_new": false
+    },
+    {
+      "title": "Adapting CPython for Yk",
+      "link": "https://tratt.net/laurie/blog/2026/adapting_cpython_for_yk.html",
+      "is_new": true
+    },
+    {
+      "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
+      "link": "https://unemploymentlabs.com/checkpoint-forensics",
+      "is_new": true
+    },
+    {
+      "title": "Words of warning about radiocarbon dating medieval human bones",
+      "link": "https://www.nature.com/articles/s40494-026-02958-x",
+      "is_new": true
+    },
+    {
+      "title": "Beyond the compiler: Making IBM i run modified native code",
+      "link": "https://blog.silentsignal.eu/2026/11/10/Beyond-the-compiler-Making-IBM-i-run-modified-native-code-PVV/",
+      "is_new": true
+    },
+    {
+      "title": "ExcalidrawZ: Local Native Excalidraw on macOS/iOS",
+      "link": "https://github.com/chocoford/ExcalidrawZ",
+      "is_new": false
+    },
+    {
+      "title": "Data centers need power – lower income, rural residents pay the price",
+      "link": "https://news.cornell.edu/stories/2026/11/data-centers-need-power-lower-income-rural-residents-pay-price",
+      "is_new": true
+    },
+    {
+      "title": "Our software engineering interviews are changing a little",
+      "link": "https://blog.janestreet.com/software-engineering-interviews-are-changing-a-little/",
+      "is_new": true
+    },
+    {
+      "title": "A live tree of systemd jobs on the boot console",
+      "link": "https://codeberg.org/wvhulle/bootvine",
+      "is_new": false
+    },
+    {
+      "title": "Nintendo Takes Down Emulators and Firmware in Massive GitHub DMCA Sweep",
+      "link": "https://www.ign.com/articles/nintendo-takes-down-switch-emulators-and-mod-chip-firmware-in-massive-github-dmca-sweep",
+      "is_new": false
+    },
+    {
+      "title": "Libreagi – Save OSS Models",
+      "link": "https://libreagi.com/",
+      "is_new": false
+    }
+  ],
+  "removed": [
     {
       "title": "NVIDIA Announces CEO Transition",
       "link": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
       "is_new": true
     },
     {
-      "title": "Anthropic IPO",
-      "link": "https://ipo.anthropic.com/us/",
-      "is_new": true
-    },
-    {
-      "title": "Abandoned Quake 4 expansion finished by modders and now playable",
-      "link": "https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64",
-      "is_new": true
-    },
-    {
-      "title": "I'm making LLMs work on small and old devices",
-      "link": "https://github.com/hyperionaidev/smolmaxxing/",
-      "is_new": true
-    },
-    {
-      "title": "Talking Zen 6 with Mike Clark at AMD In-Depth",
-      "link": "https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at",
-      "is_new": true
-    },
-    {
-      "title": "ExcalidrawZ: Local Native Excalidraw on macOS/iOS",
-      "link": "https://github.com/chocoford/ExcalidrawZ",
-      "is_new": true
-    },
-    {
-      "title": "Why Writing Correct Software Is Hard",
-      "link": "https://pron.github.io/posts/correctness-and-complexity",
-      "is_new": true
-    },
-    {
-      "title": "Libreagi – Save OSS Models",
-      "link": "https://libreagi.com/",
-      "is_new": true
-    },
-    {
       "title": "Running web sites makes me not want to",
       "link": "https://lowkey.party/running-web-sites-makes-me-not-want-to",
-      "is_new": true
-    },
-    {
-      "title": "Nintendo Takes Down Emulators and Firmware in Massive GitHub DMCA Sweep",
-      "link": "https://www.ign.com/articles/nintendo-takes-down-switch-emulators-and-mod-chip-firmware-in-massive-github-dmca-sweep",
       "is_new": true
     },
     {
@@ -76,11 +188,6 @@
       "title": "Paths in Pieces",
       "link": "https://stoppels.ch/2026/11/12/paths-in-pieces.html",
       "is_new": true
-    },
-    {
-      "title": "A live tree of systemd jobs on the boot console",
-      "link": "https://codeberg.org/wvhulle/bootvine",
-      "is_new": false
     },
     {
       "title": "Researchers discover rare star system that emits radio signals every 8 minutes",
@@ -150,123 +257,6 @@
     {
       "title": "Gemini Decisions API",
       "link": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
-      "is_new": false
-    }
-  ],
-  "removed": [
-    {
-      "title": "Humble Bundle just killed most of their security through vibecoding",
-      "link": "https://forums.spacebattles.com/threads/humble-bundle-just-completely-killed-most-of-their-security-through-vibecoding.1346295/",
-      "is_new": true
-    },
-    {
-      "title": "Tim Peters has died",
-      "link": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
-      "is_new": false
-    },
-    {
-      "title": "I gave an agent a lakehouse and control of my garden",
-      "link": "https://jatorre.github.io/garden/",
-      "is_new": true
-    },
-    {
-      "title": "Nvidia is preparing to oust Jensen Huang",
-      "link": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad",
-      "is_new": false
-    },
-    {
-      "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
-      "link": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
-      "is_new": false
-    },
-    {
-      "title": "Lock Your GitHub Actions",
-      "link": "https://hugovk.dev/blog/2026/lock-github-actions/",
-      "is_new": false
-    },
-    {
-      "title": "I'm Working on a FOSS Linux Pinbal Simulation Engine",
-      "link": "https://www.getlazarus.org/forums/topic/17/",
-      "is_new": true
-    },
-    {
-      "title": "Bad ideas that aren't bad anymore",
-      "link": "https://devonestes.com/bad-ideas-that-arent-bad-anymore",
-      "is_new": true
-    },
-    {
-      "title": "Darling Development Update – Q4 2026",
-      "link": "https://blog.darlinghq.org/2026/11/08/development-update-q4-2026/",
-      "is_new": true
-    },
-    {
-      "title": "Emacs in the Age of Magic",
-      "link": "https://commandlinesystems.com/magic.txt",
-      "is_new": false
-    },
-    {
-      "title": "Slavdom Unearthed: Marian Wawrzeniecki's Neopagan Paintings (1891–1923)",
-      "link": "https://publicdomainreview.org/collection/marian-wawrzeniecki/",
-      "is_new": true
-    },
-    {
-      "title": "The Utah Teapot",
-      "link": "https://graphics.cs.utah.edu/teapot/",
-      "is_new": false
-    },
-    {
-      "title": "A general purpose Apple Silicon layer for x86-64 PCs",
-      "link": "https://github.com/tylertms/Stela",
-      "is_new": false
-    },
-    {
-      "title": "The Lost World of Aquaterra",
-      "link": "https://www.theatlantic.com/magazine/2026/12/aquaterra-ancient-human-migration/689029/",
-      "is_new": true
-    },
-    {
-      "title": "Did Life Begin in an RNA World?",
-      "link": "https://www.quantamagazine.org/did-life-begin-in-an-rna-world-20261109/",
-      "is_new": true
-    },
-    {
-      "title": "My AI agents found an unmapped Maya site?",
-      "link": "https://pietromiotti.com/latest/maya-site",
-      "is_new": false
-    },
-    {
-      "title": "Hyper-Realistic Sand with WebGL2",
-      "link": "https://av.github.io/safe-sand/",
-      "is_new": false
-    },
-    {
-      "title": "Lean Grimoire",
-      "link": "https://terrytao.wordpress.com/2026/11/11/lean-grimoire/",
-      "is_new": true
-    },
-    {
-      "title": "Faster Retrieval for Better, More Efficient RAG",
-      "link": "https://machinelearning.apple.com/research/faster-retrieval",
-      "is_new": false
-    },
-    {
-      "title": "Show HN: Yogurt – Free, private, open-source alternative to Granola",
-      "link": "https://github.com/FrigadeHQ/yogurt",
-      "is_new": false
-    },
-    {
-      "title": "Huawei releases MACaQ, its internal quantizer for local inference",
-      "link": "https://github.com/huawei-csl/MACaQ",
-      "is_new": false
-    },
-    {
-      "title": "Using voltage glitching to unleash the A100 in my mining card",
-      "link": "https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/",
-      "is_new": false
-    },
-    {
-      "title": "Can a Linear Program Do Weight-Space Programming?",
-      "link": "https://nathan.rs/posts/weight-space-lp/",
       "is_new": false
     }
   ]
