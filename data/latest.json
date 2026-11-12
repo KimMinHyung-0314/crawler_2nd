@@ -1,15 +1,90 @@
 {
-  "crawled_at": "2026-11-12 18:12",
-  "prev_crawled_at": "2026-11-12 10:15",
+  "crawled_at": "2026-11-13 02:53",
+  "prev_crawled_at": "2026-11-12 18:12",
   "items": [
     {
-      "title": "Humble Bundle just killed most of their security through vibecoding",
-      "link": "https://forums.spacebattles.com/threads/humble-bundle-just-completely-killed-most-of-their-security-through-vibecoding.1346295/",
+      "title": "NVIDIA Announces CEO Transition",
+      "link": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
       "is_new": true
     },
     {
-      "title": "Jane Street: Socratic Tutor",
+      "title": "Anthropic IPO",
+      "link": "https://ipo.anthropic.com/us/",
+      "is_new": true
+    },
+    {
+      "title": "Abandoned Quake 4 expansion finished by modders and now playable",
+      "link": "https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64",
+      "is_new": true
+    },
+    {
+      "title": "I'm making LLMs work on small and old devices",
+      "link": "https://github.com/hyperionaidev/smolmaxxing/",
+      "is_new": true
+    },
+    {
+      "title": "Talking Zen 6 with Mike Clark at AMD In-Depth",
+      "link": "https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at",
+      "is_new": true
+    },
+    {
+      "title": "ExcalidrawZ: Local Native Excalidraw on macOS/iOS",
+      "link": "https://github.com/chocoford/ExcalidrawZ",
+      "is_new": true
+    },
+    {
+      "title": "Why Writing Correct Software Is Hard",
+      "link": "https://pron.github.io/posts/correctness-and-complexity",
+      "is_new": true
+    },
+    {
+      "title": "Libreagi – Save OSS Models",
+      "link": "https://libreagi.com/",
+      "is_new": true
+    },
+    {
+      "title": "Running web sites makes me not want to",
+      "link": "https://lowkey.party/running-web-sites-makes-me-not-want-to",
+      "is_new": true
+    },
+    {
+      "title": "Nintendo Takes Down Emulators and Firmware in Massive GitHub DMCA Sweep",
+      "link": "https://www.ign.com/articles/nintendo-takes-down-switch-emulators-and-mod-chip-firmware-in-massive-github-dmca-sweep",
+      "is_new": true
+    },
+    {
+      "title": "Fitting Four 32 GB Resizable Bars Behind a PCIe Switch on Linux",
+      "link": "https://doug.sh/posts/gpu-bars-behind-a-pcie-switch/",
+      "is_new": true
+    },
+    {
+      "title": "Socratic Tutor",
       "link": "https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md",
+      "is_new": false
+    },
+    {
+      "title": "AWS Lambda Web Functions keep billing memory ~7 minutes after the last request",
+      "link": "https://www.easel.sh/blog/lambda-web-functions-idle-memory",
+      "is_new": true
+    },
+    {
+      "title": "Electric Ship Batteries Promise Compact, Cooler Power",
+      "link": "https://spectrum.ieee.org/electric-ship-batteries",
+      "is_new": true
+    },
+    {
+      "title": "Paths in Pieces",
+      "link": "https://stoppels.ch/2026/11/12/paths-in-pieces.html",
+      "is_new": true
+    },
+    {
+      "title": "A live tree of systemd jobs on the boot console",
+      "link": "https://codeberg.org/wvhulle/bootvine",
+      "is_new": false
+    },
+    {
+      "title": "Researchers discover rare star system that emits radio signals every 8 minutes",
+      "link": "https://www.curtin.edu.au/news/media-release/researchers-discover-rare-star-system-that-emits-radio-signals-every-eight-minutes/",
       "is_new": true
     },
     {
@@ -18,18 +93,75 @@
       "is_new": false
     },
     {
-      "title": "Tim Peters has died",
-      "link": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
-      "is_new": false
+      "title": "Decoding REXPaint Files in Odin",
+      "link": "https://tylerelton.com/posts/decoding-rexpaint-files-in-odin/",
+      "is_new": true
     },
     {
       "title": "Critical RCE Vulnerability in Apache HTTP Server",
       "link": "https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability",
+      "is_new": false
+    },
+    {
+      "title": "Pulling the Lever in a Subway Problem",
+      "link": "https://www.jefftk.com/p/pulling-the-lever-in-a-subway-problem",
+      "is_new": true
+    },
+    {
+      "title": "Creating Worlds: Runes and Spells Prototype",
+      "link": "https://www.fractalkitty.com/creating-worlds-runes-and-spells/",
       "is_new": true
     },
     {
       "title": "AWS emulator",
       "link": "https://github.com/aws/aws-emulator",
+      "is_new": false
+    },
+    {
+      "title": "Making a €40 USB-C hub work as a Nintendo Switch 2 dock",
+      "link": "http://blog.nozomi.space/posts/sw2_dock/",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: Build a PC in 3D in the Browser",
+      "link": "https://www.buildcores.com",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: AI Red Lines – write down what would make you act on AI",
+      "link": "https://yourairedlines.com",
+      "is_new": true
+    },
+    {
+      "title": "Research taste in history: the importance of learning Babylonian math",
+      "link": "https://resobscura.substack.com/p/research-taste-in-history-the-importance",
+      "is_new": true
+    },
+    {
+      "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
+      "link": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
+      "is_new": false
+    },
+    {
+      "title": "Show HN: Fable52.games – Play and inspect Fable 5.2 single-file HTML games",
+      "link": "https://fable52.games",
+      "is_new": true
+    },
+    {
+      "title": "Gemini Decisions API",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+      "is_new": false
+    }
+  ],
+  "removed": [
+    {
+      "title": "Humble Bundle just killed most of their security through vibecoding",
+      "link": "https://forums.spacebattles.com/threads/humble-bundle-just-completely-killed-most-of-their-security-through-vibecoding.1346295/",
+      "is_new": true
+    },
+    {
+      "title": "Tim Peters has died",
+      "link": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
       "is_new": false
     },
     {
@@ -40,16 +172,6 @@
     {
       "title": "Nvidia is preparing to oust Jensen Huang",
       "link": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad",
-      "is_new": false
-    },
-    {
-      "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
-      "link": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
-      "is_new": false
-    },
-    {
-      "title": "Gemini Decisions API",
-      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
       "is_new": false
     },
     {
@@ -75,11 +197,6 @@
     {
       "title": "Darling Development Update – Q4 2026",
       "link": "https://blog.darlinghq.org/2026/11/08/development-update-q4-2026/",
-      "is_new": true
-    },
-    {
-      "title": "A live tree of systemd jobs on the boot console",
-      "link": "https://codeberg.org/wvhulle/bootvine",
       "is_new": true
     },
     {
@@ -151,68 +268,6 @@
       "title": "Can a Linear Program Do Weight-Space Programming?",
       "link": "https://nathan.rs/posts/weight-space-lp/",
       "is_new": false
-    }
-  ],
-  "removed": [
-    {
-      "title": "Show HN: I recreated Papers Please but you're deciding which YC startups to fund",
-      "link": "https://termsheetplease.com/",
-      "is_new": true
-    },
-    {
-      "title": "Making the Iron Giant Live",
-      "link": "https://animationobsessive.substack.com/p/making-the-iron-giant-live",
-      "is_new": true
-    },
-    {
-      "title": "Jensen Huang said to have had relationship with executive who reports to him",
-      "link": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html",
-      "is_new": true
-    },
-    {
-      "title": "Flying on Green: Why Farmers Are Turning to Drones for Cover Crop Seeding",
-      "link": "https://www.agweb.com/news/machinery/flying-green-why-farmers-are-turning-drones-cover-crop-seeding",
-      "is_new": true
-    },
-    {
-      "title": "A Brief History of Sierra Online (2017)",
-      "link": "https://retrofreakreviews.com/2017/01/30/sierra-retrospective/",
-      "is_new": true
-    },
-    {
-      "title": "Launch HN: Pomerado (YC F26) – Turn any website into an MCP for agents",
-      "link": "https://news.ycombinator.com/item?id=50455811",
-      "is_new": true
-    },
-    {
-      "title": "Atuin Threads: All your agent sessions on every machine",
-      "link": "https://blog.atuin.sh/threads-agent-sessions/",
-      "is_new": false
-    },
-    {
-      "title": "The hardest notes to find on the guitar",
-      "link": "https://www.gitori.com/blog/articles/hardest-notes-on-the-guitar-fretboard",
-      "is_new": false
-    },
-    {
-      "title": "The Apple Support Community will permanently close on November 20, 2026",
-      "link": "https://discussions.apple.com/welcome",
-      "is_new": true
-    },
-    {
-      "title": "Optimizing Reference Deletions in Git",
-      "link": "https://nayak.im/posts/optimizing-reference-deletion/",
-      "is_new": true
-    },
-    {
-      "title": "IBM Quantum Nighthawk Demonstrates New Levels of Speed and Quality",
-      "link": "https://newsroom.ibm.com/2026-11-11-ibm-quantum-nighthawk-demonstrates-new-levels-of-speed-and-quality,-with-plans-to-scale-beyond-1,000-qubits-in-2027",
-      "is_new": true
-    },
-    {
-      "title": "Tools for exploring the souls of large language models",
-      "link": "https://oshea00.github.io/posts/tinygpt-visualizer/",
-      "is_new": true
     }
   ]
 }
