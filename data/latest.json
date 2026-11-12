@@ -1,50 +1,167 @@
 {
-  "crawled_at": "2026-11-12 03:20",
-  "prev_crawled_at": "2026-11-11 19:15",
+  "crawled_at": "2026-11-12 10:15",
+  "prev_crawled_at": "2026-11-12 03:20",
   "items": [
     {
-      "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
-      "link": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
+      "title": "93% of Paint Splatters Are Valid Perl Programs (2019)",
+      "link": "https://www.mcmillen.dev/sigbovik/",
+      "is_new": true
+    },
+    {
+      "title": "AWS emulator",
+      "link": "https://github.com/aws/aws-emulator",
       "is_new": true
     },
     {
       "title": "Tim Peters has died",
       "link": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
+      "is_new": false
+    },
+    {
+      "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+      "link": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+      "is_new": true
+    },
+    {
+      "title": "Lock Your GitHub Actions",
+      "link": "https://hugovk.dev/blog/2026/lock-github-actions/",
+      "is_new": true
+    },
+    {
+      "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
+      "link": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
+      "is_new": false
+    },
+    {
+      "title": "Gemini Decisions API",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+      "is_new": true
+    },
+    {
+      "title": "Emacs in the Age of Magic",
+      "link": "https://commandlinesystems.com/magic.txt",
+      "is_new": true
+    },
+    {
+      "title": "A general purpose Apple Silicon layer for x86-64 PCs",
+      "link": "https://github.com/tylertms/Stela",
+      "is_new": true
+    },
+    {
+      "title": "Huawei releases MACaQ, its internal quantizer for local inference",
+      "link": "https://github.com/huawei-csl/MACaQ",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: I recreated Papers Please but you're deciding which YC startups to fund",
+      "link": "https://termsheetplease.com/",
+      "is_new": true
+    },
+    {
+      "title": "The Utah Teapot",
+      "link": "https://graphics.cs.utah.edu/teapot/",
+      "is_new": true
+    },
+    {
+      "title": "Making the Iron Giant Live",
+      "link": "https://animationobsessive.substack.com/p/making-the-iron-giant-live",
       "is_new": true
     },
     {
       "title": "Faster Retrieval for Better, More Efficient RAG",
       "link": "https://machinelearning.apple.com/research/faster-retrieval",
+      "is_new": false
+    },
+    {
+      "title": "Nvidia is preparing to oust Jensen Huang",
+      "link": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad",
       "is_new": true
     },
+    {
+      "title": "My AI agents found an unmapped Maya site?",
+      "link": "https://pietromiotti.com/latest/maya-site",
+      "is_new": true
+    },
+    {
+      "title": "Jensen Huang said to have had relationship with executive who reports to him",
+      "link": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html",
+      "is_new": true
+    },
+    {
+      "title": "Flying on Green: Why Farmers Are Turning to Drones for Cover Crop Seeding",
+      "link": "https://www.agweb.com/news/machinery/flying-green-why-farmers-are-turning-drones-cover-crop-seeding",
+      "is_new": true
+    },
+    {
+      "title": "A Brief History of Sierra Online (2017)",
+      "link": "https://retrofreakreviews.com/2017/01/30/sierra-retrospective/",
+      "is_new": true
+    },
+    {
+      "title": "Hyper-Realistic Sand with WebGL2",
+      "link": "https://av.github.io/safe-sand/",
+      "is_new": false
+    },
+    {
+      "title": "Show HN: Yogurt – Free, private, open-source alternative to Granola",
+      "link": "https://github.com/FrigadeHQ/yogurt",
+      "is_new": false
+    },
+    {
+      "title": "Launch HN: Pomerado (YC F26) – Turn any website into an MCP for agents",
+      "link": "https://news.ycombinator.com/item?id=50455811",
+      "is_new": true
+    },
+    {
+      "title": "Atuin Threads: All your agent sessions on every machine",
+      "link": "https://blog.atuin.sh/threads-agent-sessions/",
+      "is_new": false
+    },
+    {
+      "title": "The hardest notes to find on the guitar",
+      "link": "https://www.gitori.com/blog/articles/hardest-notes-on-the-guitar-fretboard",
+      "is_new": false
+    },
+    {
+      "title": "Can a Linear Program Do Weight-Space Programming?",
+      "link": "https://nathan.rs/posts/weight-space-lp/",
+      "is_new": false
+    },
+    {
+      "title": "Using voltage glitching to unleash the A100 in my mining card",
+      "link": "https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/",
+      "is_new": false
+    },
+    {
+      "title": "The Apple Support Community will permanently close on November 20, 2026",
+      "link": "https://discussions.apple.com/welcome",
+      "is_new": true
+    },
+    {
+      "title": "Optimizing Reference Deletions in Git",
+      "link": "https://nayak.im/posts/optimizing-reference-deletion/",
+      "is_new": true
+    },
+    {
+      "title": "IBM Quantum Nighthawk Demonstrates New Levels of Speed and Quality",
+      "link": "https://newsroom.ibm.com/2026-11-11-ibm-quantum-nighthawk-demonstrates-new-levels-of-speed-and-quality,-with-plans-to-scale-beyond-1,000-qubits-in-2027",
+      "is_new": true
+    },
+    {
+      "title": "Tools for exploring the souls of large language models",
+      "link": "https://oshea00.github.io/posts/tinygpt-visualizer/",
+      "is_new": true
+    }
+  ],
+  "removed": [
     {
       "title": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
       "link": "https://pietromiotti.com/latest/maya-site/?maya",
       "is_new": true
     },
     {
-      "title": "Hyper-Realistic Sand with WebGL2",
-      "link": "https://av.github.io/safe-sand/",
-      "is_new": true
-    },
-    {
-      "title": "Atuin Threads: All your agent sessions on every machine",
-      "link": "https://blog.atuin.sh/threads-agent-sessions/",
-      "is_new": true
-    },
-    {
       "title": "Launch HN: Pomerado (YC F26) – Turn any website into an MCP for agents",
       "link": "https://pomerado.ai/",
-      "is_new": true
-    },
-    {
-      "title": "Can a Linear Program Do Weight-Space Programming?",
-      "link": "https://nathan.rs/posts/weight-space-lp/",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: Yogurt – Free, private, open-source alternative to Granola",
-      "link": "https://github.com/FrigadeHQ/yogurt",
       "is_new": true
     },
     {
@@ -55,11 +172,6 @@
     {
       "title": "100x Developers",
       "link": "https://jcarreras.es/posts/100x-developers/",
-      "is_new": true
-    },
-    {
-      "title": "Using voltage glitching to unleash the A100 in my mining card",
-      "link": "https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/",
       "is_new": true
     },
     {
@@ -80,11 +192,6 @@
     {
       "title": "I asked every TV manufacturer 17 questions about how they spy on you",
       "link": "https://www.theverge.com/tech/1012372/tv-privacy-acr-questions",
-      "is_new": true
-    },
-    {
-      "title": "The hardest notes to find on the guitar fretboard",
-      "link": "https://www.gitori.com/blog/articles/hardest-notes-on-the-guitar-fretboard",
       "is_new": true
     },
     {
@@ -151,153 +258,6 @@
       "title": "Reddit Migration's Impact on Lemmy (2023)",
       "link": "https://www.jmis.org/archive/view_article?pid=jmis-10-4-333",
       "is_new": true
-    }
-  ],
-  "removed": [
-    {
-      "title": "Smart home devices should work without the internet",
-      "link": "https://docodethatmatters.com/home-automation-overnight-success/",
-      "is_new": false
-    },
-    {
-      "title": ".name Grandfathered",
-      "link": "https://neil.fraser.name/news/2026/11/10/",
-      "is_new": false
-    },
-    {
-      "title": "Scion is back and is going to sell a kei truck in America",
-      "link": "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/",
-      "is_new": false
-    },
-    {
-      "title": "Greg Kurtzer's Ginux is now a userspace kernel",
-      "link": "https://github.com/gmkurtzer/ginux",
-      "is_new": true
-    },
-    {
-      "title": "A great old-timey game-programming hack (2013)",
-      "link": "https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html",
-      "is_new": false
-    },
-    {
-      "title": "Apple has new Mac app coming to make running local AI models easy",
-      "link": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
-      "is_new": true
-    },
-    {
-      "title": "To deter bioterrorism, U.S. imposes new rules on ordering synthetic DNA",
-      "link": "https://www.science.org/content/article/deter-bioterrorism-u-s-imposes-new-rules-ordering-synthetic-dna",
-      "is_new": true
-    },
-    {
-      "title": "Six Math Essentials",
-      "link": "https://teorth.github.io/tao-web/six-math-essentials.html",
-      "is_new": false
-    },
-    {
-      "title": "Why I wrote the BEAM book (2025)",
-      "link": "https://happihacking.com/blog/posts/2025/why_I_wrote_theBEAMBook/",
-      "is_new": false
-    },
-    {
-      "title": "Synaptics patent claims stop work on DisplayLink drivers",
-      "link": "https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/",
-      "is_new": false
-    },
-    {
-      "title": "A Compendium of Abandoned Greenhouses",
-      "link": "https://www.messynessychic.com/2015/01/15/a-compendium-of-abandoned-greenhouses/",
-      "is_new": true
-    },
-    {
-      "title": "Starlink Mini 2",
-      "link": "https://starlink.com/mini-2",
-      "is_new": false
-    },
-    {
-      "title": "AlphaProof Code",
-      "link": "https://deepmind.google/blog/introducing-alphaproof-code/",
-      "is_new": false
-    },
-    {
-      "title": "Val Town is winding down",
-      "link": "https://blog.val.town/winding-down",
-      "is_new": false
-    },
-    {
-      "title": "Why Amstrad chose the 3\" drives",
-      "link": "https://www.cpcwiki.eu/forum/amstrad-cpc-hardware/why-amstrad-chose-the-3-drives/",
-      "is_new": true
-    },
-    {
-      "title": "Tracking Anthropic-discovered vulnerabilities",
-      "link": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
-      "is_new": false
-    },
-    {
-      "title": "A ZIP-style Prolog VM for trilog",
-      "link": "https://github.com/no382001/zipc",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
-      "link": "https://github.com/GoogleChrome/modern-web-guidance",
-      "is_new": false
-    },
-    {
-      "title": "Hacking the Meta Ray-Ban smartglasses",
-      "link": "https://p0pcycle.com/2026/11/06/hacking-the-meta-ray-ban-smartglasses/",
-      "is_new": false
-    },
-    {
-      "title": "Claude Whiteboards, Claude Sheets, and Claude Data",
-      "link": "https://claude.com/resources/articles/sheets-whiteboards-data",
-      "is_new": true
-    },
-    {
-      "title": "AI usage generates a fragile codebase",
-      "link": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
-      "is_new": false
-    },
-    {
-      "title": "LLMs Play Zachtronics' TIS-100",
-      "link": "https://tis-100.wincon.dev/",
-      "is_new": false
-    },
-    {
-      "title": "AMD's Zen 6 Family: Feeding the Beast",
-      "link": "https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast",
-      "is_new": false
-    },
-    {
-      "title": "\"Jumping genes\" helped ants evolve after the extinction of the dinosaurs",
-      "link": "https://www.uni-muenster.de/news/view.php?cmdid=15659&utm_source=join1440&utm_medium=email&utm_placement=newsletter&user_id=66c4bf745d78644b3aa57b08",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: Black Ops II statically recompiled to native ARM64 macOS",
-      "link": "https://github.com/adrbn/bo2-mac",
-      "is_new": true
-    },
-    {
-      "title": "$30M Raised to Redo the CPU",
-      "link": "https://tendrils.co/blog/2026-11-10/30m-raised",
-      "is_new": false
-    },
-    {
-      "title": "Announcing .NET 11",
-      "link": "https://devblogs.microsoft.com/dotnet/announcing-dotnet-11/",
-      "is_new": true
-    },
-    {
-      "title": "Process Explorer for macOS",
-      "link": "https://github.com/microsoft/Procexp-Mac",
-      "is_new": false
-    },
-    {
-      "title": "Ableton Live 13",
-      "link": "https://www.ableton.com/en/live/",
-      "is_new": false
     }
   ]
 }
