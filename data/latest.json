@@ -1,25 +1,115 @@
 {
-  "crawled_at": "2026-11-13 21:49",
-  "prev_crawled_at": "2026-11-13 13:53",
+  "crawled_at": "2026-11-14 05:17",
+  "prev_crawled_at": "2026-11-13 21:49",
   "items": [
+    {
+      "title": "FM-1 Workbench",
+      "link": "https://open.m-vave.com/fm1-workbench",
+      "is_new": true
+    },
+    {
+      "title": "After 600 experiments, here's what I discovered about JEPA world models",
+      "link": "https://haddyalchaer.com/jepa",
+      "is_new": true
+    },
+    {
+      "title": "Reverse engineering my Coway air purifier to ditch the cloud",
+      "link": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
+      "is_new": true
+    },
+    {
+      "title": "Models can now transmit viruses in weight-space",
+      "link": "https://www.alphaxiv.org/abs/2611.weight-space-misfolding",
+      "is_new": true
+    },
     {
       "title": "Doomsday: Friday, 13 November, A.D. 2026 (1960)",
       "link": "https://www.science.org/doi/10.1126/science.132.3436.1291",
-      "is_new": true
-    },
-    {
-      "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
-      "link": "https://status.claude.com/incidents/nn11wk485zfn",
-      "is_new": true
-    },
-    {
-      "title": "Jensen Huang resigns",
-      "link": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
       "is_new": false
+    },
+    {
+      "title": "Show HN: Isometric SF – A pixel-art map of the SF Bay Area",
+      "link": "https://isometricsf.com/",
+      "is_new": true
+    },
+    {
+      "title": "Ctrl+C, Ctrl+v, Ctrl+cve: Bypassing Android's Clipboard Read Security Measures",
+      "link": "https://toninoble.com/post/ctrlc-ctrlv-ctrlcve",
+      "is_new": true
+    },
+    {
+      "title": "Perplexity Decider v1.3: Training, eval, and use cases",
+      "link": "https://www.perplexity.ai/hub/blog/perplexity-decider",
+      "is_new": true
+    },
+    {
+      "title": "A technical vision for the Haskell ecosystem",
+      "link": "https://discourse.haskell.org/t/a-technical-vision-for-the-haskell-ecosystem/15078",
+      "is_new": true
+    },
+    {
+      "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
+      "link": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
+      "is_new": true
+    },
+    {
+      "title": "It Takes 16 Clicks for a Student to Open a PowerPoint on an iPad",
+      "link": "https://www.reddit.com/r/Teachers/comments/1xuup7a/technology_sucks_it_literally_takes_16_clicks_for/",
+      "is_new": true
+    },
+    {
+      "title": "Lonewolf 0.3 – A standalone XMPP server written in Rust",
+      "link": "https://github.com/lonewolf-im/lonewolf/releases/tag/v0.3.0",
+      "is_new": true
+    },
+    {
+      "title": "$11.4M in Nvidia hardware vanishes during shipment from CA to TX",
+      "link": "https://www.freightwaves.com/news/11-4-million-in-nvidia-hardware-vanishes-during-shipment-from-california-to-texas",
+      "is_new": true
+    },
+    {
+      "title": "Minnesota guitarist's \"palmfrets\" invention strikes a new chord",
+      "link": "https://www.echopress.com/business/minnesota-guitarists-invention-strikes-a-new-chord",
+      "is_new": true
+    },
+    {
+      "title": "Found: A protein that drives ageing without unleashing inflammation",
+      "link": "https://www.nature.com/articles/d41586-026-03638-3",
+      "is_new": true
+    },
+    {
+      "title": "OpenAI disbands its robotics team as its general models start running robots",
+      "link": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/",
+      "is_new": true
+    },
+    {
+      "title": "LibreOffice actually works 365 days a year",
+      "link": "https://twitter.com/LibreOffice/status/2121205272479998268",
+      "is_new": true
     },
     {
       "title": "IceWM",
       "link": "https://ice-wm.org/",
+      "is_new": false
+    },
+    {
+      "title": "CERN Built the Large Hadron Collider's Next-Gen Magnets",
+      "link": "https://spectrum.ieee.org/large-hadron-collider-superconducting-magnets",
+      "is_new": true
+    },
+    {
+      "title": "Someone's Impersonating This Blog",
+      "link": "https://mattbee.mataroa.blog/p/someones-impersonating-this-blog/",
+      "is_new": true
+    },
+    {
+      "title": "Technology as a Search Problem",
+      "link": "https://www.construction-physics.com/p/technology-as-a-search-problem",
+      "is_new": true
+    },
+    {
+      "title": "Brazil's Caixa insurer breach exposes names and tax IDs of all 7.6M customers",
+      "link": "https://filemanager-cdn.mziq.com/published/3972906b-e50b-4f74-ab74-4d0d32125d11/9567a559-d20a-486e-a7ae-5c6bbc030c5e",
       "is_new": true
     },
     {
@@ -28,8 +118,45 @@
       "is_new": false
     },
     {
+      "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
+      "link": "https://status.claude.com/incidents/nn11wk485zfn",
+      "is_new": false
+    },
+    {
+      "title": "Apify Security Incident",
+      "link": "https://status.apify.com/incidents/sxd1dj5j6749",
+      "is_new": true
+    },
+    {
+      "title": "Concurrent Shell Command Queues",
+      "link": "https://emmer.dev/blog/concurrent-shell-command-queues/",
+      "is_new": true
+    },
+    {
+      "title": "No AI Slop: A Manifesto",
+      "link": "https://www.slopmanifesto.com/",
+      "is_new": true
+    },
+    {
       "title": "Brave Search API now accepts agentic payments via the x402 protocol",
       "link": "https://brave.com/blog/search-api-agentic-payments/",
+      "is_new": false
+    },
+    {
+      "title": "Switcher (2004)",
+      "link": "https://folklore.org/Switcher.html",
+      "is_new": false
+    },
+    {
+      "title": "Why is Google cutting off Search from AI-free schools? Here are some theories",
+      "link": "https://text.npr.org/nx-s1-6029408",
+      "is_new": true
+    }
+  ],
+  "removed": [
+    {
+      "title": "Jensen Huang resigns",
+      "link": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
       "is_new": false
     },
     {
@@ -85,11 +212,6 @@
     {
       "title": "Foundation Models framework",
       "link": "https://developer.apple.com/foundation-models-framework/",
-      "is_new": false
-    },
-    {
-      "title": "Switcher (2004)",
-      "link": "https://folklore.org/Switcher.html",
       "is_new": false
     },
     {
@@ -150,58 +272,6 @@
     {
       "title": "Europe's electric car sales jump 49% as global EV sales grow",
       "link": "https://electrek.co/2026/11/11/europes-electric-car-sales-jump-49-as-global-ev-sales-grow/",
-      "is_new": true
-    }
-  ],
-  "removed": [
-    {
-      "title": "Show HN: I built a Rick and Morty explainer video generator",
-      "link": "https://usediorama.com/rick-and-morty",
-      "is_new": true
-    },
-    {
-      "title": "AI is turning Apple's app review process into a nightmare for synth developers",
-      "link": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html",
-      "is_new": false
-    },
-    {
-      "title": "Adapting CPython for Yk",
-      "link": "https://tratt.net/laurie/blog/2026/adapting_cpython_for_yk.html",
-      "is_new": false
-    },
-    {
-      "title": "Gemini 4 Hydrogen",
-      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
-      "is_new": false
-    },
-    {
-      "title": "Announcement: Conductor Is Back",
-      "link": "https://twitter.com/charlieholtz/status/2120973052024598620",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: RealtimeVAD – trading false positives for 110ms earlier end-of-speech",
-      "link": "https://github.com/KoljaB/RealtimeVAD",
-      "is_new": true
-    },
-    {
-      "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
-      "link": "https://unemploymentlabs.com/checkpoint-forensics",
-      "is_new": false
-    },
-    {
-      "title": "Show HN: Kapso – Iterative learning from enterprise data",
-      "link": "https://news.ycombinator.com/item?id=50471281",
-      "is_new": false
-    },
-    {
-      "title": "Our software engineering interviews are changing a little",
-      "link": "https://blog.janestreet.com/software-engineering-interviews-are-changing-a-little/",
-      "is_new": false
-    },
-    {
-      "title": "Before Pixels: Speed-Minder",
-      "link": "https://unsung.aresluna.org/before-pixels-speed-minder/",
       "is_new": true
     }
   ]
