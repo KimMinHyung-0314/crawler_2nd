@@ -1,15 +1,25 @@
 {
-  "crawled_at": "2026-11-13 13:53",
-  "prev_crawled_at": "2026-11-13 08:09",
+  "crawled_at": "2026-11-13 21:49",
+  "prev_crawled_at": "2026-11-13 13:53",
   "items": [
+    {
+      "title": "Doomsday: Friday, 13 November, A.D. 2026 (1960)",
+      "link": "https://www.science.org/doi/10.1126/science.132.3436.1291",
+      "is_new": true
+    },
+    {
+      "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
+      "link": "https://status.claude.com/incidents/nn11wk485zfn",
+      "is_new": true
+    },
     {
       "title": "Jensen Huang resigns",
       "link": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
       "is_new": false
     },
     {
-      "title": "Switcher (2004)",
-      "link": "https://folklore.org/Switcher.html",
+      "title": "IceWM",
+      "link": "https://ice-wm.org/",
       "is_new": true
     },
     {
@@ -18,18 +28,23 @@
       "is_new": false
     },
     {
+      "title": "Brave Search API now accepts agentic payments via the x402 protocol",
+      "link": "https://brave.com/blog/search-api-agentic-payments/",
+      "is_new": false
+    },
+    {
+      "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
+      "link": "https://github.com/simpsoka/zigzag",
+      "is_new": false
+    },
+    {
       "title": "Gemini 4 Hydrogen and Orchestrator",
       "link": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
       "is_new": false
     },
     {
-      "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
-      "link": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
-      "link": "https://github.com/simpsoka/zigzag",
+      "title": "Former Nvidia CEO Huang had a relationship with a second employee, sources say",
+      "link": "https://www.reuters.com/technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12/",
       "is_new": false
     },
     {
@@ -38,18 +53,18 @@
       "is_new": false
     },
     {
-      "title": "Foundation Models framework",
-      "link": "https://developer.apple.com/foundation-models-framework/",
+      "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
+      "link": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
       "is_new": false
     },
     {
-      "title": "Show HN: I built a Rick and Morty explainer video generator",
-      "link": "https://usediorama.com/rick-and-morty",
+      "title": "Claude Is Down",
+      "link": "https://status.claude.com/history",
       "is_new": true
     },
     {
-      "title": "Former Nvidia CEO Huang had a relationship with a second employee, sources say",
-      "link": "https://www.reuters.com/technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12/",
+      "title": "The Dawn of the Data Intelligence Engineer",
+      "link": "https://motherduck.com/blog/the-data-intelligence-engineer/",
       "is_new": true
     },
     {
@@ -63,14 +78,29 @@
       "is_new": false
     },
     {
-      "title": "Nvidia employees petition to bring back Jensen Huang",
-      "link": "https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/",
+      "title": "Llama.cpp: 6.5x faster prompt processing on Arm with a NEON kernel",
+      "link": "https://github.com/hardwiredagent/silicon-forge-arm-neon-study",
       "is_new": true
     },
     {
-      "title": "AI is turning Apple's app review process into a nightmare for synth developers",
-      "link": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html",
+      "title": "Foundation Models framework",
+      "link": "https://developer.apple.com/foundation-models-framework/",
       "is_new": false
+    },
+    {
+      "title": "Switcher (2004)",
+      "link": "https://folklore.org/Switcher.html",
+      "is_new": false
+    },
+    {
+      "title": "Global Microsoft Outage",
+      "link": "https://www.cnn.com/2026/11/12/business/live-news/microsoft-global-outage-intl-hnk",
+      "is_new": true
+    },
+    {
+      "title": "Is there a 'right amount' of AI?",
+      "link": "https://coyotetracks.org/blog/right-amount-of-ai/",
+      "is_new": true
     },
     {
       "title": "Turning a 22-year-old Postgres type-confusion primitive into RCE",
@@ -78,18 +108,23 @@
       "is_new": false
     },
     {
-      "title": "Brave Search API now accepts agentic payments via the x402 protocol",
-      "link": "https://brave.com/blog/search-api-agentic-payments/",
-      "is_new": true
-    },
-    {
       "title": "Abandoned Quake 4 expansion finished by modders and now playable",
       "link": "https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64",
       "is_new": false
     },
     {
-      "title": "Sift: LSP, Lint, Format Lisp, Scheme and Emacs Lisp",
-      "link": "https://github.com/jjba23/sift",
+      "title": "Anthropic IPO",
+      "link": "https://ipo.anthropic.com/us/",
+      "is_new": false
+    },
+    {
+      "title": "Show HN: AgentRun – open-source, Self-improving Managed Agents",
+      "link": "https://github.com/Parcha-ai/agentrun/blob/main/README.md",
+      "is_new": false
+    },
+    {
+      "title": "Microsoft Outlook/365 still down after 12 hours",
+      "link": "https://twitter.com/MSFT365Status/status/2121079061774491735",
       "is_new": true
     },
     {
@@ -98,8 +133,13 @@
       "is_new": false
     },
     {
-      "title": "Adapting CPython for Yk",
-      "link": "https://tratt.net/laurie/blog/2026/adapting_cpython_for_yk.html",
+      "title": "Sift: LSP, Lint, Format Lisp, Scheme and Emacs Lisp",
+      "link": "https://github.com/jjba23/sift",
+      "is_new": false
+    },
+    {
+      "title": "Nvidia employees petition to bring back Jensen Huang",
+      "link": "https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/",
       "is_new": false
     },
     {
@@ -108,8 +148,25 @@
       "is_new": false
     },
     {
-      "title": "Anthropic IPO",
-      "link": "https://ipo.anthropic.com/us/",
+      "title": "Europe's electric car sales jump 49% as global EV sales grow",
+      "link": "https://electrek.co/2026/11/11/europes-electric-car-sales-jump-49-as-global-ev-sales-grow/",
+      "is_new": true
+    }
+  ],
+  "removed": [
+    {
+      "title": "Show HN: I built a Rick and Morty explainer video generator",
+      "link": "https://usediorama.com/rick-and-morty",
+      "is_new": true
+    },
+    {
+      "title": "AI is turning Apple's app review process into a nightmare for synth developers",
+      "link": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html",
+      "is_new": false
+    },
+    {
+      "title": "Adapting CPython for Yk",
+      "link": "https://tratt.net/laurie/blog/2026/adapting_cpython_for_yk.html",
       "is_new": false
     },
     {
@@ -146,63 +203,6 @@
       "title": "Before Pixels: Speed-Minder",
       "link": "https://unsung.aresluna.org/before-pixels-speed-minder/",
       "is_new": true
-    },
-    {
-      "title": "Show HN: AgentRun – open-source, Self-improving Managed Agents",
-      "link": "https://github.com/Parcha-ai/agentrun/blob/main/README.md",
-      "is_new": false
-    }
-  ],
-  "removed": [
-    {
-      "title": "Safety in Algae Home Experiments",
-      "link": "https://chillphysicsenjoyer.substack.com/p/algae-safety-in-home-experiments",
-      "is_new": true
-    },
-    {
-      "title": "Why writing correct software is hard and why math (alone) won’t help us (2016)",
-      "link": "https://pron.github.io/posts/correctness-and-complexity",
-      "is_new": false
-    },
-    {
-      "title": "Distributed Ray Tracer",
-      "link": "https://ray.hatchet.run",
-      "is_new": true
-    },
-    {
-      "title": "Words of warning about radiocarbon dating medieval human bones",
-      "link": "https://www.nature.com/articles/s40494-026-02958-x",
-      "is_new": true
-    },
-    {
-      "title": "Beyond the compiler: Making IBM i run modified native code",
-      "link": "https://blog.silentsignal.eu/2026/11/10/Beyond-the-compiler-Making-IBM-i-run-modified-native-code-PVV/",
-      "is_new": true
-    },
-    {
-      "title": "ExcalidrawZ: Local Native Excalidraw on macOS/iOS",
-      "link": "https://github.com/chocoford/ExcalidrawZ",
-      "is_new": false
-    },
-    {
-      "title": "Data centers need power – lower income, rural residents pay the price",
-      "link": "https://news.cornell.edu/stories/2026/11/data-centers-need-power-lower-income-rural-residents-pay-price",
-      "is_new": true
-    },
-    {
-      "title": "A live tree of systemd jobs on the boot console",
-      "link": "https://codeberg.org/wvhulle/bootvine",
-      "is_new": false
-    },
-    {
-      "title": "Nintendo Takes Down Emulators and Firmware in Massive GitHub DMCA Sweep",
-      "link": "https://www.ign.com/articles/nintendo-takes-down-switch-emulators-and-mod-chip-firmware-in-massive-github-dmca-sweep",
-      "is_new": false
-    },
-    {
-      "title": "Libreagi – Save OSS Models",
-      "link": "https://libreagi.com/",
-      "is_new": false
     }
   ]
 }
