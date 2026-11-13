@@ -1,51 +1,61 @@
 {
-  "crawled_at": "2026-11-13 08:09",
-  "prev_crawled_at": "2026-11-13 02:53",
+  "crawled_at": "2026-11-13 13:53",
+  "prev_crawled_at": "2026-11-13 08:09",
   "items": [
     {
       "title": "Jensen Huang resigns",
       "link": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
+      "is_new": false
+    },
+    {
+      "title": "Switcher (2004)",
+      "link": "https://folklore.org/Switcher.html",
       "is_new": true
     },
     {
       "title": "Rust 1.100",
       "link": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Gemini 4 Hydrogen and Orchestrator",
       "link": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
-      "is_new": true
+      "is_new": false
     },
     {
-      "title": "Foundation Models framework",
-      "link": "https://developer.apple.com/foundation-models-framework/",
-      "is_new": true
-    },
-    {
-      "title": "Dwarf planet candidate appears which takes roughly 280 years to orbit our sun",
-      "link": "https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/",
+      "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
+      "link": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
       "is_new": true
     },
     {
       "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
       "link": "https://github.com/simpsoka/zigzag",
+      "is_new": false
+    },
+    {
+      "title": "Dwarf planet candidate appears which takes roughly 280 years to orbit our sun",
+      "link": "https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/",
+      "is_new": false
+    },
+    {
+      "title": "Foundation Models framework",
+      "link": "https://developer.apple.com/foundation-models-framework/",
+      "is_new": false
+    },
+    {
+      "title": "Show HN: I built a Rick and Morty explainer video generator",
+      "link": "https://usediorama.com/rick-and-morty",
+      "is_new": true
+    },
+    {
+      "title": "Former Nvidia CEO Huang had a relationship with a second employee, sources say",
+      "link": "https://www.reuters.com/technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12/",
       "is_new": true
     },
     {
       "title": "Service degradation on Microsoft 365",
       "link": "https://status.cloud.microsoft/",
-      "is_new": true
-    },
-    {
-      "title": "AI is turning Apple's app review process into a nightmare for synth developers",
-      "link": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html",
-      "is_new": true
-    },
-    {
-      "title": "22-Year-Old PostgreSQL Bug Turned into Remote Code Execution",
-      "link": "https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/",
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "I'm making LLMs work on small and old devices",
@@ -53,23 +63,100 @@
       "is_new": false
     },
     {
+      "title": "Nvidia employees petition to bring back Jensen Huang",
+      "link": "https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/",
+      "is_new": true
+    },
+    {
+      "title": "AI is turning Apple's app review process into a nightmare for synth developers",
+      "link": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html",
+      "is_new": false
+    },
+    {
+      "title": "Turning a 22-year-old Postgres type-confusion primitive into RCE",
+      "link": "https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/",
+      "is_new": false
+    },
+    {
+      "title": "Brave Search API now accepts agentic payments via the x402 protocol",
+      "link": "https://brave.com/blog/search-api-agentic-payments/",
+      "is_new": true
+    },
+    {
       "title": "Abandoned Quake 4 expansion finished by modders and now playable",
       "link": "https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64",
       "is_new": false
     },
     {
-      "title": "Relax: JIT compiler for Rust to reduce build times",
-      "link": "https://makepad.github.io/relax/",
+      "title": "Sift: LSP, Lint, Format Lisp, Scheme and Emacs Lisp",
+      "link": "https://github.com/jjba23/sift",
       "is_new": true
     },
     {
-      "title": "Safety in Algae Home Experiments",
-      "link": "https://chillphysicsenjoyer.substack.com/p/algae-safety-in-home-experiments",
+      "title": "Relax: JIT compiler for Rust to reduce build times",
+      "link": "https://makepad.github.io/relax/",
+      "is_new": false
+    },
+    {
+      "title": "Adapting CPython for Yk",
+      "link": "https://tratt.net/laurie/blog/2026/adapting_cpython_for_yk.html",
+      "is_new": false
+    },
+    {
+      "title": "Talking Zen 6 with Mike Clark at AMD In-Depth",
+      "link": "https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at",
+      "is_new": false
+    },
+    {
+      "title": "Anthropic IPO",
+      "link": "https://ipo.anthropic.com/us/",
+      "is_new": false
+    },
+    {
+      "title": "Gemini 4 Hydrogen",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+      "is_new": false
+    },
+    {
+      "title": "Announcement: Conductor Is Back",
+      "link": "https://twitter.com/charlieholtz/status/2120973052024598620",
       "is_new": true
+    },
+    {
+      "title": "Show HN: RealtimeVAD – trading false positives for 110ms earlier end-of-speech",
+      "link": "https://github.com/KoljaB/RealtimeVAD",
+      "is_new": true
+    },
+    {
+      "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
+      "link": "https://unemploymentlabs.com/checkpoint-forensics",
+      "is_new": false
     },
     {
       "title": "Show HN: Kapso – Iterative learning from enterprise data",
       "link": "https://news.ycombinator.com/item?id=50471281",
+      "is_new": false
+    },
+    {
+      "title": "Our software engineering interviews are changing a little",
+      "link": "https://blog.janestreet.com/software-engineering-interviews-are-changing-a-little/",
+      "is_new": false
+    },
+    {
+      "title": "Before Pixels: Speed-Minder",
+      "link": "https://unsung.aresluna.org/before-pixels-speed-minder/",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: AgentRun – open-source, Self-improving Managed Agents",
+      "link": "https://github.com/Parcha-ai/agentrun/blob/main/README.md",
+      "is_new": false
+    }
+  ],
+  "removed": [
+    {
+      "title": "Safety in Algae Home Experiments",
+      "link": "https://chillphysicsenjoyer.substack.com/p/algae-safety-in-home-experiments",
       "is_new": true
     },
     {
@@ -78,38 +165,8 @@
       "is_new": false
     },
     {
-      "title": "Gemini 4 Hydrogen",
-      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
-      "is_new": true
-    },
-    {
-      "title": "Talking Zen 6 with Mike Clark at AMD In-Depth",
-      "link": "https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at",
-      "is_new": false
-    },
-    {
       "title": "Distributed Ray Tracer",
       "link": "https://ray.hatchet.run",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: AgentRun – open-source, Self-improving Managed Agents",
-      "link": "https://github.com/Parcha-ai/agentrun/blob/main/README.md",
-      "is_new": true
-    },
-    {
-      "title": "Anthropic IPO",
-      "link": "https://ipo.anthropic.com/us/",
-      "is_new": false
-    },
-    {
-      "title": "Adapting CPython for Yk",
-      "link": "https://tratt.net/laurie/blog/2026/adapting_cpython_for_yk.html",
-      "is_new": true
-    },
-    {
-      "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
-      "link": "https://unemploymentlabs.com/checkpoint-forensics",
       "is_new": true
     },
     {
@@ -133,11 +190,6 @@
       "is_new": true
     },
     {
-      "title": "Our software engineering interviews are changing a little",
-      "link": "https://blog.janestreet.com/software-engineering-interviews-are-changing-a-little/",
-      "is_new": true
-    },
-    {
       "title": "A live tree of systemd jobs on the boot console",
       "link": "https://codeberg.org/wvhulle/bootvine",
       "is_new": false
@@ -150,113 +202,6 @@
     {
       "title": "Libreagi – Save OSS Models",
       "link": "https://libreagi.com/",
-      "is_new": false
-    }
-  ],
-  "removed": [
-    {
-      "title": "NVIDIA Announces CEO Transition",
-      "link": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
-      "is_new": true
-    },
-    {
-      "title": "Running web sites makes me not want to",
-      "link": "https://lowkey.party/running-web-sites-makes-me-not-want-to",
-      "is_new": true
-    },
-    {
-      "title": "Fitting Four 32 GB Resizable Bars Behind a PCIe Switch on Linux",
-      "link": "https://doug.sh/posts/gpu-bars-behind-a-pcie-switch/",
-      "is_new": true
-    },
-    {
-      "title": "Socratic Tutor",
-      "link": "https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md",
-      "is_new": false
-    },
-    {
-      "title": "AWS Lambda Web Functions keep billing memory ~7 minutes after the last request",
-      "link": "https://www.easel.sh/blog/lambda-web-functions-idle-memory",
-      "is_new": true
-    },
-    {
-      "title": "Electric Ship Batteries Promise Compact, Cooler Power",
-      "link": "https://spectrum.ieee.org/electric-ship-batteries",
-      "is_new": true
-    },
-    {
-      "title": "Paths in Pieces",
-      "link": "https://stoppels.ch/2026/11/12/paths-in-pieces.html",
-      "is_new": true
-    },
-    {
-      "title": "Researchers discover rare star system that emits radio signals every 8 minutes",
-      "link": "https://www.curtin.edu.au/news/media-release/researchers-discover-rare-star-system-that-emits-radio-signals-every-eight-minutes/",
-      "is_new": true
-    },
-    {
-      "title": "93% of paint splatters are valid Perl programs (2019)",
-      "link": "https://www.mcmillen.dev/sigbovik/",
-      "is_new": false
-    },
-    {
-      "title": "Decoding REXPaint Files in Odin",
-      "link": "https://tylerelton.com/posts/decoding-rexpaint-files-in-odin/",
-      "is_new": true
-    },
-    {
-      "title": "Critical RCE Vulnerability in Apache HTTP Server",
-      "link": "https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability",
-      "is_new": false
-    },
-    {
-      "title": "Pulling the Lever in a Subway Problem",
-      "link": "https://www.jefftk.com/p/pulling-the-lever-in-a-subway-problem",
-      "is_new": true
-    },
-    {
-      "title": "Creating Worlds: Runes and Spells Prototype",
-      "link": "https://www.fractalkitty.com/creating-worlds-runes-and-spells/",
-      "is_new": true
-    },
-    {
-      "title": "AWS emulator",
-      "link": "https://github.com/aws/aws-emulator",
-      "is_new": false
-    },
-    {
-      "title": "Making a €40 USB-C hub work as a Nintendo Switch 2 dock",
-      "link": "http://blog.nozomi.space/posts/sw2_dock/",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: Build a PC in 3D in the Browser",
-      "link": "https://www.buildcores.com",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: AI Red Lines – write down what would make you act on AI",
-      "link": "https://yourairedlines.com",
-      "is_new": true
-    },
-    {
-      "title": "Research taste in history: the importance of learning Babylonian math",
-      "link": "https://resobscura.substack.com/p/research-taste-in-history-the-importance",
-      "is_new": true
-    },
-    {
-      "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
-      "link": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
-      "is_new": false
-    },
-    {
-      "title": "Show HN: Fable52.games – Play and inspect Fable 5.2 single-file HTML games",
-      "link": "https://fable52.games",
-      "is_new": true
-    },
-    {
-      "title": "Gemini Decisions API",
-      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
       "is_new": false
     }
   ]
