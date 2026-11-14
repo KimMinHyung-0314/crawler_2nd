@@ -1,35 +1,45 @@
 {
-  "crawled_at": "2026-11-14 10:14",
-  "prev_crawled_at": "2026-11-14 05:17",
+  "crawled_at": "2026-11-14 17:31",
+  "prev_crawled_at": "2026-11-14 10:14",
   "items": [
     {
-      "title": "FAA issues national ground stop",
+      "title": "Ggml v1.0.0",
+      "link": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0",
+      "is_new": true
+    },
+    {
+      "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+      "link": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+      "is_new": true
+    },
+    {
+      "title": "FAA issues national ground stop – lifted 4.5 hours later",
       "link": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247",
-      "is_new": true
-    },
-    {
-      "title": "Amtrak booking system experiencing major issues amid nationwide FAA ground stop",
-      "link": "https://www.fox5dc.com/news/amtrak-outage-ticket-booking-faa-ground-stop-november-13-2026",
-      "is_new": true
-    },
-    {
-      "title": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
-      "link": "https://orcasairband.com/",
-      "is_new": true
-    },
-    {
-      "title": "What Happened to 3Com?",
-      "link": "https://dfarq.homeip.net/what-happened-to-3com/",
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Terminal borders that don't cost a cell",
       "link": "https://www.joshka.net/cell-borders/",
+      "is_new": false
+    },
+    {
+      "title": "Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update",
+      "link": "https://unsloth.ai/docs/models/qwen3.8",
       "is_new": true
     },
     {
-      "title": "FM-1 Workbench",
-      "link": "https://open.m-vave.com/fm1-workbench",
+      "title": "Monkey Island: all 13 versions side by side",
+      "link": "https://monkeyisland.pages.dev/",
+      "is_new": true
+    },
+    {
+      "title": "What happened to 3Com?",
+      "link": "https://dfarq.homeip.net/what-happened-to-3com/",
+      "is_new": false
+    },
+    {
+      "title": "Show HN: Live map of U.S. flights during tonight's FAA nationwide ground stop",
+      "link": "https://grounds.top/",
       "is_new": false
     },
     {
@@ -38,15 +48,112 @@
       "is_new": false
     },
     {
-      "title": "Reverse engineering my Coway air purifier to ditch the cloud",
-      "link": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
+      "title": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
+      "link": "https://orcasairband.com/",
       "is_new": false
+    },
+    {
+      "title": "FM-1 Workbench",
+      "link": "https://open.m-vave.com/fm1-workbench",
+      "is_new": false
+    },
+    {
+      "title": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
+      "link": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
+      "is_new": true
     },
     {
       "title": "After 600 experiments, here's what I discovered about JEPA world models",
       "link": "https://haddyalchaer.com/jepa",
       "is_new": false
     },
+    {
+      "title": "Extending LLDB to Debug Applications That Span CPUs and GPUs",
+      "link": "https://engineering.fb.com/2026/11/09/developer-tools/extending-lldb-to-debug-applications-that-span-cpus-and-gpus/",
+      "is_new": true
+    },
+    {
+      "title": "How Not to Build a Music Player",
+      "link": "https://alichraghi.github.io/blog/how-not-to-build-a-music-player/",
+      "is_new": false
+    },
+    {
+      "title": "Elephants found to be increasingly isolated leading to fractured social networks",
+      "link": "https://today.ucsd.edu/story/elephants-found-to-be-increasingly-isolated-leading-to-fractured-social-networks",
+      "is_new": true
+    },
+    {
+      "title": "Perplexity Decider v1.3: Training, eval, and use cases",
+      "link": "https://www.perplexity.ai/hub/blog/perplexity-decider",
+      "is_new": false
+    },
+    {
+      "title": "Show HN: I have trained 15 blood glucose forecasting models on my own data",
+      "link": "https://github.com/0xdeadf1sh/T1DMAI",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: Isometric SF – A pixel-art map of the SF Bay Area",
+      "link": "https://isometricsf.com/",
+      "is_new": false
+    },
+    {
+      "title": "Live-migration support in FreeBSD and bhyve coming",
+      "link": "https://gyptazy.com/blog/freebsd-bhyve-live-migration-support-rfc/",
+      "is_new": false
+    },
+    {
+      "title": "A technical vision for the Haskell ecosystem",
+      "link": "https://discourse.haskell.org/t/a-technical-vision-for-the-haskell-ecosystem/15078",
+      "is_new": false
+    },
+    {
+      "title": "Amtrak booking system experiencing major issues amid nationwide FAA ground stop",
+      "link": "https://www.fox5dc.com/news/amtrak-outage-ticket-booking-faa-ground-stop-november-13-2026",
+      "is_new": false
+    },
+    {
+      "title": "Minnesota guitarist's \"palmfrets\" invention strikes a new chord",
+      "link": "https://www.echopress.com/business/minnesota-guitarists-invention-strikes-a-new-chord",
+      "is_new": false
+    },
+    {
+      "title": "Reverse engineering my Coway air purifier to ditch the cloud",
+      "link": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
+      "is_new": false
+    },
+    {
+      "title": "The Other Nefertiti (2015)",
+      "link": "https://alloversky.com/puzzlepieces/the-other-nefertiti",
+      "is_new": true
+    },
+    {
+      "title": "Cabo Pulmo, John Steinbeck, and the village that wouldn't give up",
+      "link": "https://blue-continuum.com/the-village-that-gave-back-its-sea",
+      "is_new": true
+    },
+    {
+      "title": "Security Agencies Worldwide Found to Use Ad-Based Surveillance System",
+      "link": "https://citizenlab.ca/security-agencies-worldwide-found-to-use-ad-based-surveillance-system/",
+      "is_new": true
+    },
+    {
+      "title": "Philip Roth and David Remnick getting personal (2001)",
+      "link": "https://salmagundi.skidmore.edu/articles/2001-philip-roth-david-remnick",
+      "is_new": true
+    },
+    {
+      "title": "Autonomous (YC F25) is hiring MTS to build AI agents that manage your wealth",
+      "link": "https://atg.science/careers",
+      "is_new": false
+    },
+    {
+      "title": "Ctrl+C, Ctrl+v, Ctrl+cve: Bypassing Android's Clipboard Read Security Measures",
+      "link": "https://toninoble.com/post/ctrlc-ctrlv-ctrlcve",
+      "is_new": false
+    }
+  ],
+  "removed": [
     {
       "title": "Hawaii DOT: All West Coast flights halted by SpaceX debris after FAA ground stop",
       "link": "https://www.hawaiinewsnow.com/2026/11/14/dot-all-west-coast-flights-halted-by-spacex-debris-after-faa-ground-stop/",
@@ -55,41 +162,6 @@
     {
       "title": "Doomsday: Friday, 13 November, A.D. 2026 (1960)",
       "link": "https://www.science.org/doi/10.1126/science.132.3436.1291",
-      "is_new": false
-    },
-    {
-      "title": "Perplexity Decider v1.3: Training, eval, and use cases",
-      "link": "https://www.perplexity.ai/hub/blog/perplexity-decider",
-      "is_new": false
-    },
-    {
-      "title": "How Not to Build a Music Player",
-      "link": "https://alichraghi.github.io/blog/how-not-to-build-a-music-player/",
-      "is_new": true
-    },
-    {
-      "title": "Autonomous (YC F25) is hiring MTS to build AI agents that manage your wealth",
-      "link": "https://atg.science/careers",
-      "is_new": true
-    },
-    {
-      "title": "Live-migration support in FreeBSD and bhyve coming",
-      "link": "https://gyptazy.com/blog/freebsd-bhyve-live-migration-support-rfc/",
-      "is_new": true
-    },
-    {
-      "title": "Ctrl+C, Ctrl+v, Ctrl+cve: Bypassing Android's Clipboard Read Security Measures",
-      "link": "https://toninoble.com/post/ctrlc-ctrlv-ctrlcve",
-      "is_new": false
-    },
-    {
-      "title": "Show HN: Isometric SF – A pixel-art map of the SF Bay Area",
-      "link": "https://isometricsf.com/",
-      "is_new": false
-    },
-    {
-      "title": "A technical vision for the Haskell ecosystem",
-      "link": "https://discourse.haskell.org/t/a-technical-vision-for-the-haskell-ecosystem/15078",
       "is_new": false
     },
     {
@@ -105,11 +177,6 @@
     {
       "title": "$11.4M in Nvidia hardware vanishes during shipment from CA to TX",
       "link": "https://www.freightwaves.com/news/11-4-million-in-nvidia-hardware-vanishes-during-shipment-from-california-to-texas",
-      "is_new": false
-    },
-    {
-      "title": "Minnesota guitarist's \"palmfrets\" invention strikes a new chord",
-      "link": "https://www.echopress.com/business/minnesota-guitarists-invention-strikes-a-new-chord",
       "is_new": false
     },
     {
@@ -143,85 +210,8 @@
       "is_new": false
     },
     {
-      "title": "Show HN: Live map of U.S. flights during tonight's FAA nationwide ground stop",
-      "link": "https://grounds.top/",
-      "is_new": true
-    },
-    {
       "title": "Microsoft outage gives customers a crash course in dependence on Redmond",
       "link": "https://www.theregister.com/saas/2026/11/13/microsoft-outage-gives-customers-a-crash-course-in-dependence-on-redmond/5309805",
-      "is_new": true
-    }
-  ],
-  "removed": [
-    {
-      "title": "OpenAI disbands its robotics team as its general models start running robots",
-      "link": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/",
-      "is_new": true
-    },
-    {
-      "title": "LibreOffice actually works 365 days a year",
-      "link": "https://twitter.com/LibreOffice/status/2121205272479998268",
-      "is_new": true
-    },
-    {
-      "title": "IceWM",
-      "link": "https://ice-wm.org/",
-      "is_new": false
-    },
-    {
-      "title": "Someone's Impersonating This Blog",
-      "link": "https://mattbee.mataroa.blog/p/someones-impersonating-this-blog/",
-      "is_new": true
-    },
-    {
-      "title": "Technology as a Search Problem",
-      "link": "https://www.construction-physics.com/p/technology-as-a-search-problem",
-      "is_new": true
-    },
-    {
-      "title": "Brazil's Caixa insurer breach exposes names and tax IDs of all 7.6M customers",
-      "link": "https://filemanager-cdn.mziq.com/published/3972906b-e50b-4f74-ab74-4d0d32125d11/9567a559-d20a-486e-a7ae-5c6bbc030c5e",
-      "is_new": true
-    },
-    {
-      "title": "Rust 1.100",
-      "link": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
-      "is_new": false
-    },
-    {
-      "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
-      "link": "https://status.claude.com/incidents/nn11wk485zfn",
-      "is_new": false
-    },
-    {
-      "title": "Apify Security Incident",
-      "link": "https://status.apify.com/incidents/sxd1dj5j6749",
-      "is_new": true
-    },
-    {
-      "title": "Concurrent Shell Command Queues",
-      "link": "https://emmer.dev/blog/concurrent-shell-command-queues/",
-      "is_new": true
-    },
-    {
-      "title": "No AI Slop: A Manifesto",
-      "link": "https://www.slopmanifesto.com/",
-      "is_new": true
-    },
-    {
-      "title": "Brave Search API now accepts agentic payments via the x402 protocol",
-      "link": "https://brave.com/blog/search-api-agentic-payments/",
-      "is_new": false
-    },
-    {
-      "title": "Switcher (2004)",
-      "link": "https://folklore.org/Switcher.html",
-      "is_new": false
-    },
-    {
-      "title": "Why is Google cutting off Search from AI-free schools? Here are some theories",
-      "link": "https://text.npr.org/nx-s1-6029408",
       "is_new": true
     }
   ]
