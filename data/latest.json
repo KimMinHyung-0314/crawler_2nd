@@ -1,61 +1,71 @@
 {
-  "crawled_at": "2026-11-15 00:30",
-  "prev_crawled_at": "2026-11-14 17:31",
+  "crawled_at": "2026-11-15 05:22",
+  "prev_crawled_at": "2026-11-15 00:30",
   "items": [
+    {
+      "title": "Lovable apps expose passport details and more than 200K private messages",
+      "link": "https://www.crissyfield.de/research/lovable-en/",
+      "is_new": true
+    },
+    {
+      "title": "PyPI's redesigned project pages with clearer security signals are now live",
+      "link": "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/",
+      "is_new": true
+    },
+    {
+      "title": "A Family Tree of Software Job Titles",
+      "link": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/",
+      "is_new": true
+    },
+    {
+      "title": "KDE: The documentary [video]",
+      "link": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
+      "is_new": false
+    },
     {
       "title": "Why get an expensive Pi when I have an old phone?",
       "link": "https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/",
+      "is_new": false
+    },
+    {
+      "title": "Seagate's new hybrid drive raises some old questions",
+      "link": "https://arstechnica.com/gadgets/2026/11/seagate-resurrects-the-ssd-hdd-hybrid-drive/",
       "is_new": true
     },
     {
-      "title": "Show HN: A terminal-native idle factory game, written in Rust with ratatui",
-      "link": "https://gitlab.com/snipedbywifi/terminactory",
-      "is_new": true
-    },
-    {
-      "title": "KDE: The Documentary on Free Software [video]",
-      "link": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
-      "is_new": true
-    },
-    {
-      "title": "Generative AI uses more energy on non-English text",
-      "link": "https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/",
+      "title": "LinkedIn, Monster take down over 1000 fake job postings after CBC investigation",
+      "link": "https://www.cbc.ca/news/canada/linkedin-monster-take-down-over-1-000-fake-job-postings-after-cbc-investigation-9.7415379",
       "is_new": true
     },
     {
       "title": "Advancing science and engineering with Antigravity's /teamwork",
       "link": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: Fursoy – Out-of-order RV64IMAFDV core in SystemVerilog (Linux 6.6)",
-      "link": "https://github.com/FURSOY/fursoy-cpu",
-      "is_new": true
-    },
-    {
-      "title": "Tech Companies Are Trying to Shift the Concept of Privacy (Again)",
-      "link": "https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again",
-      "is_new": true
-    },
-    {
-      "title": "Ggml v1.0.0",
-      "link": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0",
       "is_new": false
     },
     {
-      "title": "Show HN: Agweb – a browser for agents that stays out of your way",
-      "link": "https://github.com/paul-nameless/agweb",
+      "title": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
+      "link": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
       "is_new": true
     },
     {
-      "title": "Testing a Trash Can Faraday Cage",
-      "link": "https://www.jefftk.com/p/testing-a-trash-can-faraday-cage",
+      "title": "Reverse engineering a vintage diode-transistor logic chip",
+      "link": "https://www.righto.com/2026/11/signetics-st680a-dtl-nand.html",
       "is_new": true
     },
     {
-      "title": "Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
-      "link": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/",
+      "title": "A QR code that says who made it",
+      "link": "https://qrsig.org/",
       "is_new": true
+    },
+    {
+      "title": "Show HN: A terminal-native idle factory game, written in Rust with ratatui",
+      "link": "https://gitlab.com/snipedbywifi/terminactory",
+      "is_new": false
+    },
+    {
+      "title": "Generative AI uses more energy on non-English text",
+      "link": "https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/",
+      "is_new": false
     },
     {
       "title": "Monkey Island: all 13 versions side by side",
@@ -63,19 +73,96 @@
       "is_new": false
     },
     {
+      "title": "Show HN: Fursoy – Out-of-order RV64IMAFDV core in SystemVerilog (Linux 6.6)",
+      "link": "https://github.com/FURSOY/fursoy-cpu",
+      "is_new": false
+    },
+    {
       "title": "Italy fines Meta $887M over Android users' data access",
       "link": "https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14/",
+      "is_new": false
+    },
+    {
+      "title": "Tech Companies Are Trying to Shift the Concept of Privacy (Again)",
+      "link": "https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again",
+      "is_new": false
+    },
+    {
+      "title": "US IRS free online tax filing open source repo (2025)",
+      "link": "https://github.com/IRS-Public/direct-file",
       "is_new": true
     },
     {
-      "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
-      "link": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+      "title": "Testing a Trash Can Faraday Cage",
+      "link": "https://www.jefftk.com/p/testing-a-trash-can-faraday-cage",
+      "is_new": false
+    },
+    {
+      "title": "Demystifying phone unlocking tools: A technical overview",
+      "link": "https://osservatorionessuno.org/blog/2026/05/demystifying-phone-unlocking-tools-a-technical-overview/",
+      "is_new": true
+    },
+    {
+      "title": "How to Create Your Own Decentralized Messenger Protocol",
+      "link": "https://karboosx.net/post/5j7jdDM3/how-to-create-your-own-decentralized-messenger-protocol",
+      "is_new": true
+    },
+    {
+      "title": "A visual explanation of reinforcement learning",
+      "link": "https://aatishb.com/myriad/how-brains-learn/",
       "is_new": false
     },
     {
       "title": "Let's Write a PostScript Interpreter",
       "link": "https://beyondloom.com/blog/postscript.html",
+      "is_new": false
+    },
+    {
+      "title": "Formalizing US Tax Code (Using Lean)",
+      "link": "https://lexifina.com/blog/formalizing-the-us-tax-code",
       "is_new": true
+    },
+    {
+      "title": "The 'europoors' rants reflect an American insecurity",
+      "link": "https://davekeating.substack.com/p/the-europoors-rants-reflect-an-american",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: Agweb – a browser for agents that stays out of your way",
+      "link": "https://github.com/paul-nameless/agweb",
+      "is_new": false
+    },
+    {
+      "title": "C3 0.8.6:Library fetching,30% smaller safe-mode binaries,and stricter type rules",
+      "link": "https://c3-lang.org/blog/c3_0_8_6_fetching_libraries/",
+      "is_new": true
+    },
+    {
+      "title": "Creating a self booting ZIP archive",
+      "link": "https://goliath32.com/blog/ziphead.html",
+      "is_new": true
+    },
+    {
+      "title": "Project Zero will disclose vulnerabilities 90 days after reporting",
+      "link": "https://projectzero.google/2026/11/disclosure-policy.html",
+      "is_new": true
+    },
+    {
+      "title": "Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
+      "link": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/",
+      "is_new": false
+    }
+  ],
+  "removed": [
+    {
+      "title": "Ggml v1.0.0",
+      "link": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0",
+      "is_new": false
+    },
+    {
+      "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+      "link": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+      "is_new": false
     },
     {
       "title": "Terminal borders that don't cost a cell",
@@ -123,11 +210,6 @@
       "is_new": false
     },
     {
-      "title": "A visual explanation of reinforcement learning",
-      "link": "https://aatishb.com/myriad/how-brains-learn/",
-      "is_new": true
-    },
-    {
       "title": "FM-1 Workbench",
       "link": "https://open.m-vave.com/fm1-workbench",
       "is_new": false
@@ -150,83 +232,6 @@
     {
       "title": "After 600 experiments, here's what I discovered about JEPA world models",
       "link": "https://haddyalchaer.com/jepa",
-      "is_new": false
-    }
-  ],
-  "removed": [
-    {
-      "title": "Extending LLDB to Debug Applications That Span CPUs and GPUs",
-      "link": "https://engineering.fb.com/2026/11/09/developer-tools/extending-lldb-to-debug-applications-that-span-cpus-and-gpus/",
-      "is_new": true
-    },
-    {
-      "title": "Elephants found to be increasingly isolated leading to fractured social networks",
-      "link": "https://today.ucsd.edu/story/elephants-found-to-be-increasingly-isolated-leading-to-fractured-social-networks",
-      "is_new": true
-    },
-    {
-      "title": "Perplexity Decider v1.3: Training, eval, and use cases",
-      "link": "https://www.perplexity.ai/hub/blog/perplexity-decider",
-      "is_new": false
-    },
-    {
-      "title": "Show HN: Isometric SF – A pixel-art map of the SF Bay Area",
-      "link": "https://isometricsf.com/",
-      "is_new": false
-    },
-    {
-      "title": "Live-migration support in FreeBSD and bhyve coming",
-      "link": "https://gyptazy.com/blog/freebsd-bhyve-live-migration-support-rfc/",
-      "is_new": false
-    },
-    {
-      "title": "A technical vision for the Haskell ecosystem",
-      "link": "https://discourse.haskell.org/t/a-technical-vision-for-the-haskell-ecosystem/15078",
-      "is_new": false
-    },
-    {
-      "title": "Amtrak booking system experiencing major issues amid nationwide FAA ground stop",
-      "link": "https://www.fox5dc.com/news/amtrak-outage-ticket-booking-faa-ground-stop-november-13-2026",
-      "is_new": false
-    },
-    {
-      "title": "Minnesota guitarist's \"palmfrets\" invention strikes a new chord",
-      "link": "https://www.echopress.com/business/minnesota-guitarists-invention-strikes-a-new-chord",
-      "is_new": false
-    },
-    {
-      "title": "Reverse engineering my Coway air purifier to ditch the cloud",
-      "link": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
-      "is_new": false
-    },
-    {
-      "title": "The Other Nefertiti (2015)",
-      "link": "https://alloversky.com/puzzlepieces/the-other-nefertiti",
-      "is_new": true
-    },
-    {
-      "title": "Cabo Pulmo, John Steinbeck, and the village that wouldn't give up",
-      "link": "https://blue-continuum.com/the-village-that-gave-back-its-sea",
-      "is_new": true
-    },
-    {
-      "title": "Security Agencies Worldwide Found to Use Ad-Based Surveillance System",
-      "link": "https://citizenlab.ca/security-agencies-worldwide-found-to-use-ad-based-surveillance-system/",
-      "is_new": true
-    },
-    {
-      "title": "Philip Roth and David Remnick getting personal (2001)",
-      "link": "https://salmagundi.skidmore.edu/articles/2001-philip-roth-david-remnick",
-      "is_new": true
-    },
-    {
-      "title": "Autonomous (YC F25) is hiring MTS to build AI agents that manage your wealth",
-      "link": "https://atg.science/careers",
-      "is_new": false
-    },
-    {
-      "title": "Ctrl+C, Ctrl+v, Ctrl+cve: Bypassing Android's Clipboard Read Security Measures",
-      "link": "https://toninoble.com/post/ctrlc-ctrlv-ctrlcve",
       "is_new": false
     }
   ]
