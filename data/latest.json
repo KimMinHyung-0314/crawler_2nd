@@ -1,21 +1,81 @@
 {
-  "crawled_at": "2026-11-14 17:31",
-  "prev_crawled_at": "2026-11-14 10:14",
+  "crawled_at": "2026-11-15 00:30",
+  "prev_crawled_at": "2026-11-14 17:31",
   "items": [
+    {
+      "title": "Why get an expensive Pi when I have an old phone?",
+      "link": "https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: A terminal-native idle factory game, written in Rust with ratatui",
+      "link": "https://gitlab.com/snipedbywifi/terminactory",
+      "is_new": true
+    },
+    {
+      "title": "KDE: The Documentary on Free Software [video]",
+      "link": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
+      "is_new": true
+    },
+    {
+      "title": "Generative AI uses more energy on non-English text",
+      "link": "https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/",
+      "is_new": true
+    },
+    {
+      "title": "Advancing science and engineering with Antigravity's /teamwork",
+      "link": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: Fursoy – Out-of-order RV64IMAFDV core in SystemVerilog (Linux 6.6)",
+      "link": "https://github.com/FURSOY/fursoy-cpu",
+      "is_new": true
+    },
+    {
+      "title": "Tech Companies Are Trying to Shift the Concept of Privacy (Again)",
+      "link": "https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again",
+      "is_new": true
+    },
     {
       "title": "Ggml v1.0.0",
       "link": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0",
+      "is_new": false
+    },
+    {
+      "title": "Show HN: Agweb – a browser for agents that stays out of your way",
+      "link": "https://github.com/paul-nameless/agweb",
+      "is_new": true
+    },
+    {
+      "title": "Testing a Trash Can Faraday Cage",
+      "link": "https://www.jefftk.com/p/testing-a-trash-can-faraday-cage",
+      "is_new": true
+    },
+    {
+      "title": "Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
+      "link": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/",
+      "is_new": true
+    },
+    {
+      "title": "Monkey Island: all 13 versions side by side",
+      "link": "https://monkeyisland.pages.dev/",
+      "is_new": false
+    },
+    {
+      "title": "Italy fines Meta $887M over Android users' data access",
+      "link": "https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14/",
       "is_new": true
     },
     {
       "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
       "link": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
-      "is_new": true
+      "is_new": false
     },
     {
-      "title": "FAA issues national ground stop – lifted 4.5 hours later",
-      "link": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247",
-      "is_new": false
+      "title": "Let's Write a PostScript Interpreter",
+      "link": "https://beyondloom.com/blog/postscript.html",
+      "is_new": true
     },
     {
       "title": "Terminal borders that don't cost a cell",
@@ -25,12 +85,22 @@
     {
       "title": "Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update",
       "link": "https://unsloth.ai/docs/models/qwen3.8",
+      "is_new": false
+    },
+    {
+      "title": "FAA issues national ground stop – lifted 4.5 hours later",
+      "link": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247",
+      "is_new": false
+    },
+    {
+      "title": "The Myth of Neutral Code",
+      "link": "https://foss.life/notes/2026/the-myth-of-neutral-code/",
       "is_new": true
     },
     {
-      "title": "Monkey Island: all 13 versions side by side",
-      "link": "https://monkeyisland.pages.dev/",
-      "is_new": true
+      "title": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
+      "link": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
+      "is_new": false
     },
     {
       "title": "What happened to 3Com?",
@@ -48,9 +118,14 @@
       "is_new": false
     },
     {
-      "title": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
-      "link": "https://orcasairband.com/",
+      "title": "Show HN: I have trained 15 blood glucose forecasting models on my own data",
+      "link": "https://github.com/0xdeadf1sh/T1DMAI",
       "is_new": false
+    },
+    {
+      "title": "A visual explanation of reinforcement learning",
+      "link": "https://aatishb.com/myriad/how-brains-learn/",
+      "is_new": true
     },
     {
       "title": "FM-1 Workbench",
@@ -58,24 +133,31 @@
       "is_new": false
     },
     {
-      "title": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
-      "link": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
+      "title": "How Not to Build a Music Player",
+      "link": "https://alichraghi.github.io/blog/how-not-to-build-a-music-player/",
+      "is_new": false
+    },
+    {
+      "title": "Service Crew Discovers Rare Yellow Burbot in Oswego Harbor",
+      "link": "https://www.fws.gov/story/2026-11/service-crew-discovers-rare-yellow-burbot-oswego-harbor",
       "is_new": true
+    },
+    {
+      "title": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
+      "link": "https://orcasairband.com/",
+      "is_new": false
     },
     {
       "title": "After 600 experiments, here's what I discovered about JEPA world models",
       "link": "https://haddyalchaer.com/jepa",
       "is_new": false
-    },
+    }
+  ],
+  "removed": [
     {
       "title": "Extending LLDB to Debug Applications That Span CPUs and GPUs",
       "link": "https://engineering.fb.com/2026/11/09/developer-tools/extending-lldb-to-debug-applications-that-span-cpus-and-gpus/",
       "is_new": true
-    },
-    {
-      "title": "How Not to Build a Music Player",
-      "link": "https://alichraghi.github.io/blog/how-not-to-build-a-music-player/",
-      "is_new": false
     },
     {
       "title": "Elephants found to be increasingly isolated leading to fractured social networks",
@@ -86,11 +168,6 @@
       "title": "Perplexity Decider v1.3: Training, eval, and use cases",
       "link": "https://www.perplexity.ai/hub/blog/perplexity-decider",
       "is_new": false
-    },
-    {
-      "title": "Show HN: I have trained 15 blood glucose forecasting models on my own data",
-      "link": "https://github.com/0xdeadf1sh/T1DMAI",
-      "is_new": true
     },
     {
       "title": "Show HN: Isometric SF – A pixel-art map of the SF Bay Area",
@@ -151,68 +228,6 @@
       "title": "Ctrl+C, Ctrl+v, Ctrl+cve: Bypassing Android's Clipboard Read Security Measures",
       "link": "https://toninoble.com/post/ctrlc-ctrlv-ctrlcve",
       "is_new": false
-    }
-  ],
-  "removed": [
-    {
-      "title": "Hawaii DOT: All West Coast flights halted by SpaceX debris after FAA ground stop",
-      "link": "https://www.hawaiinewsnow.com/2026/11/14/dot-all-west-coast-flights-halted-by-spacex-debris-after-faa-ground-stop/",
-      "is_new": true
-    },
-    {
-      "title": "Doomsday: Friday, 13 November, A.D. 2026 (1960)",
-      "link": "https://www.science.org/doi/10.1126/science.132.3436.1291",
-      "is_new": false
-    },
-    {
-      "title": "All US airports are currently ground stopped",
-      "link": "https://twitter.com/flightradar24/status/2121347654714077605",
-      "is_new": true
-    },
-    {
-      "title": "Lying to Zed to get its remote server running on FreeBSD",
-      "link": "https://hayzam.com/blog/03-lying-to-zeds-remote-editor/",
-      "is_new": true
-    },
-    {
-      "title": "$11.4M in Nvidia hardware vanishes during shipment from CA to TX",
-      "link": "https://www.freightwaves.com/news/11-4-million-in-nvidia-hardware-vanishes-during-shipment-from-california-to-texas",
-      "is_new": false
-    },
-    {
-      "title": "Weight Space Misfolding",
-      "link": "https://www.alphaxiv.org/abs/2611.weight-space-misfolding",
-      "is_new": false
-    },
-    {
-      "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
-      "link": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
-      "is_new": false
-    },
-    {
-      "title": "It Takes 16 Clicks for a Student to Open a PowerPoint on an iPad",
-      "link": "https://www.reddit.com/r/Teachers/comments/1xuup7a/technology_sucks_it_literally_takes_16_clicks_for/",
-      "is_new": false
-    },
-    {
-      "title": "Lonewolf 0.3 – A standalone XMPP server written in Rust",
-      "link": "https://github.com/lonewolf-im/lonewolf/releases/tag/v0.3.0",
-      "is_new": false
-    },
-    {
-      "title": "FAA issues nationwide ground stop due to \"extraordinary circumstances\"",
-      "link": "https://www.axios.com/2026/11/13/faa-nationwide-ground-stop",
-      "is_new": true
-    },
-    {
-      "title": "CERN Built the Large Hadron Collider's Next-Gen Magnets",
-      "link": "https://spectrum.ieee.org/large-hadron-collider-superconducting-magnets",
-      "is_new": false
-    },
-    {
-      "title": "Microsoft outage gives customers a crash course in dependence on Redmond",
-      "link": "https://www.theregister.com/saas/2026/11/13/microsoft-outage-gives-customers-a-crash-course-in-dependence-on-redmond/5309805",
-      "is_new": true
     }
   ]
 }
