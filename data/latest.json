@@ -1,16 +1,46 @@
 {
-  "crawled_at": "2026-11-16 00:16",
-  "prev_crawled_at": "2026-11-15 16:29",
+  "crawled_at": "2026-11-16 05:46",
+  "prev_crawled_at": "2026-11-16 00:16",
   "items": [
     {
-      "title": "The MacBook Pro's OLED PWM Problem: When a 'Better' Display Becomes Worse to Use",
+      "title": "A short explainer on how El Niño works [video]",
+      "link": "https://www.youtube.com/watch?v=7_JF3etiAv8",
+      "is_new": true
+    },
+    {
+      "title": "Do House members' stock trades beat the market? A test of 8,900 trades",
+      "link": "https://arkanumdata.com/research/house-trades",
+      "is_new": true
+    },
+    {
+      "title": "'Birdbrain' Is a Misnomer. Crows Make Decisions Faster Than We Can",
+      "link": "https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html",
+      "is_new": true
+    },
+    {
+      "title": "The MacBook Pro's OLED PWM problem",
       "link": "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/",
+      "is_new": false
+    },
+    {
+      "title": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
+      "link": "https://www.youtube.com/watch?v=WPj3aQ-xxpI",
+      "is_new": true
+    },
+    {
+      "title": "Eclipse Mosquitto – An open source MQTT broker",
+      "link": "https://github.com/eclipse-mosquitto/mosquitto",
+      "is_new": true
+    },
+    {
+      "title": "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests",
+      "link": "https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html",
       "is_new": true
     },
     {
       "title": "Things That Turbo Pascal Is Smaller Than (2011)",
       "link": "https://prog21.dadgum.com/116.html",
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "SpaceX catches the Starship to end Flight 15",
@@ -18,29 +48,39 @@
       "is_new": false
     },
     {
+      "title": "Emacs Is My Browser",
+      "link": "https://joshblais.com/blog/emacs-as-my-browser/",
+      "is_new": true
+    },
+    {
       "title": "Understanding Positional Embeddings in Modern LLMs",
       "link": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
-      "is_new": true
-    },
-    {
-      "title": "The Hypertext Transfer Protocol Status Code 483 (I'm Not a Freezer)",
-      "link": "https://datatracker.ietf.org/doc/draft-banffy-httpbis-not-a-freezer/",
-      "is_new": true
-    },
-    {
-      "title": "A NES emulator written in Odin",
-      "link": "https://lucypero.com/lucynes.html",
-      "is_new": true
-    },
-    {
-      "title": "Why did some Apollo missions carry a grenade launcher?",
-      "link": "https://space.stackexchange.com/questions/37775",
-      "is_new": true
-    },
-    {
-      "title": "Lovable apps expose passport details and more than 200K private messages",
-      "link": "https://www.crissyfield.de/research/lovable-en/",
       "is_new": false
+    },
+    {
+      "title": "Clice v1.0 Released: Welcome to Modern C++",
+      "link": "https://ykiko.me/en/articles/2105384023094834022/",
+      "is_new": true
+    },
+    {
+      "title": "All AI-generated code should be Open Source",
+      "link": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
+      "is_new": false
+    },
+    {
+      "title": "Notes on Mathematics for Engineers (1959) [pdf]",
+      "link": "https://websites.umich.edu/~ners311/CourseLibrary/MathNotes.pdf",
+      "is_new": true
+    },
+    {
+      "title": "Parents pay $75k for Alpha's AI school. Half of its students missed math target",
+      "link": "https://fortune.com/2026/11/14/alpha-school-ai-students-tuition-learning-goals/",
+      "is_new": true
+    },
+    {
+      "title": "Eval Awareness vs. Eval Paranoia",
+      "link": "https://www.lesswrong.com/posts/mepsi7JNKYejq9wry/eval-awareness-vs-eval-paranoia",
+      "is_new": true
     },
     {
       "title": "Court denies motion to dismiss DRAM price fixing case",
@@ -48,39 +88,59 @@
       "is_new": false
     },
     {
+      "title": "A NES emulator written in Odin",
+      "link": "https://lucypero.com/lucynes.html",
+      "is_new": false
+    },
+    {
+      "title": "Why did some Apollo missions carry a grenade launcher?",
+      "link": "https://space.stackexchange.com/questions/37775",
+      "is_new": false
+    },
+    {
+      "title": "Jensen Huang discusses comeback as Nvidia CEO with allies",
+      "link": "https://www.ft.com/content/45383d86-33c4-4d99-86e5-5e058d3567c1",
+      "is_new": true
+    },
+    {
+      "title": "20 Years of Pyrolog",
+      "link": "https://pypy.org/posts/2026/11/20-years-of-pyrolog.html",
+      "is_new": true
+    },
+    {
       "title": "What thousands of conversations look like inside a language model",
       "link": "https://operator0x.com/field-notes/qwen-conversation-state-space/",
-      "is_new": true
+      "is_new": false
+    },
+    {
+      "title": "Lutnick Pushed to Weaken Chip Rules That Overlap with His Family Business",
+      "link": "https://www.nytimes.com/2026/11/15/us/politics/lutnick-pushed-to-weaken-chip-rules-that-overlap-with-his-family-business.html",
+      "is_new": false
     },
     {
       "title": "The Telephone Changed the World",
       "link": "https://lithub.com/how-the-telephone-changed-the-world/",
-      "is_new": true
+      "is_new": false
     },
     {
-      "title": "All AI-generated code should be Open Source",
-      "link": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
+      "title": "Bullet Dodged",
+      "link": "https://idiotking.org/archives/2026/10/bullet-dodged-3/",
       "is_new": true
     },
     {
       "title": "Chasing an audio artifact on power loss",
       "link": "https://subalpinecircuits.com/chasing-an-audio-artifact-on-power-loss/",
-      "is_new": true
-    },
-    {
-      "title": "Lutnick Pushed to Weaken Chip Rules That Overlap with His Family Business",
-      "link": "https://www.nytimes.com/2026/11/15/us/politics/lutnick-pushed-to-weaken-chip-rules-that-overlap-with-his-family-business.html",
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "How to read codes from (many) IR remote controls with as little code as possible",
       "link": "https://bitbanksoftware.blogspot.com/2026/11/how-to-read-codes-from-many-ir-remote.html",
-      "is_new": true
+      "is_new": false
     },
     {
-      "title": "Handwritten 200-year-old dismissal notice found on roof tile",
-      "link": "https://www.bbc.co.uk/news/articles/c6jdmdzv25r9o",
-      "is_new": true
+      "title": "Show HN: Carton Clock – A working pendulum clock made from empty drink cartons",
+      "link": "https://www.niklasroy.com/carton-clock/",
+      "is_new": false
     },
     {
       "title": "How did Woz write the Apple 1 BASIC before building the computer?",
@@ -88,9 +148,21 @@
       "is_new": false
     },
     {
-      "title": "Show HN: Carton Clock – A working pendulum clock made from empty drink cartons",
-      "link": "https://www.niklasroy.com/carton-clock/",
+      "title": "Handwritten 200-year-old dismissal notice found on roof tile",
+      "link": "https://www.bbc.co.uk/news/articles/c6jdmdzv25r9o",
+      "is_new": false
+    }
+  ],
+  "removed": [
+    {
+      "title": "The Hypertext Transfer Protocol Status Code 483 (I'm Not a Freezer)",
+      "link": "https://datatracker.ietf.org/doc/draft-banffy-httpbis-not-a-freezer/",
       "is_new": true
+    },
+    {
+      "title": "Lovable apps expose passport details and more than 200K private messages",
+      "link": "https://www.crissyfield.de/research/lovable-en/",
+      "is_new": false
     },
     {
       "title": "My favourite modern NES games",
@@ -150,103 +222,6 @@
     {
       "title": "500 Lines or Less A 3D Modeller",
       "link": "https://aosabook.org/en/500L/a-3d-modeller.html",
-      "is_new": false
-    }
-  ],
-  "removed": [
-    {
-      "title": "Memory Safety Bugs in Rust Standard Library",
-      "link": "https://forge-blog.github.io/posts/rust-std-memory-safety/",
-      "is_new": true
-    },
-    {
-      "title": "A rare glimpse inside the high-risk, high-reward Hormuz trade",
-      "link": "https://www.lloydslist.com/LL1158922/A-rare-glimpse-inside-the-highrisk-highreward-Hormuz-trade",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: Gawain – Require type hints on all Python variables",
-      "link": "https://github.com/matheuzgomes/gawain",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP",
-      "link": "https://github.com/Tthanh2k6/turbo-browser-mcp",
-      "is_new": true
-    },
-    {
-      "title": "We're Asking an Appeals Court to Require a Warrant for ALPR Searches",
-      "link": "https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches",
-      "is_new": true
-    },
-    {
-      "title": "One Man's Quest to Create the Perfect Whiskey Glass",
-      "link": "https://www.nytimes.com/2026/11/13/dining/drinks/kurt-josef-zalto-whiskey-glass.html",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
-      "link": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
-      "is_new": false
-    },
-    {
-      "title": "Oxford Molecular Motors",
-      "link": "https://www.physics.ox.ac.uk/research/group/oxford-molecular-motors/research/bacterial-flagellar-motor",
-      "is_new": false
-    },
-    {
-      "title": "Project Zero will disclose vulnerabilities 90 days after reporting",
-      "link": "https://projectzero.google/2026/11/disclosure-policy.html",
-      "is_new": false
-    },
-    {
-      "title": "Advancing science and engineering with Antigravity's /teamwork",
-      "link": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/",
-      "is_new": false
-    },
-    {
-      "title": "Astro Spiral: Greatest Car Stunt Was Also First Computer-Modeled Stunt",
-      "link": "https://boldentrance.com/astro-spiral-the-greatest-car-stunt/",
-      "is_new": true
-    },
-    {
-      "title": "Generative AI uses more energy on non-English text",
-      "link": "https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/",
-      "is_new": false
-    },
-    {
-      "title": "The Sicilian Citrus Family Tree",
-      "link": "https://www.notesfromtheroad.com/europa/citrus-family-tree.html",
-      "is_new": false
-    },
-    {
-      "title": "Seagate's new hybrid drive raises some old questions",
-      "link": "https://arstechnica.com/gadgets/2026/11/seagate-resurrects-the-ssd-hdd-hybrid-drive/",
-      "is_new": false
-    },
-    {
-      "title": "Show HN: A custom font based on the Jamaican flag alphabet",
-      "link": "https://bobbiec.github.io/jamaican-font.html",
-      "is_new": true
-    },
-    {
-      "title": "Testing a trash can Faraday cage",
-      "link": "https://www.jefftk.com/p/testing-a-trash-can-faraday-cage",
-      "is_new": false
-    },
-    {
-      "title": "Show HN: A terminal-native idle factory game, written in Rust with ratatui",
-      "link": "https://gitlab.com/snipedbywifi/terminactory",
-      "is_new": false
-    },
-    {
-      "title": "'Grey Rocking': The Life-Improving Power of Being Really, Really Boring (2021)",
-      "link": "https://www.esquire.com/uk/life/a38473153/grey-rock-technique-being-boring/",
-      "is_new": false
-    },
-    {
-      "title": "Reverse engineering a vintage diode-transistor logic chip",
-      "link": "https://www.righto.com/2026/11/signetics-st680a-dtl-nand.html",
       "is_new": false
     }
   ]
