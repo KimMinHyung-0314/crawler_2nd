@@ -1,15 +1,40 @@
 {
-  "crawled_at": "2026-11-15 16:29",
-  "prev_crawled_at": "2026-11-15 09:41",
+  "crawled_at": "2026-11-16 00:16",
+  "prev_crawled_at": "2026-11-15 16:29",
   "items": [
+    {
+      "title": "The MacBook Pro's OLED PWM Problem: When a 'Better' Display Becomes Worse to Use",
+      "link": "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/",
+      "is_new": true
+    },
+    {
+      "title": "Things That Turbo Pascal Is Smaller Than (2011)",
+      "link": "https://prog21.dadgum.com/116.html",
+      "is_new": true
+    },
     {
       "title": "SpaceX catches the Starship to end Flight 15",
       "link": "https://www.spacex.com/launches/starship-flight-15",
       "is_new": false
     },
     {
-      "title": "Memory Safety Bugs in Rust Standard Library",
-      "link": "https://forge-blog.github.io/posts/rust-std-memory-safety/",
+      "title": "Understanding Positional Embeddings in Modern LLMs",
+      "link": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
+      "is_new": true
+    },
+    {
+      "title": "The Hypertext Transfer Protocol Status Code 483 (I'm Not a Freezer)",
+      "link": "https://datatracker.ietf.org/doc/draft-banffy-httpbis-not-a-freezer/",
+      "is_new": true
+    },
+    {
+      "title": "A NES emulator written in Odin",
+      "link": "https://lucypero.com/lucynes.html",
+      "is_new": true
+    },
+    {
+      "title": "Why did some Apollo missions carry a grenade launcher?",
+      "link": "https://space.stackexchange.com/questions/37775",
       "is_new": true
     },
     {
@@ -18,8 +43,43 @@
       "is_new": false
     },
     {
-      "title": "A rare glimpse inside the high-risk, high-reward Hormuz trade",
-      "link": "https://www.lloydslist.com/LL1158922/A-rare-glimpse-inside-the-highrisk-highreward-Hormuz-trade",
+      "title": "Court denies motion to dismiss DRAM price fixing case",
+      "link": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal",
+      "is_new": false
+    },
+    {
+      "title": "What thousands of conversations look like inside a language model",
+      "link": "https://operator0x.com/field-notes/qwen-conversation-state-space/",
+      "is_new": true
+    },
+    {
+      "title": "The Telephone Changed the World",
+      "link": "https://lithub.com/how-the-telephone-changed-the-world/",
+      "is_new": true
+    },
+    {
+      "title": "All AI-generated code should be Open Source",
+      "link": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
+      "is_new": true
+    },
+    {
+      "title": "Chasing an audio artifact on power loss",
+      "link": "https://subalpinecircuits.com/chasing-an-audio-artifact-on-power-loss/",
+      "is_new": true
+    },
+    {
+      "title": "Lutnick Pushed to Weaken Chip Rules That Overlap with His Family Business",
+      "link": "https://www.nytimes.com/2026/11/15/us/politics/lutnick-pushed-to-weaken-chip-rules-that-overlap-with-his-family-business.html",
+      "is_new": true
+    },
+    {
+      "title": "How to read codes from (many) IR remote controls with as little code as possible",
+      "link": "https://bitbanksoftware.blogspot.com/2026/11/how-to-read-codes-from-many-ir-remote.html",
+      "is_new": true
+    },
+    {
+      "title": "Handwritten 200-year-old dismissal notice found on roof tile",
+      "link": "https://www.bbc.co.uk/news/articles/c6jdmdzv25r9o",
       "is_new": true
     },
     {
@@ -28,34 +88,34 @@
       "is_new": false
     },
     {
-      "title": "Show HN: Gawain – Require type hints on all Python variables",
-      "link": "https://github.com/matheuzgomes/gawain",
-      "is_new": true
-    },
-    {
-      "title": "Court denies motion to dismiss DRAM price fixing case",
-      "link": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal",
+      "title": "Show HN: Carton Clock – A working pendulum clock made from empty drink cartons",
+      "link": "https://www.niklasroy.com/carton-clock/",
       "is_new": true
     },
     {
       "title": "My favourite modern NES games",
       "link": "https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/",
+      "is_new": false
+    },
+    {
+      "title": "Disk encryption on NetBSD – achieving secrecy",
+      "link": "https://netbsd.org/~nia/disk-encrypt/",
       "is_new": true
     },
     {
-      "title": "Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP",
-      "link": "https://github.com/Tthanh2k6/turbo-browser-mcp",
+      "title": "Strictly monotonic timestamps and gapless sequences in Rust",
+      "link": "https://tsoracle.rs/",
       "is_new": true
     },
     {
-      "title": "The Evolving Story of How Chemistry Became Biology",
-      "link": "https://www.quantamagazine.org/the-evolving-story-of-how-chemistry-became-biology-20261112/",
+      "title": "Open-Source HF Communications for Remote Communities and Experimenters",
+      "link": "https://www.ardc.net/rhizomaticas-hermes-and-mercury-expand-open-source-hf-communications-for-remote-communities-while-appealing-to-experimenters/",
       "is_new": true
     },
     {
-      "title": "We're Asking an Appeals Court to Require a Warrant for ALPR Searches",
-      "link": "https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches",
-      "is_new": true
+      "title": "KDE: The documentary [video]",
+      "link": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
+      "is_new": false
     },
     {
       "title": "A family tree of software job titles",
@@ -63,8 +123,23 @@
       "is_new": false
     },
     {
-      "title": "KDE: The documentary [video]",
-      "link": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
+      "title": "Semicircle Packing",
+      "link": "https://rorz.io/writing/semicircle-packing",
+      "is_new": true
+    },
+    {
+      "title": "Why get an expensive Pi when I have an old phone?",
+      "link": "https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/",
+      "is_new": false
+    },
+    {
+      "title": "Book list for streetfighting computer scientists",
+      "link": "https://nick-black.com/dankwiki/index.php?title=Book_list_for_streetfighting_computer_scientists",
+      "is_new": true
+    },
+    {
+      "title": "The Evolving Story of How Chemistry Became Biology",
+      "link": "https://www.quantamagazine.org/the-evolving-story-of-how-chemistry-became-biology-20261112/",
       "is_new": false
     },
     {
@@ -73,13 +148,35 @@
       "is_new": false
     },
     {
-      "title": "Why get an expensive Pi when I have an old phone?",
-      "link": "https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/",
-      "is_new": false
-    },
-    {
       "title": "500 Lines or Less A 3D Modeller",
       "link": "https://aosabook.org/en/500L/a-3d-modeller.html",
+      "is_new": false
+    }
+  ],
+  "removed": [
+    {
+      "title": "Memory Safety Bugs in Rust Standard Library",
+      "link": "https://forge-blog.github.io/posts/rust-std-memory-safety/",
+      "is_new": true
+    },
+    {
+      "title": "A rare glimpse inside the high-risk, high-reward Hormuz trade",
+      "link": "https://www.lloydslist.com/LL1158922/A-rare-glimpse-inside-the-highrisk-highreward-Hormuz-trade",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: Gawain – Require type hints on all Python variables",
+      "link": "https://github.com/matheuzgomes/gawain",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP",
+      "link": "https://github.com/Tthanh2k6/turbo-browser-mcp",
+      "is_new": true
+    },
+    {
+      "title": "We're Asking an Appeals Court to Require a Warrant for ALPR Searches",
+      "link": "https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches",
       "is_new": true
     },
     {
@@ -150,68 +247,6 @@
     {
       "title": "Reverse engineering a vintage diode-transistor logic chip",
       "link": "https://www.righto.com/2026/11/signetics-st680a-dtl-nand.html",
-      "is_new": false
-    }
-  ],
-  "removed": [
-    {
-      "title": "Nvidia deliberately kept GPU prices high through circular financing deals",
-      "link": "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html",
-      "is_new": true
-    },
-    {
-      "title": "L3Harris statement on the Nov. 13 ground stop",
-      "link": "https://www.l3harris.com/newsroom/press-release/2026/11/l3harris-statement-nov-13-ground-stop",
-      "is_new": true
-    },
-    {
-      "title": "LinkedIn, Monster take down over 1000 fake job postings after CBC investigation",
-      "link": "https://www.cbc.ca/news/canada/linkedin-monster-take-down-over-1-000-fake-job-postings-after-cbc-investigation-9.7415379",
-      "is_new": false
-    },
-    {
-      "title": "Write your own kernel optimiser",
-      "link": "https://blog.csongor.co.uk/cachet-grids-and-tiles/",
-      "is_new": true
-    },
-    {
-      "title": "Tech companies are trying to shift the concept of privacy again",
-      "link": "https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again",
-      "is_new": false
-    },
-    {
-      "title": "A visual explanation of reinforcement learning",
-      "link": "https://aatishb.com/myriad/how-brains-learn/",
-      "is_new": false
-    },
-    {
-      "title": "Demystifying phone unlocking tools: A technical overview",
-      "link": "https://osservatorionessuno.org/blog/2026/05/demystifying-phone-unlocking-tools-a-technical-overview/",
-      "is_new": false
-    },
-    {
-      "title": "Let's Write a PostScript Interpreter",
-      "link": "https://beyondloom.com/blog/postscript.html",
-      "is_new": false
-    },
-    {
-      "title": "Italy fines Meta $887M over Android users' data access",
-      "link": "https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14/",
-      "is_new": false
-    },
-    {
-      "title": "Possible Futures",
-      "link": "https://borretti.me/article/possible-futures",
-      "is_new": true
-    },
-    {
-      "title": "Dartmouth (Guarini) will not admit math PhD cohort this year",
-      "link": "https://www.thedartmouth.com/article/2026/11/gandhi-fagell-guarini-will-not-admit-math-ph-d-cohort-this-year",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: Fursoy – Out-of-order RV64IMAFDV core in SystemVerilog (Linux 6.6)",
-      "link": "https://github.com/FURSOY/fursoy-cpu",
       "is_new": false
     }
   ]
