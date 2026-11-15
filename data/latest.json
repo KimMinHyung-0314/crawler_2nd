@@ -1,25 +1,40 @@
 {
-  "crawled_at": "2026-11-15 05:22",
-  "prev_crawled_at": "2026-11-15 00:30",
+  "crawled_at": "2026-11-15 09:41",
+  "prev_crawled_at": "2026-11-15 05:22",
   "items": [
+    {
+      "title": "SpaceX catches the Starship to end Flight 15",
+      "link": "https://www.spacex.com/launches/starship-flight-15",
+      "is_new": true
+    },
     {
       "title": "Lovable apps expose passport details and more than 200K private messages",
       "link": "https://www.crissyfield.de/research/lovable-en/",
+      "is_new": false
+    },
+    {
+      "title": "How did Woz write the Apple 1 BASIC before building the computer?",
+      "link": "https://retrocomputing.stackexchange.com/questions/17957",
+      "is_new": true
+    },
+    {
+      "title": "A family tree of software job titles",
+      "link": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/",
+      "is_new": false
+    },
+    {
+      "title": "KDE: The documentary [video]",
+      "link": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
+      "is_new": false
+    },
+    {
+      "title": "Nvidia deliberately kept GPU prices high through circular financing deals",
+      "link": "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html",
       "is_new": true
     },
     {
       "title": "PyPI's redesigned project pages with clearer security signals are now live",
       "link": "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/",
-      "is_new": true
-    },
-    {
-      "title": "A Family Tree of Software Job Titles",
-      "link": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/",
-      "is_new": true
-    },
-    {
-      "title": "KDE: The documentary [video]",
-      "link": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
       "is_new": false
     },
     {
@@ -28,14 +43,14 @@
       "is_new": false
     },
     {
-      "title": "Seagate's new hybrid drive raises some old questions",
-      "link": "https://arstechnica.com/gadgets/2026/11/seagate-resurrects-the-ssd-hdd-hybrid-drive/",
-      "is_new": true
+      "title": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
+      "link": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
+      "is_new": false
     },
     {
-      "title": "LinkedIn, Monster take down over 1000 fake job postings after CBC investigation",
-      "link": "https://www.cbc.ca/news/canada/linkedin-monster-take-down-over-1-000-fake-job-postings-after-cbc-investigation-9.7415379",
-      "is_new": true
+      "title": "Seagate's new hybrid drive raises some old questions",
+      "link": "https://arstechnica.com/gadgets/2026/11/seagate-resurrects-the-ssd-hdd-hybrid-drive/",
+      "is_new": false
     },
     {
       "title": "Advancing science and engineering with Antigravity's /teamwork",
@@ -43,23 +58,13 @@
       "is_new": false
     },
     {
-      "title": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
-      "link": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
+      "title": "'Grey Rocking': The Life-Improving Power of Being Really, Really Boring (2021)",
+      "link": "https://www.esquire.com/uk/life/a38473153/grey-rock-technique-being-boring/",
       "is_new": true
     },
     {
       "title": "Reverse engineering a vintage diode-transistor logic chip",
       "link": "https://www.righto.com/2026/11/signetics-st680a-dtl-nand.html",
-      "is_new": true
-    },
-    {
-      "title": "A QR code that says who made it",
-      "link": "https://qrsig.org/",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: A terminal-native idle factory game, written in Rust with ratatui",
-      "link": "https://gitlab.com/snipedbywifi/terminactory",
       "is_new": false
     },
     {
@@ -68,13 +73,63 @@
       "is_new": false
     },
     {
-      "title": "Monkey Island: all 13 versions side by side",
-      "link": "https://monkeyisland.pages.dev/",
+      "title": "Testing a trash can Faraday cage",
+      "link": "https://www.jefftk.com/p/testing-a-trash-can-faraday-cage",
       "is_new": false
     },
     {
-      "title": "Show HN: Fursoy – Out-of-order RV64IMAFDV core in SystemVerilog (Linux 6.6)",
-      "link": "https://github.com/FURSOY/fursoy-cpu",
+      "title": "L3Harris statement on the Nov. 13 ground stop",
+      "link": "https://www.l3harris.com/newsroom/press-release/2026/11/l3harris-statement-nov-13-ground-stop",
+      "is_new": true
+    },
+    {
+      "title": "LinkedIn, Monster take down over 1000 fake job postings after CBC investigation",
+      "link": "https://www.cbc.ca/news/canada/linkedin-monster-take-down-over-1-000-fake-job-postings-after-cbc-investigation-9.7415379",
+      "is_new": false
+    },
+    {
+      "title": "Project Zero will disclose vulnerabilities 90 days after reporting",
+      "link": "https://projectzero.google/2026/11/disclosure-policy.html",
+      "is_new": false
+    },
+    {
+      "title": "Show HN: A terminal-native idle factory game, written in Rust with ratatui",
+      "link": "https://gitlab.com/snipedbywifi/terminactory",
+      "is_new": false
+    },
+    {
+      "title": "Oxford Molecular Motors",
+      "link": "https://www.physics.ox.ac.uk/research/group/oxford-molecular-motors/research/bacterial-flagellar-motor",
+      "is_new": true
+    },
+    {
+      "title": "Write your own kernel optimiser",
+      "link": "https://blog.csongor.co.uk/cachet-grids-and-tiles/",
+      "is_new": true
+    },
+    {
+      "title": "The Sicilian Citrus Family Tree",
+      "link": "https://www.notesfromtheroad.com/europa/citrus-family-tree.html",
+      "is_new": true
+    },
+    {
+      "title": "Tech companies are trying to shift the concept of privacy again",
+      "link": "https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again",
+      "is_new": false
+    },
+    {
+      "title": "A visual explanation of reinforcement learning",
+      "link": "https://aatishb.com/myriad/how-brains-learn/",
+      "is_new": false
+    },
+    {
+      "title": "Demystifying phone unlocking tools: A technical overview",
+      "link": "https://osservatorionessuno.org/blog/2026/05/demystifying-phone-unlocking-tools-a-technical-overview/",
+      "is_new": false
+    },
+    {
+      "title": "Let's Write a PostScript Interpreter",
+      "link": "https://beyondloom.com/blog/postscript.html",
       "is_new": false
     },
     {
@@ -83,8 +138,30 @@
       "is_new": false
     },
     {
-      "title": "Tech Companies Are Trying to Shift the Concept of Privacy (Again)",
-      "link": "https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again",
+      "title": "Possible Futures",
+      "link": "https://borretti.me/article/possible-futures",
+      "is_new": true
+    },
+    {
+      "title": "Dartmouth (Guarini) will not admit math PhD cohort this year",
+      "link": "https://www.thedartmouth.com/article/2026/11/gandhi-fagell-guarini-will-not-admit-math-ph-d-cohort-this-year",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: Fursoy – Out-of-order RV64IMAFDV core in SystemVerilog (Linux 6.6)",
+      "link": "https://github.com/FURSOY/fursoy-cpu",
+      "is_new": false
+    }
+  ],
+  "removed": [
+    {
+      "title": "A QR code that says who made it",
+      "link": "https://qrsig.org/",
+      "is_new": true
+    },
+    {
+      "title": "Monkey Island: all 13 versions side by side",
+      "link": "https://monkeyisland.pages.dev/",
       "is_new": false
     },
     {
@@ -93,29 +170,9 @@
       "is_new": true
     },
     {
-      "title": "Testing a Trash Can Faraday Cage",
-      "link": "https://www.jefftk.com/p/testing-a-trash-can-faraday-cage",
-      "is_new": false
-    },
-    {
-      "title": "Demystifying phone unlocking tools: A technical overview",
-      "link": "https://osservatorionessuno.org/blog/2026/05/demystifying-phone-unlocking-tools-a-technical-overview/",
-      "is_new": true
-    },
-    {
       "title": "How to Create Your Own Decentralized Messenger Protocol",
       "link": "https://karboosx.net/post/5j7jdDM3/how-to-create-your-own-decentralized-messenger-protocol",
       "is_new": true
-    },
-    {
-      "title": "A visual explanation of reinforcement learning",
-      "link": "https://aatishb.com/myriad/how-brains-learn/",
-      "is_new": false
-    },
-    {
-      "title": "Let's Write a PostScript Interpreter",
-      "link": "https://beyondloom.com/blog/postscript.html",
-      "is_new": false
     },
     {
       "title": "Formalizing US Tax Code (Using Lean)",
@@ -143,95 +200,8 @@
       "is_new": true
     },
     {
-      "title": "Project Zero will disclose vulnerabilities 90 days after reporting",
-      "link": "https://projectzero.google/2026/11/disclosure-policy.html",
-      "is_new": true
-    },
-    {
       "title": "Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
       "link": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/",
-      "is_new": false
-    }
-  ],
-  "removed": [
-    {
-      "title": "Ggml v1.0.0",
-      "link": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0",
-      "is_new": false
-    },
-    {
-      "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
-      "link": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
-      "is_new": false
-    },
-    {
-      "title": "Terminal borders that don't cost a cell",
-      "link": "https://www.joshka.net/cell-borders/",
-      "is_new": false
-    },
-    {
-      "title": "Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update",
-      "link": "https://unsloth.ai/docs/models/qwen3.8",
-      "is_new": false
-    },
-    {
-      "title": "FAA issues national ground stop – lifted 4.5 hours later",
-      "link": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247",
-      "is_new": false
-    },
-    {
-      "title": "The Myth of Neutral Code",
-      "link": "https://foss.life/notes/2026/the-myth-of-neutral-code/",
-      "is_new": true
-    },
-    {
-      "title": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
-      "link": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
-      "is_new": false
-    },
-    {
-      "title": "What happened to 3Com?",
-      "link": "https://dfarq.homeip.net/what-happened-to-3com/",
-      "is_new": false
-    },
-    {
-      "title": "Show HN: Live map of U.S. flights during tonight's FAA nationwide ground stop",
-      "link": "https://grounds.top/",
-      "is_new": false
-    },
-    {
-      "title": "Found: A protein that drives ageing without unleashing inflammation",
-      "link": "https://www.nature.com/articles/d41586-026-03638-3",
-      "is_new": false
-    },
-    {
-      "title": "Show HN: I have trained 15 blood glucose forecasting models on my own data",
-      "link": "https://github.com/0xdeadf1sh/T1DMAI",
-      "is_new": false
-    },
-    {
-      "title": "FM-1 Workbench",
-      "link": "https://open.m-vave.com/fm1-workbench",
-      "is_new": false
-    },
-    {
-      "title": "How Not to Build a Music Player",
-      "link": "https://alichraghi.github.io/blog/how-not-to-build-a-music-player/",
-      "is_new": false
-    },
-    {
-      "title": "Service Crew Discovers Rare Yellow Burbot in Oswego Harbor",
-      "link": "https://www.fws.gov/story/2026-11/service-crew-discovers-rare-yellow-burbot-oswego-harbor",
-      "is_new": true
-    },
-    {
-      "title": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
-      "link": "https://orcasairband.com/",
-      "is_new": false
-    },
-    {
-      "title": "After 600 experiments, here's what I discovered about JEPA world models",
-      "link": "https://haddyalchaer.com/jepa",
       "is_new": false
     }
   ]
