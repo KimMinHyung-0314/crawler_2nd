@@ -1,20 +1,85 @@
 {
-  "crawled_at": "2026-11-16 16:36",
-  "prev_crawled_at": "2026-11-16 09:41",
+  "crawled_at": "2026-11-17 02:52",
+  "prev_crawled_at": "2026-11-16 16:36",
   "items": [
+    {
+      "title": "Grazing sheep in fields with solar arrays",
+      "link": "https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains",
+      "is_new": true
+    },
+    {
+      "title": "Jiff 1.0: A datetime library for Rust",
+      "link": "https://burntsushi.net/jiff/",
+      "is_new": true
+    },
+    {
+      "title": "The Secret ThinkPad Powerbutton Code to Bring Dead Laptops Back to Life (2007)",
+      "link": "https://masnick.com/posts/the-secret-thinkpad-powerbutton-code-to-bring-dead-laptops-back-to-life/",
+      "is_new": true
+    },
+    {
+      "title": "Many of Amazon’s Black Friday and Cyber Monday “deals” offered no savings",
+      "link": "http://groundworkcollaborative.org/news/amazons-decoy-deals-groundwork-investigation-reveals-nearly-1-in-3-black-friday-and-cyber-monday-deals-advertised-by-amazon-offered-no-savings-to-shoppers-nearly-1-in-10-w/",
+      "is_new": true
+    },
     {
       "title": "How to make almost anything",
       "link": "https://pub.cba.mit.edu/863.26/site/",
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Universal XSS in uBlock Origin from website-driven element picker",
       "link": "https://iter.ca/post/ubo-uxss/",
+      "is_new": false
+    },
+    {
+      "title": "Nvidia was in trouble before the Jensen Huang mess",
+      "link": "https://www.wired.com/story/nvidia-was-already-in-trouble-before-the-jensen-huang-mess/",
+      "is_new": true
+    },
+    {
+      "title": "Interpreting claims that a theorem is correct because it was checked in Lean",
+      "link": "https://xenaproject.wordpress.com/2026/11/12/and-the-proof-is-checked-in-lean/",
+      "is_new": true
+    },
+    {
+      "title": "Smallest possible nopert polyhedra: the Septopert",
+      "link": "https://github.com/tom7/noperts/blob/main/septopert.md",
+      "is_new": true
+    },
+    {
+      "title": "OOS – an open operating system for the Rigol Scopes",
+      "link": "https://www.eevblog.com/forum/testgear/oos-an-open-operating-system-for-the-rigol-scopes/",
+      "is_new": true
+    },
+    {
+      "title": "The Active Directory Era Is Finally Over",
+      "link": "https://infisical.com/blog/active-directory-machine-identity",
+      "is_new": true
+    },
+    {
+      "title": "Researchers track whole body movement with just a smartwatch",
+      "link": "https://news.cornell.edu/stories/2026/11/researchers-track-whole-body-movement-just-smartwatch",
       "is_new": true
     },
     {
       "title": "Qwen4-Max",
       "link": "https://qwen.ai/blog?id=qwen4-max",
+      "is_new": false
+    },
+    {
+      "title": "What's Next for Nvidia?",
+      "link": "https://steveblank.com/2026/11/15/whats-next-for-nvidia/",
+      "is_new": false
+    },
+    {
+      "title": "Show HN: ThingStudio, Node-RED style programming for microcontrollers",
+      "link": "https://thingstudio.net/",
+      "is_new": true
+    },
+    {
+      "title": "What is w2rt6byl5nf1opmc-a.com?",
+      "link": "https://jack.cab/blog/siterate",
       "is_new": true
     },
     {
@@ -23,18 +88,48 @@
       "is_new": false
     },
     {
-      "title": "What's Next for Nvidia?",
-      "link": "https://steveblank.com/2026/11/15/whats-next-for-nvidia/",
+      "title": "Winudf – DVD / BluRay driver for DOS, Windows 1.x – 3x / 95 / 98 / ME",
+      "link": "https://github.com/ages2001/WINUDF",
+      "is_new": true
+    },
+    {
+      "title": "Nature-Based Sanitation. Cihuatlán: A Large-Scale Artificial Wetland",
+      "link": "https://revista.unaminternacional.unam.mx/en/nota/12/saneamiento-basado-en-la-naturaleza-cihuatlan-un-humedal-construido-de-gran-escala",
       "is_new": true
     },
     {
       "title": "Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack",
       "link": "https://forum.torproject.org/t/security-release-0-4-9-17/22454",
+      "is_new": false
+    },
+    {
+      "title": "Coffeehouses and the Rise of Science [pdf]",
+      "link": "https://www.monirbounadi.com/Bounadi_JMP.pdf",
       "is_new": true
     },
     {
-      "title": "Stop Filming in Log",
-      "link": "https://digitalfilms.wordpress.com/2026/11/15/stop-filming-in-log/",
+      "title": "Protomaps: Self-hosting map tiles has gotten cheap and easy",
+      "link": "https://bruceroettgers.eu/blog/protomaps/",
+      "is_new": false
+    },
+    {
+      "title": "Handwriting, as a Font",
+      "link": "https://ductus.sorenblank.com",
+      "is_new": false
+    },
+    {
+      "title": "A 512 KiB binary message teaching chess without a shared language",
+      "link": "https://artemlegotin.com/golden-board/",
+      "is_new": true
+    },
+    {
+      "title": "The Opportunivore's Dilemma",
+      "link": "https://www.vqronline.org/essays/opportunivores-dilemma",
+      "is_new": true
+    },
+    {
+      "title": "Psychic: Like fzf but learns from your actions",
+      "link": "https://klauria.tech/psychic/",
       "is_new": true
     },
     {
@@ -43,14 +138,26 @@
       "is_new": false
     },
     {
-      "title": "Protomaps: Self-hosting map tiles has gotten cheap and easy",
-      "link": "https://bruceroettgers.eu/blog/protomaps/",
+      "title": "Crows make decisions faster than we can",
+      "link": "https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html",
+      "is_new": false
+    },
+    {
+      "title": "The Lasting Influence of John Berger",
+      "link": "https://www.newyorker.com/magazine/2026/11/16/john-berger-a-life-tom-overton-book-review",
       "is_new": false
     },
     {
       "title": "A short explainer on how El Niño works [video]",
       "link": "https://www.youtube.com/watch?v=7_JF3etiAv8",
       "is_new": false
+    }
+  ],
+  "removed": [
+    {
+      "title": "Stop Filming in Log",
+      "link": "https://digitalfilms.wordpress.com/2026/11/15/stop-filming-in-log/",
+      "is_new": true
     },
     {
       "title": "Do we still have to denormalize? Have your schema and search it too",
@@ -58,29 +165,14 @@
       "is_new": true
     },
     {
-      "title": "Handwriting, as a Font",
-      "link": "https://ductus.sorenblank.com",
-      "is_new": false
-    },
-    {
       "title": "The MacBook Pro's OLED PWM problem",
       "link": "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/",
-      "is_new": false
-    },
-    {
-      "title": "Crows make decisions faster than we can",
-      "link": "https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html",
       "is_new": false
     },
     {
       "title": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
       "link": "https://www.youtube.com/watch?v=WPj3aQ-xxpI",
       "is_new": false
-    },
-    {
-      "title": "The Lasting Influence of John Berger",
-      "link": "https://www.newyorker.com/magazine/2026/11/16/john-berger-a-life-tom-overton-book-review",
-      "is_new": true
     },
     {
       "title": "The Miracle Cure: In 1977, a drug rejected by doctors became a sensation",
@@ -151,83 +243,6 @@
       "title": "Did the Apollo Guidance Computer use 60% of the ICs in 1963?",
       "link": "https://retrocomputing.stackexchange.com/questions/12158/did-the-apollo-guidance-computer-really-use-60-of-the-worlds-ics-in-1963",
       "is_new": true
-    }
-  ],
-  "removed": [
-    {
-      "title": "Show HN: The Last Complication, a Zachtronics-style watchmaking puzzle game",
-      "link": "https://lastcomplication.com/",
-      "is_new": true
-    },
-    {
-      "title": "Aspidistra: A British wartime radio transmitter used for MitM attacks",
-      "link": "https://en.wikipedia.org/wiki/Aspidistra_(transmitter)",
-      "is_new": true
-    },
-    {
-      "title": "Emacs Is My Browser",
-      "link": "https://joshblais.com/blog/emacs-as-my-browser/",
-      "is_new": false
-    },
-    {
-      "title": "Understanding Positional Embeddings in Modern LLMs",
-      "link": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
-      "is_new": false
-    },
-    {
-      "title": "Ask HN: Stripe closed us after one $1,500 invoice and never asked for evidence",
-      "link": "https://news.ycombinator.com/item?id=50510042",
-      "is_new": true
-    },
-    {
-      "title": "Vulcan rocket fails during return-to-flight launch, 40 Amazon satellites lost",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/ula-vulcan-centaur-return-to-flight-amazon-leo-internet-satellite-launch",
-      "is_new": true
-    },
-    {
-      "title": "Why did some Apollo missions carry a grenade launcher? (2019)",
-      "link": "https://space.stackexchange.com/questions/37775",
-      "is_new": false
-    },
-    {
-      "title": "Keylogger Detection and Containment [pdf]",
-      "link": "https://www.cs.vu.nl/~ast/Theses/ortolani-thesis.pdf",
-      "is_new": true
-    },
-    {
-      "title": "Notes on Mathematics for Engineers (1959) [pdf]",
-      "link": "https://websites.umich.edu/~ners311/CourseLibrary/MathNotes.pdf",
-      "is_new": false
-    },
-    {
-      "title": "A DrRacket style editor for Clojure with some Lisp Machine inspired features",
-      "link": "https://jonquil.b12n.app/",
-      "is_new": true
-    },
-    {
-      "title": "Eval Awareness vs. Eval Paranoia",
-      "link": "https://www.lesswrong.com/posts/mepsi7JNKYejq9wry/eval-awareness-vs-eval-paranoia",
-      "is_new": false
-    },
-    {
-      "title": "Boeing-Lockheed rocket fails mid-flight, destroys payload of Amazon satellites",
-      "link": "https://www.reuters.com/business/aerospace-defense/us-rocket-fails-after-launch-payload-amazon-internet-satellites-destroyed-2026-11-15/",
-      "is_new": true
-    },
-    {
-      "title": "All AI-generated code should be Open Source",
-      "link": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
-      "is_new": false
-    },
-    {
-      "title": "Jensen Huang might return to Nvidia as CEO",
-      "link": "https://www.reuters.com/world/china/jensen-huang-discusses-comeback-nvidia-ceo-with-allies-ft-reports-2026-11-15/",
-      "is_new": true
-    },
-    {
-      "title": "SpaceX catches the Starship to end Flight 15",
-      "link": "https://www.spacex.com/launches/starship-flight-15",
-      "is_new": false
     }
   ]
 }
