@@ -1,20 +1,50 @@
 {
-  "crawled_at": "2026-11-16 05:46",
-  "prev_crawled_at": "2026-11-16 00:16",
+  "crawled_at": "2026-11-16 09:41",
+  "prev_crawled_at": "2026-11-16 05:46",
   "items": [
     {
-      "title": "A short explainer on how El Niño works [video]",
-      "link": "https://www.youtube.com/watch?v=7_JF3etiAv8",
+      "title": "Old Bitly Links Are Being Hijacked",
+      "link": "https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/",
       "is_new": true
     },
     {
-      "title": "Do House members' stock trades beat the market? A test of 8,900 trades",
-      "link": "https://arkanumdata.com/research/house-trades",
+      "title": "Preserving 30 Years of Salon Journalism",
+      "link": "https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/",
+      "is_new": true
+    },
+    {
+      "title": "Protomaps: Self-hosting map tiles has gotten cheap and easy",
+      "link": "https://bruceroettgers.eu/blog/protomaps/",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: The Last Complication, a Zachtronics-style watchmaking puzzle game",
+      "link": "https://lastcomplication.com/",
+      "is_new": true
+    },
+    {
+      "title": "A short explainer on how El Niño works [video]",
+      "link": "https://www.youtube.com/watch?v=7_JF3etiAv8",
+      "is_new": false
+    },
+    {
+      "title": "WebGL Flight Simulator with seed generated terrain",
+      "link": "https://baron.by.dai.studio/",
+      "is_new": true
+    },
+    {
+      "title": "Mini.nvim Is Now on Tangled",
+      "link": "https://tangled.org/nvim-mini.org/mini.nvim",
       "is_new": true
     },
     {
       "title": "'Birdbrain' Is a Misnomer. Crows Make Decisions Faster Than We Can",
       "link": "https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html",
+      "is_new": false
+    },
+    {
+      "title": "Handwriting, as a Font",
+      "link": "https://ductus.sorenblank.com",
       "is_new": true
     },
     {
@@ -25,17 +55,12 @@
     {
       "title": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
       "link": "https://www.youtube.com/watch?v=WPj3aQ-xxpI",
-      "is_new": true
-    },
-    {
-      "title": "Eclipse Mosquitto – An open source MQTT broker",
-      "link": "https://github.com/eclipse-mosquitto/mosquitto",
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests",
       "link": "https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html",
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Things That Turbo Pascal Is Smaller Than (2011)",
@@ -43,14 +68,19 @@
       "is_new": false
     },
     {
-      "title": "SpaceX catches the Starship to end Flight 15",
-      "link": "https://www.spacex.com/launches/starship-flight-15",
+      "title": "Eclipse Mosquitto – An open source MQTT broker",
+      "link": "https://github.com/eclipse-mosquitto/mosquitto",
       "is_new": false
+    },
+    {
+      "title": "Aspidistra: A British wartime radio transmitter used for MitM attacks",
+      "link": "https://en.wikipedia.org/wiki/Aspidistra_(transmitter)",
+      "is_new": true
     },
     {
       "title": "Emacs Is My Browser",
       "link": "https://joshblais.com/blog/emacs-as-my-browser/",
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Understanding Positional Embeddings in Modern LLMs",
@@ -58,8 +88,53 @@
       "is_new": false
     },
     {
+      "title": "Ask HN: Stripe closed us after one $1,500 invoice and never asked for evidence",
+      "link": "https://news.ycombinator.com/item?id=50510042",
+      "is_new": true
+    },
+    {
+      "title": "A quest to create the perfect whiskey glass",
+      "link": "https://www.nytimes.com/2026/11/13/dining/drinks/kurt-josef-zalto-whiskey-glass.html",
+      "is_new": true
+    },
+    {
+      "title": "Vulcan rocket fails during return-to-flight launch, 40 Amazon satellites lost",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/ula-vulcan-centaur-return-to-flight-amazon-leo-internet-satellite-launch",
+      "is_new": true
+    },
+    {
+      "title": "Why did some Apollo missions carry a grenade launcher? (2019)",
+      "link": "https://space.stackexchange.com/questions/37775",
+      "is_new": false
+    },
+    {
+      "title": "Keylogger Detection and Containment [pdf]",
+      "link": "https://www.cs.vu.nl/~ast/Theses/ortolani-thesis.pdf",
+      "is_new": true
+    },
+    {
+      "title": "Notes on Mathematics for Engineers (1959) [pdf]",
+      "link": "https://websites.umich.edu/~ners311/CourseLibrary/MathNotes.pdf",
+      "is_new": false
+    },
+    {
+      "title": "A DrRacket style editor for Clojure with some Lisp Machine inspired features",
+      "link": "https://jonquil.b12n.app/",
+      "is_new": true
+    },
+    {
       "title": "Clice v1.0 Released: Welcome to Modern C++",
       "link": "https://ykiko.me/en/articles/2105384023094834022/",
+      "is_new": false
+    },
+    {
+      "title": "Eval Awareness vs. Eval Paranoia",
+      "link": "https://www.lesswrong.com/posts/mepsi7JNKYejq9wry/eval-awareness-vs-eval-paranoia",
+      "is_new": false
+    },
+    {
+      "title": "Boeing-Lockheed rocket fails mid-flight, destroys payload of Amazon satellites",
+      "link": "https://www.reuters.com/business/aerospace-defense/us-rocket-fails-after-launch-payload-amazon-internet-satellites-destroyed-2026-11-15/",
       "is_new": true
     },
     {
@@ -68,18 +143,25 @@
       "is_new": false
     },
     {
-      "title": "Notes on Mathematics for Engineers (1959) [pdf]",
-      "link": "https://websites.umich.edu/~ners311/CourseLibrary/MathNotes.pdf",
+      "title": "Jensen Huang might return to Nvidia as CEO",
+      "link": "https://www.reuters.com/world/china/jensen-huang-discusses-comeback-nvidia-ceo-with-allies-ft-reports-2026-11-15/",
+      "is_new": true
+    },
+    {
+      "title": "SpaceX catches the Starship to end Flight 15",
+      "link": "https://www.spacex.com/launches/starship-flight-15",
+      "is_new": false
+    }
+  ],
+  "removed": [
+    {
+      "title": "Do House members' stock trades beat the market? A test of 8,900 trades",
+      "link": "https://arkanumdata.com/research/house-trades",
       "is_new": true
     },
     {
       "title": "Parents pay $75k for Alpha's AI school. Half of its students missed math target",
       "link": "https://fortune.com/2026/11/14/alpha-school-ai-students-tuition-learning-goals/",
-      "is_new": true
-    },
-    {
-      "title": "Eval Awareness vs. Eval Paranoia",
-      "link": "https://www.lesswrong.com/posts/mepsi7JNKYejq9wry/eval-awareness-vs-eval-paranoia",
       "is_new": true
     },
     {
@@ -90,11 +172,6 @@
     {
       "title": "A NES emulator written in Odin",
       "link": "https://lucypero.com/lucynes.html",
-      "is_new": false
-    },
-    {
-      "title": "Why did some Apollo missions carry a grenade launcher?",
-      "link": "https://space.stackexchange.com/questions/37775",
       "is_new": false
     },
     {
@@ -150,78 +227,6 @@
     {
       "title": "Handwritten 200-year-old dismissal notice found on roof tile",
       "link": "https://www.bbc.co.uk/news/articles/c6jdmdzv25r9o",
-      "is_new": false
-    }
-  ],
-  "removed": [
-    {
-      "title": "The Hypertext Transfer Protocol Status Code 483 (I'm Not a Freezer)",
-      "link": "https://datatracker.ietf.org/doc/draft-banffy-httpbis-not-a-freezer/",
-      "is_new": true
-    },
-    {
-      "title": "Lovable apps expose passport details and more than 200K private messages",
-      "link": "https://www.crissyfield.de/research/lovable-en/",
-      "is_new": false
-    },
-    {
-      "title": "My favourite modern NES games",
-      "link": "https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/",
-      "is_new": false
-    },
-    {
-      "title": "Disk encryption on NetBSD – achieving secrecy",
-      "link": "https://netbsd.org/~nia/disk-encrypt/",
-      "is_new": true
-    },
-    {
-      "title": "Strictly monotonic timestamps and gapless sequences in Rust",
-      "link": "https://tsoracle.rs/",
-      "is_new": true
-    },
-    {
-      "title": "Open-Source HF Communications for Remote Communities and Experimenters",
-      "link": "https://www.ardc.net/rhizomaticas-hermes-and-mercury-expand-open-source-hf-communications-for-remote-communities-while-appealing-to-experimenters/",
-      "is_new": true
-    },
-    {
-      "title": "KDE: The documentary [video]",
-      "link": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
-      "is_new": false
-    },
-    {
-      "title": "A family tree of software job titles",
-      "link": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/",
-      "is_new": false
-    },
-    {
-      "title": "Semicircle Packing",
-      "link": "https://rorz.io/writing/semicircle-packing",
-      "is_new": true
-    },
-    {
-      "title": "Why get an expensive Pi when I have an old phone?",
-      "link": "https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/",
-      "is_new": false
-    },
-    {
-      "title": "Book list for streetfighting computer scientists",
-      "link": "https://nick-black.com/dankwiki/index.php?title=Book_list_for_streetfighting_computer_scientists",
-      "is_new": true
-    },
-    {
-      "title": "The Evolving Story of How Chemistry Became Biology",
-      "link": "https://www.quantamagazine.org/the-evolving-story-of-how-chemistry-became-biology-20261112/",
-      "is_new": false
-    },
-    {
-      "title": "PyPI's redesigned project pages with clearer security signals are now live",
-      "link": "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/",
-      "is_new": false
-    },
-    {
-      "title": "500 Lines or Less A 3D Modeller",
-      "link": "https://aosabook.org/en/500L/a-3d-modeller.html",
       "is_new": false
     }
   ]
