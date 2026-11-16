@@ -1,26 +1,51 @@
 {
-  "crawled_at": "2026-11-16 09:41",
-  "prev_crawled_at": "2026-11-16 05:46",
+  "crawled_at": "2026-11-16 16:36",
+  "prev_crawled_at": "2026-11-16 09:41",
   "items": [
     {
-      "title": "Old Bitly Links Are Being Hijacked",
-      "link": "https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/",
+      "title": "How to make almost anything",
+      "link": "https://pub.cba.mit.edu/863.26/site/",
       "is_new": true
     },
     {
-      "title": "Preserving 30 Years of Salon Journalism",
-      "link": "https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/",
+      "title": "Universal XSS in uBlock Origin from website-driven element picker",
+      "link": "https://iter.ca/post/ubo-uxss/",
       "is_new": true
+    },
+    {
+      "title": "Qwen4-Max",
+      "link": "https://qwen.ai/blog?id=qwen4-max",
+      "is_new": true
+    },
+    {
+      "title": "Old Bitly links are being hijacked",
+      "link": "https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/",
+      "is_new": false
+    },
+    {
+      "title": "What's Next for Nvidia?",
+      "link": "https://steveblank.com/2026/11/15/whats-next-for-nvidia/",
+      "is_new": true
+    },
+    {
+      "title": "Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack",
+      "link": "https://forum.torproject.org/t/security-release-0-4-9-17/22454",
+      "is_new": true
+    },
+    {
+      "title": "Stop Filming in Log",
+      "link": "https://digitalfilms.wordpress.com/2026/11/15/stop-filming-in-log/",
+      "is_new": true
+    },
+    {
+      "title": "Preserving 30 years of Salon journalism",
+      "link": "https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/",
+      "is_new": false
     },
     {
       "title": "Protomaps: Self-hosting map tiles has gotten cheap and easy",
       "link": "https://bruceroettgers.eu/blog/protomaps/",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: The Last Complication, a Zachtronics-style watchmaking puzzle game",
-      "link": "https://lastcomplication.com/",
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "A short explainer on how El Niño works [video]",
@@ -28,28 +53,23 @@
       "is_new": false
     },
     {
-      "title": "WebGL Flight Simulator with seed generated terrain",
-      "link": "https://baron.by.dai.studio/",
+      "title": "Do we still have to denormalize? Have your schema and search it too",
+      "link": "https://www.paradedb.com/blog/joins",
       "is_new": true
-    },
-    {
-      "title": "Mini.nvim Is Now on Tangled",
-      "link": "https://tangled.org/nvim-mini.org/mini.nvim",
-      "is_new": true
-    },
-    {
-      "title": "'Birdbrain' Is a Misnomer. Crows Make Decisions Faster Than We Can",
-      "link": "https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html",
-      "is_new": false
     },
     {
       "title": "Handwriting, as a Font",
       "link": "https://ductus.sorenblank.com",
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "The MacBook Pro's OLED PWM problem",
       "link": "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/",
+      "is_new": false
+    },
+    {
+      "title": "Crows make decisions faster than we can",
+      "link": "https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html",
       "is_new": false
     },
     {
@@ -58,8 +78,33 @@
       "is_new": false
     },
     {
-      "title": "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests",
-      "link": "https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html",
+      "title": "The Lasting Influence of John Berger",
+      "link": "https://www.newyorker.com/magazine/2026/11/16/john-berger-a-life-tom-overton-book-review",
+      "is_new": true
+    },
+    {
+      "title": "The Miracle Cure: In 1977, a drug rejected by doctors became a sensation",
+      "link": "https://slate.com/technology/2026/11/doctor-medicine-cancer-cure-pill-history.html",
+      "is_new": true
+    },
+    {
+      "title": "WebGL Flight Simulator with seed generated terrain",
+      "link": "https://baron.by.dai.studio/",
+      "is_new": false
+    },
+    {
+      "title": "Debian Becomes Unresponsive after 6.1.0-55 Kernel Update",
+      "link": "https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1154101",
+      "is_new": true
+    },
+    {
+      "title": "Simple 8085 Computer",
+      "link": "https://www.hackster.io/mit41301/simple-8085-computer-9fe156",
+      "is_new": true
+    },
+    {
+      "title": "Mini.nvim Is Now on Tangled",
+      "link": "https://tangled.org/nvim-mini.org/mini.nvim",
       "is_new": false
     },
     {
@@ -68,9 +113,51 @@
       "is_new": false
     },
     {
+      "title": "Skydio's asymmetrical F10 Lightrunner solves a problem with fixed-wing drones",
+      "link": "https://spectrum.ieee.org/skydio-f10-lightrunner-asymmetrical-drone",
+      "is_new": true
+    },
+    {
+      "title": "Artificial Intelligence for the Z80",
+      "link": "https://www.dfsantos.com/en/libro-ia-z80",
+      "is_new": true
+    },
+    {
+      "title": "A quest to create the perfect whiskey glass",
+      "link": "https://www.nytimes.com/2026/11/13/dining/drinks/kurt-josef-zalto-whiskey-glass.html",
+      "is_new": false
+    },
+    {
+      "title": "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests",
+      "link": "https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html",
+      "is_new": false
+    },
+    {
+      "title": "Coles hit by a cybersecurity incident",
+      "link": "https://www.colesgroup.com.au/updates/",
+      "is_new": true
+    },
+    {
       "title": "Eclipse Mosquitto – An open source MQTT broker",
       "link": "https://github.com/eclipse-mosquitto/mosquitto",
       "is_new": false
+    },
+    {
+      "title": "Clice v1.0 Released: Welcome to Modern C++",
+      "link": "https://ykiko.me/en/articles/2105384023094834022/",
+      "is_new": false
+    },
+    {
+      "title": "Did the Apollo Guidance Computer use 60% of the ICs in 1963?",
+      "link": "https://retrocomputing.stackexchange.com/questions/12158/did-the-apollo-guidance-computer-really-use-60-of-the-worlds-ics-in-1963",
+      "is_new": true
+    }
+  ],
+  "removed": [
+    {
+      "title": "Show HN: The Last Complication, a Zachtronics-style watchmaking puzzle game",
+      "link": "https://lastcomplication.com/",
+      "is_new": true
     },
     {
       "title": "Aspidistra: A British wartime radio transmitter used for MitM attacks",
@@ -90,11 +177,6 @@
     {
       "title": "Ask HN: Stripe closed us after one $1,500 invoice and never asked for evidence",
       "link": "https://news.ycombinator.com/item?id=50510042",
-      "is_new": true
-    },
-    {
-      "title": "A quest to create the perfect whiskey glass",
-      "link": "https://www.nytimes.com/2026/11/13/dining/drinks/kurt-josef-zalto-whiskey-glass.html",
       "is_new": true
     },
     {
@@ -123,11 +205,6 @@
       "is_new": true
     },
     {
-      "title": "Clice v1.0 Released: Welcome to Modern C++",
-      "link": "https://ykiko.me/en/articles/2105384023094834022/",
-      "is_new": false
-    },
-    {
       "title": "Eval Awareness vs. Eval Paranoia",
       "link": "https://www.lesswrong.com/posts/mepsi7JNKYejq9wry/eval-awareness-vs-eval-paranoia",
       "is_new": false
@@ -150,83 +227,6 @@
     {
       "title": "SpaceX catches the Starship to end Flight 15",
       "link": "https://www.spacex.com/launches/starship-flight-15",
-      "is_new": false
-    }
-  ],
-  "removed": [
-    {
-      "title": "Do House members' stock trades beat the market? A test of 8,900 trades",
-      "link": "https://arkanumdata.com/research/house-trades",
-      "is_new": true
-    },
-    {
-      "title": "Parents pay $75k for Alpha's AI school. Half of its students missed math target",
-      "link": "https://fortune.com/2026/11/14/alpha-school-ai-students-tuition-learning-goals/",
-      "is_new": true
-    },
-    {
-      "title": "Court denies motion to dismiss DRAM price fixing case",
-      "link": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal",
-      "is_new": false
-    },
-    {
-      "title": "A NES emulator written in Odin",
-      "link": "https://lucypero.com/lucynes.html",
-      "is_new": false
-    },
-    {
-      "title": "Jensen Huang discusses comeback as Nvidia CEO with allies",
-      "link": "https://www.ft.com/content/45383d86-33c4-4d99-86e5-5e058d3567c1",
-      "is_new": true
-    },
-    {
-      "title": "20 Years of Pyrolog",
-      "link": "https://pypy.org/posts/2026/11/20-years-of-pyrolog.html",
-      "is_new": true
-    },
-    {
-      "title": "What thousands of conversations look like inside a language model",
-      "link": "https://operator0x.com/field-notes/qwen-conversation-state-space/",
-      "is_new": false
-    },
-    {
-      "title": "Lutnick Pushed to Weaken Chip Rules That Overlap with His Family Business",
-      "link": "https://www.nytimes.com/2026/11/15/us/politics/lutnick-pushed-to-weaken-chip-rules-that-overlap-with-his-family-business.html",
-      "is_new": false
-    },
-    {
-      "title": "The Telephone Changed the World",
-      "link": "https://lithub.com/how-the-telephone-changed-the-world/",
-      "is_new": false
-    },
-    {
-      "title": "Bullet Dodged",
-      "link": "https://idiotking.org/archives/2026/10/bullet-dodged-3/",
-      "is_new": true
-    },
-    {
-      "title": "Chasing an audio artifact on power loss",
-      "link": "https://subalpinecircuits.com/chasing-an-audio-artifact-on-power-loss/",
-      "is_new": false
-    },
-    {
-      "title": "How to read codes from (many) IR remote controls with as little code as possible",
-      "link": "https://bitbanksoftware.blogspot.com/2026/11/how-to-read-codes-from-many-ir-remote.html",
-      "is_new": false
-    },
-    {
-      "title": "Show HN: Carton Clock – A working pendulum clock made from empty drink cartons",
-      "link": "https://www.niklasroy.com/carton-clock/",
-      "is_new": false
-    },
-    {
-      "title": "How did Woz write the Apple 1 BASIC before building the computer?",
-      "link": "https://retrocomputing.stackexchange.com/questions/17957",
-      "is_new": false
-    },
-    {
-      "title": "Handwritten 200-year-old dismissal notice found on roof tile",
-      "link": "https://www.bbc.co.uk/news/articles/c6jdmdzv25r9o",
       "is_new": false
     }
   ]
