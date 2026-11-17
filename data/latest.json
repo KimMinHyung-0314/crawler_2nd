@@ -1,46 +1,61 @@
 {
-  "crawled_at": "2026-11-17 10:30",
-  "prev_crawled_at": "2026-11-17 02:52",
+  "crawled_at": "2026-11-17 19:05",
+  "prev_crawled_at": "2026-11-17 10:30",
   "items": [
     {
       "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
       "link": "https://www.cs.cmu.edu/learn/",
-      "is_new": true
-    },
-    {
-      "title": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
-      "link": "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "BugMeNot has closed",
       "link": "https://www.bugmenot.com/",
+      "is_new": false
+    },
+    {
+      "title": "Nimony: A New Compiler for Nim",
+      "link": "https://nimony.org/",
       "is_new": true
     },
     {
-      "title": "Optimizely Compromised, Served Malware on Zoom, GitLab",
+      "title": "Optimizely compromised, served malware on Zoom, GitLab",
       "link": "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/",
+      "is_new": false
+    },
+    {
+      "title": "Show HN: Zigzag, a native Mac browser for people leaving Arc",
+      "link": "https://github.com/ZigaoWang/zigzag",
+      "is_new": true
+    },
+    {
+      "title": "If an App Asks for Full Disk Access or System and App Protection Override",
+      "link": "https://support.apple.com/en-us/149699",
+      "is_new": true
+    },
+    {
+      "title": "Japan's Hometown Tax (2018)",
+      "link": "https://www.kalzumeus.com/2018/10/19/japanese-hometown-tax/",
+      "is_new": true
+    },
+    {
+      "title": "Why 3dfx 1 cards had such a washed out color output?",
+      "link": "https://twitter.com/id_aa_carmack/status/2122478083319992513",
       "is_new": true
     },
     {
       "title": "OpenCode Browse",
       "link": "https://opencode.ai/product/browse",
-      "is_new": true
-    },
-    {
-      "title": "How to Break into Security, Ptacek Edition (2012)",
-      "link": "https://krebsonsecurity.com/2012/06/how-to-break-into-security-ptacek-edition/",
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Chemistry is Actually Geometry",
       "link": "https://chillphysicsenjoyer.substack.com/p/chemistry-is-actually-geometry",
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Frame – 31.5\" color ePaper display",
       "link": "https://trmnl.com/blog/introducing-frame",
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Jiff 1.0: A datetime library for Rust",
@@ -48,33 +63,100 @@
       "is_new": false
     },
     {
+      "title": "Comcast's \"fiber-powered Wi-Fi\" is cable, AT&T says in false advertising case",
+      "link": "https://arstechnica.com/tech-policy/2026/11/comcast-falsely-advertises-cable-internet-as-fiber-powered-att-lawsuit-says/",
+      "is_new": true
+    },
+    {
+      "title": "Test/verification technique effectiveness with Astra",
+      "link": "https://danluu.com/astra-testing/",
+      "is_new": true
+    },
+    {
+      "title": "Windows 11 is collecting data on which coding agents and developer tools you use",
+      "link": "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
+      "is_new": false
+    },
+    {
+      "title": "What is w2rt6byl5nf1opmc-a.com?",
+      "link": "https://jack.cab/blog/siterate",
+      "is_new": true
+    },
+    {
+      "title": "The Fossils That Haunted Lovecraft",
+      "link": "https://paleonerdish.wordpress.com/2026/10/30/halloween-special-xiv-the-fossils-that-haunted-lovecraft/",
+      "is_new": true
+    },
+    {
       "title": "Grazing sheep in fields with solar arrays",
       "link": "https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains",
       "is_new": false
     },
     {
-      "title": "Technical issue at JPMorgan Chase triggers online banking delays for US banks",
-      "link": "https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda",
-      "is_new": true
-    },
-    {
-      "title": "Do Repeat Yourself",
-      "link": "https://arcentry.com/blog/do-repeat-yourself/",
+      "title": "Why did modems have speakers? (2019)",
+      "link": "https://retrocomputing.stackexchange.com/questions/11765",
       "is_new": true
     },
     {
       "title": "Formal Verification Is Not Verifiable",
       "link": "https://alperenkeles.com/posts/formal-verification-is-not-verifiable/",
+      "is_new": false
+    },
+    {
+      "title": "Stop Filming in Log?",
+      "link": "https://digitalfilms.wordpress.com/2026/11/15/stop-filming-in-log/",
       "is_new": true
     },
     {
-      "title": "Show HN: Sutra-OS – A self-hosted ontology platform",
-      "link": "https://github.com/0nelight/sutra-os",
+      "title": "Microsoft blames monster email outage on software defect introduced in July fix",
+      "link": "https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026",
+      "is_new": false
+    },
+    {
+      "title": "Mem Is Shutting Down",
+      "link": "https://get.mem.ai/blog/mem-is-shutting-down",
       "is_new": true
+    },
+    {
+      "title": "Launch HN: Axonnic (YC F26) – Sleeves that track fingers and estimate force",
+      "link": "https://news.ycombinator.com/item?id=50522776",
+      "is_new": false
+    },
+    {
+      "title": "Technical issue at JPMorgan Chase triggers online banking delays for US banks",
+      "link": "https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda",
+      "is_new": false
     },
     {
       "title": "Squircles",
       "link": "https://linebender.org/wiki/curves/squircle/",
+      "is_new": false
+    },
+    {
+      "title": "Spamhaus new email sender requirements in November",
+      "link": "https://www.spamhaus.org/sender-guidelines/",
+      "is_new": false
+    },
+    {
+      "title": "Do Repeat Yourself",
+      "link": "https://arcentry.com/blog/do-repeat-yourself/",
+      "is_new": false
+    },
+    {
+      "title": "Run your FreeBSD services from one console",
+      "link": "https://jailops.net/",
+      "is_new": true
+    },
+    {
+      "title": "How to Break into Security, Ptacek Edition (2012)",
+      "link": "https://krebsonsecurity.com/2012/06/how-to-break-into-security-ptacek-edition/",
+      "is_new": false
+    }
+  ],
+  "removed": [
+    {
+      "title": "Show HN: Sutra-OS – A self-hosted ontology platform",
+      "link": "https://github.com/0nelight/sutra-os",
       "is_new": true
     },
     {
@@ -83,18 +165,8 @@
       "is_new": true
     },
     {
-      "title": "Launch HN: Axonnic (YC F26) – Sleeves that track fingers and estimate force",
-      "link": "https://news.ycombinator.com/item?id=50522776",
-      "is_new": true
-    },
-    {
       "title": "United Airlines experiencing a widespread system outage, airline says",
       "link": "https://www.cnn.com/2026/11/16/us/united-airlines-outage",
-      "is_new": true
-    },
-    {
-      "title": "Microsoft blames monster email outage on software defect introduced in July fix",
-      "link": "https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026",
       "is_new": true
     },
     {
@@ -143,146 +215,9 @@
       "is_new": true
     },
     {
-      "title": "Spamhaus new email sender requirements in November",
-      "link": "https://www.spamhaus.org/sender-guidelines/",
-      "is_new": true
-    },
-    {
       "title": "The origins of the placenta",
       "link": "https://www.caltech.edu/about/news/uncovering-the-hidden-origins-of-the-placenta",
       "is_new": true
-    }
-  ],
-  "removed": [
-    {
-      "title": "How to make almost anything",
-      "link": "https://pub.cba.mit.edu/863.26/site/",
-      "is_new": false
-    },
-    {
-      "title": "Universal XSS in uBlock Origin from website-driven element picker",
-      "link": "https://iter.ca/post/ubo-uxss/",
-      "is_new": false
-    },
-    {
-      "title": "Nvidia was in trouble before the Jensen Huang mess",
-      "link": "https://www.wired.com/story/nvidia-was-already-in-trouble-before-the-jensen-huang-mess/",
-      "is_new": true
-    },
-    {
-      "title": "Interpreting claims that a theorem is correct because it was checked in Lean",
-      "link": "https://xenaproject.wordpress.com/2026/11/12/and-the-proof-is-checked-in-lean/",
-      "is_new": true
-    },
-    {
-      "title": "Smallest possible nopert polyhedra: the Septopert",
-      "link": "https://github.com/tom7/noperts/blob/main/septopert.md",
-      "is_new": true
-    },
-    {
-      "title": "OOS – an open operating system for the Rigol Scopes",
-      "link": "https://www.eevblog.com/forum/testgear/oos-an-open-operating-system-for-the-rigol-scopes/",
-      "is_new": true
-    },
-    {
-      "title": "The Active Directory Era Is Finally Over",
-      "link": "https://infisical.com/blog/active-directory-machine-identity",
-      "is_new": true
-    },
-    {
-      "title": "Researchers track whole body movement with just a smartwatch",
-      "link": "https://news.cornell.edu/stories/2026/11/researchers-track-whole-body-movement-just-smartwatch",
-      "is_new": true
-    },
-    {
-      "title": "Qwen4-Max",
-      "link": "https://qwen.ai/blog?id=qwen4-max",
-      "is_new": false
-    },
-    {
-      "title": "What's Next for Nvidia?",
-      "link": "https://steveblank.com/2026/11/15/whats-next-for-nvidia/",
-      "is_new": false
-    },
-    {
-      "title": "Show HN: ThingStudio, Node-RED style programming for microcontrollers",
-      "link": "https://thingstudio.net/",
-      "is_new": true
-    },
-    {
-      "title": "What is w2rt6byl5nf1opmc-a.com?",
-      "link": "https://jack.cab/blog/siterate",
-      "is_new": true
-    },
-    {
-      "title": "Old Bitly links are being hijacked",
-      "link": "https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/",
-      "is_new": false
-    },
-    {
-      "title": "Winudf – DVD / BluRay driver for DOS, Windows 1.x – 3x / 95 / 98 / ME",
-      "link": "https://github.com/ages2001/WINUDF",
-      "is_new": true
-    },
-    {
-      "title": "Nature-Based Sanitation. Cihuatlán: A Large-Scale Artificial Wetland",
-      "link": "https://revista.unaminternacional.unam.mx/en/nota/12/saneamiento-basado-en-la-naturaleza-cihuatlan-un-humedal-construido-de-gran-escala",
-      "is_new": true
-    },
-    {
-      "title": "Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack",
-      "link": "https://forum.torproject.org/t/security-release-0-4-9-17/22454",
-      "is_new": false
-    },
-    {
-      "title": "Coffeehouses and the Rise of Science [pdf]",
-      "link": "https://www.monirbounadi.com/Bounadi_JMP.pdf",
-      "is_new": true
-    },
-    {
-      "title": "Protomaps: Self-hosting map tiles has gotten cheap and easy",
-      "link": "https://bruceroettgers.eu/blog/protomaps/",
-      "is_new": false
-    },
-    {
-      "title": "Handwriting, as a Font",
-      "link": "https://ductus.sorenblank.com",
-      "is_new": false
-    },
-    {
-      "title": "A 512 KiB binary message teaching chess without a shared language",
-      "link": "https://artemlegotin.com/golden-board/",
-      "is_new": true
-    },
-    {
-      "title": "The Opportunivore's Dilemma",
-      "link": "https://www.vqronline.org/essays/opportunivores-dilemma",
-      "is_new": true
-    },
-    {
-      "title": "Psychic: Like fzf but learns from your actions",
-      "link": "https://klauria.tech/psychic/",
-      "is_new": true
-    },
-    {
-      "title": "Preserving 30 years of Salon journalism",
-      "link": "https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/",
-      "is_new": false
-    },
-    {
-      "title": "Crows make decisions faster than we can",
-      "link": "https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html",
-      "is_new": false
-    },
-    {
-      "title": "The Lasting Influence of John Berger",
-      "link": "https://www.newyorker.com/magazine/2026/11/16/john-berger-a-life-tom-overton-book-review",
-      "is_new": false
-    },
-    {
-      "title": "A short explainer on how El Niño works [video]",
-      "link": "https://www.youtube.com/watch?v=7_JF3etiAv8",
-      "is_new": false
     }
   ]
 }
