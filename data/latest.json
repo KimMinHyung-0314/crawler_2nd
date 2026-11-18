@@ -1,66 +1,168 @@
 {
-  "crawled_at": "2026-11-18 04:33",
-  "prev_crawled_at": "2026-11-17 19:05",
+  "crawled_at": "2026-11-18 11:03",
+  "prev_crawled_at": "2026-11-18 04:33",
   "items": [
     {
-      "title": "GPT‑6.2 Astra and Sol",
-      "link": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
+      "title": "Java4Shell: RCE in OpenJDK when processing Base64",
+      "link": "https://calif.io/java4shell/",
       "is_new": true
     },
     {
-      "title": "Apple Services Down",
-      "link": "https://developer.apple.com/system-status/",
+      "title": "ID.me terms required for IRS sign-in",
+      "link": "https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in",
+      "is_new": true
+    },
+    {
+      "title": "GPT‑6.2 Astra and Sol",
+      "link": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
+      "is_new": false
+    },
+    {
+      "title": "Quad9's withdrawal from France: A canary in the coal mine",
+      "link": "https://blog.cloudflare.com/quad9-withdrawal-from-france/",
+      "is_new": true
+    },
+    {
+      "title": "Google's AI answers reducing search traffic by 40%",
+      "link": "https://revscope.co/blog/search-seo-geo-2026/",
+      "is_new": true
+    },
+    {
+      "title": "Archive Team is archiving the Apple Support Community (closes November 20, 2026)",
+      "link": "https://wiki.archiveteam.org/index.php/Apple_Discussions",
+      "is_new": true
+    },
+    {
+      "title": "Microsoft's ONNX Runtime has disappeared from GitHub",
+      "link": "https://github.com/microsoft/onnxruntime",
+      "is_new": true
+    },
+    {
+      "title": "Nvidia stopped disclosing Singapore sales as revenues hit $104B",
+      "link": "https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf",
+      "is_new": false
+    },
+    {
+      "title": "jQuery 4.1.0",
+      "link": "https://github.com/jquery/jquery/releases/tag/4.1.0",
       "is_new": true
     },
     {
       "title": "MAI Code 2 and Code 2 Flash",
       "link": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/",
+      "is_new": false
+    },
+    {
+      "title": "Highly classified US national security communications network goes down",
+      "link": "https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down",
       "is_new": true
     },
     {
       "title": "Phrack 73 Released",
       "link": "https://phrack.org/issues/73/introduction_md",
-      "is_new": true
+      "is_new": false
     },
     {
-      "title": "What is the best harness for each model?",
-      "link": "https://runta.com/blog/introducing-frontierharness-eval-v1-1/",
+      "title": "350 years ago, Ole Rømer discovered that light has a finite speed",
+      "link": "https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969",
       "is_new": true
     },
     {
       "title": "Solid 2.0",
       "link": "https://www.solidjs.com/blog/solid-2-0-the-long-hold/",
+      "is_new": false
+    },
+    {
+      "title": "Fun with Constrained Programming",
+      "link": "https://blog.cmpxchg8b.com/2012/09/fun-with-constrained-programming.html",
       "is_new": true
+    },
+    {
+      "title": "Cerebras Disaggregated Inference",
+      "link": "https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference",
+      "is_new": true
+    },
+    {
+      "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
+      "link": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/",
+      "is_new": true
+    },
+    {
+      "title": "What is the best harness for each model?",
+      "link": "https://runta.com/blog/introducing-frontierharness-eval-v1-1/",
+      "is_new": false
     },
     {
       "title": "Launch HN: StarSling (YC P25) – Self-improving CI for agent-volume repos",
       "link": "https://starsling.dev",
+      "is_new": false
+    },
+    {
+      "title": "Web Browser Engineering (2021)",
+      "link": "https://browser.engineering/",
       "is_new": true
     },
+    {
+      "title": "Apple Services Down",
+      "link": "https://developer.apple.com/system-status/",
+      "is_new": false
+    },
+    {
+      "title": "Latent Lattice Language Models",
+      "link": "https://shivamduggal4.github.io/latent-lattice-language-models/",
+      "is_new": true
+    },
+    {
+      "title": "Tencent Hy4 Flash",
+      "link": "https://hy.tencent.ai/research/hy4-flash",
+      "is_new": true
+    },
+    {
+      "title": "YC wrote software to run our internship expo – and an 8-bit SIM to show it off",
+      "link": "https://news.ycombinator.com/item?id=50534429",
+      "is_new": false
+    },
+    {
+      "title": "Effects of a Nuclear Detonation in Low Earth Orbit",
+      "link": "https://arxiv.org/abs/2611.09827",
+      "is_new": true
+    },
+    {
+      "title": "Who Builds the Machines That Build the Machines?",
+      "link": "https://read.corematter.com/p/section-232-us-machine-tools",
+      "is_new": false
+    },
+    {
+      "title": "Not Everything Needs an LLM",
+      "link": "https://newsletter.posthog.com/p/decision-models",
+      "is_new": true
+    },
+    {
+      "title": "Mouse Party",
+      "link": "https://aboard.com/lets-have-a-mouse-party/",
+      "is_new": false
+    },
+    {
+      "title": "How the Claude Code team thinks about verification",
+      "link": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/",
+      "is_new": false
+    },
+    {
+      "title": "New Evidence Shows School Phone Bans Are Gradually Improving Test Scores",
+      "link": "https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html",
+      "is_new": false
+    }
+  ],
+  "removed": [
     {
       "title": "Show HN: Alloy CSS, dialogs, menus and tabs that work with JavaScript off",
       "link": "https://alloyhtml.com/example.html",
       "is_new": true
     },
     {
-      "title": "Who Builds the Machines That Build the Machines?",
-      "link": "https://read.corematter.com/p/section-232-us-machine-tools",
-      "is_new": true
-    },
-    {
       "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
       "link": "https://www.cs.cmu.edu/learn/",
       "is_new": false
-    },
-    {
-      "title": "YC wrote software to run our internship expo – and an 8-bit SIM to show it off",
-      "link": "https://news.ycombinator.com/item?id=50534429",
-      "is_new": true
-    },
-    {
-      "title": "New Evidence Shows School Phone Bans Are Gradually Improving Test Scores",
-      "link": "https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html",
-      "is_new": true
     },
     {
       "title": "NSA Internal Network Down",
@@ -80,16 +182,6 @@
     {
       "title": "Purism Launches Librem 5 v2, a RISC-V Phone to Empower People",
       "link": "https://puri.sm/posts/purism-launches-librem-5-v2-a-risc-v-phone-to-empower-people/",
-      "is_new": true
-    },
-    {
-      "title": "How the Claude Code team thinks about verification",
-      "link": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/",
-      "is_new": true
-    },
-    {
-      "title": "Nvidia stopped disclosing Singapore sales as revenues hit $104B",
-      "link": "https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf",
       "is_new": true
     },
     {
@@ -115,11 +207,6 @@
     {
       "title": "iCloud, App Store, and other Apple services hit by ongoing outage",
       "link": "https://9to5mac.com/2026/11/17/icloud-app-store-and-other-apple-services-hit-by-ongoing-outage/",
-      "is_new": true
-    },
-    {
-      "title": "Mouse Party",
-      "link": "https://aboard.com/lets-have-a-mouse-party/",
       "is_new": true
     },
     {
@@ -151,143 +238,6 @@
       "title": "Witches, vampires, ancient aliens–you'll find them all in Malta",
       "link": "https://www.nationalgeographic.com/travel/article/explore-folklore-in-malta-witches-vampires-ancient-aliens",
       "is_new": true
-    }
-  ],
-  "removed": [
-    {
-      "title": "Nimony: A New Compiler for Nim",
-      "link": "https://nimony.org/",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: Zigzag, a native Mac browser for people leaving Arc",
-      "link": "https://github.com/ZigaoWang/zigzag",
-      "is_new": true
-    },
-    {
-      "title": "If an App Asks for Full Disk Access or System and App Protection Override",
-      "link": "https://support.apple.com/en-us/149699",
-      "is_new": true
-    },
-    {
-      "title": "Japan's Hometown Tax (2018)",
-      "link": "https://www.kalzumeus.com/2018/10/19/japanese-hometown-tax/",
-      "is_new": true
-    },
-    {
-      "title": "Why 3dfx 1 cards had such a washed out color output?",
-      "link": "https://twitter.com/id_aa_carmack/status/2122478083319992513",
-      "is_new": true
-    },
-    {
-      "title": "OpenCode Browse",
-      "link": "https://opencode.ai/product/browse",
-      "is_new": false
-    },
-    {
-      "title": "Chemistry is Actually Geometry",
-      "link": "https://chillphysicsenjoyer.substack.com/p/chemistry-is-actually-geometry",
-      "is_new": false
-    },
-    {
-      "title": "Frame – 31.5\" color ePaper display",
-      "link": "https://trmnl.com/blog/introducing-frame",
-      "is_new": false
-    },
-    {
-      "title": "Jiff 1.0: A datetime library for Rust",
-      "link": "https://burntsushi.net/jiff/",
-      "is_new": false
-    },
-    {
-      "title": "Comcast's \"fiber-powered Wi-Fi\" is cable, AT&T says in false advertising case",
-      "link": "https://arstechnica.com/tech-policy/2026/11/comcast-falsely-advertises-cable-internet-as-fiber-powered-att-lawsuit-says/",
-      "is_new": true
-    },
-    {
-      "title": "Test/verification technique effectiveness with Astra",
-      "link": "https://danluu.com/astra-testing/",
-      "is_new": true
-    },
-    {
-      "title": "Windows 11 is collecting data on which coding agents and developer tools you use",
-      "link": "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
-      "is_new": false
-    },
-    {
-      "title": "What is w2rt6byl5nf1opmc-a.com?",
-      "link": "https://jack.cab/blog/siterate",
-      "is_new": true
-    },
-    {
-      "title": "The Fossils That Haunted Lovecraft",
-      "link": "https://paleonerdish.wordpress.com/2026/10/30/halloween-special-xiv-the-fossils-that-haunted-lovecraft/",
-      "is_new": true
-    },
-    {
-      "title": "Grazing sheep in fields with solar arrays",
-      "link": "https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains",
-      "is_new": false
-    },
-    {
-      "title": "Why did modems have speakers? (2019)",
-      "link": "https://retrocomputing.stackexchange.com/questions/11765",
-      "is_new": true
-    },
-    {
-      "title": "Formal Verification Is Not Verifiable",
-      "link": "https://alperenkeles.com/posts/formal-verification-is-not-verifiable/",
-      "is_new": false
-    },
-    {
-      "title": "Stop Filming in Log?",
-      "link": "https://digitalfilms.wordpress.com/2026/11/15/stop-filming-in-log/",
-      "is_new": true
-    },
-    {
-      "title": "Microsoft blames monster email outage on software defect introduced in July fix",
-      "link": "https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026",
-      "is_new": false
-    },
-    {
-      "title": "Mem Is Shutting Down",
-      "link": "https://get.mem.ai/blog/mem-is-shutting-down",
-      "is_new": true
-    },
-    {
-      "title": "Launch HN: Axonnic (YC F26) – Sleeves that track fingers and estimate force",
-      "link": "https://news.ycombinator.com/item?id=50522776",
-      "is_new": false
-    },
-    {
-      "title": "Technical issue at JPMorgan Chase triggers online banking delays for US banks",
-      "link": "https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda",
-      "is_new": false
-    },
-    {
-      "title": "Squircles",
-      "link": "https://linebender.org/wiki/curves/squircle/",
-      "is_new": false
-    },
-    {
-      "title": "Spamhaus new email sender requirements in November",
-      "link": "https://www.spamhaus.org/sender-guidelines/",
-      "is_new": false
-    },
-    {
-      "title": "Do Repeat Yourself",
-      "link": "https://arcentry.com/blog/do-repeat-yourself/",
-      "is_new": false
-    },
-    {
-      "title": "Run your FreeBSD services from one console",
-      "link": "https://jailops.net/",
-      "is_new": true
-    },
-    {
-      "title": "How to Break into Security, Ptacek Edition (2012)",
-      "link": "https://krebsonsecurity.com/2012/06/how-to-break-into-security-ptacek-edition/",
-      "is_new": false
     }
   ]
 }
