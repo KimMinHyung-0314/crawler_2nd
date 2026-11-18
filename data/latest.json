@@ -1,40 +1,40 @@
 {
-  "crawled_at": "2026-11-18 11:03",
-  "prev_crawled_at": "2026-11-18 04:33",
+  "crawled_at": "2026-11-18 20:03",
+  "prev_crawled_at": "2026-11-18 11:03",
   "items": [
+    {
+      "title": "Codeberg.org Not Reachable",
+      "link": "https://social.anoxinon.de/@codebergstatus/117636437840688845",
+      "is_new": true
+    },
     {
       "title": "Java4Shell: RCE in OpenJDK when processing Base64",
       "link": "https://calif.io/java4shell/",
-      "is_new": true
+      "is_new": false
+    },
+    {
+      "title": "Google's AI answers reducing search traffic by 40%",
+      "link": "https://revscope.co/blog/search-seo-geo-2026/",
+      "is_new": false
     },
     {
       "title": "ID.me terms required for IRS sign-in",
       "link": "https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in",
-      "is_new": true
-    },
-    {
-      "title": "GPT‑6.2 Astra and Sol",
-      "link": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
       "is_new": false
     },
     {
       "title": "Quad9's withdrawal from France: A canary in the coal mine",
       "link": "https://blog.cloudflare.com/quad9-withdrawal-from-france/",
+      "is_new": false
+    },
+    {
+      "title": "Energy-Based Reasoners: 385x more efficient inference",
+      "link": "https://energy-based-reasoners.github.io/",
       "is_new": true
     },
     {
-      "title": "Google's AI answers reducing search traffic by 40%",
-      "link": "https://revscope.co/blog/search-seo-geo-2026/",
-      "is_new": true
-    },
-    {
-      "title": "Archive Team is archiving the Apple Support Community (closes November 20, 2026)",
-      "link": "https://wiki.archiveteam.org/index.php/Apple_Discussions",
-      "is_new": true
-    },
-    {
-      "title": "Microsoft's ONNX Runtime has disappeared from GitHub",
-      "link": "https://github.com/microsoft/onnxruntime",
+      "title": "Talos Linux",
+      "link": "https://www.siderolabs.com/talos-linux",
       "is_new": true
     },
     {
@@ -43,9 +43,39 @@
       "is_new": false
     },
     {
-      "title": "jQuery 4.1.0",
-      "link": "https://github.com/jquery/jquery/releases/tag/4.1.0",
+      "title": "Why is Gemini 4 Carbon taking so long?",
+      "link": "https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/",
       "is_new": true
+    },
+    {
+      "title": "Microsoft's ONNX Runtime has disappeared from GitHub",
+      "link": "https://github.com/microsoft/onnxruntime",
+      "is_new": false
+    },
+    {
+      "title": "Highly classified US national security communications network goes down",
+      "link": "https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down",
+      "is_new": false
+    },
+    {
+      "title": "Archive Team is archiving the Apple Support Community",
+      "link": "https://wiki.archiveteam.org/index.php/Apple_Discussions",
+      "is_new": false
+    },
+    {
+      "title": "AI is killing All About Berlin",
+      "link": "https://nicolasbouliane.com/blog/death-by-ai",
+      "is_new": true
+    },
+    {
+      "title": "Claude was trained on protein sequences at scale",
+      "link": "http://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences/",
+      "is_new": true
+    },
+    {
+      "title": "350 years ago, Ole Rømer discovered that light has a finite speed",
+      "link": "https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969",
+      "is_new": false
     },
     {
       "title": "MAI Code 2 and Code 2 Flash",
@@ -53,19 +83,39 @@
       "is_new": false
     },
     {
-      "title": "Highly classified US national security communications network goes down",
-      "link": "https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down",
+      "title": "My Emacs 31 contributions",
+      "link": "https://xenodium.com/my-emacs-31-contributions",
       "is_new": true
     },
     {
-      "title": "Phrack 73 Released",
+      "title": "jQuery 4.1.0",
+      "link": "https://github.com/jquery/jquery/releases/tag/4.1.0",
+      "is_new": false
+    },
+    {
+      "title": "Phrack 73",
       "link": "https://phrack.org/issues/73/introduction_md",
       "is_new": false
     },
     {
-      "title": "350 years ago, Ole Rømer discovered that light has a finite speed",
-      "link": "https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969",
+      "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
+      "link": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/",
+      "is_new": false
+    },
+    {
+      "title": "Why Fibonacci?",
+      "link": "https://www.evilgeniuslabs.org/why-fibonacci",
       "is_new": true
+    },
+    {
+      "title": "Australia's full national topographic library at your fingertips",
+      "link": "https://www.ga.gov.au/news/australias-full-national-topographic-library-at-your-fingertips",
+      "is_new": true
+    },
+    {
+      "title": "GPT‑6.2 Astra and Sol",
+      "link": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
+      "is_new": false
     },
     {
       "title": "Solid 2.0",
@@ -73,18 +123,13 @@
       "is_new": false
     },
     {
-      "title": "Fun with Constrained Programming",
-      "link": "https://blog.cmpxchg8b.com/2012/09/fun-with-constrained-programming.html",
+      "title": "Show HN: Unref – A Python dead code finder built on Ruff's parser",
+      "link": "https://github.com/Apakottur/unref",
       "is_new": true
     },
     {
-      "title": "Cerebras Disaggregated Inference",
-      "link": "https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference",
-      "is_new": true
-    },
-    {
-      "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
-      "link": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/",
+      "title": "Launch HN: StarSling (YC P25) – Self-improving CI for agent-volume repos",
+      "link": "https://news.ycombinator.com/item?id=50536468",
       "is_new": true
     },
     {
@@ -92,6 +137,23 @@
       "link": "https://runta.com/blog/introducing-frontierharness-eval-v1-1/",
       "is_new": false
     },
+    {
+      "title": "Cerebras Disaggregated Inference",
+      "link": "https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference",
+      "is_new": false
+    },
+    {
+      "title": "Fun with Constrained Programming (2012)",
+      "link": "https://blog.cmpxchg8b.com/2012/09/fun-with-constrained-programming.html",
+      "is_new": false
+    },
+    {
+      "title": "Tencent Hy4 Flash",
+      "link": "https://hy.tencent.ai/research/hy4-flash",
+      "is_new": false
+    }
+  ],
+  "removed": [
     {
       "title": "Launch HN: StarSling (YC P25) – Self-improving CI for agent-volume repos",
       "link": "https://starsling.dev",
@@ -110,11 +172,6 @@
     {
       "title": "Latent Lattice Language Models",
       "link": "https://shivamduggal4.github.io/latent-lattice-language-models/",
-      "is_new": true
-    },
-    {
-      "title": "Tencent Hy4 Flash",
-      "link": "https://hy.tencent.ai/research/hy4-flash",
       "is_new": true
     },
     {
@@ -151,93 +208,6 @@
       "title": "New Evidence Shows School Phone Bans Are Gradually Improving Test Scores",
       "link": "https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html",
       "is_new": false
-    }
-  ],
-  "removed": [
-    {
-      "title": "Show HN: Alloy CSS, dialogs, menus and tabs that work with JavaScript off",
-      "link": "https://alloyhtml.com/example.html",
-      "is_new": true
-    },
-    {
-      "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
-      "link": "https://www.cs.cmu.edu/learn/",
-      "is_new": false
-    },
-    {
-      "title": "NSA Internal Network Down",
-      "link": "https://www.reuters.com/technology/highly-classified-us-national-security-communications-network-is-down-cnn-2026-11-17/",
-      "is_new": true
-    },
-    {
-      "title": "First Photos of the Poles of a Rod-Shaped Bacterium",
-      "link": "https://nautil.us/check-out-the-first-photos-of-the-poles-of-a-rod-shaped-bacterium-1286664",
-      "is_new": true
-    },
-    {
-      "title": "Advancing computer-use agents for healthcare teams",
-      "link": "https://openai.com/index/advancing-computer-use-for-healthcare-teams/",
-      "is_new": true
-    },
-    {
-      "title": "Purism Launches Librem 5 v2, a RISC-V Phone to Empower People",
-      "link": "https://puri.sm/posts/purism-launches-librem-5-v2-a-risc-v-phone-to-empower-people/",
-      "is_new": true
-    },
-    {
-      "title": "Elephant-Goldfish Model",
-      "link": "https://egm.dev/",
-      "is_new": true
-    },
-    {
-      "title": "Exploiting Replay Protected Monotonic Counters to Brute-Force Windows Hello PINs",
-      "link": "https://arxiv.org/abs/2611.18126",
-      "is_new": true
-    },
-    {
-      "title": "VisualBasic.World: A gallery of Planet Source Code programs from 1997 to 2012",
-      "link": "https://visualbasic.world/",
-      "is_new": true
-    },
-    {
-      "title": "Antfly learned to stop worrying and love Apache 2.0",
-      "link": "https://antfly.io/thoughts/how-antfly-learned-to-stop-worrying-and-love-apache-2",
-      "is_new": true
-    },
-    {
-      "title": "iCloud, App Store, and other Apple services hit by ongoing outage",
-      "link": "https://9to5mac.com/2026/11/17/icloud-app-store-and-other-apple-services-hit-by-ongoing-outage/",
-      "is_new": true
-    },
-    {
-      "title": "Optimizely compromised, served malware on Zoom, GitLab",
-      "link": "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/",
-      "is_new": false
-    },
-    {
-      "title": "Show HN: TrnRT – An open-source LLM inference engine for AWS Trainium",
-      "link": "https://github.com/RunanywhereAI/trnrt",
-      "is_new": true
-    },
-    {
-      "title": "Rows vs. Columns: How different are they, really?",
-      "link": "https://spiraldb.com/blog/rows-vs-columns",
-      "is_new": true
-    },
-    {
-      "title": "BugMeNot has closed",
-      "link": "https://www.bugmenot.com/",
-      "is_new": false
-    },
-    {
-      "title": "Turbo Pascal Compiler Written in Turbo Pascal",
-      "link": "https://turbo51.com/compiler-design/tpc16-turbo-pascal-compiler-written-in-turbo-pascal",
-      "is_new": true
-    },
-    {
-      "title": "Witches, vampires, ancient aliens–you'll find them all in Malta",
-      "link": "https://www.nationalgeographic.com/travel/article/explore-folklore-in-malta-witches-vampires-ancient-aliens",
-      "is_new": true
     }
   ]
 }
