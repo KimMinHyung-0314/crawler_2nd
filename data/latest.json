@@ -1,7 +1,159 @@
 {
-  "crawled_at": "2026-11-18 20:03",
-  "prev_crawled_at": "2026-11-18 11:03",
+  "crawled_at": "2026-11-19 04:54",
+  "prev_crawled_at": "2026-11-18 20:03",
   "items": [
+    {
+      "title": "Unauthenticated remote code execution in Nginx",
+      "link": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
+      "is_new": true
+    },
+    {
+      "title": "Scottish HTTP Codes",
+      "link": "https://underwood.network/http/scots.html",
+      "is_new": true
+    },
+    {
+      "title": "Seven new models at scalable price-performance",
+      "link": "https://microsoft.ai/news/microsoft-ignite-2026/",
+      "is_new": true
+    },
+    {
+      "title": "Genie 4 is now available",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/",
+      "is_new": true
+    },
+    {
+      "title": "Inside Deutsche Bank",
+      "link": "https://www.inside-db.com/",
+      "is_new": true
+    },
+    {
+      "title": "DNS resolvers are the wrong place to fight piracy",
+      "link": "https://techstackups.com/articles/quad9-leaves-france-dns-blocking/",
+      "is_new": true
+    },
+    {
+      "title": "AI agents ask better questions than KPMG accountants in audit trial",
+      "link": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
+      "is_new": true
+    },
+    {
+      "title": "The Magic of Partial Evaluation",
+      "link": "https://jimmyhmiller.com/magic-of-partial-evaluation",
+      "is_new": true
+    },
+    {
+      "title": "Advancing chip design with OpenAI models",
+      "link": "https://openai.com/index/advancing-chip-design-with-our-models/",
+      "is_new": true
+    },
+    {
+      "title": "KVM: x86: Unconditionally reset MMU context when emulating INIT (CVE-2026-99312)",
+      "link": "https://www.cve.org/CVERecord?id=CVE-2026-99312",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: Take Voyager 1 apart, down to a single memory chip",
+      "link": "https://rshekhar.com/voyager/",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: ExitPath – Open-source ways out of Slack, Notion and Microsoft 365",
+      "link": "https://exitpath-ruddy.vercel.app/",
+      "is_new": true
+    },
+    {
+      "title": "'Human' Is Cambridge Dictionary's Word of the Year 2026",
+      "link": "https://www.cam.ac.uk/news/cambridge-dictionary-reveals-word-of-the-year-2026",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: Mastra Factory, the open-source software factory we use to build Mastra",
+      "link": "https://news.ycombinator.com/item?id=50548660",
+      "is_new": true
+    },
+    {
+      "title": "Launch HN: Maritime (YC F26) – A managed cloud for production AI agents",
+      "link": "https://news.ycombinator.com/item?id=50549188",
+      "is_new": true
+    },
+    {
+      "title": "U.S. AirForce is looking for old storage Media (CF or PC cards)",
+      "link": "https://sam.gov/workspace/contract/opp/8948e8601e964c6aba9c801eee16b1be/view",
+      "is_new": true
+    },
+    {
+      "title": "The x86 CPU: From 4004 to 486",
+      "link": "https://pikuma.com/blog/history-of-x86-4004-to-486",
+      "is_new": true
+    },
+    {
+      "title": "NGINX2Root by Xint – From Nginx visitor to root of the server host",
+      "link": "https://nginx2root.com/",
+      "is_new": true
+    },
+    {
+      "title": "The First Revolver: How We Got from Blackbeard's Six Pistols to the Six-Shooter",
+      "link": "https://americanhandgunner.com/handguns/revolvers/the-first-revolver/",
+      "is_new": true
+    },
+    {
+      "title": "Lakegres: Vector search on existing Open/Hudi/Iceberg tables",
+      "link": "https://www.onehouse.ai/blog/lakegres-vector-search-on-open-table-formats",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: Nobody blocks a keyboard – Rooted Android as a physical USB Deck",
+      "link": "https://github.com/mr-anjaneyam/Emittr",
+      "is_new": true
+    },
+    {
+      "title": "Evidence (YC S21) Is Hiring",
+      "link": "https://www.ycombinator.com/companies/evidence/jobs/1xb9PpP-founding-gtm-lead",
+      "is_new": true
+    },
+    {
+      "title": "A Primer on Fourier Series",
+      "link": "https://arxiv.org/abs/2510.18203",
+      "is_new": true
+    },
+    {
+      "title": "CrossPoint Reader",
+      "link": "https://crosspointreader.com",
+      "is_new": true
+    },
+    {
+      "title": "Energy-Based Reasoners: 385x more efficient inference",
+      "link": "https://energy-based-reasoners.github.io/",
+      "is_new": false
+    },
+    {
+      "title": "Attackers Used Optimizely to A/B Test Malware on Top Websites",
+      "link": "https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/",
+      "is_new": true
+    },
+    {
+      "title": "SuperEMeans: Making e-means 3× faster",
+      "link": "https://www.lkuffo.com/superemeans/",
+      "is_new": true
+    },
+    {
+      "title": "RFC 2675: IPv6 Jumbograms",
+      "link": "https://www.rfc-editor.org/info/rfc2675/",
+      "is_new": true
+    },
+    {
+      "title": "Poland says it thwarted false flag operation near border with Kaliningrad",
+      "link": "https://www.yahoo.com/news/world/articles/russia-reportedly-planned-mass-casualty-090500574.html",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: Type Fighter 2",
+      "link": "https://typefighter2.com/",
+      "is_new": true
+    }
+  ],
+  "removed": [
     {
       "title": "Codeberg.org Not Reachable",
       "link": "https://social.anoxinon.de/@codebergstatus/117636437840688845",
@@ -26,11 +178,6 @@
       "title": "Quad9's withdrawal from France: A canary in the coal mine",
       "link": "https://blog.cloudflare.com/quad9-withdrawal-from-france/",
       "is_new": false
-    },
-    {
-      "title": "Energy-Based Reasoners: 385x more efficient inference",
-      "link": "https://energy-based-reasoners.github.io/",
-      "is_new": true
     },
     {
       "title": "Talos Linux",
@@ -150,63 +297,6 @@
     {
       "title": "Tencent Hy4 Flash",
       "link": "https://hy.tencent.ai/research/hy4-flash",
-      "is_new": false
-    }
-  ],
-  "removed": [
-    {
-      "title": "Launch HN: StarSling (YC P25) – Self-improving CI for agent-volume repos",
-      "link": "https://starsling.dev",
-      "is_new": false
-    },
-    {
-      "title": "Web Browser Engineering (2021)",
-      "link": "https://browser.engineering/",
-      "is_new": true
-    },
-    {
-      "title": "Apple Services Down",
-      "link": "https://developer.apple.com/system-status/",
-      "is_new": false
-    },
-    {
-      "title": "Latent Lattice Language Models",
-      "link": "https://shivamduggal4.github.io/latent-lattice-language-models/",
-      "is_new": true
-    },
-    {
-      "title": "YC wrote software to run our internship expo – and an 8-bit SIM to show it off",
-      "link": "https://news.ycombinator.com/item?id=50534429",
-      "is_new": false
-    },
-    {
-      "title": "Effects of a Nuclear Detonation in Low Earth Orbit",
-      "link": "https://arxiv.org/abs/2611.09827",
-      "is_new": true
-    },
-    {
-      "title": "Who Builds the Machines That Build the Machines?",
-      "link": "https://read.corematter.com/p/section-232-us-machine-tools",
-      "is_new": false
-    },
-    {
-      "title": "Not Everything Needs an LLM",
-      "link": "https://newsletter.posthog.com/p/decision-models",
-      "is_new": true
-    },
-    {
-      "title": "Mouse Party",
-      "link": "https://aboard.com/lets-have-a-mouse-party/",
-      "is_new": false
-    },
-    {
-      "title": "How the Claude Code team thinks about verification",
-      "link": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/",
-      "is_new": false
-    },
-    {
-      "title": "New Evidence Shows School Phone Bans Are Gradually Improving Test Scores",
-      "link": "https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html",
       "is_new": false
     }
   ]
