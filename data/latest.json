@@ -1,41 +1,168 @@
 {
-  "crawled_at": "2026-11-19 18:49",
-  "prev_crawled_at": "2026-11-19 10:40",
+  "crawled_at": "2026-11-20 03:49",
+  "prev_crawled_at": "2026-11-19 18:49",
   "items": [
+    {
+      "title": "Anthropic hits $2T in Nasdaq debut",
+      "link": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
+      "is_new": true
+    },
+    {
+      "title": "Claude Fable 5.2 solves two open problems in the physics of black holes",
+      "link": "https://www.anthropic.com/research/claude-black-hole-physics",
+      "is_new": true
+    },
+    {
+      "title": "Pete warden on local AI, open models, voice interfaces, the future of hardware",
+      "link": "https://thedataexchange.media/pete-warden-moonshine/",
+      "is_new": true
+    },
+    {
+      "title": "Garage Door Spam",
+      "link": "https://blog.harrison.page/garage-door-spam/",
+      "is_new": true
+    },
+    {
+      "title": "Chile: UFO Sightings by 18th Century Jesuits",
+      "link": "https://inexplicata.blogspot.com/2026/08/chile-ufo-sightings-by-18th-century.html",
+      "is_new": true
+    },
+    {
+      "title": "Launch HN: Onlook (YC W25) – An open-source developer tool for designers",
+      "link": "https://github.com/onlook-dev/onlook/",
+      "is_new": true
+    },
+    {
+      "title": "I built Cornhole News. A Hacker News inspired site for news across the Midwest",
+      "link": "https://cornholenews.news",
+      "is_new": true
+    },
+    {
+      "title": "UK Government Forced to Admit It Issued Apple a Secret Encryption Order",
+      "link": "https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/",
+      "is_new": true
+    },
+    {
+      "title": "Someone reported java4shell bug in September 2026",
+      "link": "https://github.com/openjdk/jdk/pull/32781",
+      "is_new": true
+    },
+    {
+      "title": "Making 8-page foldable zines from a single A4 sheet in the browser",
+      "link": "https://krthr.co/paper-folds-and-whats-new-in-fanzines-app/",
+      "is_new": true
+    },
+    {
+      "title": "How the European Commission rolled out Matrix to more than 40k staff",
+      "link": "https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/",
+      "is_new": true
+    },
+    {
+      "title": "Nintendo takes Picofly firmware down from GitHub [video]",
+      "link": "https://www.youtube.com/watch?v=-TLCGUpoD6c",
+      "is_new": true
+    },
     {
       "title": "Ruby2ßhell: Pre-authentication RCE on stock Rails",
       "link": "https://verialabs.com/ruby2shell/",
+      "is_new": false
+    },
+    {
+      "title": "How to Make the Ink Used to Write Hamlet and the Declaration of Independence",
+      "link": "https://lithub.com/how-to-make-the-ink-used-to-write-hamlet-the-declaration-of-independence-and-beethovens-fifth/",
       "is_new": true
     },
+    {
+      "title": "What's New in PHP 8.6",
+      "link": "https://www.php.net/releases/8.6/en.php",
+      "is_new": false
+    },
+    {
+      "title": "Everything you need to survive and rebuild society",
+      "link": "https://lastbook.org/",
+      "is_new": true
+    },
+    {
+      "title": "Cooling buildings is overtaking heating them as an energy need, IEA says",
+      "link": "https://maccus.fr/en/cooling-overtaking-heating/",
+      "is_new": true
+    },
+    {
+      "title": "An Oregon library ditched Dewey Decimal and got people excited about books again",
+      "link": "https://www.fastcompany.com/91597520/oregon-library-ditched-dewey-decimal-wayfinding-system",
+      "is_new": true
+    },
+    {
+      "title": "Unblockable communication with gravity",
+      "link": "https://www.science.org/doi/10.1126/sciadv.aee0802",
+      "is_new": true
+    },
+    {
+      "title": "Distributed, high-performance blob storage on SQLite",
+      "link": "https://zerodha.tech/blog/high-performance-distributed-blob-storage/",
+      "is_new": false
+    },
+    {
+      "title": "Show HN: Neoma P-CAM – Sub-millisecond physical equilibrium and 64-spin Ising",
+      "link": "https://github.com/neoma-pcam/pcam-live",
+      "is_new": true
+    },
+    {
+      "title": "Do not buy RAM, compress",
+      "link": "https://curiousbits.nl/blog/do-not-buy-ram-compress/",
+      "is_new": true
+    },
+    {
+      "title": "Chrome AI features wasting much bandwidth",
+      "link": "https://perishablepress.com/chrome-ai-wasting-much-bandwidth/",
+      "is_new": true
+    },
+    {
+      "title": "I've Got Your Packages: Harvesting Customers' Delivery Order Information (2020)",
+      "link": "https://dl.acm.org/doi/fullHtml/10.1145/3366423.3380062",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: Watch weight-space programming in action with WebGPU",
+      "link": "https://tabbyml.github.io/weight-space-playground/",
+      "is_new": true
+    },
+    {
+      "title": "Fuck Your AI Safeguards",
+      "link": "https://ounapuu.ee/posts/2026/11/19/unsafeguards/",
+      "is_new": true
+    },
+    {
+      "title": "15M web servers on one VM – smoltcp, DPDK, AF_XDP",
+      "link": "https://kapteko.com/15-million-webservers/",
+      "is_new": false
+    },
+    {
+      "title": "It's all about the allocator",
+      "link": "https://aarol.dev/posts/zig-allocator/",
+      "is_new": true
+    },
+    {
+      "title": "SSD prices may begin to decline in the latter half of 2027",
+      "link": "https://www.drivevault.io/blog/when-will-hard-drive-prices-come-down.html",
+      "is_new": false
+    },
+    {
+      "title": "Anthropic prices initial public offering",
+      "link": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
+      "is_new": false
+    }
+  ],
+  "removed": [
     {
       "title": "Gemini 4 Neon",
       "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
       "is_new": false
     },
     {
-      "title": "15M web servers on one VM – smoltcp, DPDK, AF_XDP",
-      "link": "https://kapteko.com/15-million-webservers/",
-      "is_new": true
-    },
-    {
-      "title": "SSD prices will start going down the second half of next year",
-      "link": "https://www.drivevault.io/blog/when-will-hard-drive-prices-come-down.html",
-      "is_new": true
-    },
-    {
       "title": "Unauthenticated remote code execution in Nginx",
       "link": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
       "is_new": false
-    },
-    {
-      "title": "Distributed, high-performance blob storage on SQLite",
-      "link": "https://zerodha.tech/blog/high-performance-distributed-blob-storage/",
-      "is_new": true
-    },
-    {
-      "title": "What's New in PHP 8.6",
-      "link": "https://www.php.net/releases/8.6/en.php",
-      "is_new": true
     },
     {
       "title": "The first ping from Tonga (1997)",
@@ -45,11 +172,6 @@
     {
       "title": "Multiple vulnerabilities in Regexp and String case conversion",
       "link": "https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/",
-      "is_new": false
-    },
-    {
-      "title": "Anthropic prices initial public offering",
-      "link": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
       "is_new": false
     },
     {
@@ -150,73 +272,6 @@
     {
       "title": "Advancing chip design with OpenAI models",
       "link": "https://openai.com/index/advancing-chip-design-with-our-models/",
-      "is_new": false
-    }
-  ],
-  "removed": [
-    {
-      "title": "Gemini 4 Neon looks like an Opus 5.5 competitor",
-      "link": "https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/",
-      "is_new": true
-    },
-    {
-      "title": "AI agents ask better questions than KPMG accountants in audit trial",
-      "link": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
-      "is_new": false
-    },
-    {
-      "title": "DNS resolvers are the wrong place to fight piracy",
-      "link": "https://techstackups.com/articles/quad9-leaves-france-dns-blocking/",
-      "is_new": false
-    },
-    {
-      "title": "Fable: Written, painted and directed by Claude Fable 5.2",
-      "link": "https://claudia.gallery/fable/",
-      "is_new": true
-    },
-    {
-      "title": "Cuttlefish on Mac: Android's Virtual Device Framework on Apple Silicon",
-      "link": "https://engineering.fb.com/2026/11/13/android/cuttlefish-on-mac/",
-      "is_new": true
-    },
-    {
-      "title": "Software companies are trying to kill home computing?",
-      "link": "https://lateblt.livejournal.com/526188.html",
-      "is_new": true
-    },
-    {
-      "title": "A Collage Showing 49 Drill Holes Made by NASA's Curiosity Mars Rover",
-      "link": "https://science.nasa.gov/photojournal/a-collage-showing-49-drill-holes-made-by-nasas-curiosity-mars-rover/",
-      "is_new": true
-    },
-    {
-      "title": "Launch HN: Maritime (YC F26) – A managed cloud for production AI agents",
-      "link": "https://news.ycombinator.com/item?id=50549188",
-      "is_new": false
-    },
-    {
-      "title": "GTA6-like as a 942Kb UEFI bootable image",
-      "link": "https://github.com/eklavya-raj/gta6-uefi",
-      "is_new": true
-    },
-    {
-      "title": "KVM: x86: Unconditionally reset MMU context when emulating INIT (CVE-2026-99312)",
-      "link": "https://www.cve.org/CVERecord?id=CVE-2026-99312",
-      "is_new": false
-    },
-    {
-      "title": "The Magic of Partial Evaluation",
-      "link": "https://jimmyhmiller.com/magic-of-partial-evaluation",
-      "is_new": false
-    },
-    {
-      "title": "The x86 CPU: From 4004 to 486",
-      "link": "https://pikuma.com/blog/history-of-x86-4004-to-486",
-      "is_new": false
-    },
-    {
-      "title": "CrossPoint Reader",
-      "link": "https://crosspointreader.com",
       "is_new": false
     }
   ]
