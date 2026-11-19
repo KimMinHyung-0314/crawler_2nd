@@ -1,10 +1,25 @@
 {
-  "crawled_at": "2026-11-19 10:40",
-  "prev_crawled_at": "2026-11-19 04:54",
+  "crawled_at": "2026-11-19 18:49",
+  "prev_crawled_at": "2026-11-19 10:40",
   "items": [
+    {
+      "title": "Ruby2ßhell: Pre-authentication RCE on stock Rails",
+      "link": "https://verialabs.com/ruby2shell/",
+      "is_new": true
+    },
     {
       "title": "Gemini 4 Neon",
       "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+      "is_new": false
+    },
+    {
+      "title": "15M web servers on one VM – smoltcp, DPDK, AF_XDP",
+      "link": "https://kapteko.com/15-million-webservers/",
+      "is_new": true
+    },
+    {
+      "title": "SSD prices will start going down the second half of next year",
+      "link": "https://www.drivevault.io/blog/when-will-hard-drive-prices-come-down.html",
       "is_new": true
     },
     {
@@ -13,14 +28,29 @@
       "is_new": false
     },
     {
-      "title": "Multiple vulnerabilities in Regexp and String case conversion",
-      "link": "https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/",
+      "title": "Distributed, high-performance blob storage on SQLite",
+      "link": "https://zerodha.tech/blog/high-performance-distributed-blob-storage/",
       "is_new": true
     },
     {
-      "title": "Gemini 4 Neon looks like an Opus 5.5 competitor",
-      "link": "https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/",
+      "title": "What's New in PHP 8.6",
+      "link": "https://www.php.net/releases/8.6/en.php",
       "is_new": true
+    },
+    {
+      "title": "The first ping from Tonga (1997)",
+      "link": "https://colo.to/firstping.html",
+      "is_new": true
+    },
+    {
+      "title": "Multiple vulnerabilities in Regexp and String case conversion",
+      "link": "https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/",
+      "is_new": false
+    },
+    {
+      "title": "Anthropic prices initial public offering",
+      "link": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
+      "is_new": false
     },
     {
       "title": "Seven new models at scalable price-performance",
@@ -28,14 +58,106 @@
       "is_new": false
     },
     {
-      "title": "LLM assisted reverse engineering",
-      "link": "https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering",
-      "is_new": true
-    },
-    {
       "title": "Inside Deutsche Bank",
       "link": "https://www.inside-db.com/",
       "is_new": false
+    },
+    {
+      "title": "LLM assisted reverse engineering",
+      "link": "https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering",
+      "is_new": false
+    },
+    {
+      "title": "DaisyRose-27B",
+      "link": "https://www.radixark.com/blog/daisyrose-27b",
+      "is_new": false
+    },
+    {
+      "title": "Dumping an AES key from a MyQ garage opener to stop rebooting when offline",
+      "link": "https://kusha.me/blog/stop_myq_homebridge_819lmb_rebooting/",
+      "is_new": false
+    },
+    {
+      "title": "Axelera Titania Brings Native FP8 and FP4 to In-Memory Compute",
+      "link": "https://futurumgroup.com/insights/axelera-titania-brings-native-fp8-and-fp4-to-in-memory-compute/",
+      "is_new": true
+    },
+    {
+      "title": "Genie 4 is now available",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/",
+      "is_new": false
+    },
+    {
+      "title": "Show HN: An API for word timestamps from speech, 75% within 20ms",
+      "link": "https://quebec.yarn.so",
+      "is_new": true
+    },
+    {
+      "title": "Logitech Harmony IR code online database archive",
+      "link": "https://github.com/pickysysadmin/logitech-harmony-ir-archive",
+      "is_new": true
+    },
+    {
+      "title": "Mosquitoes are Ladakh's latest tourists",
+      "link": "https://ruralindiaonline.org/article/mosquitoes-are-ladakh-s-latest-tourists",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: Mastra Factory, the open-source software factory we use to build Mastra",
+      "link": "https://news.ycombinator.com/item?id=50548660",
+      "is_new": true
+    },
+    {
+      "title": "The Cambridge Dictionary has named ‘human’ as the Word of the Year 2026",
+      "link": "https://www.cam.ac.uk/news/cambridge-dictionary-reveals-word-of-the-year-2026",
+      "is_new": false
+    },
+    {
+      "title": "Palo Alto Networks to Acquire Applied Compute for $4.5B",
+      "link": "https://investors.paloaltonetworks.com/news-releases/news-release-details/palo-alto-networks-acquire-applied-compute-bringing-secure-open",
+      "is_new": false
+    },
+    {
+      "title": "Show HN: ExitPath – Open-source ways out of Slack, Notion and Microsoft 365",
+      "link": "https://exitpath-ruddy.vercel.app/",
+      "is_new": false
+    },
+    {
+      "title": "F-22 Next-Generation micro–Data Transfer Cartridge (mDTC)",
+      "link": "https://sam.gov/workspace/contract/opp/8948e8601e964c6aba9c801eee16b1be/view",
+      "is_new": true
+    },
+    {
+      "title": "We need smart people who give a shit",
+      "link": "https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit/",
+      "is_new": false
+    },
+    {
+      "title": "Show HN: Take Voyager 1 apart, down to a single memory chip",
+      "link": "https://rshekhar.com/voyager/",
+      "is_new": false
+    },
+    {
+      "title": "Show HN: Open-source, real-time object tracking for live video feeds",
+      "link": "https://github.com/aryamandarda/tamserve",
+      "is_new": false
+    },
+    {
+      "title": "Unreal Tournament 2004 in the Browser",
+      "link": "https://ut2004.dev/",
+      "is_new": true
+    },
+    {
+      "title": "Advancing chip design with OpenAI models",
+      "link": "https://openai.com/index/advancing-chip-design-with-our-models/",
+      "is_new": false
+    }
+  ],
+  "removed": [
+    {
+      "title": "Gemini 4 Neon looks like an Opus 5.5 competitor",
+      "link": "https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/",
+      "is_new": true
     },
     {
       "title": "AI agents ask better questions than KPMG accountants in audit trial",
@@ -48,34 +170,9 @@
       "is_new": false
     },
     {
-      "title": "DaisyRose-27B",
-      "link": "https://www.radixark.com/blog/daisyrose-27b",
-      "is_new": true
-    },
-    {
       "title": "Fable: Written, painted and directed by Claude Fable 5.2",
       "link": "https://claudia.gallery/fable/",
       "is_new": true
-    },
-    {
-      "title": "Anthropic prices initial public offering",
-      "link": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
-      "is_new": true
-    },
-    {
-      "title": "Dumping an AES key from a MyQ garage opener to stop rebooting when offline",
-      "link": "https://kusha.me/blog/stop_myq_homebridge_819lmb_rebooting/",
-      "is_new": true
-    },
-    {
-      "title": "We need smart people who give a shit",
-      "link": "https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit/",
-      "is_new": true
-    },
-    {
-      "title": "Advancing chip design with OpenAI models",
-      "link": "https://openai.com/index/advancing-chip-design-with-our-models/",
-      "is_new": false
     },
     {
       "title": "Cuttlefish on Mac: Android's Virtual Device Framework on Apple Silicon",
@@ -83,23 +180,8 @@
       "is_new": true
     },
     {
-      "title": "The Cambridge Dictionary has named ‘human’ as the Word of the Year 2026",
-      "link": "https://www.cam.ac.uk/news/cambridge-dictionary-reveals-word-of-the-year-2026",
-      "is_new": false
-    },
-    {
       "title": "Software companies are trying to kill home computing?",
       "link": "https://lateblt.livejournal.com/526188.html",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: ExitPath – Open-source ways out of Slack, Notion and Microsoft 365",
-      "link": "https://exitpath-ruddy.vercel.app/",
-      "is_new": false
-    },
-    {
-      "title": "Show HN: Open-source, real-time object tracking for live video feeds",
-      "link": "https://github.com/aryamandarda/tamserve",
       "is_new": true
     },
     {
@@ -108,28 +190,13 @@
       "is_new": true
     },
     {
-      "title": "Show HN: Take Voyager 1 apart, down to a single memory chip",
-      "link": "https://rshekhar.com/voyager/",
-      "is_new": false
-    },
-    {
       "title": "Launch HN: Maritime (YC F26) – A managed cloud for production AI agents",
       "link": "https://news.ycombinator.com/item?id=50549188",
       "is_new": false
     },
     {
-      "title": "Genie 4 is now available",
-      "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/",
-      "is_new": false
-    },
-    {
       "title": "GTA6-like as a 942Kb UEFI bootable image",
       "link": "https://github.com/eklavya-raj/gta6-uefi",
-      "is_new": true
-    },
-    {
-      "title": "Palo Alto Networks to Acquire Applied Compute for $4.5B",
-      "link": "https://investors.paloaltonetworks.com/news-releases/news-release-details/palo-alto-networks-acquire-applied-compute-bringing-secure-open",
       "is_new": true
     },
     {
@@ -151,83 +218,6 @@
       "title": "CrossPoint Reader",
       "link": "https://crosspointreader.com",
       "is_new": false
-    }
-  ],
-  "removed": [
-    {
-      "title": "Scottish HTTP Codes",
-      "link": "https://underwood.network/http/scots.html",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: Mastra Factory, the open-source software factory we use to build Mastra",
-      "link": "https://news.ycombinator.com/item?id=50548660",
-      "is_new": true
-    },
-    {
-      "title": "U.S. AirForce is looking for old storage Media (CF or PC cards)",
-      "link": "https://sam.gov/workspace/contract/opp/8948e8601e964c6aba9c801eee16b1be/view",
-      "is_new": true
-    },
-    {
-      "title": "NGINX2Root by Xint – From Nginx visitor to root of the server host",
-      "link": "https://nginx2root.com/",
-      "is_new": true
-    },
-    {
-      "title": "The First Revolver: How We Got from Blackbeard's Six Pistols to the Six-Shooter",
-      "link": "https://americanhandgunner.com/handguns/revolvers/the-first-revolver/",
-      "is_new": true
-    },
-    {
-      "title": "Lakegres: Vector search on existing Open/Hudi/Iceberg tables",
-      "link": "https://www.onehouse.ai/blog/lakegres-vector-search-on-open-table-formats",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: Nobody blocks a keyboard – Rooted Android as a physical USB Deck",
-      "link": "https://github.com/mr-anjaneyam/Emittr",
-      "is_new": true
-    },
-    {
-      "title": "Evidence (YC S21) Is Hiring",
-      "link": "https://www.ycombinator.com/companies/evidence/jobs/1xb9PpP-founding-gtm-lead",
-      "is_new": true
-    },
-    {
-      "title": "A Primer on Fourier Series",
-      "link": "https://arxiv.org/abs/2510.18203",
-      "is_new": true
-    },
-    {
-      "title": "Energy-Based Reasoners: 385x more efficient inference",
-      "link": "https://energy-based-reasoners.github.io/",
-      "is_new": false
-    },
-    {
-      "title": "Attackers Used Optimizely to A/B Test Malware on Top Websites",
-      "link": "https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/",
-      "is_new": true
-    },
-    {
-      "title": "SuperEMeans: Making e-means 3× faster",
-      "link": "https://www.lkuffo.com/superemeans/",
-      "is_new": true
-    },
-    {
-      "title": "RFC 2675: IPv6 Jumbograms",
-      "link": "https://www.rfc-editor.org/info/rfc2675/",
-      "is_new": true
-    },
-    {
-      "title": "Poland says it thwarted false flag operation near border with Kaliningrad",
-      "link": "https://www.yahoo.com/news/world/articles/russia-reportedly-planned-mass-casualty-090500574.html",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: Type Fighter 2",
-      "link": "https://typefighter2.com/",
-      "is_new": true
     }
   ]
 }
