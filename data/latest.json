@@ -1,25 +1,30 @@
 {
-  "crawled_at": "2026-11-20 10:00",
-  "prev_crawled_at": "2026-11-20 03:49",
+  "crawled_at": "2026-11-20 17:21",
+  "prev_crawled_at": "2026-11-20 10:00",
   "items": [
     {
-      "title": "Anthropic’s Nasdaq debut",
-      "link": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
-      "is_new": false
-    },
-    {
-      "title": "Pancreatic cancer halted by virus injection in three patients",
-      "link": "https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/",
+      "title": "Jujutsu Primer",
+      "link": "https://ethanlowman.com/posts/jj-primer/",
       "is_new": true
     },
     {
-      "title": "Synology Security Advisory",
-      "link": "https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21",
+      "title": "GIMP now has UI tests",
+      "link": "https://www.gimp.org/news/2026/11/16/gimp-ui-tests/",
       "is_new": true
     },
     {
-      "title": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
-      "link": "https://git-aarvin.github.io/mei/",
+      "title": "OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)",
+      "link": "https://github.com/openssl/openssl/pull/33652",
+      "is_new": true
+    },
+    {
+      "title": "FFmpeg 9.1 'Gauss'",
+      "link": "https://ffmpeg.org/download.html#release_9.1",
+      "is_new": true
+    },
+    {
+      "title": "Postgres 19 Repack: Faster, Built-In Table Bloat Cleanup",
+      "link": "https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/",
       "is_new": true
     },
     {
@@ -28,13 +33,18 @@
       "is_new": false
     },
     {
-      "title": "How to CAD Almost Anything",
-      "link": "https://ocw.mit.edu/courses/res-16-002-how-to-cad-almost-anything-january-iap-2024/",
+      "title": "Bit Shifting in Basic",
+      "link": "https://subethasoftware.com/2020/06/11/bit-shifting-in-basic/",
       "is_new": true
     },
     {
-      "title": "RegExr: Temporarily Offline",
-      "link": "https://regexr.com/",
+      "title": "Vint Cerf on why TCP/IP was never patented",
+      "link": "https://seremot.com/p/vint-cerf-on-why-tcpip-was-never",
+      "is_new": true
+    },
+    {
+      "title": "\"I can tell you wrote this yourself\"",
+      "link": "https://em-online.bearblog.dev/i-can-tell-you-wrote-this-yourself/",
       "is_new": true
     },
     {
@@ -43,19 +53,49 @@
       "is_new": false
     },
     {
-      "title": "The 98% Slot Machine: How Paid Advertising Became an Extraction Tax",
-      "link": "https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine",
+      "title": "How to CAD Almost Anything",
+      "link": "https://ocw.mit.edu/courses/res-16-002-how-to-cad-almost-anything-january-iap-2024/",
+      "is_new": false
+    },
+    {
+      "title": "The Strongest Sokoban Solver",
+      "link": "https://healeycodes.com/introducing-the-worlds-strongest-sokoban-solver",
       "is_new": true
     },
     {
-      "title": "Visa, Mastercard and JPMorgan Customer Data Leaked by Hackers",
-      "link": "https://www.wsj.com/finance/banking/visa-mastercard-and-jpmorgan-customer-data-leaked-by-hackers-3b5a0f87",
+      "title": "PostgreSQL 19",
+      "link": "https://www.postgresql.org/docs/release/19.0/",
       "is_new": true
     },
     {
-      "title": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
-      "link": "https://www.youtube.com/watch?v=lwfewYL7X0o",
+      "title": "Synology Security Advisory",
+      "link": "https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21",
+      "is_new": false
+    },
+    {
+      "title": "Frankenstein PBC – Animation, bestowed upon lifeless matter",
+      "link": "https://www.frankensteinpbc.com/",
       "is_new": true
+    },
+    {
+      "title": "Weight-Space Programming builds neural networks like a 1990s researcher",
+      "link": "https://notesbylex.com/weight-space-programming-1990s",
+      "is_new": true
+    },
+    {
+      "title": "Anthropic’s Nasdaq debut",
+      "link": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
+      "is_new": false
+    },
+    {
+      "title": "Launch HN: Onlook (YC W25) – An open-source developer tool for designers",
+      "link": "https://github.com/onlook-dev/onlook/",
+      "is_new": false
+    },
+    {
+      "title": "Pete warden on local AI, open models, voice interfaces, the future of hardware",
+      "link": "https://thedataexchange.media/pete-warden-moonshine/",
+      "is_new": false
     },
     {
       "title": "Someone reported java4shell bug in September 2026",
@@ -63,9 +103,71 @@
       "is_new": false
     },
     {
+      "title": "ChatGPT for SNES",
+      "link": "https://www.bxfoundry.com/chatgpt_snes/",
+      "is_new": true
+    },
+    {
+      "title": "The 98% Slot Machine: How Paid Advertising Became an Extraction Tax",
+      "link": "https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine",
+      "is_new": false
+    },
+    {
+      "title": "What Comes After AGI?",
+      "link": "https://institute.deepmind.com/essays/what-comes-after-agi/",
+      "is_new": true
+    },
+    {
+      "title": "Pancreatic cancer halted by virus injection in three patients",
+      "link": "https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/",
+      "is_new": false
+    },
+    {
+      "title": "Automatic Checking of Compiler Correctness with E-Graphs",
+      "link": "https://stng.substack.com/p/automatic-checking-of-compiler-correctness",
+      "is_new": true
+    },
+    {
       "title": "Show HN: Cornhole News – A Hacker News inspired site for news across the Midwest",
       "link": "https://cornholenews.news",
       "is_new": false
+    },
+    {
+      "title": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
+      "link": "https://www.youtube.com/watch?v=lwfewYL7X0o",
+      "is_new": false
+    },
+    {
+      "title": "Rebuilding my local voice assistant pipeline",
+      "link": "https://blog.platypush.tech/article/Rewriting-my-voice-assistant-pipeline",
+      "is_new": false
+    },
+    {
+      "title": "Former YC President: \"Stop!”",
+      "link": "https://geoffralston.substack.com/p/stop",
+      "is_new": true
+    },
+    {
+      "title": "Making 8-page foldable zines from a single A4 sheet in the browser",
+      "link": "https://krthr.co/paper-folds-and-whats-new-in-fanzines-app/",
+      "is_new": false
+    }
+  ],
+  "removed": [
+    {
+      "title": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
+      "link": "https://git-aarvin.github.io/mei/",
+      "is_new": true
+    },
+    {
+      "title": "RegExr: Temporarily Offline",
+      "link": "https://regexr.com/",
+      "is_new": true
+    },
+    {
+      "title": "Visa, Mastercard and JPMorgan Customer Data Leaked by Hackers",
+      "link": "https://www.wsj.com/finance/banking/visa-mastercard-and-jpmorgan-customer-data-leaked-by-hackers-3b5a0f87",
+      "is_new": true
     },
     {
       "title": "Talking Venice with Mahesh Subramony at AMD In-Depth",
@@ -76,21 +178,6 @@
       "title": "UK government forced to admit it issued Apple a secret encryption order",
       "link": "https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/",
       "is_new": false
-    },
-    {
-      "title": "Launch HN: Onlook (YC W25) – An open-source developer tool for designers",
-      "link": "https://github.com/onlook-dev/onlook/",
-      "is_new": false
-    },
-    {
-      "title": "Making 8-page foldable zines from a single A4 sheet in the browser",
-      "link": "https://krthr.co/paper-folds-and-whats-new-in-fanzines-app/",
-      "is_new": false
-    },
-    {
-      "title": "Rebuilding my local voice assistant pipeline",
-      "link": "https://blog.platypush.tech/article/Rewriting-my-voice-assistant-pipeline",
-      "is_new": true
     },
     {
       "title": "Reverse-Engineering Kevin J. Lang's Lost OCaml Code in Apache DataSketches",
@@ -128,11 +215,6 @@
       "is_new": false
     },
     {
-      "title": "Pete warden on local AI, open models, voice interfaces, the future of hardware",
-      "link": "https://thedataexchange.media/pete-warden-moonshine/",
-      "is_new": false
-    },
-    {
       "title": "What's New in PHP 8.6",
       "link": "https://www.php.net/releases/8.6/en.php",
       "is_new": false
@@ -150,68 +232,6 @@
     {
       "title": "Distributed, high-performance blob storage on SQLite",
       "link": "https://zerodha.tech/blog/high-performance-distributed-blob-storage/",
-      "is_new": false
-    }
-  ],
-  "removed": [
-    {
-      "title": "Chile: UFO Sightings by 18th Century Jesuits",
-      "link": "https://inexplicata.blogspot.com/2026/08/chile-ufo-sightings-by-18th-century.html",
-      "is_new": true
-    },
-    {
-      "title": "Everything you need to survive and rebuild society",
-      "link": "https://lastbook.org/",
-      "is_new": true
-    },
-    {
-      "title": "Cooling buildings is overtaking heating them as an energy need, IEA says",
-      "link": "https://maccus.fr/en/cooling-overtaking-heating/",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: Neoma P-CAM – Sub-millisecond physical equilibrium and 64-spin Ising",
-      "link": "https://github.com/neoma-pcam/pcam-live",
-      "is_new": true
-    },
-    {
-      "title": "Chrome AI features wasting much bandwidth",
-      "link": "https://perishablepress.com/chrome-ai-wasting-much-bandwidth/",
-      "is_new": true
-    },
-    {
-      "title": "I've Got Your Packages: Harvesting Customers' Delivery Order Information (2020)",
-      "link": "https://dl.acm.org/doi/fullHtml/10.1145/3366423.3380062",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: Watch weight-space programming in action with WebGPU",
-      "link": "https://tabbyml.github.io/weight-space-playground/",
-      "is_new": true
-    },
-    {
-      "title": "Fuck Your AI Safeguards",
-      "link": "https://ounapuu.ee/posts/2026/11/19/unsafeguards/",
-      "is_new": true
-    },
-    {
-      "title": "15M web servers on one VM – smoltcp, DPDK, AF_XDP",
-      "link": "https://kapteko.com/15-million-webservers/",
-      "is_new": false
-    },
-    {
-      "title": "It's all about the allocator",
-      "link": "https://aarol.dev/posts/zig-allocator/",
-      "is_new": true
-    },
-    {
-      "title": "SSD prices may begin to decline in the latter half of 2027",
-      "link": "https://www.drivevault.io/blog/when-will-hard-drive-prices-come-down.html",
-      "is_new": false
-    },
-    {
-      "title": "Anthropic prices initial public offering",
-      "link": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
       "is_new": false
     }
   ]
