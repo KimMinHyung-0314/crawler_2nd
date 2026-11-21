@@ -1,7 +1,22 @@
 {
-  "crawled_at": "2026-11-21 14:28",
-  "prev_crawled_at": "2026-11-21 08:38",
+  "crawled_at": "2026-11-21 23:08",
+  "prev_crawled_at": "2026-11-21 14:28",
   "items": [
+    {
+      "title": "Brazil's tax authority open-sources its tax calculator on GitHub under MIT",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria",
+      "is_new": true
+    },
+    {
+      "title": "Derek Lowe: Detonating a Pile of Lead Azide",
+      "link": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
+      "is_new": true
+    },
+    {
+      "title": "My Monitor Was Cutting My Download Speed by 75%",
+      "link": "https://blog.tymscar.com/posts/studiodisplayethernet/",
+      "is_new": true
+    },
     {
       "title": "Hurried Announcement: Alessandro Masullo GRH",
       "link": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
@@ -13,14 +28,24 @@
       "is_new": false
     },
     {
+      "title": "RCE in Gnupg",
+      "link": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html",
+      "is_new": true
+    },
+    {
       "title": "Inkling 2 Mini",
       "link": "https://thinkingmachines.ai/news/inkling-2-mini/",
       "is_new": false
     },
     {
-      "title": "NINLIVE: The Nine Inch Nails live archive",
-      "link": "https://ninlive.com/",
-      "is_new": false
+      "title": "Adult-only households accounted for 55% of toy sales in the first half of 2026",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-18/jellycats-squishmallows-and-lego-sets-for-adults-drive-holiday-traffic",
+      "is_new": true
+    },
+    {
+      "title": "ClawDOS – An AI coding agent for DOS",
+      "link": "http://ricapar.net/ClawDOS/",
+      "is_new": true
     },
     {
       "title": "We promoted developers into architects without informing them",
@@ -33,13 +58,23 @@
       "is_new": false
     },
     {
-      "title": "Valkey kills the skiplist, cuts sorted set overhead by up to 43%",
-      "link": "https://valkey.io/blog/from-skiplist-to-b+tree/",
-      "is_new": true
+      "title": "Clojure will affect the way you think about programming (2017)",
+      "link": "https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/",
+      "is_new": false
     },
     {
-      "title": "Sir Brian May adds new dimension to Hera asteroid",
-      "link": "https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid",
+      "title": "Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?",
+      "link": "https://news.ycombinator.com/item?id=50583761",
+      "is_new": false
+    },
+    {
+      "title": "NINLIVE: The Nine Inch Nails live archive",
+      "link": "https://ninlive.com/",
+      "is_new": false
+    },
+    {
+      "title": "Surprisingly Adorable Insect Portraits",
+      "link": "https://amateurphotographer.com/latest/these-astonishing-insect-portraits-reveal-a-hidden-world-you-never-knew-existed/",
       "is_new": true
     },
     {
@@ -48,9 +83,29 @@
       "is_new": false
     },
     {
-      "title": "Clojure will affect the way you think about programming (2017)",
-      "link": "https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/",
+      "title": "LLMs can read and write executables byte by byte from a hex dump",
+      "link": "https://sgiannopoulos.github.io/blog/machine-code-programming/",
       "is_new": true
+    },
+    {
+      "title": "FBI reportedly investigating apparent hack of its criminal database",
+      "link": "https://www.bbc.com/news/articles/cvze7de86pk3o",
+      "is_new": true
+    },
+    {
+      "title": "Valkey kills the skiplist, cuts sorted set overhead by up to 43%",
+      "link": "https://valkey.io/blog/from-skiplist-to-b+tree/",
+      "is_new": false
+    },
+    {
+      "title": "Sir Brian May adds new dimension to Hera asteroid",
+      "link": "https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid",
+      "is_new": false
+    },
+    {
+      "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day",
+      "link": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+      "is_new": false
     },
     {
       "title": "DreamCoder: Coding harness and IDE from the author of Mastering Emacs",
@@ -58,10 +113,47 @@
       "is_new": false
     },
     {
+      "title": "Fewer slides, more dragons",
+      "link": "https://www.breakingchange.blog/p/fewer-slides-more-dragons",
+      "is_new": true
+    },
+    {
+      "title": "Slopstrap – Make your site look hastily vibecoded",
+      "link": "https://slopstrap.mikelacher.com/",
+      "is_new": true
+    },
+    {
       "title": "Finite-time blow-up for the Navier–Stokes equations",
       "link": "https://github.com/tristanbuckmaster/navier-stokes/",
       "is_new": false
     },
+    {
+      "title": "Show HN: Tinnitus frequency finder and audio notch tool",
+      "link": "https://trynotched.com/find",
+      "is_new": false
+    },
+    {
+      "title": "Vibecoding an inference chip",
+      "link": "https://ankitg.me/blog/vibecoding-inference-chip/",
+      "is_new": false
+    },
+    {
+      "title": "Why the Airbus A321XLR often gets stuck climbing for first few hours of flight",
+      "link": "https://simpleflying.com/airbus-a321xlr-often-stuck-climbing-1st-few-hours-flight/",
+      "is_new": false
+    },
+    {
+      "title": "Serious cyberattack thought backed by wealthy operators",
+      "link": "https://www.ruv.is/english/2026-11-20-serious-cyberattack-thought-backed-by-wealthy-operators-493411",
+      "is_new": false
+    },
+    {
+      "title": "Defcon 5's California Caravan Program/Zine",
+      "link": "https://netninja.com/2026/06/08/defcon-5s-california-caravan-program-zine/",
+      "is_new": true
+    }
+  ],
+  "removed": [
     {
       "title": "Restricting AI agents in mobile operating systems platforms from capturing data",
       "link": "https://signal.org/blog/protecting-your-privacy/",
@@ -78,16 +170,6 @@
       "is_new": true
     },
     {
-      "title": "Vibecoding an inference chip",
-      "link": "https://ankitg.me/blog/vibecoding-inference-chip/",
-      "is_new": false
-    },
-    {
-      "title": "Serious cyberattack thought backed by wealthy operators",
-      "link": "https://www.ruv.is/english/2026-11-20-serious-cyberattack-thought-backed-by-wealthy-operators-493411",
-      "is_new": true
-    },
-    {
       "title": "The stochastic parrots have apparently proved the Riemann Hypothesis",
       "link": "https://scottaaronson.blog/?p=10344",
       "is_new": false
@@ -96,21 +178,6 @@
       "title": "Winedroid – run Android apps without Android (WASM demo)",
       "link": "https://winedroid.soham.sh/demo/",
       "is_new": false
-    },
-    {
-      "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day",
-      "link": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: Tinnitus frequency finder and audio notch tool",
-      "link": "https://trynotched.com/find",
-      "is_new": true
-    },
-    {
-      "title": "Why the Airbus A321XLR often gets stuck climbing for first few hours of flight",
-      "link": "https://simpleflying.com/airbus-a321xlr-often-stuck-climbing-1st-few-hours-flight/",
-      "is_new": true
     },
     {
       "title": "Show HN: I made an audio-to-MIDI model 60x more efficient",
@@ -133,11 +200,6 @@
       "is_new": false
     },
     {
-      "title": "Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?",
-      "link": "https://news.ycombinator.com/item?id=50583761",
-      "is_new": true
-    },
-    {
       "title": "I Don't Trust Visual Recordings Anymore. But One Day I Will Again",
       "link": "https://spectrum.ieee.org/fighting-back-against-deep-fakes",
       "is_new": true
@@ -150,68 +212,6 @@
     {
       "title": "I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA",
       "link": "https://news.ycombinator.com/item?id=50577613",
-      "is_new": false
-    }
-  ],
-  "removed": [
-    {
-      "title": "A few hours ago Google DeepMind created a math horizon repo",
-      "link": "https://github.com/google-deepmind/math-horizon",
-      "is_new": true
-    },
-    {
-      "title": "If you can't explain something in simple terms, you don't understand it (2017)",
-      "link": "https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it",
-      "is_new": false
-    },
-    {
-      "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
-      "link": "https://architectlabs.com/blog/frostbite",
-      "is_new": false
-    },
-    {
-      "title": "Nvidia accounting under SEC investigation, sources say",
-      "link": "https://finance.yahoo.com/markets/article/nvidia-stock-extends-25-trillion-rout-as-sec-probe-reportedly-investigates-its-accounting-194945274.html",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: An API for word timestamps from speech, 75% within 20ms",
-      "link": "https://quebec.yarn.so",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: Professor Euler – Offline math desk, 300-function CAS, workbooks",
-      "link": "https://euler.dawei7.com",
-      "is_new": true
-    },
-    {
-      "title": "Microsoft announces Windows Server 2028 with hardened security",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-windows-server-2028-with-hardened-security/",
-      "is_new": true
-    },
-    {
-      "title": "Nasdaq erases all 2026 gains",
-      "link": "https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html",
-      "is_new": true
-    },
-    {
-      "title": "Google Workers Tell Their Employer Not to Punish Schools That Don't Want AI",
-      "link": "https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/",
-      "is_new": true
-    },
-    {
-      "title": "Reverse Engineering my cat's litter box",
-      "link": "https://master--ytulsiani.netlify.app/blog/furrytails/",
-      "is_new": true
-    },
-    {
-      "title": "Running two PSP emulators on one Switch 2 and sharing one via GameShare",
-      "link": "https://github.com/XITRIX/ppsspp-nx2/blob/master/SWITCH2-GAMESHARE.md",
-      "is_new": false
-    },
-    {
-      "title": "The G1 Garbage Collector",
-      "link": "https://dev.java/learn/jvm/tool/garbage-collection/g1gc-overview/",
       "is_new": false
     }
   ]
