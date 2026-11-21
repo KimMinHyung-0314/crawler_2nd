@@ -1,21 +1,41 @@
 {
-  "crawled_at": "2026-11-21 23:08",
-  "prev_crawled_at": "2026-11-21 14:28",
+  "crawled_at": "2026-11-22 05:45",
+  "prev_crawled_at": "2026-11-21 23:08",
   "items": [
+    {
+      "title": "Inkling-2-Mini in 5.4 GB Memory",
+      "link": "https://github.com/ShinMegamiBoson/lookatmyquant",
+      "is_new": true
+    },
+    {
+      "title": "Lean verification of the Riemann Hypothesis",
+      "link": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
+      "is_new": true
+    },
+    {
+      "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
+      "link": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
+      "is_new": true
+    },
+    {
+      "title": "Detonating a pile of lead azide",
+      "link": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
+      "is_new": false
+    },
     {
       "title": "Brazil's tax authority open-sources its tax calculator on GitHub under MIT",
       "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria",
+      "is_new": false
+    },
+    {
+      "title": "PostgreSQL Extensions in Go",
+      "link": "https://jespino.github.io/gopgext/",
       "is_new": true
     },
     {
-      "title": "Derek Lowe: Detonating a Pile of Lead Azide",
-      "link": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
-      "is_new": true
-    },
-    {
-      "title": "My Monitor Was Cutting My Download Speed by 75%",
+      "title": "My monitor was cutting my download speed by 75%",
       "link": "https://blog.tymscar.com/posts/studiodisplayethernet/",
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Hurried Announcement: Alessandro Masullo GRH",
@@ -23,13 +43,23 @@
       "is_new": false
     },
     {
-      "title": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
-      "link": "https://alpo.ge/remark.pdf",
-      "is_new": false
+      "title": "Tropical Rainforests Species may be surprisingly young",
+      "link": "https://phys.org/news/2026-11-species-tropical-rainforests-young-emergence.html",
+      "is_new": true
     },
     {
-      "title": "RCE in Gnupg",
-      "link": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html",
+      "title": "Getting the mind to steer the body to steer you",
+      "link": "https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body",
+      "is_new": true
+    },
+    {
+      "title": "Verification files for the Lean proof of the Riemann Hypothesis",
+      "link": "https://math.mit.edu/~drew/grh/",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: Zero C# – C# without a runtime or GC",
+      "link": "https://onurgumus.github.io/zero-csharp/index.html",
       "is_new": true
     },
     {
@@ -38,13 +68,38 @@
       "is_new": false
     },
     {
-      "title": "Adult-only households accounted for 55% of toy sales in the first half of 2026",
-      "link": "https://www.bloomberg.com/news/articles/2026-11-18/jellycats-squishmallows-and-lego-sets-for-adults-drive-holiday-traffic",
+      "title": "I'm quite pleased by the tech architecture of my art website",
+      "link": "https://klauria.tech/klauria-art/",
       "is_new": true
     },
     {
-      "title": "ClawDOS – An AI coding agent for DOS",
-      "link": "http://ricapar.net/ClawDOS/",
+      "title": "RCE in Gnupg",
+      "link": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html",
+      "is_new": false
+    },
+    {
+      "title": "Bolt's Scooters Are Becoming Accessibility Sensors",
+      "link": "https://geoawesome.com/bolt-scooters-accessibility-mapping-wheels4wheels/",
+      "is_new": true
+    },
+    {
+      "title": "How I made a custom game engine for Satelital",
+      "link": "https://spectralorbit.com/blog/satelital_game_engine",
+      "is_new": true
+    },
+    {
+      "title": "Why there are still no non-WebKit browsers on iOS",
+      "link": "https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/",
+      "is_new": true
+    },
+    {
+      "title": "Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?",
+      "link": "https://news.ycombinator.com/item?id=50583761",
+      "is_new": false
+    },
+    {
+      "title": "Deterministic Simulation Testing Is for Everyone",
+      "link": "https://outdata.net/blog/261120",
       "is_new": true
     },
     {
@@ -53,23 +108,60 @@
       "is_new": false
     },
     {
+      "title": "LLMs can read and write executables byte by byte from a hex dump",
+      "link": "https://sgiannopoulos.github.io/blog/machine-code-programming/",
+      "is_new": false
+    },
+    {
+      "title": "Show HN: An ASCII cell aquarium for your terminal",
+      "link": "https://github.com/kborer/cells/",
+      "is_new": true
+    },
+    {
+      "title": "Upload2Shell · CVE-2026-125396",
+      "link": "https://pwn.ai/upload2shell",
+      "is_new": true
+    },
+    {
       "title": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
       "link": "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/",
       "is_new": false
     },
     {
-      "title": "Clojure will affect the way you think about programming (2017)",
-      "link": "https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/",
+      "title": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
+      "link": "https://alpo.ge/remark.pdf",
       "is_new": false
     },
     {
-      "title": "Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?",
-      "link": "https://news.ycombinator.com/item?id=50583761",
+      "title": "The Soviet Elektronika BK-0010 home computer built on a clone of the PDP-11 CPU",
+      "link": "https://8bitarchitect.net/machines/elektronika-bk-0010/",
+      "is_new": true
+    },
+    {
+      "title": "ClawDOS – An AI coding agent for DOS",
+      "link": "http://ricapar.net/ClawDOS/",
       "is_new": false
     },
     {
       "title": "NINLIVE: The Nine Inch Nails live archive",
       "link": "https://ninlive.com/",
+      "is_new": false
+    },
+    {
+      "title": "Astra 6.2 and Sol 6.2 flop at Simple Bench",
+      "link": "https://simple-bench.com/",
+      "is_new": true
+    }
+  ],
+  "removed": [
+    {
+      "title": "Adult-only households accounted for 55% of toy sales in the first half of 2026",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-18/jellycats-squishmallows-and-lego-sets-for-adults-drive-holiday-traffic",
+      "is_new": true
+    },
+    {
+      "title": "Clojure will affect the way you think about programming (2017)",
+      "link": "https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/",
       "is_new": false
     },
     {
@@ -81,11 +173,6 @@
       "title": "Language Models Can Rewrite Their Own Weights",
       "link": "https://arxiv.org/abs/2611.21885",
       "is_new": false
-    },
-    {
-      "title": "LLMs can read and write executables byte by byte from a hex dump",
-      "link": "https://sgiannopoulos.github.io/blog/machine-code-programming/",
-      "is_new": true
     },
     {
       "title": "FBI reportedly investigating apparent hack of its criminal database",
@@ -151,68 +238,6 @@
       "title": "Defcon 5's California Caravan Program/Zine",
       "link": "https://netninja.com/2026/06/08/defcon-5s-california-caravan-program-zine/",
       "is_new": true
-    }
-  ],
-  "removed": [
-    {
-      "title": "Restricting AI agents in mobile operating systems platforms from capturing data",
-      "link": "https://signal.org/blog/protecting-your-privacy/",
-      "is_new": false
-    },
-    {
-      "title": "And yet, it moves",
-      "link": "https://signoregalilei.com/2026/11/20/and-yet-it-moves/",
-      "is_new": false
-    },
-    {
-      "title": "BlackBlaze now explicitly states selling your data for advertisement",
-      "link": "https://www.backblaze.com/company/policy/privacy",
-      "is_new": true
-    },
-    {
-      "title": "The stochastic parrots have apparently proved the Riemann Hypothesis",
-      "link": "https://scottaaronson.blog/?p=10344",
-      "is_new": false
-    },
-    {
-      "title": "Winedroid – run Android apps without Android (WASM demo)",
-      "link": "https://winedroid.soham.sh/demo/",
-      "is_new": false
-    },
-    {
-      "title": "Show HN: I made an audio-to-MIDI model 60x more efficient",
-      "link": "https://kobi.music/research/dettato",
-      "is_new": false
-    },
-    {
-      "title": "I can’t believe it’s 1",
-      "link": "https://aperiodical.com/2026/11/i-cant-believe-its-1/",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: LZ0 -An asymmetric LZ compressor with ultra minimal, 0-alloc decoder",
-      "link": "https://github.com/seb3773/lz0",
-      "is_new": true
-    },
-    {
-      "title": "The Hungry Butler Effect: Concealed Commercial Incentives in LLMs",
-      "link": "https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models",
-      "is_new": false
-    },
-    {
-      "title": "I Don't Trust Visual Recordings Anymore. But One Day I Will Again",
-      "link": "https://spectrum.ieee.org/fighting-back-against-deep-fakes",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: OpenComputer – an open source alternative to Devin",
-      "link": "https://github.com/diggerhq/opencomputer",
-      "is_new": false
-    },
-    {
-      "title": "I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA",
-      "link": "https://news.ycombinator.com/item?id=50577613",
-      "is_new": false
     }
   ]
 }
