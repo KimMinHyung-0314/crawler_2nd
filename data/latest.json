@@ -1,16 +1,11 @@
 {
-  "crawled_at": "2026-11-21 08:38",
-  "prev_crawled_at": "2026-11-21 02:30",
+  "crawled_at": "2026-11-21 14:28",
+  "prev_crawled_at": "2026-11-21 08:38",
   "items": [
     {
       "title": "Hurried Announcement: Alessandro Masullo GRH",
       "link": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
-      "is_new": true
-    },
-    {
-      "title": "Inkling 2 Mini",
-      "link": "https://thinkingmachines.ai/news/inkling-2-mini/",
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
@@ -18,18 +13,33 @@
       "is_new": false
     },
     {
+      "title": "Inkling 2 Mini",
+      "link": "https://thinkingmachines.ai/news/inkling-2-mini/",
+      "is_new": false
+    },
+    {
       "title": "NINLIVE: The Nine Inch Nails live archive",
       "link": "https://ninlive.com/",
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "We promoted developers into architects without informing them",
       "link": "https://manidoraisamy.com/developer-to-architect.html",
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
       "link": "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/",
+      "is_new": false
+    },
+    {
+      "title": "Valkey kills the skiplist, cuts sorted set overhead by up to 43%",
+      "link": "https://valkey.io/blog/from-skiplist-to-b+tree/",
+      "is_new": true
+    },
+    {
+      "title": "Sir Brian May adds new dimension to Hera asteroid",
+      "link": "https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid",
       "is_new": true
     },
     {
@@ -38,9 +48,14 @@
       "is_new": false
     },
     {
-      "title": "A few hours ago Google DeepMind created a math horizon repo",
-      "link": "https://github.com/google-deepmind/math-horizon",
+      "title": "Clojure will affect the way you think about programming (2017)",
+      "link": "https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/",
       "is_new": true
+    },
+    {
+      "title": "DreamCoder: Coding harness and IDE from the author of Mastering Emacs",
+      "link": "https://www.masteringemacs.org/article/announcing-dreamcoder",
+      "is_new": false
     },
     {
       "title": "Finite-time blow-up for the Navier–Stokes equations",
@@ -48,23 +63,100 @@
       "is_new": false
     },
     {
-      "title": "DreamCoder: Coding harness and IDE from the author of Mastering Emacs",
-      "link": "https://www.masteringemacs.org/article/announcing-dreamcoder",
+      "title": "Restricting AI agents in mobile operating systems platforms from capturing data",
+      "link": "https://signal.org/blog/protecting-your-privacy/",
+      "is_new": false
+    },
+    {
+      "title": "And yet, it moves",
+      "link": "https://signoregalilei.com/2026/11/20/and-yet-it-moves/",
+      "is_new": false
+    },
+    {
+      "title": "BlackBlaze now explicitly states selling your data for advertisement",
+      "link": "https://www.backblaze.com/company/policy/privacy",
       "is_new": true
     },
     {
       "title": "Vibecoding an inference chip",
       "link": "https://ankitg.me/blog/vibecoding-inference-chip/",
+      "is_new": false
+    },
+    {
+      "title": "Serious cyberattack thought backed by wealthy operators",
+      "link": "https://www.ruv.is/english/2026-11-20-serious-cyberattack-thought-backed-by-wealthy-operators-493411",
       "is_new": true
     },
     {
       "title": "The stochastic parrots have apparently proved the Riemann Hypothesis",
       "link": "https://scottaaronson.blog/?p=10344",
+      "is_new": false
+    },
+    {
+      "title": "Winedroid – run Android apps without Android (WASM demo)",
+      "link": "https://winedroid.soham.sh/demo/",
+      "is_new": false
+    },
+    {
+      "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day",
+      "link": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
       "is_new": true
     },
     {
-      "title": "And Yet, It Moves",
-      "link": "https://signoregalilei.com/2026/11/20/and-yet-it-moves/",
+      "title": "Show HN: Tinnitus frequency finder and audio notch tool",
+      "link": "https://trynotched.com/find",
+      "is_new": true
+    },
+    {
+      "title": "Why the Airbus A321XLR often gets stuck climbing for first few hours of flight",
+      "link": "https://simpleflying.com/airbus-a321xlr-often-stuck-climbing-1st-few-hours-flight/",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: I made an audio-to-MIDI model 60x more efficient",
+      "link": "https://kobi.music/research/dettato",
+      "is_new": false
+    },
+    {
+      "title": "I can’t believe it’s 1",
+      "link": "https://aperiodical.com/2026/11/i-cant-believe-its-1/",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: LZ0 -An asymmetric LZ compressor with ultra minimal, 0-alloc decoder",
+      "link": "https://github.com/seb3773/lz0",
+      "is_new": true
+    },
+    {
+      "title": "The Hungry Butler Effect: Concealed Commercial Incentives in LLMs",
+      "link": "https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models",
+      "is_new": false
+    },
+    {
+      "title": "Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?",
+      "link": "https://news.ycombinator.com/item?id=50583761",
+      "is_new": true
+    },
+    {
+      "title": "I Don't Trust Visual Recordings Anymore. But One Day I Will Again",
+      "link": "https://spectrum.ieee.org/fighting-back-against-deep-fakes",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: OpenComputer – an open source alternative to Devin",
+      "link": "https://github.com/diggerhq/opencomputer",
+      "is_new": false
+    },
+    {
+      "title": "I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA",
+      "link": "https://news.ycombinator.com/item?id=50577613",
+      "is_new": false
+    }
+  ],
+  "removed": [
+    {
+      "title": "A few hours ago Google DeepMind created a math horizon repo",
+      "link": "https://github.com/google-deepmind/math-horizon",
       "is_new": true
     },
     {
@@ -73,24 +165,9 @@
       "is_new": false
     },
     {
-      "title": "Winedroid – run Android apps without Android (WASM demo)",
-      "link": "https://winedroid.soham.sh/demo/",
-      "is_new": true
-    },
-    {
       "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
       "link": "https://architectlabs.com/blog/frostbite",
       "is_new": false
-    },
-    {
-      "title": "Signal Is Serious About Protecting Your Privacy",
-      "link": "https://signal.org/blog/protecting-your-privacy/",
-      "is_new": false
-    },
-    {
-      "title": "Show HN: OpenComputer – an open source alternative to Devin",
-      "link": "https://github.com/diggerhq/opencomputer",
-      "is_new": true
     },
     {
       "title": "Nvidia accounting under SEC investigation, sources say",
@@ -113,24 +190,9 @@
       "is_new": true
     },
     {
-      "title": "I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA",
-      "link": "https://news.ycombinator.com/item?id=50577613",
-      "is_new": false
-    },
-    {
       "title": "Nasdaq erases all 2026 gains",
       "link": "https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html",
       "is_new": true
-    },
-    {
-      "title": "The Hungry Butler Effect: Concealed Commercial Incentives in LLMs",
-      "link": "https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: I made an audio-to-MIDI model 60x more efficient",
-      "link": "https://kobi.music/research/dettato",
-      "is_new": false
     },
     {
       "title": "Google Workers Tell Their Employer Not to Punish Schools That Don't Want AI",
@@ -150,108 +212,6 @@
     {
       "title": "The G1 Garbage Collector",
       "link": "https://dev.java/learn/jvm/tool/garbage-collection/g1gc-overview/",
-      "is_new": false
-    }
-  ],
-  "removed": [
-    {
-      "title": "I'll never buy Framework hardware again",
-      "link": "https://poolp.org/posts/2026-11-20/ill-never-buy-framework-hardware-again/",
-      "is_new": true
-    },
-    {
-      "title": "Floppy3.5: A portable 3.5-inch floppy WiFi NAS",
-      "link": "https://github.com/bigcrimping/floppy3.5",
-      "is_new": true
-    },
-    {
-      "title": "Why there are still no non-WebKit browsers on iOS",
-      "link": "https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/",
-      "is_new": true
-    },
-    {
-      "title": "The Making of Oxygene",
-      "link": "https://jeanmicheljarre.com/aaa/the-making-of-oxygene",
-      "is_new": true
-    },
-    {
-      "title": "Lovable: Now you can explore any idea in parallel without touching what's live",
-      "link": "https://lovable.dev/blog/introducing-drafts",
-      "is_new": true
-    },
-    {
-      "title": "PostgreSQL 19: A hands-on tour with runnable browser examples",
-      "link": "https://certuvia.com/blog/postgres-19",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: Fast deterministic natural language search for OpenStreetMap data",
-      "link": "https://hippomaps.ch/?q=cafes+by+the+Limmat+100+m+from+the+lake+in+zurich#map=15.02/47.36708/8.54935",
-      "is_new": true
-    },
-    {
-      "title": "What people are building, discovered through new domains",
-      "link": "https://startups.novumsignals.com/",
-      "is_new": true
-    },
-    {
-      "title": "OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)",
-      "link": "https://github.com/openssl/openssl/pull/33652",
-      "is_new": false
-    },
-    {
-      "title": "If you stop writing code, you also get worse at reviewing it",
-      "link": "https://cekrem.github.io/posts/if-you-stop-writing-code-you-also-get-worse-at-reviewing-it/",
-      "is_new": true
-    },
-    {
-      "title": "Carnival Cruises emits ten times more sulphur oxide than all of Europe's cars (2019)",
-      "link": "https://ecohustler.com/article/one-corporation-to-pollute-them-all/",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: Tinnitus frequency finder and audio notch tool",
-      "link": "https://trynotched.com/find",
-      "is_new": true
-    },
-    {
-      "title": "FFmpeg 9.1 'Gauss'",
-      "link": "https://ffmpeg.org/download.html#release_9.1",
-      "is_new": false
-    },
-    {
-      "title": "µ-Wire – USB on an ATtiny 10",
-      "link": "https://cpldcpu.com/2014/03/19/%c2%b5-wire-usb-on-an-attiny-10/",
-      "is_new": true
-    },
-    {
-      "title": "UK fridges secured from hackers",
-      "link": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o",
-      "is_new": true
-    },
-    {
-      "title": "Postgres 19 Repack: Faster, Built-In Table Bloat Cleanup",
-      "link": "https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/",
-      "is_new": false
-    },
-    {
-      "title": "Claude solves two open problems in the physics of black holes",
-      "link": "https://www.anthropic.com/research/claude-black-hole-physics",
-      "is_new": false
-    },
-    {
-      "title": "The Strongest Sokoban Solver",
-      "link": "https://healeycodes.com/introducing-the-worlds-strongest-sokoban-solver",
-      "is_new": false
-    },
-    {
-      "title": "How to CAD Almost Anything",
-      "link": "https://ocw.mit.edu/courses/res-16-002-how-to-cad-almost-anything-january-iap-2024/",
-      "is_new": false
-    },
-    {
-      "title": "PostgreSQL 19",
-      "link": "https://www.postgresql.org/docs/release/19.0/",
       "is_new": false
     }
   ]
