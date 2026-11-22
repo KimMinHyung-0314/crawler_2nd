@@ -1,26 +1,26 @@
 {
-  "crawled_at": "2026-11-22 05:45",
-  "prev_crawled_at": "2026-11-21 23:08",
+  "crawled_at": "2026-11-22 09:54",
+  "prev_crawled_at": "2026-11-22 05:45",
   "items": [
     {
-      "title": "Inkling-2-Mini in 5.4 GB Memory",
-      "link": "https://github.com/ShinMegamiBoson/lookatmyquant",
-      "is_new": true
+      "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
+      "link": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
+      "is_new": false
     },
     {
       "title": "Lean verification of the Riemann Hypothesis",
       "link": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
-      "is_new": true
-    },
-    {
-      "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
-      "link": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
-      "is_new": true
-    },
-    {
-      "title": "Detonating a pile of lead azide",
-      "link": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
       "is_new": false
+    },
+    {
+      "title": "Inkling-2-Mini in 5.4 GB Memory",
+      "link": "https://github.com/ShinMegamiBoson/lookatmyquant",
+      "is_new": false
+    },
+    {
+      "title": "(Supposed) ex-Rockstar employee: GTAVI creates psychological profiles, sells it",
+      "link": "https://www.resetera.com/threads/supposed-ex-rockstar-employee-gtavi-creates-personality-profiles-based-on-gameplay-decisions-sells-them-to-outside-companies.1694417/",
+      "is_new": true
     },
     {
       "title": "Brazil's tax authority open-sources its tax calculator on GitHub under MIT",
@@ -28,13 +28,18 @@
       "is_new": false
     },
     {
-      "title": "PostgreSQL Extensions in Go",
-      "link": "https://jespino.github.io/gopgext/",
+      "title": "Detonating a pile of lead azide",
+      "link": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
+      "is_new": false
+    },
+    {
+      "title": "PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors",
+      "link": "https://github.com/sebaandrada-cell/PcapAnalyzer",
       "is_new": true
     },
     {
-      "title": "My monitor was cutting my download speed by 75%",
-      "link": "https://blog.tymscar.com/posts/studiodisplayethernet/",
+      "title": "Getting the mind to steer the body to steer you",
+      "link": "https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body",
       "is_new": false
     },
     {
@@ -43,23 +48,38 @@
       "is_new": false
     },
     {
-      "title": "Tropical Rainforests Species may be surprisingly young",
-      "link": "https://phys.org/news/2026-11-species-tropical-rainforests-young-emergence.html",
+      "title": "My monitor was cutting my download speed by 75%",
+      "link": "https://blog.tymscar.com/posts/studiodisplayethernet/",
+      "is_new": false
+    },
+    {
+      "title": "Advice for the next 100 Rust GUIs",
+      "link": "https://linebender.org/blog/next-100-guis/",
       "is_new": true
     },
     {
-      "title": "Getting the mind to steer the body to steer you",
-      "link": "https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body",
+      "title": "PostgreSQL Extensions in Go",
+      "link": "https://jespino.github.io/gopgext/",
+      "is_new": false
+    },
+    {
+      "title": "Tasklet (YC P26) Is Hiring Product and Agent Infra Engineers",
+      "link": "https://tasklet.ai/careers",
       "is_new": true
     },
     {
-      "title": "Verification files for the Lean proof of the Riemann Hypothesis",
-      "link": "https://math.mit.edu/~drew/grh/",
+      "title": "The Emergence of Inequality in the Czech Corded Ware Culture",
+      "link": "https://www.jna.uni-kiel.de/index.php/jna/article/view/1560/1746",
       "is_new": true
     },
     {
-      "title": "Show HN: Zero C# – C# without a runtime or GC",
-      "link": "https://onurgumus.github.io/zero-csharp/index.html",
+      "title": "Pandex – Official European Law for AI Agents, over MCP",
+      "link": "https://www.pandex.io",
+      "is_new": true
+    },
+    {
+      "title": "Windows has two settings that bring work back after restart, both off by default",
+      "link": "https://www.makeuseof.com/windows-can-bring-your-work-back-after-restart/",
       "is_new": true
     },
     {
@@ -68,9 +88,34 @@
       "is_new": false
     },
     {
-      "title": "I'm quite pleased by the tech architecture of my art website",
-      "link": "https://klauria.tech/klauria-art/",
+      "title": "Upload2Shell (CVE-2026-125396)",
+      "link": "https://pwn.ai/upload2shell",
+      "is_new": false
+    },
+    {
+      "title": "Tropical Rainforests Species may be surprisingly young",
+      "link": "https://phys.org/news/2026-11-species-tropical-rainforests-young-emergence.html",
+      "is_new": false
+    },
+    {
+      "title": "Show HN: Zero C# – C# without a runtime or GC",
+      "link": "https://onurgumus.github.io/zero-csharp/index.html",
+      "is_new": false
+    },
+    {
+      "title": "Bolt's Scooters Are Becoming Accessibility Sensors",
+      "link": "https://geoawesome.com/bolt-scooters-accessibility-mapping-wheels4wheels/",
+      "is_new": false
+    },
+    {
+      "title": "Exponential Behavior in Magic: The Gathering",
+      "link": "https://levineuwirth.org/essays/exponential-magic/",
       "is_new": true
+    },
+    {
+      "title": "Verification files for the Lean proof of the Riemann Hypothesis",
+      "link": "https://math.mit.edu/~drew/grh/",
+      "is_new": false
     },
     {
       "title": "RCE in Gnupg",
@@ -78,24 +123,41 @@
       "is_new": false
     },
     {
-      "title": "Bolt's Scooters Are Becoming Accessibility Sensors",
-      "link": "https://geoawesome.com/bolt-scooters-accessibility-mapping-wheels4wheels/",
-      "is_new": true
-    },
-    {
-      "title": "How I made a custom game engine for Satelital",
-      "link": "https://spectralorbit.com/blog/satelital_game_engine",
-      "is_new": true
+      "title": "LLMs can read and write executables byte by byte from a hex dump",
+      "link": "https://sgiannopoulos.github.io/blog/machine-code-programming/",
+      "is_new": false
     },
     {
       "title": "Why there are still no non-WebKit browsers on iOS",
       "link": "https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/",
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?",
       "link": "https://news.ycombinator.com/item?id=50583761",
       "is_new": false
+    },
+    {
+      "title": "I'm quite pleased by the tech architecture of my art website",
+      "link": "https://klauria.tech/klauria-art/",
+      "is_new": false
+    },
+    {
+      "title": "International UN talks on controlling use of autonomous weapons collapse",
+      "link": "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse",
+      "is_new": true
+    },
+    {
+      "title": "Context-Generic Programming v0.8.0 – Pluggable trait implementations for Rust",
+      "link": "https://contextgeneric.dev/blog/v0.8.0-release/",
+      "is_new": true
+    }
+  ],
+  "removed": [
+    {
+      "title": "How I made a custom game engine for Satelital",
+      "link": "https://spectralorbit.com/blog/satelital_game_engine",
+      "is_new": true
     },
     {
       "title": "Deterministic Simulation Testing Is for Everyone",
@@ -108,18 +170,8 @@
       "is_new": false
     },
     {
-      "title": "LLMs can read and write executables byte by byte from a hex dump",
-      "link": "https://sgiannopoulos.github.io/blog/machine-code-programming/",
-      "is_new": false
-    },
-    {
       "title": "Show HN: An ASCII cell aquarium for your terminal",
       "link": "https://github.com/kborer/cells/",
-      "is_new": true
-    },
-    {
-      "title": "Upload2Shell · CVE-2026-125396",
-      "link": "https://pwn.ai/upload2shell",
       "is_new": true
     },
     {
@@ -150,93 +202,6 @@
     {
       "title": "Astra 6.2 and Sol 6.2 flop at Simple Bench",
       "link": "https://simple-bench.com/",
-      "is_new": true
-    }
-  ],
-  "removed": [
-    {
-      "title": "Adult-only households accounted for 55% of toy sales in the first half of 2026",
-      "link": "https://www.bloomberg.com/news/articles/2026-11-18/jellycats-squishmallows-and-lego-sets-for-adults-drive-holiday-traffic",
-      "is_new": true
-    },
-    {
-      "title": "Clojure will affect the way you think about programming (2017)",
-      "link": "https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/",
-      "is_new": false
-    },
-    {
-      "title": "Surprisingly Adorable Insect Portraits",
-      "link": "https://amateurphotographer.com/latest/these-astonishing-insect-portraits-reveal-a-hidden-world-you-never-knew-existed/",
-      "is_new": true
-    },
-    {
-      "title": "Language Models Can Rewrite Their Own Weights",
-      "link": "https://arxiv.org/abs/2611.21885",
-      "is_new": false
-    },
-    {
-      "title": "FBI reportedly investigating apparent hack of its criminal database",
-      "link": "https://www.bbc.com/news/articles/cvze7de86pk3o",
-      "is_new": true
-    },
-    {
-      "title": "Valkey kills the skiplist, cuts sorted set overhead by up to 43%",
-      "link": "https://valkey.io/blog/from-skiplist-to-b+tree/",
-      "is_new": false
-    },
-    {
-      "title": "Sir Brian May adds new dimension to Hera asteroid",
-      "link": "https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid",
-      "is_new": false
-    },
-    {
-      "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day",
-      "link": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
-      "is_new": false
-    },
-    {
-      "title": "DreamCoder: Coding harness and IDE from the author of Mastering Emacs",
-      "link": "https://www.masteringemacs.org/article/announcing-dreamcoder",
-      "is_new": false
-    },
-    {
-      "title": "Fewer slides, more dragons",
-      "link": "https://www.breakingchange.blog/p/fewer-slides-more-dragons",
-      "is_new": true
-    },
-    {
-      "title": "Slopstrap – Make your site look hastily vibecoded",
-      "link": "https://slopstrap.mikelacher.com/",
-      "is_new": true
-    },
-    {
-      "title": "Finite-time blow-up for the Navier–Stokes equations",
-      "link": "https://github.com/tristanbuckmaster/navier-stokes/",
-      "is_new": false
-    },
-    {
-      "title": "Show HN: Tinnitus frequency finder and audio notch tool",
-      "link": "https://trynotched.com/find",
-      "is_new": false
-    },
-    {
-      "title": "Vibecoding an inference chip",
-      "link": "https://ankitg.me/blog/vibecoding-inference-chip/",
-      "is_new": false
-    },
-    {
-      "title": "Why the Airbus A321XLR often gets stuck climbing for first few hours of flight",
-      "link": "https://simpleflying.com/airbus-a321xlr-often-stuck-climbing-1st-few-hours-flight/",
-      "is_new": false
-    },
-    {
-      "title": "Serious cyberattack thought backed by wealthy operators",
-      "link": "https://www.ruv.is/english/2026-11-20-serious-cyberattack-thought-backed-by-wealthy-operators-493411",
-      "is_new": false
-    },
-    {
-      "title": "Defcon 5's California Caravan Program/Zine",
-      "link": "https://netninja.com/2026/06/08/defcon-5s-california-caravan-program-zine/",
       "is_new": true
     }
   ]
