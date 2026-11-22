@@ -1,10 +1,20 @@
 {
-  "crawled_at": "2026-11-22 16:44",
-  "prev_crawled_at": "2026-11-22 09:54",
+  "crawled_at": "2026-11-23 00:53",
+  "prev_crawled_at": "2026-11-22 16:44",
   "items": [
     {
       "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
       "link": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
+      "is_new": false
+    },
+    {
+      "title": "Show HN: I built a game where you are an LLM's subagent",
+      "link": "https://github.com/gulivan/worker755",
+      "is_new": true
+    },
+    {
+      "title": "A real Linux kernel, compiled to WebAssembly",
+      "link": "https://github.com/pithings/unkernel",
       "is_new": true
     },
     {
@@ -13,28 +23,33 @@
       "is_new": false
     },
     {
-      "title": "AI Supply Chain Security: What Canary Tokens Found",
-      "link": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
-      "is_new": true
-    },
-    {
       "title": "Lean verification of the Riemann Hypothesis",
       "link": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
       "is_new": false
     },
     {
-      "title": "Show HN: The Riemann Proof Handbook",
-      "link": "https://github.com/tamnd/riemann-handbook",
+      "title": "A Better Vocabulary for Testing",
+      "link": "https://alperenkeles.com/posts/vocab-for-testing/",
       "is_new": true
     },
     {
-      "title": "Notes on the discrete Fourier transform (DFT)",
-      "link": "https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/",
+      "title": "Self-hosted library branch over public web OPDS",
+      "link": "https://joinmayberry.com/",
       "is_new": true
     },
     {
       "title": "Sandwich Simulator",
       "link": "https://stulle.app/",
+      "is_new": false
+    },
+    {
+      "title": "U.N. Climate Talks Collapse in a Bitter Clash over Fossil Fuels",
+      "link": "https://www.nytimes.com/2026/11/22/climate/cop31-climate-summit-ends-climate.html",
+      "is_new": true
+    },
+    {
+      "title": "Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
+      "link": "https://simonwillison.net/2026/Nov/21/muru/",
       "is_new": true
     },
     {
@@ -43,18 +58,18 @@
       "is_new": false
     },
     {
-      "title": "Data Processing Incidents on Inference Providers",
-      "link": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
-      "is_new": true
-    },
-    {
-      "title": "The Engineering Manager's role is under attack (again)",
-      "link": "https://www.manager.dev/newsletter/the-engineering-manager-s-role-is-under-attack-again",
-      "is_new": true
-    },
-    {
       "title": "Detonating a pile of lead azide",
       "link": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
+      "is_new": false
+    },
+    {
+      "title": "Celliad – a daily Excel game (French)",
+      "link": "https://celliad.com/",
+      "is_new": true
+    },
+    {
+      "title": "Data Processing Incidents on Inference Providers",
+      "link": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
       "is_new": false
     },
     {
@@ -63,8 +78,23 @@
       "is_new": false
     },
     {
-      "title": "If tiny 'primordial' black holes exist",
-      "link": "https://phys.org/news/2026-11-tiny-primordial-black-holes.html",
+      "title": "Notes on the discrete Fourier transform (DFT)",
+      "link": "https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/",
+      "is_new": false
+    },
+    {
+      "title": "Field Mice on Drugs",
+      "link": "https://ambrook.com/offrange/livestock/field-mice-on-drugs",
+      "is_new": true
+    },
+    {
+      "title": "My monitor was cutting my download speed by 75%",
+      "link": "https://blog.tymscar.com/posts/studiodisplayethernet/",
+      "is_new": false
+    },
+    {
+      "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
+      "link": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
       "is_new": true
     },
     {
@@ -73,23 +103,23 @@
       "is_new": false
     },
     {
-      "title": "My monitor was cutting my download speed by 75%",
-      "link": "https://blog.tymscar.com/posts/studiodisplayethernet/",
+      "title": "The Mythology of Conscious AI",
+      "link": "https://www.noemamag.com/the-mythology-of-conscious-ai/",
       "is_new": false
     },
     {
-      "title": "The Mythology of Conscious AI",
-      "link": "https://www.noemamag.com/the-mythology-of-conscious-ai/",
+      "title": "Fast-Anything: Don't rewrite it in Rust. Rewrite the 5% that's slow",
+      "link": "https://github.com/EL4CTEO/fast-anything",
       "is_new": true
     },
     {
-      "title": "Split Radiance Cascades",
-      "link": "https://www.jacktollenaar.top/articles/split-rc.html",
+      "title": "Ask HN: Tips for transitioning from web development to embedded/firmware?",
+      "link": "https://news.ycombinator.com/item?id=50555002",
       "is_new": true
     },
     {
-      "title": "Upload2Shell (CVE-2026-125396)",
-      "link": "https://pwn.ai/upload2shell",
+      "title": "Advice for the next 100 Rust GUIs",
+      "link": "https://linebender.org/blog/next-100-guis/",
       "is_new": false
     },
     {
@@ -98,18 +128,55 @@
       "is_new": false
     },
     {
-      "title": "Advice for the next 100 Rust GUIs",
-      "link": "https://linebender.org/blog/next-100-guis/",
-      "is_new": false
+      "title": "Europe weakens chemical rules as science links them to 'lifestyle diseases'",
+      "link": "https://www.lemonde.fr/en/opinion/article/2026/11/22/as-science-increasingly-shows-the-role-chemical-substances-play-in-lifestyle-diseases-europe-weakens-its-regulations_6786595_23.html",
+      "is_new": true
     },
     {
-      "title": "Why there are still no non-WebKit browsers on iOS",
-      "link": "https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/",
-      "is_new": false
+      "title": "String Art Font (2017)",
+      "link": "https://erikdemaine.org/fonts/stringart/",
+      "is_new": true
     },
     {
       "title": "LLMs can read and write executables byte by byte from a hex dump",
       "link": "https://sgiannopoulos.github.io/blog/machine-code-programming/",
+      "is_new": false
+    },
+    {
+      "title": "Split Radiance Cascades",
+      "link": "https://www.jacktollenaar.top/articles/split-rc.html",
+      "is_new": false
+    },
+    {
+      "title": "Upload2Shell (CVE-2026-125396)",
+      "link": "https://pwn.ai/upload2shell",
+      "is_new": false
+    }
+  ],
+  "removed": [
+    {
+      "title": "AI Supply Chain Security: What Canary Tokens Found",
+      "link": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: The Riemann Proof Handbook",
+      "link": "https://github.com/tamnd/riemann-handbook",
+      "is_new": true
+    },
+    {
+      "title": "The Engineering Manager's role is under attack (again)",
+      "link": "https://www.manager.dev/newsletter/the-engineering-manager-s-role-is-under-attack-again",
+      "is_new": true
+    },
+    {
+      "title": "If tiny 'primordial' black holes exist",
+      "link": "https://phys.org/news/2026-11-tiny-primordial-black-holes.html",
+      "is_new": true
+    },
+    {
+      "title": "Why there are still no non-WebKit browsers on iOS",
+      "link": "https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/",
       "is_new": false
     },
     {
@@ -151,73 +218,6 @@
       "title": "Hurried Announcement: Alessandro Masullo GRH",
       "link": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
       "is_new": false
-    }
-  ],
-  "removed": [
-    {
-      "title": "(Supposed) ex-Rockstar employee: GTAVI creates psychological profiles, sells it",
-      "link": "https://www.resetera.com/threads/supposed-ex-rockstar-employee-gtavi-creates-personality-profiles-based-on-gameplay-decisions-sells-them-to-outside-companies.1694417/",
-      "is_new": true
-    },
-    {
-      "title": "Brazil's tax authority open-sources its tax calculator on GitHub under MIT",
-      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria",
-      "is_new": false
-    },
-    {
-      "title": "The Emergence of Inequality in the Czech Corded Ware Culture",
-      "link": "https://www.jna.uni-kiel.de/index.php/jna/article/view/1560/1746",
-      "is_new": true
-    },
-    {
-      "title": "Windows has two settings that bring work back after restart, both off by default",
-      "link": "https://www.makeuseof.com/windows-can-bring-your-work-back-after-restart/",
-      "is_new": true
-    },
-    {
-      "title": "Inkling 2 Mini",
-      "link": "https://thinkingmachines.ai/news/inkling-2-mini/",
-      "is_new": false
-    },
-    {
-      "title": "Tropical Rainforests Species may be surprisingly young",
-      "link": "https://phys.org/news/2026-11-species-tropical-rainforests-young-emergence.html",
-      "is_new": false
-    },
-    {
-      "title": "Bolt's Scooters Are Becoming Accessibility Sensors",
-      "link": "https://geoawesome.com/bolt-scooters-accessibility-mapping-wheels4wheels/",
-      "is_new": false
-    },
-    {
-      "title": "Exponential Behavior in Magic: The Gathering",
-      "link": "https://levineuwirth.org/essays/exponential-magic/",
-      "is_new": true
-    },
-    {
-      "title": "Verification files for the Lean proof of the Riemann Hypothesis",
-      "link": "https://math.mit.edu/~drew/grh/",
-      "is_new": false
-    },
-    {
-      "title": "Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?",
-      "link": "https://news.ycombinator.com/item?id=50583761",
-      "is_new": false
-    },
-    {
-      "title": "I'm quite pleased by the tech architecture of my art website",
-      "link": "https://klauria.tech/klauria-art/",
-      "is_new": false
-    },
-    {
-      "title": "International UN talks on controlling use of autonomous weapons collapse",
-      "link": "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse",
-      "is_new": true
-    },
-    {
-      "title": "Context-Generic Programming v0.8.0 – Pluggable trait implementations for Rust",
-      "link": "https://contextgeneric.dev/blog/v0.8.0-release/",
-      "is_new": true
     }
   ]
 }
