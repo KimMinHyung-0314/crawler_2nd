@@ -1,40 +1,105 @@
 {
-  "crawled_at": "2026-11-23 00:53",
-  "prev_crawled_at": "2026-11-22 16:44",
+  "crawled_at": "2026-11-23 06:29",
+  "prev_crawled_at": "2026-11-23 00:53",
   "items": [
+    {
+      "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
+      "link": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
+      "is_new": true
+    },
+    {
+      "title": "Perplexity and Intelligence",
+      "link": "https://openai.com/index/perplexity-and-intelligence/",
+      "is_new": true
+    },
+    {
+      "title": "Nyx, the Oldest Internet Service Provider",
+      "link": "https://nyx.net/",
+      "is_new": true
+    },
     {
       "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
       "link": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
       "is_new": false
     },
     {
+      "title": "What Happened to Silicon Valley?",
+      "link": "https://www.oreilly.com/radar/what-happened-to-silicon-valley/",
+      "is_new": true
+    },
+    {
+      "title": "A miniature San Francisco with live buses, planes and boats",
+      "link": "https://smallsf.com/",
+      "is_new": true
+    },
+    {
       "title": "Show HN: I built a game where you are an LLM's subagent",
       "link": "https://github.com/gulivan/worker755",
-      "is_new": true
-    },
-    {
-      "title": "A real Linux kernel, compiled to WebAssembly",
-      "link": "https://github.com/pithings/unkernel",
-      "is_new": true
-    },
-    {
-      "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
-      "link": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
       "is_new": false
     },
     {
-      "title": "Lean verification of the Riemann Hypothesis",
-      "link": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
-      "is_new": false
+      "title": "I joined the NTP Pool, but not with my Stratum 1 Pi",
+      "link": "https://www.jeffgeerling.com/blog/2026/i-joined-the-ntp-pool/",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: Deflate X-Ray, See inside a compressed file",
+      "link": "https://hrih.si/projects/deflate-xray/",
+      "is_new": true
+    },
+    {
+      "title": "Open Social Web Alliance",
+      "link": "https://osw-alliance.net/en/",
+      "is_new": true
+    },
+    {
+      "title": "All Delta Flights Through Atlanta Delayed as Automated System Falters",
+      "link": "https://www.nytimes.com/2026/11/22/us/delta-flight-delays-system-outage.html",
+      "is_new": true
+    },
+    {
+      "title": "Was software just always too complex for humans?",
+      "link": "https://anil.recoil.org/notes/software-too-complex-for-humans",
+      "is_new": true
     },
     {
       "title": "A Better Vocabulary for Testing",
       "link": "https://alperenkeles.com/posts/vocab-for-testing/",
+      "is_new": false
+    },
+    {
+      "title": "Agentics: Mushy Software",
+      "link": "https://12gramsofcarbon.com/p/agentics-mushy-software",
       "is_new": true
     },
     {
-      "title": "Self-hosted library branch over public web OPDS",
-      "link": "https://joinmayberry.com/",
+      "title": "The Transvoxel Algorithm",
+      "link": "https://transvoxel.org/",
+      "is_new": true
+    },
+    {
+      "title": "Inside PyPy: First Contact with RPython",
+      "link": "https://bernsteinbear.com/blog/inside-pypy-first-contact-with-rpython/",
+      "is_new": true
+    },
+    {
+      "title": "Ask HN: Tips for transitioning from web development to embedded/firmware?",
+      "link": "https://news.ycombinator.com/item?id=50555002",
+      "is_new": false
+    },
+    {
+      "title": "C++26 is done (again): November 2026 ISO C++ meeting trip report",
+      "link": "https://herbsutter.com/2026/11/21/c26-is-done-again-trip-report-november-2026-iso-c-standards-meeting-buzios-brazil/",
+      "is_new": true
+    },
+    {
+      "title": "Advice for Young Researchers",
+      "link": "http://togelius.blogspot.com/2026/11/advice-for-young-researchers.html",
+      "is_new": true
+    },
+    {
+      "title": "Testing Terraform with AWS Emulator",
+      "link": "https://notes.hatedabamboo.me/terraform-tests-with-aws-emulator/",
       "is_new": true
     },
     {
@@ -43,19 +108,66 @@
       "is_new": false
     },
     {
-      "title": "U.N. Climate Talks Collapse in a Bitter Clash over Fossil Fuels",
-      "link": "https://www.nytimes.com/2026/11/22/climate/cop31-climate-summit-ends-climate.html",
-      "is_new": true
+      "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
+      "link": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
+      "is_new": false
     },
     {
-      "title": "Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
-      "link": "https://simonwillison.net/2026/Nov/21/muru/",
+      "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
+      "link": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
+      "is_new": false
+    },
+    {
+      "title": "GLP-1 drugs could have a surprisingly large environmental payoff",
+      "link": "https://theconversation.com/weight-loss-drugs-could-free-up-an-area-of-farmland-larger-than-italy-new-study-291114",
       "is_new": true
     },
     {
       "title": "Inkling-2-Mini in 5.4 GB Memory",
       "link": "https://github.com/ShinMegamiBoson/lookatmyquant",
       "is_new": false
+    },
+    {
+      "title": "Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
+      "link": "https://simonwillison.net/2026/Nov/21/muru/",
+      "is_new": false
+    },
+    {
+      "title": "Self-hosted library branch over public web OPDS",
+      "link": "https://joinmayberry.com/",
+      "is_new": false
+    },
+    {
+      "title": "Backblaze customers worried of personal data sale/sharing after policy update",
+      "link": "https://www.neowin.net/news/backblaze-customers-worried-of-personal-data-salesharing-after-policy-update/",
+      "is_new": true
+    },
+    {
+      "title": "AWS got hit by an outage too. You didn't hear about it",
+      "link": "https://www.theregister.com/columnists/2026/11/21/aws-got-hit-by-an-outage-too-heres-why-you-didnt-hear-about-it/5311511",
+      "is_new": true
+    },
+    {
+      "title": "What Makes UltraSMR Different?",
+      "link": "https://blog.westerndigital.com/what-is-ultrasmr-technology/",
+      "is_new": true
+    }
+  ],
+  "removed": [
+    {
+      "title": "A real Linux kernel, compiled to WebAssembly",
+      "link": "https://github.com/pithings/unkernel",
+      "is_new": true
+    },
+    {
+      "title": "Lean verification of the Riemann Hypothesis",
+      "link": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
+      "is_new": false
+    },
+    {
+      "title": "U.N. Climate Talks Collapse in a Bitter Clash over Fossil Fuels",
+      "link": "https://www.nytimes.com/2026/11/22/climate/cop31-climate-summit-ends-climate.html",
+      "is_new": true
     },
     {
       "title": "Detonating a pile of lead azide",
@@ -93,11 +205,6 @@
       "is_new": false
     },
     {
-      "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
-      "link": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
-      "is_new": true
-    },
-    {
       "title": "PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors",
       "link": "https://github.com/sebaandrada-cell/PcapAnalyzer",
       "is_new": false
@@ -110,11 +217,6 @@
     {
       "title": "Fast-Anything: Don't rewrite it in Rust. Rewrite the 5% that's slow",
       "link": "https://github.com/EL4CTEO/fast-anything",
-      "is_new": true
-    },
-    {
-      "title": "Ask HN: Tips for transitioning from web development to embedded/firmware?",
-      "link": "https://news.ycombinator.com/item?id=50555002",
       "is_new": true
     },
     {
@@ -150,73 +252,6 @@
     {
       "title": "Upload2Shell (CVE-2026-125396)",
       "link": "https://pwn.ai/upload2shell",
-      "is_new": false
-    }
-  ],
-  "removed": [
-    {
-      "title": "AI Supply Chain Security: What Canary Tokens Found",
-      "link": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: The Riemann Proof Handbook",
-      "link": "https://github.com/tamnd/riemann-handbook",
-      "is_new": true
-    },
-    {
-      "title": "The Engineering Manager's role is under attack (again)",
-      "link": "https://www.manager.dev/newsletter/the-engineering-manager-s-role-is-under-attack-again",
-      "is_new": true
-    },
-    {
-      "title": "If tiny 'primordial' black holes exist",
-      "link": "https://phys.org/news/2026-11-tiny-primordial-black-holes.html",
-      "is_new": true
-    },
-    {
-      "title": "Why there are still no non-WebKit browsers on iOS",
-      "link": "https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/",
-      "is_new": false
-    },
-    {
-      "title": "Shaping the Loops, Closing the Loops",
-      "link": "https://revyl.com/blog/pattern-engineering/",
-      "is_new": true
-    },
-    {
-      "title": "GnuPG Security Advisory for GPGME",
-      "link": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html",
-      "is_new": false
-    },
-    {
-      "title": "Leonida – PC Recompilation of the Xbox Version of GTA 6",
-      "link": "https://github.com/ItsNotRexed/Leonida",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: Zero C# – C# without a runtime or GC",
-      "link": "https://onurgumus.github.io/zero-csharp/index.html",
-      "is_new": false
-    },
-    {
-      "title": "Tasklet (YC P26) Is Hiring Product and Agent Infra Engineers",
-      "link": "https://tasklet.ai/careers",
-      "is_new": false
-    },
-    {
-      "title": "PostgreSQL Extensions in Go",
-      "link": "https://jespino.github.io/gopgext/",
-      "is_new": false
-    },
-    {
-      "title": "Together.ai: Prompt Leakage for Requests",
-      "link": "https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026",
-      "is_new": true
-    },
-    {
-      "title": "Hurried Announcement: Alessandro Masullo GRH",
-      "link": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
       "is_new": false
     }
   ]
