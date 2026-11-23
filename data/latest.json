@@ -1,15 +1,120 @@
 {
-  "crawled_at": "2026-11-23 20:44",
-  "prev_crawled_at": "2026-11-23 11:10",
+  "crawled_at": "2026-11-24 08:19",
+  "prev_crawled_at": "2026-11-23 20:44",
   "items": [
     {
-      "title": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
-      "link": "https://z.ai/blog/glm-5.4",
+      "title": "Nvidia Reinstates Jensen Huang as CEO",
+      "link": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
       "is_new": true
     },
     {
-      "title": "XNU Linux: Full OS X GUI Userspace on Linux",
-      "link": "https://github.com/AFK-surf/xnulinux",
+      "title": "Ladybird is now in alpha",
+      "link": "https://ladybird.org/posts/alpha/",
+      "is_new": true
+    },
+    {
+      "title": "Stalwart is now a drop-in replacement for Microsoft Exchange",
+      "link": "https://stalw.art/blog/microsoft-exchange-replacement/",
+      "is_new": true
+    },
+    {
+      "title": "VP ≠ VNP over Every Field",
+      "link": "https://github.com/anthropics/formal-math/tree/main/vp-vnp",
+      "is_new": true
+    },
+    {
+      "title": "Per Arm's request, this site will be discontinued on 4 December 2026 :(",
+      "link": "https://arm.jonpalmisc.com/",
+      "is_new": true
+    },
+    {
+      "title": "GPUI is getting its own repository",
+      "link": "https://github.com/zed-industries/gpui",
+      "is_new": true
+    },
+    {
+      "title": "Bored.com: Fun, interesting and cool websites to explore when bored",
+      "link": "https://www.bored.com/",
+      "is_new": true
+    },
+    {
+      "title": "GLM-5.4: Toward generalized coding with our first loop transformer",
+      "link": "https://z.ai/blog/glm-5.4",
+      "is_new": false
+    },
+    {
+      "title": "Levent Alpöge comments on his Riemann Hypothesis proof",
+      "link": "https://twitter.com/__alpoge__/status/2124987173439209561",
+      "is_new": true
+    },
+    {
+      "title": "Dario is hyping the dangers so OSS models are illegal and he stays in control",
+      "link": "https://twitter.com/ylecun/status/2124550037912920090",
+      "is_new": true
+    },
+    {
+      "title": "NariQ: BF16-level Qwen3.8-27B in a 10 GB file",
+      "link": "https://huggingface.co/nari-labs/Qwen3.8-27B-NariQ-GGUF",
+      "is_new": true
+    },
+    {
+      "title": "Derivative Flipping",
+      "link": "http://blog.sigfpe.com/2026/11/derivative-flipping.html",
+      "is_new": true
+    },
+    {
+      "title": "Spacecraft reaches Mercury on second-ever mission to enter its orbit",
+      "link": "https://www.theguardian.com/science/2026/nov/20/spacecraft-mercury-second-ever-mission-orbit-bepicolombo",
+      "is_new": true
+    },
+    {
+      "title": "The Beauty of Artists' Studios",
+      "link": "https://spectator.com/article/the-beauty-of-artists-studios/",
+      "is_new": true
+    },
+    {
+      "title": "Kagi Mail (public beta)",
+      "link": "https://blog.kagi.com/kagi-mail-public-beta",
+      "is_new": true
+    },
+    {
+      "title": "The horse made the state",
+      "link": "https://aeon.co/essays/the-origins-of-the-state-are-not-agrarian-but-pastoralist",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: Hermit CRM – Free open-source CRM for solopreneurs",
+      "link": "https://hermitcrm.io/",
+      "is_new": true
+    },
+    {
+      "title": "Nospeaker ─ Make your MacBook's trackpad talk using its haptic motor",
+      "link": "https://github.com/os6/nospeaker",
+      "is_new": true
+    },
+    {
+      "title": "EasyPost (YC S13) Is Hiring",
+      "link": "https://www.easypost.com/careers/",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: PlaceBench – Testing AI on opening and closing hours (and last trains)",
+      "link": "https://github.com/voygr-tech/placebench",
+      "is_new": true
+    },
+    {
+      "title": "C++26 is done (again): ISO C++ meeting trip report",
+      "link": "https://herbsutter.com/2026/11/21/c26-is-done-again-trip-report-november-2026-iso-c-standards-meeting-buzios-brazil/",
+      "is_new": true
+    },
+    {
+      "title": "Win4wine – Run Windows Shell as the Linux Desktop on Wine",
+      "link": "https://github.com/mikuta0407/win4wine",
+      "is_new": true
+    },
+    {
+      "title": "Apple removed my open-source app from EU App Stores after 9 years",
+      "link": "https://github.com/glushchenko/fsnotes/discussions/2056",
       "is_new": true
     },
     {
@@ -17,6 +122,38 @@
       "link": "https://spelunkr.tv",
       "is_new": false
     },
+    {
+      "title": "What does it mean to understand what we built?",
+      "link": "https://brooker.co.za/blog/2026/11/16/understanding.html",
+      "is_new": true
+    },
+    {
+      "title": "Next gaming monitor should still be an OLED",
+      "link": "https://www.rockpapershotgun.com/theyre-more-complicated-and-more-expensive-than-lcd-screens-but-your-next-gaming-monitor-should-still-be-an-oled",
+      "is_new": true
+    },
+    {
+      "title": "The AI conversation we're not having",
+      "link": "https://www.gnanaguru.com/blog/things-two-years-in-ai-taught-me/",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: Type-C – variants, options, generics and pattern matching for C",
+      "link": "https://github.com/stass/type-c",
+      "is_new": true
+    },
+    {
+      "title": "XNU Linux: Full OS X GUI Userspace on Linux",
+      "link": "https://github.com/AFK-surf/xnulinux",
+      "is_new": false
+    },
+    {
+      "title": "How should an LLM see a computer?",
+      "link": "https://www.greptile.com/blog/trex-computer-use",
+      "is_new": true
+    }
+  ],
+  "removed": [
     {
       "title": "Yes, 17M lines of Lean is a lot",
       "link": "https://micjm.com/blog/yes-17m-lines-of-lean-is-a-lot/",
@@ -151,83 +288,6 @@
       "title": "Verifying formal models of Raft implementations",
       "link": "https://antithesis.com/blog/2026/verifying-formal-models/",
       "is_new": true
-    }
-  ],
-  "removed": [
-    {
-      "title": "Progress map for the Lean formalization of Alessandro Masullo's manuscript",
-      "link": "https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3",
-      "is_new": true
-    },
-    {
-      "title": "What should AAA game devs do",
-      "link": "https://gamethoughts.bearblog.dev/what-should-aaa-game-devs-do/",
-      "is_new": true
-    },
-    {
-      "title": "How the World Draws the World",
-      "link": "https://googlemapsmania.blogspot.com/2026/10/how-world-draws-world.html",
-      "is_new": true
-    },
-    {
-      "title": "What we learned operating auth for 1k APIs",
-      "link": "https://nango.dev/blog/lessons-from-operating-api-auth-for-900-apis/",
-      "is_new": true
-    },
-    {
-      "title": "Localcode, open source agentic coding on your Mac with one command",
-      "link": "https://github.com/mjwsolo/localcode",
-      "is_new": true
-    },
-    {
-      "title": "Advice for Young Researchers",
-      "link": "http://togelius.blogspot.com/2026/11/advice-for-young-researchers.html",
-      "is_new": false
-    },
-    {
-      "title": "Nespresso's project to reduce grams of coffee per capsule",
-      "link": "https://alvinbunk.wordpress.com/2026/11/01/nespresso-project-olympus/",
-      "is_new": true
-    },
-    {
-      "title": "Open Social Web Alliance",
-      "link": "https://osw-alliance.net/en/",
-      "is_new": false
-    },
-    {
-      "title": "I joined the NTP Pool, but not with my Stratum 1 Pi",
-      "link": "https://www.jeffgeerling.com/blog/2026/i-joined-the-ntp-pool/",
-      "is_new": false
-    },
-    {
-      "title": "Will the first approved psychedelic become a blockbuster?",
-      "link": "https://www.pharmavoice.com/news/race-first-psilocybin-blockbuster-compass-usona/875270/",
-      "is_new": true
-    },
-    {
-      "title": "Harvard CS 2881R AI Safety",
-      "link": "https://boazbk.github.io/mltheoryseminar/",
-      "is_new": true
-    },
-    {
-      "title": "A Better Vocabulary for Testing",
-      "link": "https://alperenkeles.com/posts/vocab-for-testing/",
-      "is_new": false
-    },
-    {
-      "title": "0rwx – A simple model of AI usage, inspired by Unix permissions",
-      "link": "https://0rwx.com/",
-      "is_new": true
-    },
-    {
-      "title": "Ask HN: Tips for transitioning from web development to embedded/firmware?",
-      "link": "https://news.ycombinator.com/item?id=50555002",
-      "is_new": false
-    },
-    {
-      "title": "Inside PyPy: First Contact with RPython",
-      "link": "https://bernsteinbear.com/blog/inside-pypy-first-contact-with-rpython/",
-      "is_new": false
     }
   ]
 }
