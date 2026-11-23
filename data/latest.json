@@ -1,16 +1,36 @@
 {
-  "crawled_at": "2026-11-23 11:10",
-  "prev_crawled_at": "2026-11-23 06:29",
+  "crawled_at": "2026-11-23 20:44",
+  "prev_crawled_at": "2026-11-23 11:10",
   "items": [
+    {
+      "title": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
+      "link": "https://z.ai/blog/glm-5.4",
+      "is_new": true
+    },
+    {
+      "title": "XNU Linux: Full OS X GUI Userspace on Linux",
+      "link": "https://github.com/AFK-surf/xnulinux",
+      "is_new": true
+    },
     {
       "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
       "link": "https://spelunkr.tv",
+      "is_new": false
+    },
+    {
+      "title": "Yes, 17M lines of Lean is a lot",
+      "link": "https://micjm.com/blog/yes-17m-lines-of-lean-is-a-lot/",
       "is_new": true
     },
     {
       "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
       "link": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
-      "is_new": true
+      "is_new": false
+    },
+    {
+      "title": "Masullo on the Riemann Hypothesis",
+      "link": "https://johncarlosbaez.wordpress.com/2026/11/22/masullo-on-the-riemann-hypothesis/",
+      "is_new": false
     },
     {
       "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
@@ -18,13 +38,48 @@
       "is_new": false
     },
     {
+      "title": "Perplexity and Intelligence",
+      "link": "https://openai.com/index/perplexity-and-intelligence/",
+      "is_new": false
+    },
+    {
+      "title": "A Partial Evaluator for C",
+      "link": "https://phoenix.labri.fr/software/tempo/",
+      "is_new": true
+    },
+    {
       "title": "Cathedral floor emerges in Sudan, revealing one of the biggest medieval churches",
       "link": "https://apnews.com/article/sudan-antiquities-nubia-cathedral-1b16f67da881ee5592de4481ee55c527",
+      "is_new": false
+    },
+    {
+      "title": "Elixir HLS makes FPGA circuits from functions written in Elixir",
+      "link": "https://github.com/elixir-hls/elixir-hls",
       "is_new": true
+    },
+    {
+      "title": "Brake Check: Hijacking Trailer Brakes over Bluetooth",
+      "link": "https://elementdigital.com.au/blog/brake-check-trailer-brakes-over-bluetooth/",
+      "is_new": true
+    },
+    {
+      "title": "Assume People Are Not Interested in Your Blog Post",
+      "link": "https://danielsada.tech/blog/assume-people-are-not-interested-in-your-blog-post/",
+      "is_new": false
     },
     {
       "title": "GL.iNet Security Notice 2026-11-20",
       "link": "https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20",
+      "is_new": false
+    },
+    {
+      "title": "CollectWise (YC F24) Is Hiring",
+      "link": "https://www.ycombinator.com/companies/collectwise/jobs/lgobCse-founding-customer-success-manager",
+      "is_new": true
+    },
+    {
+      "title": "Treemap of the Riemann Hypothesis Lean Proof",
+      "link": "https://pengowray.github.io/riemann-zeta-proof-visualizer/",
       "is_new": true
     },
     {
@@ -33,13 +88,28 @@
       "is_new": false
     },
     {
-      "title": "Masullo on the Riemann Hypothesis",
-      "link": "https://johncarlosbaez.wordpress.com/2026/11/22/masullo-on-the-riemann-hypothesis/",
-      "is_new": true
+      "title": "The struggle for freedom: How BSD escaped AT&T licensing",
+      "link": "https://fosscomics.com/posts/16.%20BSD%20Unix%20Part%206%20-%20The%20Struggle%20for%20Freedom/",
+      "is_new": false
     },
     {
       "title": "The Usefulness of Useless Knowledge [pdf] (1939)",
       "link": "https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf",
+      "is_new": false
+    },
+    {
+      "title": "The New Docker: Built to Run on Trust",
+      "link": "https://www.docker.com/blog/meet-the-new-docker-built-to-run-on-trust/",
+      "is_new": true
+    },
+    {
+      "title": "The Quartz Page",
+      "link": "http://www.quartzpage.de/index.html",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: Drive around my village in 3D",
+      "link": "https://cherwellvalleymotorclub.app",
       "is_new": true
     },
     {
@@ -48,10 +118,42 @@
       "is_new": false
     },
     {
-      "title": "The struggle for freedom: How BSD escaped AT&T licensing",
-      "link": "https://fosscomics.com/posts/16.%20BSD%20Unix%20Part%206%20-%20The%20Struggle%20for%20Freedom/",
+      "title": "The Unlicensed Gospel: Wisdom Tree's Bible Games on the Game Boy",
+      "link": "https://www.gameboymuseum.com/single-post/the-unlicensed-gospel-wisdom-tree-s-bible-games-on-the-game-boy",
       "is_new": true
     },
+    {
+      "title": "Show HN: I built a game where you are an LLM's subagent",
+      "link": "https://github.com/gulivan/worker755",
+      "is_new": false
+    },
+    {
+      "title": "LittleBit: Ultra Low-Bit Quantization via Latent Factorization (2025)",
+      "link": "https://arxiv.org/abs/2506.13771",
+      "is_new": true
+    },
+    {
+      "title": "What Happened to Silicon Valley?",
+      "link": "https://www.oreilly.com/radar/what-happened-to-silicon-valley/",
+      "is_new": false
+    },
+    {
+      "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
+      "link": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
+      "is_new": false
+    },
+    {
+      "title": "De-fanging dangerous triggers in GitHub Actions across an organization",
+      "link": "https://alpha-omega.dev/blog/de-fanging-dangerous-triggers-in-github-actions-across-an-organization/",
+      "is_new": true
+    },
+    {
+      "title": "Verifying formal models of Raft implementations",
+      "link": "https://antithesis.com/blog/2026/verifying-formal-models/",
+      "is_new": true
+    }
+  ],
+  "removed": [
     {
       "title": "Progress map for the Lean formalization of Alessandro Masullo's manuscript",
       "link": "https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3",
@@ -61,26 +163,6 @@
       "title": "What should AAA game devs do",
       "link": "https://gamethoughts.bearblog.dev/what-should-aaa-game-devs-do/",
       "is_new": true
-    },
-    {
-      "title": "Perplexity and Intelligence",
-      "link": "https://openai.com/index/perplexity-and-intelligence/",
-      "is_new": false
-    },
-    {
-      "title": "Assume People Are Not Interested in Your Blog Post",
-      "link": "https://danielsada.tech/blog/assume-people-are-not-interested-in-your-blog-post/",
-      "is_new": true
-    },
-    {
-      "title": "What Happened to Silicon Valley?",
-      "link": "https://www.oreilly.com/radar/what-happened-to-silicon-valley/",
-      "is_new": false
-    },
-    {
-      "title": "Show HN: I built a game where you are an LLM's subagent",
-      "link": "https://github.com/gulivan/worker755",
-      "is_new": false
     },
     {
       "title": "How the World Draws the World",
@@ -123,11 +205,6 @@
       "is_new": true
     },
     {
-      "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
-      "link": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
-      "is_new": false
-    },
-    {
       "title": "Harvard CS 2881R AI Safety",
       "link": "https://boazbk.github.io/mltheoryseminar/",
       "is_new": true
@@ -151,93 +228,6 @@
       "title": "Inside PyPy: First Contact with RPython",
       "link": "https://bernsteinbear.com/blog/inside-pypy-first-contact-with-rpython/",
       "is_new": false
-    }
-  ],
-  "removed": [
-    {
-      "title": "Show HN: Deflate X-Ray, See inside a compressed file",
-      "link": "https://hrih.si/projects/deflate-xray/",
-      "is_new": true
-    },
-    {
-      "title": "All Delta Flights Through Atlanta Delayed as Automated System Falters",
-      "link": "https://www.nytimes.com/2026/11/22/us/delta-flight-delays-system-outage.html",
-      "is_new": true
-    },
-    {
-      "title": "Was software just always too complex for humans?",
-      "link": "https://anil.recoil.org/notes/software-too-complex-for-humans",
-      "is_new": true
-    },
-    {
-      "title": "Agentics: Mushy Software",
-      "link": "https://12gramsofcarbon.com/p/agentics-mushy-software",
-      "is_new": true
-    },
-    {
-      "title": "The Transvoxel Algorithm",
-      "link": "https://transvoxel.org/",
-      "is_new": true
-    },
-    {
-      "title": "C++26 is done (again): November 2026 ISO C++ meeting trip report",
-      "link": "https://herbsutter.com/2026/11/21/c26-is-done-again-trip-report-november-2026-iso-c-standards-meeting-buzios-brazil/",
-      "is_new": true
-    },
-    {
-      "title": "Testing Terraform with AWS Emulator",
-      "link": "https://notes.hatedabamboo.me/terraform-tests-with-aws-emulator/",
-      "is_new": true
-    },
-    {
-      "title": "Sandwich Simulator",
-      "link": "https://stulle.app/",
-      "is_new": false
-    },
-    {
-      "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
-      "link": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
-      "is_new": false
-    },
-    {
-      "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
-      "link": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
-      "is_new": false
-    },
-    {
-      "title": "GLP-1 drugs could have a surprisingly large environmental payoff",
-      "link": "https://theconversation.com/weight-loss-drugs-could-free-up-an-area-of-farmland-larger-than-italy-new-study-291114",
-      "is_new": true
-    },
-    {
-      "title": "Inkling-2-Mini in 5.4 GB Memory",
-      "link": "https://github.com/ShinMegamiBoson/lookatmyquant",
-      "is_new": false
-    },
-    {
-      "title": "Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
-      "link": "https://simonwillison.net/2026/Nov/21/muru/",
-      "is_new": false
-    },
-    {
-      "title": "Self-hosted library branch over public web OPDS",
-      "link": "https://joinmayberry.com/",
-      "is_new": false
-    },
-    {
-      "title": "Backblaze customers worried of personal data sale/sharing after policy update",
-      "link": "https://www.neowin.net/news/backblaze-customers-worried-of-personal-data-salesharing-after-policy-update/",
-      "is_new": true
-    },
-    {
-      "title": "AWS got hit by an outage too. You didn't hear about it",
-      "link": "https://www.theregister.com/columnists/2026/11/21/aws-got-hit-by-an-outage-too-heres-why-you-didnt-hear-about-it/5311511",
-      "is_new": true
-    },
-    {
-      "title": "What Makes UltraSMR Different?",
-      "link": "https://blog.westerndigital.com/what-is-ultrasmr-technology/",
-      "is_new": true
     }
   ]
 }
