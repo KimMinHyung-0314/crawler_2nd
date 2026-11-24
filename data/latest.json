@@ -1,40 +1,135 @@
 {
-  "crawled_at": "2026-11-24 08:19",
-  "prev_crawled_at": "2026-11-23 20:44",
+  "crawled_at": "2026-11-24 17:12",
+  "prev_crawled_at": "2026-11-24 08:19",
   "items": [
     {
-      "title": "Nvidia Reinstates Jensen Huang as CEO",
-      "link": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
+      "title": "India's opposition storms Meta's offices to get its Instagram accounts back",
+      "link": "https://korben.info/en/india-opposition-storms-meta-offices-instagram-accounts.html",
       "is_new": true
     },
     {
       "title": "Ladybird is now in alpha",
       "link": "https://ladybird.org/posts/alpha/",
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Stalwart is now a drop-in replacement for Microsoft Exchange",
       "link": "https://stalw.art/blog/microsoft-exchange-replacement/",
+      "is_new": false
+    },
+    {
+      "title": "Drone Maps of Salvage Yards",
+      "link": "https://salvageyarddrone.wordpress.com/",
       "is_new": true
     },
     {
-      "title": "VP ≠ VNP over Every Field",
-      "link": "https://github.com/anthropics/formal-math/tree/main/vp-vnp",
+      "title": "Ride the SQL curve from basics to mastery",
+      "link": "https://sqlride.com/",
       "is_new": true
     },
     {
-      "title": "Per Arm's request, this site will be discontinued on 4 December 2026 :(",
-      "link": "https://arm.jonpalmisc.com/",
+      "title": "AMD EPYC Zen 6 vs. Zen 1 Performance: 12.1x Geo Mean in Less Than 10 Years",
+      "link": "https://www.phoronix.com/review/amd-epyc-9006-7601",
+      "is_new": true
+    },
+    {
+      "title": "Nvidia Reinstates Jensen Huang as CEO",
+      "link": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
+      "is_new": false
+    },
+    {
+      "title": "Modernizing iperf/iperf3 and introducing fireperf",
+      "link": "https://blog.daniel-baumann.ch/posts/20261122-1.html",
+      "is_new": true
+    },
+    {
+      "title": "Lowering Perplexity Without Scaling",
+      "link": "https://micjm.com/blog/lowering-perplexity-without-scaling/",
+      "is_new": true
+    },
+    {
+      "title": "New York Bans Subscription and Post-Purchase Fees on Cars",
+      "link": "https://www.governor.ny.gov/news/money-your-pockets-governor-hochul-signs-bill-restricting-exploitative-vehicle-subscription",
       "is_new": true
     },
     {
       "title": "GPUI is getting its own repository",
       "link": "https://github.com/zed-industries/gpui",
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Bored.com: Fun, interesting and cool websites to explore when bored",
       "link": "https://www.bored.com/",
+      "is_new": false
+    },
+    {
+      "title": "Making a dumb TV just smart enough",
+      "link": "https://qsantos.fr/2026/11/19/making-a-dumb-tv-just-smart-enough/",
+      "is_new": true
+    },
+    {
+      "title": "Arctic: A Practical Lock-Free Adaptive Radix Tree",
+      "link": "https://www.usenix.org/conference/osdi26/presentation/ni",
+      "is_new": true
+    },
+    {
+      "title": "\"Dario is hyping the dangers so OSS models are illegal and he stays in control\"",
+      "link": "https://twitter.com/ylecun/status/2124550037912920090",
+      "is_new": false
+    },
+    {
+      "title": "New material gets stronger the more it bends",
+      "link": "https://source.washu.edu/2026/11/breakthrough-material-gets-stronger-the-more-it-bends/",
+      "is_new": true
+    },
+    {
+      "title": "Per Arm's request, this site will be discontinued on 4 December 2026 :(",
+      "link": "https://arm.jonpalmisc.com/",
+      "is_new": false
+    },
+    {
+      "title": "Freeing the iPod Nano 5G",
+      "link": "https://viktorkrapivin.com/blog/nano5g-priv-prvd",
+      "is_new": true
+    },
+    {
+      "title": "The search for a top dark matter candidate",
+      "link": "https://www.smithsonianmag.com/science-nature/the-search-for-a-top-dark-matter-candidate-was-losing-hope-then-came-a-potential-signal-will-it-be-enough-to-energize-the-struggling-field-180989923/",
+      "is_new": true
+    },
+    {
+      "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
+      "link": "https://spelunkr.tv",
+      "is_new": false
+    },
+    {
+      "title": "Declare is a UI language for you and your AI",
+      "link": "https://davidtemkin.github.io/declarelang/",
+      "is_new": true
+    },
+    {
+      "title": "Rune: Rust VM for Emacs",
+      "link": "https://github.com/CeleritasCelery/rune",
+      "is_new": true
+    },
+    {
+      "title": "Latent Introspection: LLMs Can Detect Prior Concept Injections",
+      "link": "https://arxiv.org/abs/2602.20031",
+      "is_new": true
+    },
+    {
+      "title": "How photos were transmitted by wire in the 1930s (2024)",
+      "link": "https://kottke.org/24/03/how-photos-were-transmitted-by-wire-in-the-1930s",
+      "is_new": true
+    },
+    {
+      "title": "NariQ: BF16-level Qwen3.8-27B in a 10 GB file",
+      "link": "https://huggingface.co/nari-labs/Qwen3.8-27B-NariQ-GGUF",
+      "is_new": false
+    },
+    {
+      "title": "The Power of GraphQL, Without GraphQL",
+      "link": "https://cobalt27.dev/",
       "is_new": true
     },
     {
@@ -43,18 +138,30 @@
       "is_new": false
     },
     {
+      "title": "Kagi Mail (public beta)",
+      "link": "https://blog.kagi.com/kagi-mail-public-beta",
+      "is_new": false
+    },
+    {
+      "title": "C++26 is done (again): ISO C++ meeting trip report",
+      "link": "https://herbsutter.com/2026/11/21/c26-is-done-again-trip-report-november-2026-iso-c-standards-meeting-buzios-brazil/",
+      "is_new": false
+    },
+    {
+      "title": "Win4wine – Run Windows Shell as the Linux Desktop on Wine",
+      "link": "https://github.com/mikuta0407/win4wine",
+      "is_new": false
+    }
+  ],
+  "removed": [
+    {
+      "title": "VP ≠ VNP over Every Field",
+      "link": "https://github.com/anthropics/formal-math/tree/main/vp-vnp",
+      "is_new": true
+    },
+    {
       "title": "Levent Alpöge comments on his Riemann Hypothesis proof",
       "link": "https://twitter.com/__alpoge__/status/2124987173439209561",
-      "is_new": true
-    },
-    {
-      "title": "Dario is hyping the dangers so OSS models are illegal and he stays in control",
-      "link": "https://twitter.com/ylecun/status/2124550037912920090",
-      "is_new": true
-    },
-    {
-      "title": "NariQ: BF16-level Qwen3.8-27B in a 10 GB file",
-      "link": "https://huggingface.co/nari-labs/Qwen3.8-27B-NariQ-GGUF",
       "is_new": true
     },
     {
@@ -70,11 +177,6 @@
     {
       "title": "The Beauty of Artists' Studios",
       "link": "https://spectator.com/article/the-beauty-of-artists-studios/",
-      "is_new": true
-    },
-    {
-      "title": "Kagi Mail (public beta)",
-      "link": "https://blog.kagi.com/kagi-mail-public-beta",
       "is_new": true
     },
     {
@@ -103,24 +205,9 @@
       "is_new": true
     },
     {
-      "title": "C++26 is done (again): ISO C++ meeting trip report",
-      "link": "https://herbsutter.com/2026/11/21/c26-is-done-again-trip-report-november-2026-iso-c-standards-meeting-buzios-brazil/",
-      "is_new": true
-    },
-    {
-      "title": "Win4wine – Run Windows Shell as the Linux Desktop on Wine",
-      "link": "https://github.com/mikuta0407/win4wine",
-      "is_new": true
-    },
-    {
       "title": "Apple removed my open-source app from EU App Stores after 9 years",
       "link": "https://github.com/glushchenko/fsnotes/discussions/2056",
       "is_new": true
-    },
-    {
-      "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
-      "link": "https://spelunkr.tv",
-      "is_new": false
     },
     {
       "title": "What does it mean to understand what we built?",
@@ -150,143 +237,6 @@
     {
       "title": "How should an LLM see a computer?",
       "link": "https://www.greptile.com/blog/trex-computer-use",
-      "is_new": true
-    }
-  ],
-  "removed": [
-    {
-      "title": "Yes, 17M lines of Lean is a lot",
-      "link": "https://micjm.com/blog/yes-17m-lines-of-lean-is-a-lot/",
-      "is_new": true
-    },
-    {
-      "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
-      "link": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
-      "is_new": false
-    },
-    {
-      "title": "Masullo on the Riemann Hypothesis",
-      "link": "https://johncarlosbaez.wordpress.com/2026/11/22/masullo-on-the-riemann-hypothesis/",
-      "is_new": false
-    },
-    {
-      "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
-      "link": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
-      "is_new": false
-    },
-    {
-      "title": "Perplexity and Intelligence",
-      "link": "https://openai.com/index/perplexity-and-intelligence/",
-      "is_new": false
-    },
-    {
-      "title": "A Partial Evaluator for C",
-      "link": "https://phoenix.labri.fr/software/tempo/",
-      "is_new": true
-    },
-    {
-      "title": "Cathedral floor emerges in Sudan, revealing one of the biggest medieval churches",
-      "link": "https://apnews.com/article/sudan-antiquities-nubia-cathedral-1b16f67da881ee5592de4481ee55c527",
-      "is_new": false
-    },
-    {
-      "title": "Elixir HLS makes FPGA circuits from functions written in Elixir",
-      "link": "https://github.com/elixir-hls/elixir-hls",
-      "is_new": true
-    },
-    {
-      "title": "Brake Check: Hijacking Trailer Brakes over Bluetooth",
-      "link": "https://elementdigital.com.au/blog/brake-check-trailer-brakes-over-bluetooth/",
-      "is_new": true
-    },
-    {
-      "title": "Assume People Are Not Interested in Your Blog Post",
-      "link": "https://danielsada.tech/blog/assume-people-are-not-interested-in-your-blog-post/",
-      "is_new": false
-    },
-    {
-      "title": "GL.iNet Security Notice 2026-11-20",
-      "link": "https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20",
-      "is_new": false
-    },
-    {
-      "title": "CollectWise (YC F24) Is Hiring",
-      "link": "https://www.ycombinator.com/companies/collectwise/jobs/lgobCse-founding-customer-success-manager",
-      "is_new": true
-    },
-    {
-      "title": "Treemap of the Riemann Hypothesis Lean Proof",
-      "link": "https://pengowray.github.io/riemann-zeta-proof-visualizer/",
-      "is_new": true
-    },
-    {
-      "title": "A miniature San Francisco with live buses, planes and boats",
-      "link": "https://smallsf.com/",
-      "is_new": false
-    },
-    {
-      "title": "The struggle for freedom: How BSD escaped AT&T licensing",
-      "link": "https://fosscomics.com/posts/16.%20BSD%20Unix%20Part%206%20-%20The%20Struggle%20for%20Freedom/",
-      "is_new": false
-    },
-    {
-      "title": "The Usefulness of Useless Knowledge [pdf] (1939)",
-      "link": "https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf",
-      "is_new": false
-    },
-    {
-      "title": "The New Docker: Built to Run on Trust",
-      "link": "https://www.docker.com/blog/meet-the-new-docker-built-to-run-on-trust/",
-      "is_new": true
-    },
-    {
-      "title": "The Quartz Page",
-      "link": "http://www.quartzpage.de/index.html",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: Drive around my village in 3D",
-      "link": "https://cherwellvalleymotorclub.app",
-      "is_new": true
-    },
-    {
-      "title": "Nyx, the Oldest Internet Service Provider",
-      "link": "https://nyx.net/",
-      "is_new": false
-    },
-    {
-      "title": "The Unlicensed Gospel: Wisdom Tree's Bible Games on the Game Boy",
-      "link": "https://www.gameboymuseum.com/single-post/the-unlicensed-gospel-wisdom-tree-s-bible-games-on-the-game-boy",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: I built a game where you are an LLM's subagent",
-      "link": "https://github.com/gulivan/worker755",
-      "is_new": false
-    },
-    {
-      "title": "LittleBit: Ultra Low-Bit Quantization via Latent Factorization (2025)",
-      "link": "https://arxiv.org/abs/2506.13771",
-      "is_new": true
-    },
-    {
-      "title": "What Happened to Silicon Valley?",
-      "link": "https://www.oreilly.com/radar/what-happened-to-silicon-valley/",
-      "is_new": false
-    },
-    {
-      "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
-      "link": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
-      "is_new": false
-    },
-    {
-      "title": "De-fanging dangerous triggers in GitHub Actions across an organization",
-      "link": "https://alpha-omega.dev/blog/de-fanging-dangerous-triggers-in-github-actions-across-an-organization/",
-      "is_new": true
-    },
-    {
-      "title": "Verifying formal models of Raft implementations",
-      "link": "https://antithesis.com/blog/2026/verifying-formal-models/",
       "is_new": true
     }
   ]
