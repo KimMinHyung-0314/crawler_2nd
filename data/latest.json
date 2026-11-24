@@ -1,7 +1,159 @@
 {
-  "crawled_at": "2026-11-24 17:12",
-  "prev_crawled_at": "2026-11-24 08:19",
+  "crawled_at": "2026-11-25 04:54",
+  "prev_crawled_at": "2026-11-24 17:12",
   "items": [
+    {
+      "title": "What Cloudflare Doesn't Tell You",
+      "link": "https://charlie.fish/posts/2026/11/what-cloudflare-doesnt-tell-you/",
+      "is_new": true
+    },
+    {
+      "title": "Active Intrusion Campaign Against Check Point Security Management Servers",
+      "link": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign",
+      "is_new": true
+    },
+    {
+      "title": "Canada's median health-care wait time hits 30.7 weeks–longest ever recorded",
+      "link": "https://www.fraserinstitute.org/studies/waiting-your-turn-wait-times-for-health-care-in-canada-2026",
+      "is_new": true
+    },
+    {
+      "title": "Jetty Pro",
+      "link": "http://hypercritical.co/2026/11/23/jetty-pro",
+      "is_new": true
+    },
+    {
+      "title": "Grafana 12.4.16, 13.0.14, 13.1.11, 13.2.7 and 13.3.2 (multiple CVEs)",
+      "link": "https://grafana.com/grafana/download",
+      "is_new": true
+    },
+    {
+      "title": "Mechanical Pencil: Spray Bottle",
+      "link": "https://mechanical-pencil.com/products/spray-bottle",
+      "is_new": true
+    },
+    {
+      "title": "Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?",
+      "link": "https://news.ycombinator.com/item?id=50630809",
+      "is_new": true
+    },
+    {
+      "title": "2035 came early",
+      "link": "https://fzakaria.com/2026/11/23/2035-came-early",
+      "is_new": true
+    },
+    {
+      "title": "A training engine for your local model, using your idle compute",
+      "link": "https://github.com/sous-labs/songe",
+      "is_new": true
+    },
+    {
+      "title": "Splitting USB-C: USB 3 and USB 2 on one port",
+      "link": "https://www.frankchiarulli.com/blog/splitting-usb-c/",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: Mason – a lightweight Postgres read-replica, built on columnar storage",
+      "link": "https://masondata.ai/",
+      "is_new": true
+    },
+    {
+      "title": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
+      "link": "https://jobs.ashbyhq.com/weave-os",
+      "is_new": true
+    },
+    {
+      "title": "Compiling Web Applications into Verified Operations for AI Agents",
+      "link": "https://protocolis.co/paper/",
+      "is_new": true
+    },
+    {
+      "title": "OpenAI reveals they solved VP ≠ VNP before Anthropic",
+      "link": "https://github.com/openai/math/tree/main/preprints/VP-and-VNP-are-different-November-23-2026",
+      "is_new": true
+    },
+    {
+      "title": "LLM agents work for their parent companies, not for you",
+      "link": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
+      "is_new": true
+    },
+    {
+      "title": "Quad9 pulled their DNS service from France",
+      "link": "https://quad9.net/news/blog/quad9-service-deactivation-in-france/",
+      "is_new": true
+    },
+    {
+      "title": "Worshipping at the altar of Brendan Gregg",
+      "link": "https://fzakaria.com/2026/11/12/worshipping-at-the-altar-of-brendan-gregg",
+      "is_new": true
+    },
+    {
+      "title": "GTA 6 Running on Windows",
+      "link": "https://twitter.com/raul_bs3/status/2125213756238291075",
+      "is_new": true
+    },
+    {
+      "title": "The KL Divergence Is Never Negative, Except in PyTorch",
+      "link": "https://arxiv.org/abs/2611.30835",
+      "is_new": true
+    },
+    {
+      "title": "Microsoft declares 'Code Red' after historic outage, internal memos show",
+      "link": "https://www.reuters.com/business/microsoft-declares-code-red-after-historic-outage-internal-memos-show-2026-11-24/",
+      "is_new": true
+    },
+    {
+      "title": "How a Mechanical Watch Keeps Time (Interactive 3D)",
+      "link": "https://martincmartin.github.io/slidev-stem/watches/article/1/",
+      "is_new": true
+    },
+    {
+      "title": "'Castles' Review",
+      "link": "https://www.wsj.com/arts-culture/books/castles-review-playing-defense-da10d776?st=tR9KT4&reflink=desktopwebshare_permalink",
+      "is_new": true
+    },
+    {
+      "title": "Anthropic breaks below $83 IPO price",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading",
+      "is_new": true
+    },
+    {
+      "title": "Gnomon: Git for Postgres Data",
+      "link": "https://gnomon.bitsinfra.com/",
+      "is_new": true
+    },
+    {
+      "title": "The new set of problems for engineers to solve",
+      "link": "https://www.katelynlesse.com/blog/new-problems-for-engineers-to-solve",
+      "is_new": true
+    },
+    {
+      "title": "Cento fine foods has been sued for “tomato fraud”",
+      "link": "https://slate.com/life/2026/11/cento-san-marzano-tomato-sauce-recipes-lawsuit.html",
+      "is_new": true
+    },
+    {
+      "title": "The search for a top dark matter candidate",
+      "link": "https://www.smithsonianmag.com/science-nature/the-search-for-a-top-dark-matter-candidate-was-losing-hope-then-came-a-potential-signal-will-it-be-enough-to-energize-the-struggling-field-180989923/",
+      "is_new": false
+    },
+    {
+      "title": "SeaStore: Redesigning Ceph's Storage Back End for CPU-Efficient NVMe Performance",
+      "link": "https://dl.acm.org/doi/10.1145/3828523.3857112",
+      "is_new": true
+    },
+    {
+      "title": "An Italian Folding Bicycle Design That Fits into a Suitcase",
+      "link": "https://www.core77.com/posts/145766/An-Italian-Folding-Bicycle-Design-that-Fits-Into-a-Suitcase",
+      "is_new": true
+    },
+    {
+      "title": "Ex-Nvidia partner Megaspeed hit with U.S. Commerce Department export ban",
+      "link": "https://www.upi.com/Top_News/US/2026/11/24/NVIDIA-partner-Megaspeed/1701795520063/",
+      "is_new": true
+    }
+  ],
+  "removed": [
     {
       "title": "India's opposition storms Meta's offices to get its Instagram accounts back",
       "link": "https://korben.info/en/india-opposition-storms-meta-offices-instagram-accounts.html",
@@ -93,11 +245,6 @@
       "is_new": true
     },
     {
-      "title": "The search for a top dark matter candidate",
-      "link": "https://www.smithsonianmag.com/science-nature/the-search-for-a-top-dark-matter-candidate-was-losing-hope-then-came-a-potential-signal-will-it-be-enough-to-energize-the-struggling-field-180989923/",
-      "is_new": true
-    },
-    {
       "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
       "link": "https://spelunkr.tv",
       "is_new": false
@@ -151,93 +298,6 @@
       "title": "Win4wine – Run Windows Shell as the Linux Desktop on Wine",
       "link": "https://github.com/mikuta0407/win4wine",
       "is_new": false
-    }
-  ],
-  "removed": [
-    {
-      "title": "VP ≠ VNP over Every Field",
-      "link": "https://github.com/anthropics/formal-math/tree/main/vp-vnp",
-      "is_new": true
-    },
-    {
-      "title": "Levent Alpöge comments on his Riemann Hypothesis proof",
-      "link": "https://twitter.com/__alpoge__/status/2124987173439209561",
-      "is_new": true
-    },
-    {
-      "title": "Derivative Flipping",
-      "link": "http://blog.sigfpe.com/2026/11/derivative-flipping.html",
-      "is_new": true
-    },
-    {
-      "title": "Spacecraft reaches Mercury on second-ever mission to enter its orbit",
-      "link": "https://www.theguardian.com/science/2026/nov/20/spacecraft-mercury-second-ever-mission-orbit-bepicolombo",
-      "is_new": true
-    },
-    {
-      "title": "The Beauty of Artists' Studios",
-      "link": "https://spectator.com/article/the-beauty-of-artists-studios/",
-      "is_new": true
-    },
-    {
-      "title": "The horse made the state",
-      "link": "https://aeon.co/essays/the-origins-of-the-state-are-not-agrarian-but-pastoralist",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: Hermit CRM – Free open-source CRM for solopreneurs",
-      "link": "https://hermitcrm.io/",
-      "is_new": true
-    },
-    {
-      "title": "Nospeaker ─ Make your MacBook's trackpad talk using its haptic motor",
-      "link": "https://github.com/os6/nospeaker",
-      "is_new": true
-    },
-    {
-      "title": "EasyPost (YC S13) Is Hiring",
-      "link": "https://www.easypost.com/careers/",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: PlaceBench – Testing AI on opening and closing hours (and last trains)",
-      "link": "https://github.com/voygr-tech/placebench",
-      "is_new": true
-    },
-    {
-      "title": "Apple removed my open-source app from EU App Stores after 9 years",
-      "link": "https://github.com/glushchenko/fsnotes/discussions/2056",
-      "is_new": true
-    },
-    {
-      "title": "What does it mean to understand what we built?",
-      "link": "https://brooker.co.za/blog/2026/11/16/understanding.html",
-      "is_new": true
-    },
-    {
-      "title": "Next gaming monitor should still be an OLED",
-      "link": "https://www.rockpapershotgun.com/theyre-more-complicated-and-more-expensive-than-lcd-screens-but-your-next-gaming-monitor-should-still-be-an-oled",
-      "is_new": true
-    },
-    {
-      "title": "The AI conversation we're not having",
-      "link": "https://www.gnanaguru.com/blog/things-two-years-in-ai-taught-me/",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: Type-C – variants, options, generics and pattern matching for C",
-      "link": "https://github.com/stass/type-c",
-      "is_new": true
-    },
-    {
-      "title": "XNU Linux: Full OS X GUI Userspace on Linux",
-      "link": "https://github.com/AFK-surf/xnulinux",
-      "is_new": false
-    },
-    {
-      "title": "How should an LLM see a computer?",
-      "link": "https://www.greptile.com/blog/trex-computer-use",
-      "is_new": true
     }
   ]
 }
