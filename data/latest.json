@@ -1,31 +1,163 @@
 {
-  "crawled_at": "2026-11-25 22:51",
-  "prev_crawled_at": "2026-11-25 12:20",
+  "crawled_at": "2026-11-26 07:55",
+  "prev_crawled_at": "2026-11-25 22:51",
   "items": [
+    {
+      "title": "1Password Security Incident",
+      "link": "https://1password.com/blog/update-on-nov-2026-security-incident",
+      "is_new": true
+    },
+    {
+      "title": "Much shorter version of GRH Lean verification from Anthropic",
+      "link": "https://github.com/lsernau/grh-lean",
+      "is_new": true
+    },
+    {
+      "title": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
+      "link": "https://bjin.github.io/go-codegolf-benchmark/#leaderboard",
+      "is_new": true
+    },
+    {
+      "title": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
+      "link": "https://scottaaronson.blog/?p=10379",
+      "is_new": true
+    },
+    {
+      "title": "A few questions for the guy who went snorkeling in a Home Depot retention pond",
+      "link": "https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts",
+      "is_new": true
+    },
+    {
+      "title": "The New York Times tells photographers not to use the latest Photoshop",
+      "link": "https://www.dpreview.com/news/new-york-times-adobe-photoshop-2027-restriction-ai/",
+      "is_new": true
+    },
+    {
+      "title": "Nfs2root: A 12-year-old pre-auth remote root in the Linux kernel's NFS server",
+      "link": "https://opensec.in/blog/nfs2root-cve-2026-99362",
+      "is_new": true
+    },
+    {
+      "title": "Defang Security Incident",
+      "link": "https://defang.io/blog/post/security-incident-november-2026/",
+      "is_new": true
+    },
+    {
+      "title": "SSH is a GUI framework",
+      "link": "https://zydra.sh/articles/ssh-is-a-gui-framework/",
+      "is_new": true
+    },
+    {
+      "title": "Slow Ubuntu security response times",
+      "link": "https://www.openwall.com/lists/oss-security/2026/11/25/9",
+      "is_new": true
+    },
+    {
+      "title": "72-Hour Fasting Can Reset Your Immune System, USC Study Shows",
+      "link": "https://scienceinhand.com/72-hour-fasting-can-reset-your-entire-immune-system-usc-study-shows/",
+      "is_new": true
+    },
+    {
+      "title": "The polynomial Hirsch conjecture is false [pdf]",
+      "link": "https://github.com/openai/math/blob/main/preprints/Superpolynomial-graph-diameter-of-simple-polytopes-November-24-2026/paper.pdf",
+      "is_new": true
+    },
+    {
+      "title": "Britain's ghost stations",
+      "link": "https://spectator.com/article/britains-ghost-stations-are-fascinating/",
+      "is_new": true
+    },
+    {
+      "title": "I checked Clojure's core with Lean and found unreported bugs",
+      "link": "https://s.conao3.com/blog/2026/e4f733",
+      "is_new": true
+    },
     {
       "title": "Windows Loudness Equalization, reverse-engineered and ported to PipeWire",
       "link": "https://github.com/xoxorwr/pw-loudness-eq",
+      "is_new": false
+    },
+    {
+      "title": "Google releases Cogentic papers on integer factorization, discrete logs and more",
+      "link": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
       "is_new": true
     },
     {
-      "title": "Button Sounds – collection of professionally-recorded button clicks and presses",
-      "link": "https://buttons.joshwcomeau.com/",
-      "is_new": true
-    },
-    {
-      "title": "Matrix Multiplication is Θ(n^2.25) [pdf]",
+      "title": "The matrix multiplication exponent is nine fourths [pdf]",
       "link": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
       "is_new": false
     },
     {
-      "title": "The short age of dragon riders",
-      "link": "https://atilloy.com/2026/11/16/the-short-age-of-dragon-riders/",
+      "title": "Button Sounds – collection of professionally-recorded button clicks and presses",
+      "link": "https://buttons.joshwcomeau.com/",
+      "is_new": false
+    },
+    {
+      "title": "Porting Rockbox to an undocumented $9 AliExpress 'YP3' MP3 player with LLMs",
+      "link": "https://jayd.ml/2026/11/14/rockbox-on-yp3.html",
+      "is_new": true
+    },
+    {
+      "title": "A fast CAS with a focus on resolution of singularities",
+      "link": "https://github.com/pportilla/atlas",
+      "is_new": true
+    },
+    {
+      "title": "Predicting LoRA size for any dataset",
+      "link": "https://engram.com/blog/lora-size",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: An agent skill that optimizes code with falsifiable hypotheses",
+      "link": "https://chszlab.github.io/AgenticAlgorithmEngineering/",
+      "is_new": true
+    },
+    {
+      "title": "The undocumented 249-file limit for Googlebot rendering",
+      "link": "https://www.fullstackoptimization.com/a/googlebot-249-file-rendering-limit",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: Rchive – Every drive I've owned since the 90s, searchable in one window",
+      "link": "https://www.rchive.computer/",
+      "is_new": true
+    },
+    {
+      "title": "Smart people who give a shit use tools",
+      "link": "https://www.iankduncan.com/engineering/2026-11-19-smart-people-who-give-a-shit-use-tools",
+      "is_new": false
+    },
+    {
+      "title": "In C++, = default and {} are not the same constructor",
+      "link": "https://lemire.me/blog/2026/11/02/default-and-braces-are-not-the-same-constructor/",
       "is_new": true
     },
     {
       "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
       "link": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
       "is_new": false
+    },
+    {
+      "title": "Hazel (YC W24) Is Hiring a Product Designer",
+      "link": "https://www.ycombinator.com/companies/hazel-2/jobs/8EhsvYE-product-designer-contract",
+      "is_new": false
+    },
+    {
+      "title": "A Beer Brewer's Noise Estimation",
+      "link": "https://chillphysicsenjoyer.substack.com/p/a-beer-brewers-noise-estimation",
+      "is_new": true
+    },
+    {
+      "title": "Rumors swirling that labs might have cracked Factoring in P",
+      "link": "https://www.reddit.com/r/singularity/comments/1y59ef1/rumor_that_openai_or_anthropic_found_a_way_to/",
+      "is_new": true
+    }
+  ],
+  "removed": [
+    {
+      "title": "The short age of dragon riders",
+      "link": "https://atilloy.com/2026/11/16/the-short-age-of-dragon-riders/",
+      "is_new": true
     },
     {
       "title": "Getting old Java phones online again",
@@ -45,11 +177,6 @@
     {
       "title": "Bypassing iOS Safari's 60 FPS Limit to Build Web Applications That Feel Native",
       "link": "https://rida.dev/blog/bypassing-ios-safari-60-fps-limit",
-      "is_new": true
-    },
-    {
-      "title": "Hazel (YC W24) Is Hiring a Product Designer",
-      "link": "https://www.ycombinator.com/companies/hazel-2/jobs/8EhsvYE-product-designer-contract",
       "is_new": true
     },
     {
@@ -95,11 +222,6 @@
     {
       "title": "The Shapes of Rivers",
       "link": "https://dominicroye.github.io/shapes-of-rivers/",
-      "is_new": true
-    },
-    {
-      "title": "Smart People Who Give a Shit Use Tools",
-      "link": "https://www.iankduncan.com/engineering/2026-11-19-smart-people-who-give-a-shit-use-tools",
       "is_new": true
     },
     {
@@ -150,108 +272,6 @@
     {
       "title": "A faster algorithm for extracting hexadecimal digits of π",
       "link": "https://www.stylewarning.com/posts/faster-digit-extraction/",
-      "is_new": true
-    }
-  ],
-  "removed": [
-    {
-      "title": "Here in the World: Letters of Albert Camus, 1944–1959",
-      "link": "https://literaryreview.co.uk/here-in-the-world",
-      "is_new": true
-    },
-    {
-      "title": "Gödel Enigma",
-      "link": "https://www.helsinki.fi/en/researchgroups/godel-enigma/research/project-description",
-      "is_new": true
-    },
-    {
-      "title": "Calculate how many mesh radio nodes your city needs",
-      "link": "https://meshcoveragecalculator.lalala.ing/",
-      "is_new": true
-    },
-    {
-      "title": "Hierarchical Bayesian Neural Networks: When Structure Meets Flexibility",
-      "link": "https://statwonk.com/hierarchical-bayesian-neural-network.html",
-      "is_new": true
-    },
-    {
-      "title": "From CUDA and Jax to TorchTPU: Lessons from a Cayley Graph Solver",
-      "link": "https://andlukyane.com/blog/cayley-graphs-and-torchtpu",
-      "is_new": true
-    },
-    {
-      "title": "Jetty Pro",
-      "link": "http://hypercritical.co/2026/11/23/jetty-pro",
-      "is_new": false
-    },
-    {
-      "title": "Heart attack and stroke risk detectable decades in advance",
-      "link": "https://www.ed.ac.uk/news/heart-attack-and-stroke-risk-detectable-decades-in-advance",
-      "is_new": true
-    },
-    {
-      "title": "A 1:1 replica of the London DLR",
-      "link": "https://jabza.github.io/labs/dlr-rider/",
-      "is_new": true
-    },
-    {
-      "title": "A training engine for your local model, using your idle compute",
-      "link": "https://github.com/sous-labs/songe",
-      "is_new": false
-    },
-    {
-      "title": "Quad9 pulled their DNS service from France",
-      "link": "https://quad9.net/news/blog/quad9-service-deactivation-in-france/",
-      "is_new": false
-    },
-    {
-      "title": "Cento fine foods has been sued for “tomato fraud”",
-      "link": "https://slate.com/life/2026/11/cento-san-marzano-tomato-sauce-recipes-lawsuit.html",
-      "is_new": false
-    },
-    {
-      "title": "Show HN: PQCrypta Proxy: Rust proxy with HTTP/3, QUIC, hybrid post-quantum TLS",
-      "link": "https://github.com/PQCrypta/pqcrypta-proxy",
-      "is_new": true
-    },
-    {
-      "title": "Splitting USB-C: USB 3 and USB 2 on one port",
-      "link": "https://www.frankchiarulli.com/blog/splitting-usb-c/",
-      "is_new": false
-    },
-    {
-      "title": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
-      "link": "https://jobs.ashbyhq.com/weave-os",
-      "is_new": false
-    },
-    {
-      "title": "The Artificial Monkey Mind",
-      "link": "https://eamonnsullivan.co.uk/posts/the-artificial-monkey-mind/",
-      "is_new": true
-    },
-    {
-      "title": "The Beauty of Artists' Studios",
-      "link": "https://spectator.com/article/the-beauty-of-artists-studios/",
-      "is_new": true
-    },
-    {
-      "title": "Worshipping at the altar of Brendan Gregg",
-      "link": "https://fzakaria.com/2026/11/12/worshipping-at-the-altar-of-brendan-gregg",
-      "is_new": false
-    },
-    {
-      "title": "LLM agents work for their parent companies, not for you",
-      "link": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
-      "is_new": false
-    },
-    {
-      "title": "How a Mechanical Watch Keeps Time",
-      "link": "https://martincmartin.github.io/slidev-stem/watches/article/1/",
-      "is_new": false
-    },
-    {
-      "title": "An unclassified CIA system was breached in a cyberattack",
-      "link": "https://apnews.com/article/cia-cyberattack-unclassified-system-bfa6d3b02e3b0e2779dfb613c900bd77",
       "is_new": true
     }
   ]
