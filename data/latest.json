@@ -1,35 +1,125 @@
 {
-  "crawled_at": "2026-11-25 12:20",
-  "prev_crawled_at": "2026-11-25 04:54",
+  "crawled_at": "2026-11-25 22:51",
+  "prev_crawled_at": "2026-11-25 12:20",
   "items": [
+    {
+      "title": "Windows Loudness Equalization, reverse-engineered and ported to PipeWire",
+      "link": "https://github.com/xoxorwr/pw-loudness-eq",
+      "is_new": true
+    },
+    {
+      "title": "Button Sounds – collection of professionally-recorded button clicks and presses",
+      "link": "https://buttons.joshwcomeau.com/",
+      "is_new": true
+    },
     {
       "title": "Matrix Multiplication is Θ(n^2.25) [pdf]",
       "link": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
-      "is_new": true
+      "is_new": false
     },
     {
-      "title": "Ternary Bonsai 2.5 27B",
-      "link": "https://prismml.com/news/bonsai-2-5-27b",
-      "is_new": true
-    },
-    {
-      "title": "PenGPT: A Generative Transformer for Handwriting and Sketches",
-      "link": "https://greydanus.github.io/2026/11/12/pengpt/",
-      "is_new": true
-    },
-    {
-      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
-      "link": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
+      "title": "The short age of dragon riders",
+      "link": "https://atilloy.com/2026/11/16/the-short-age-of-dragon-riders/",
       "is_new": true
     },
     {
       "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
       "link": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
+      "is_new": false
+    },
+    {
+      "title": "Getting old Java phones online again",
+      "link": "https://antcating.github.io/2026/11/23/getting-old-java-phones-online-again.html",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
+      "link": "https://gpu-demo-gallery.pages.dev/",
+      "is_new": true
+    },
+    {
+      "title": "Ternary Bonsai 2.5 27B",
+      "link": "https://prismml.com/news/bonsai-2-5-27b",
+      "is_new": false
+    },
+    {
+      "title": "Bypassing iOS Safari's 60 FPS Limit to Build Web Applications That Feel Native",
+      "link": "https://rida.dev/blog/bypassing-ios-safari-60-fps-limit",
+      "is_new": true
+    },
+    {
+      "title": "Hazel (YC W24) Is Hiring a Product Designer",
+      "link": "https://www.ycombinator.com/companies/hazel-2/jobs/8EhsvYE-product-designer-contract",
+      "is_new": true
+    },
+    {
+      "title": "PenGPT: A Generative Transformer for Handwriting and Sketches",
+      "link": "https://greydanus.github.io/2026/11/12/pengpt/",
+      "is_new": false
+    },
+    {
+      "title": "Taking over US Treasury subdomains for $3 each",
+      "link": "https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each",
+      "is_new": true
+    },
+    {
+      "title": "Wikipedia Has Hidden Doors",
+      "link": "https://cardcatalogforlife.substack.com/p/wikipedia-has-hidden-doors-heres",
+      "is_new": true
+    },
+    {
+      "title": "Marginalia Search, Money, C++, Rust, AI, Stuff",
+      "link": "https://www.marginalia.nu/log/a_141_marginalia_update/",
+      "is_new": true
+    },
+    {
+      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+      "link": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
+      "is_new": false
+    },
+    {
+      "title": "The Spray Bottle",
+      "link": "https://mechanical-pencil.com/products/spray-bottle",
+      "is_new": false
+    },
+    {
+      "title": "The algebra of dependent types (2025)",
+      "link": "https://dotat.at/@/2025-05-28-types.html",
+      "is_new": true
+    },
+    {
+      "title": "When in Doubt, Flail About",
+      "link": "https://www.seangoedecke.com/when-in-doubt-flail-about/",
+      "is_new": true
+    },
+    {
+      "title": "The Shapes of Rivers",
+      "link": "https://dominicroye.github.io/shapes-of-rivers/",
+      "is_new": true
+    },
+    {
+      "title": "Smart People Who Give a Shit Use Tools",
+      "link": "https://www.iankduncan.com/engineering/2026-11-19-smart-people-who-give-a-shit-use-tools",
       "is_new": true
     },
     {
       "title": "Launch HN: Versine (YC F26) – MCP to send and receive money",
       "link": "https://news.ycombinator.com/item?id=50634426",
+      "is_new": false
+    },
+    {
+      "title": "Macrohistory in Six Facts",
+      "link": "https://basilhalperin.com/essays/macrohistory.html",
+      "is_new": true
+    },
+    {
+      "title": "Top open problems in mathematics ranked by LLM-assessed importance",
+      "link": "https://www.proofatlas.ai/open-problems/",
+      "is_new": true
+    },
+    {
+      "title": "Serving Qwen via AWS Lambdas for fun and 80x negative profit",
+      "link": "https://noahbuilt.it/writing/qwen-on-5600-lambdas",
       "is_new": true
     },
     {
@@ -38,10 +128,32 @@
       "is_new": false
     },
     {
-      "title": "The Spray Bottle",
-      "link": "https://mechanical-pencil.com/products/spray-bottle",
+      "title": "Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?",
+      "link": "https://news.ycombinator.com/item?id=50630809",
+      "is_new": true
+    },
+    {
+      "title": "Lua for data representation (2025)",
+      "link": "https://citrons.xyz/journal/2025-07-23",
+      "is_new": true
+    },
+    {
+      "title": "GTA 6 Running on Windows",
+      "link": "https://twitter.com/raul_bs3/status/2125213756238291075",
       "is_new": false
     },
+    {
+      "title": "An Italian folding bicycle design that fits into a suitcase",
+      "link": "https://www.core77.com/posts/145766/An-Italian-Folding-Bicycle-Design-that-Fits-Into-a-Suitcase",
+      "is_new": false
+    },
+    {
+      "title": "A faster algorithm for extracting hexadecimal digits of π",
+      "link": "https://www.stylewarning.com/posts/faster-digit-extraction/",
+      "is_new": true
+    }
+  ],
+  "removed": [
     {
       "title": "Here in the World: Letters of Albert Camus, 1944–1959",
       "link": "https://literaryreview.co.uk/here-in-the-world",
@@ -66,16 +178,6 @@
       "title": "From CUDA and Jax to TorchTPU: Lessons from a Cayley Graph Solver",
       "link": "https://andlukyane.com/blog/cayley-graphs-and-torchtpu",
       "is_new": true
-    },
-    {
-      "title": "An Italian folding bicycle design that fits into a suitcase",
-      "link": "https://www.core77.com/posts/145766/An-Italian-Folding-Bicycle-Design-that-Fits-Into-a-Suitcase",
-      "is_new": false
-    },
-    {
-      "title": "GTA 6 Running on Windows",
-      "link": "https://twitter.com/raul_bs3/status/2125213756238291075",
-      "is_new": false
     },
     {
       "title": "Jetty Pro",
@@ -150,93 +252,6 @@
     {
       "title": "An unclassified CIA system was breached in a cyberattack",
       "link": "https://apnews.com/article/cia-cyberattack-unclassified-system-bfa6d3b02e3b0e2779dfb613c900bd77",
-      "is_new": true
-    }
-  ],
-  "removed": [
-    {
-      "title": "What Cloudflare Doesn't Tell You",
-      "link": "https://charlie.fish/posts/2026/11/what-cloudflare-doesnt-tell-you/",
-      "is_new": true
-    },
-    {
-      "title": "Canada's median health-care wait time hits 30.7 weeks–longest ever recorded",
-      "link": "https://www.fraserinstitute.org/studies/waiting-your-turn-wait-times-for-health-care-in-canada-2026",
-      "is_new": true
-    },
-    {
-      "title": "Grafana 12.4.16, 13.0.14, 13.1.11, 13.2.7 and 13.3.2 (multiple CVEs)",
-      "link": "https://grafana.com/grafana/download",
-      "is_new": true
-    },
-    {
-      "title": "Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?",
-      "link": "https://news.ycombinator.com/item?id=50630809",
-      "is_new": true
-    },
-    {
-      "title": "2035 came early",
-      "link": "https://fzakaria.com/2026/11/23/2035-came-early",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: Mason – a lightweight Postgres read-replica, built on columnar storage",
-      "link": "https://masondata.ai/",
-      "is_new": true
-    },
-    {
-      "title": "Compiling Web Applications into Verified Operations for AI Agents",
-      "link": "https://protocolis.co/paper/",
-      "is_new": true
-    },
-    {
-      "title": "OpenAI reveals they solved VP ≠ VNP before Anthropic",
-      "link": "https://github.com/openai/math/tree/main/preprints/VP-and-VNP-are-different-November-23-2026",
-      "is_new": true
-    },
-    {
-      "title": "The KL Divergence Is Never Negative, Except in PyTorch",
-      "link": "https://arxiv.org/abs/2611.30835",
-      "is_new": true
-    },
-    {
-      "title": "Microsoft declares 'Code Red' after historic outage, internal memos show",
-      "link": "https://www.reuters.com/business/microsoft-declares-code-red-after-historic-outage-internal-memos-show-2026-11-24/",
-      "is_new": true
-    },
-    {
-      "title": "'Castles' Review",
-      "link": "https://www.wsj.com/arts-culture/books/castles-review-playing-defense-da10d776?st=tR9KT4&reflink=desktopwebshare_permalink",
-      "is_new": true
-    },
-    {
-      "title": "Anthropic breaks below $83 IPO price",
-      "link": "https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading",
-      "is_new": true
-    },
-    {
-      "title": "Gnomon: Git for Postgres Data",
-      "link": "https://gnomon.bitsinfra.com/",
-      "is_new": true
-    },
-    {
-      "title": "The new set of problems for engineers to solve",
-      "link": "https://www.katelynlesse.com/blog/new-problems-for-engineers-to-solve",
-      "is_new": true
-    },
-    {
-      "title": "The search for a top dark matter candidate",
-      "link": "https://www.smithsonianmag.com/science-nature/the-search-for-a-top-dark-matter-candidate-was-losing-hope-then-came-a-potential-signal-will-it-be-enough-to-energize-the-struggling-field-180989923/",
-      "is_new": false
-    },
-    {
-      "title": "SeaStore: Redesigning Ceph's Storage Back End for CPU-Efficient NVMe Performance",
-      "link": "https://dl.acm.org/doi/10.1145/3828523.3857112",
-      "is_new": true
-    },
-    {
-      "title": "Ex-Nvidia partner Megaspeed hit with U.S. Commerce Department export ban",
-      "link": "https://www.upi.com/Top_News/US/2026/11/24/NVIDIA-partner-Megaspeed/1701795520063/",
       "is_new": true
     }
   ]
