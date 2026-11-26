@@ -1,40 +1,162 @@
 {
-  "crawled_at": "2026-11-26 07:55",
-  "prev_crawled_at": "2026-11-25 22:51",
+  "crawled_at": "2026-11-26 13:41",
+  "prev_crawled_at": "2026-11-26 07:55",
   "items": [
+    {
+      "title": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
+      "link": "https://scottaaronson.blog/?p=10379",
+      "is_new": false
+    },
     {
       "title": "1Password Security Incident",
       "link": "https://1password.com/blog/update-on-nov-2026-security-incident",
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Much shorter version of GRH Lean verification from Anthropic",
       "link": "https://github.com/lsernau/grh-lean",
+      "is_new": false
+    },
+    {
+      "title": "The Great Automatic Grammatizator (By Roald Dahl), 1954 [pdf]",
+      "link": "https://gwern.net/doc/fiction/science-fiction/1953-dahl-thegreatautomaticgrammatizator.pdf",
+      "is_new": true
+    },
+    {
+      "title": "Tell HN: Lots of Ask HNs again",
+      "link": "https://news.ycombinator.com/item?id=50649864",
       "is_new": true
     },
     {
       "title": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
       "link": "https://bjin.github.io/go-codegolf-benchmark/#leaderboard",
+      "is_new": false
+    },
+    {
+      "title": "Collection of preserved UI style guides",
+      "link": "https://aresluna.org/ui-style-guides/",
       "is_new": true
     },
     {
-      "title": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
-      "link": "https://scottaaronson.blog/?p=10379",
+      "title": "Slow Ubuntu security response times",
+      "link": "https://www.openwall.com/lists/oss-security/2026/11/25/9",
+      "is_new": false
+    },
+    {
+      "title": "What VP ≠ VNP Means (In 3 Minutes)",
+      "link": "https://www.friedgil.com/vpvnp",
+      "is_new": true
+    },
+    {
+      "title": "How did pinwheel calculators work?",
+      "link": "https://blog.coredump.cx/p/how-did-pinwheel-calculators-work",
       "is_new": true
     },
     {
       "title": "A few questions for the guy who went snorkeling in a Home Depot retention pond",
       "link": "https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts",
+      "is_new": false
+    },
+    {
+      "title": "The New York Times warns photographers not to update Photoshop over AI features",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
       "is_new": true
     },
     {
-      "title": "The New York Times tells photographers not to use the latest Photoshop",
-      "link": "https://www.dpreview.com/news/new-york-times-adobe-photoshop-2027-restriction-ai/",
+      "title": "Deploying a payphone on a tiny Pacific Island for fun and zero profit",
+      "link": "https://nickvsnetworking.com/deploying-a-payphone-on-a-tiny-pacific-island-for-fun-and-zero-profit/",
       "is_new": true
     },
     {
       "title": "Nfs2root: A 12-year-old pre-auth remote root in the Linux kernel's NFS server",
       "link": "https://opensec.in/blog/nfs2root-cve-2026-99362",
+      "is_new": false
+    },
+    {
+      "title": "Bare Metal Qwen",
+      "link": "https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os",
+      "is_new": true
+    },
+    {
+      "title": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
+      "link": "https://twitter.com/thsottiaux/status/2125784147889393806",
+      "is_new": true
+    },
+    {
+      "title": "SSH is a GUI framework",
+      "link": "https://zydra.sh/articles/ssh-is-a-gui-framework/",
+      "is_new": false
+    },
+    {
+      "title": "Minipg: PostgreSQL as a Single Executable",
+      "link": "https://progrium.github.io/minipg/",
+      "is_new": true
+    },
+    {
+      "title": "Hkust 3D Prints a Titanium Alloy That Keeps Hardening",
+      "link": "https://3dprinting.com/news/hkust-researchers-3d-print-a-titanium-alloy-that-keeps-hardening-under-strain/",
+      "is_new": true
+    },
+    {
+      "title": "Google releases Cogentic papers on integer factorization, discrete logs and more",
+      "link": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
+      "is_new": false
+    },
+    {
+      "title": "The polynomial Hirsch conjecture is false [pdf]",
+      "link": "https://github.com/openai/math/blob/main/preprints/Superpolynomial-graph-diameter-of-simple-polytopes-November-24-2026/paper.pdf",
+      "is_new": false
+    },
+    {
+      "title": "Deriving Black-Scholes",
+      "link": "https://david.alvarezrosa.com/posts/deriving-black-scholes/",
+      "is_new": true
+    },
+    {
+      "title": "Linear scan register allocation in Datalog",
+      "link": "https://bernsteinbear.com/blog/lsra-datalog/",
+      "is_new": true
+    },
+    {
+      "title": "Can a TV be too large? An investigation",
+      "link": "https://techcrunch.com/2026/11/22/can-a-tv-be-too-large-an-investigation/",
+      "is_new": true
+    },
+    {
+      "title": "Qualcomm's Oryon 3 Reaches the Top",
+      "link": "https://chipsandcheese.com/p/qualcomms-oryon-3-reaches-the-top",
+      "is_new": true
+    },
+    {
+      "title": "A beer brewer's noise estimation",
+      "link": "https://chillphysicsenjoyer.substack.com/p/a-beer-brewers-noise-estimation",
+      "is_new": false
+    },
+    {
+      "title": "Windows Loudness Equalization, reverse-engineered and ported to PipeWire",
+      "link": "https://github.com/xoxorwr/pw-loudness-eq",
+      "is_new": false
+    },
+    {
+      "title": "The trouble with serendipity: Scientific discoveries don't happen how you think",
+      "link": "https://www.worksinprogress.news/p/the-trouble-with-serendipity",
+      "is_new": true
+    },
+    {
+      "title": "Jev is probably Qwen3.5-35B-A3B",
+      "link": "https://modaic.dev/blog/latency-doesnt-lie",
+      "is_new": true
+    },
+    {
+      "title": "Hacking radiators",
+      "link": "https://qsantos.fr/2026/11/20/hacking-radiators-for-fun-and-no-profit/",
+      "is_new": true
+    }
+  ],
+  "removed": [
+    {
+      "title": "The New York Times tells photographers not to use the latest Photoshop",
+      "link": "https://www.dpreview.com/news/new-york-times-adobe-photoshop-2027-restriction-ai/",
       "is_new": true
     },
     {
@@ -43,23 +165,8 @@
       "is_new": true
     },
     {
-      "title": "SSH is a GUI framework",
-      "link": "https://zydra.sh/articles/ssh-is-a-gui-framework/",
-      "is_new": true
-    },
-    {
-      "title": "Slow Ubuntu security response times",
-      "link": "https://www.openwall.com/lists/oss-security/2026/11/25/9",
-      "is_new": true
-    },
-    {
       "title": "72-Hour Fasting Can Reset Your Immune System, USC Study Shows",
       "link": "https://scienceinhand.com/72-hour-fasting-can-reset-your-entire-immune-system-usc-study-shows/",
-      "is_new": true
-    },
-    {
-      "title": "The polynomial Hirsch conjecture is false [pdf]",
-      "link": "https://github.com/openai/math/blob/main/preprints/Superpolynomial-graph-diameter-of-simple-polytopes-November-24-2026/paper.pdf",
       "is_new": true
     },
     {
@@ -70,16 +177,6 @@
     {
       "title": "I checked Clojure's core with Lean and found unreported bugs",
       "link": "https://s.conao3.com/blog/2026/e4f733",
-      "is_new": true
-    },
-    {
-      "title": "Windows Loudness Equalization, reverse-engineered and ported to PipeWire",
-      "link": "https://github.com/xoxorwr/pw-loudness-eq",
-      "is_new": false
-    },
-    {
-      "title": "Google releases Cogentic papers on integer factorization, discrete logs and more",
-      "link": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
       "is_new": true
     },
     {
@@ -143,135 +240,8 @@
       "is_new": false
     },
     {
-      "title": "A Beer Brewer's Noise Estimation",
-      "link": "https://chillphysicsenjoyer.substack.com/p/a-beer-brewers-noise-estimation",
-      "is_new": true
-    },
-    {
       "title": "Rumors swirling that labs might have cracked Factoring in P",
       "link": "https://www.reddit.com/r/singularity/comments/1y59ef1/rumor_that_openai_or_anthropic_found_a_way_to/",
-      "is_new": true
-    }
-  ],
-  "removed": [
-    {
-      "title": "The short age of dragon riders",
-      "link": "https://atilloy.com/2026/11/16/the-short-age-of-dragon-riders/",
-      "is_new": true
-    },
-    {
-      "title": "Getting old Java phones online again",
-      "link": "https://antcating.github.io/2026/11/23/getting-old-java-phones-online-again.html",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
-      "link": "https://gpu-demo-gallery.pages.dev/",
-      "is_new": true
-    },
-    {
-      "title": "Ternary Bonsai 2.5 27B",
-      "link": "https://prismml.com/news/bonsai-2-5-27b",
-      "is_new": false
-    },
-    {
-      "title": "Bypassing iOS Safari's 60 FPS Limit to Build Web Applications That Feel Native",
-      "link": "https://rida.dev/blog/bypassing-ios-safari-60-fps-limit",
-      "is_new": true
-    },
-    {
-      "title": "PenGPT: A Generative Transformer for Handwriting and Sketches",
-      "link": "https://greydanus.github.io/2026/11/12/pengpt/",
-      "is_new": false
-    },
-    {
-      "title": "Taking over US Treasury subdomains for $3 each",
-      "link": "https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each",
-      "is_new": true
-    },
-    {
-      "title": "Wikipedia Has Hidden Doors",
-      "link": "https://cardcatalogforlife.substack.com/p/wikipedia-has-hidden-doors-heres",
-      "is_new": true
-    },
-    {
-      "title": "Marginalia Search, Money, C++, Rust, AI, Stuff",
-      "link": "https://www.marginalia.nu/log/a_141_marginalia_update/",
-      "is_new": true
-    },
-    {
-      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
-      "link": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
-      "is_new": false
-    },
-    {
-      "title": "The Spray Bottle",
-      "link": "https://mechanical-pencil.com/products/spray-bottle",
-      "is_new": false
-    },
-    {
-      "title": "The algebra of dependent types (2025)",
-      "link": "https://dotat.at/@/2025-05-28-types.html",
-      "is_new": true
-    },
-    {
-      "title": "When in Doubt, Flail About",
-      "link": "https://www.seangoedecke.com/when-in-doubt-flail-about/",
-      "is_new": true
-    },
-    {
-      "title": "The Shapes of Rivers",
-      "link": "https://dominicroye.github.io/shapes-of-rivers/",
-      "is_new": true
-    },
-    {
-      "title": "Launch HN: Versine (YC F26) – MCP to send and receive money",
-      "link": "https://news.ycombinator.com/item?id=50634426",
-      "is_new": false
-    },
-    {
-      "title": "Macrohistory in Six Facts",
-      "link": "https://basilhalperin.com/essays/macrohistory.html",
-      "is_new": true
-    },
-    {
-      "title": "Top open problems in mathematics ranked by LLM-assessed importance",
-      "link": "https://www.proofatlas.ai/open-problems/",
-      "is_new": true
-    },
-    {
-      "title": "Serving Qwen via AWS Lambdas for fun and 80x negative profit",
-      "link": "https://noahbuilt.it/writing/qwen-on-5600-lambdas",
-      "is_new": true
-    },
-    {
-      "title": "Active intrusion campaign against Check Point security management servers",
-      "link": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign",
-      "is_new": false
-    },
-    {
-      "title": "Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?",
-      "link": "https://news.ycombinator.com/item?id=50630809",
-      "is_new": true
-    },
-    {
-      "title": "Lua for data representation (2025)",
-      "link": "https://citrons.xyz/journal/2025-07-23",
-      "is_new": true
-    },
-    {
-      "title": "GTA 6 Running on Windows",
-      "link": "https://twitter.com/raul_bs3/status/2125213756238291075",
-      "is_new": false
-    },
-    {
-      "title": "An Italian folding bicycle design that fits into a suitcase",
-      "link": "https://www.core77.com/posts/145766/An-Italian-Folding-Bicycle-Design-that-Fits-Into-a-Suitcase",
-      "is_new": false
-    },
-    {
-      "title": "A faster algorithm for extracting hexadecimal digits of π",
-      "link": "https://www.stylewarning.com/posts/faster-digit-extraction/",
       "is_new": true
     }
   ]
