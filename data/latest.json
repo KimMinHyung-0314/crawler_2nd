@@ -1,7 +1,17 @@
 {
-  "crawled_at": "2026-11-26 13:41",
-  "prev_crawled_at": "2026-11-26 07:55",
+  "crawled_at": "2026-11-26 23:41",
+  "prev_crawled_at": "2026-11-26 13:41",
   "items": [
+    {
+      "title": "Euro-Office comes to your desktop with the Nextcloud Office Desktop app",
+      "link": "https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/",
+      "is_new": true
+    },
+    {
+      "title": "Intel One Mono font",
+      "link": "https://github.com/intel/intel-one-mono",
+      "is_new": true
+    },
     {
       "title": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
       "link": "https://scottaaronson.blog/?p=10379",
@@ -13,18 +23,53 @@
       "is_new": false
     },
     {
-      "title": "Much shorter version of GRH Lean verification from Anthropic",
-      "link": "https://github.com/lsernau/grh-lean",
+      "title": "Discovery of curse ritual in trash dump surprises Egyptologist",
+      "link": "https://phys.org/news/2026-11-discovery-curse-ritual-trash-dump.html",
+      "is_new": true
+    },
+    {
+      "title": "Lions' Commentary on Unix: Why It Was Secretly Copied for 20 Years",
+      "link": "https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/",
+      "is_new": true
+    },
+    {
+      "title": "The New York Times warns photographers not to update Photoshop over AI features",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
       "is_new": false
     },
     {
-      "title": "The Great Automatic Grammatizator (By Roald Dahl), 1954 [pdf]",
-      "link": "https://gwern.net/doc/fiction/science-fiction/1953-dahl-thegreatautomaticgrammatizator.pdf",
+      "title": "Minipg: PostgreSQL as a Single Executable",
+      "link": "https://progrium.github.io/minipg/",
+      "is_new": false
+    },
+    {
+      "title": "Collection of preserved UI style guides",
+      "link": "https://aresluna.org/ui-style-guides/",
+      "is_new": false
+    },
+    {
+      "title": "Moat: Your OpenRouter Replacement",
+      "link": "https://commandcode.ai/moat",
+      "is_new": true
+    },
+    {
+      "title": "Head of Software Engineering – NOX Metals",
+      "link": "https://news.ycombinator.com/item?id=50654353",
       "is_new": true
     },
     {
       "title": "Tell HN: Lots of Ask HNs again",
       "link": "https://news.ycombinator.com/item?id=50649864",
+      "is_new": false
+    },
+    {
+      "title": "Slow Ubuntu security response times",
+      "link": "https://www.openwall.com/lists/oss-security/2026/11/25/9",
+      "is_new": false
+    },
+    {
+      "title": "Show HN: Synth Patch Hero",
+      "link": "https://swarkentin.github.io/synth-patch-hero/",
       "is_new": true
     },
     {
@@ -33,20 +78,82 @@
       "is_new": false
     },
     {
-      "title": "Collection of preserved UI style guides",
-      "link": "https://aresluna.org/ui-style-guides/",
-      "is_new": true
-    },
-    {
-      "title": "Slow Ubuntu security response times",
-      "link": "https://www.openwall.com/lists/oss-security/2026/11/25/9",
+      "title": "What VP ≠ VNP Means (In 3 Minutes)",
+      "link": "https://www.friedgil.com/vpvnp",
       "is_new": false
     },
     {
-      "title": "What VP ≠ VNP Means (In 3 Minutes)",
-      "link": "https://www.friedgil.com/vpvnp",
+      "title": "Much shorter version of GRH Lean verification from Anthropic",
+      "link": "https://github.com/lsernau/grh-lean",
+      "is_new": false
+    },
+    {
+      "title": "The history of civilization is the history of wheat",
+      "link": "https://asteriskmag.com/issues/16/marginal-grains",
       "is_new": true
     },
+    {
+      "title": "An algebraic quantization of gravity from the null cone",
+      "link": "https://arxiv.org/abs/2611.34924",
+      "is_new": true
+    },
+    {
+      "title": "The Great Automatic Grammatizator (By Roald Dahl), 1954 [pdf]",
+      "link": "https://gwern.net/doc/fiction/science-fiction/1953-dahl-thegreatautomaticgrammatizator.pdf",
+      "is_new": false
+    },
+    {
+      "title": "Nfs2root: A 12-year-old pre-auth remote root in the Linux kernel's NFS server",
+      "link": "https://opensec.in/blog/nfs2root-cve-2026-99362",
+      "is_new": false
+    },
+    {
+      "title": "Bare Metal Qwen",
+      "link": "https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os",
+      "is_new": false
+    },
+    {
+      "title": "MCP Gateway: How Snap Checks Both the Person and the Agent",
+      "link": "https://eng.snap.com/mcp-gateway",
+      "is_new": true
+    },
+    {
+      "title": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
+      "link": "https://twitter.com/thsottiaux/status/2125784147889393806",
+      "is_new": false
+    },
+    {
+      "title": "Deploying a payphone on a tiny Pacific Island for fun and zero profit",
+      "link": "https://nickvsnetworking.com/deploying-a-payphone-on-a-tiny-pacific-island-for-fun-and-zero-profit/",
+      "is_new": false
+    },
+    {
+      "title": "Qualcomm's Oryon 3 Reaches the Top",
+      "link": "https://chipsandcheese.com/p/qualcomms-oryon-3-reaches-the-top",
+      "is_new": false
+    },
+    {
+      "title": "SSH is a GUI framework",
+      "link": "https://zydra.sh/articles/ssh-is-a-gui-framework/",
+      "is_new": false
+    },
+    {
+      "title": "Unconditional Integer Factorization in Subexponential Time",
+      "link": "https://github.com/google-research/google-research/tree/4a7bc8ab0bc770e71a259b7966c500496b99010a/cogentic_research_papers/integer_factorization",
+      "is_new": true
+    },
+    {
+      "title": "The polynomial Hirsch conjecture is false [pdf]",
+      "link": "https://github.com/openai/math/blob/main/preprints/Superpolynomial-graph-diameter-of-simple-polytopes-November-24-2026/paper.pdf",
+      "is_new": false
+    },
+    {
+      "title": "I checked Clojure's core with Lean and found unreported bugs",
+      "link": "https://s.conao3.com/blog/2026/e4f733",
+      "is_new": true
+    }
+  ],
+  "removed": [
     {
       "title": "How did pinwheel calculators work?",
       "link": "https://blog.coredump.cx/p/how-did-pinwheel-calculators-work",
@@ -58,41 +165,6 @@
       "is_new": false
     },
     {
-      "title": "The New York Times warns photographers not to update Photoshop over AI features",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
-      "is_new": true
-    },
-    {
-      "title": "Deploying a payphone on a tiny Pacific Island for fun and zero profit",
-      "link": "https://nickvsnetworking.com/deploying-a-payphone-on-a-tiny-pacific-island-for-fun-and-zero-profit/",
-      "is_new": true
-    },
-    {
-      "title": "Nfs2root: A 12-year-old pre-auth remote root in the Linux kernel's NFS server",
-      "link": "https://opensec.in/blog/nfs2root-cve-2026-99362",
-      "is_new": false
-    },
-    {
-      "title": "Bare Metal Qwen",
-      "link": "https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os",
-      "is_new": true
-    },
-    {
-      "title": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
-      "link": "https://twitter.com/thsottiaux/status/2125784147889393806",
-      "is_new": true
-    },
-    {
-      "title": "SSH is a GUI framework",
-      "link": "https://zydra.sh/articles/ssh-is-a-gui-framework/",
-      "is_new": false
-    },
-    {
-      "title": "Minipg: PostgreSQL as a Single Executable",
-      "link": "https://progrium.github.io/minipg/",
-      "is_new": true
-    },
-    {
       "title": "Hkust 3D Prints a Titanium Alloy That Keeps Hardening",
       "link": "https://3dprinting.com/news/hkust-researchers-3d-print-a-titanium-alloy-that-keeps-hardening-under-strain/",
       "is_new": true
@@ -100,11 +172,6 @@
     {
       "title": "Google releases Cogentic papers on integer factorization, discrete logs and more",
       "link": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
-      "is_new": false
-    },
-    {
-      "title": "The polynomial Hirsch conjecture is false [pdf]",
-      "link": "https://github.com/openai/math/blob/main/preprints/Superpolynomial-graph-diameter-of-simple-polytopes-November-24-2026/paper.pdf",
       "is_new": false
     },
     {
@@ -120,11 +187,6 @@
     {
       "title": "Can a TV be too large? An investigation",
       "link": "https://techcrunch.com/2026/11/22/can-a-tv-be-too-large-an-investigation/",
-      "is_new": true
-    },
-    {
-      "title": "Qualcomm's Oryon 3 Reaches the Top",
-      "link": "https://chipsandcheese.com/p/qualcomms-oryon-3-reaches-the-top",
       "is_new": true
     },
     {
@@ -150,98 +212,6 @@
     {
       "title": "Hacking radiators",
       "link": "https://qsantos.fr/2026/11/20/hacking-radiators-for-fun-and-no-profit/",
-      "is_new": true
-    }
-  ],
-  "removed": [
-    {
-      "title": "The New York Times tells photographers not to use the latest Photoshop",
-      "link": "https://www.dpreview.com/news/new-york-times-adobe-photoshop-2027-restriction-ai/",
-      "is_new": true
-    },
-    {
-      "title": "Defang Security Incident",
-      "link": "https://defang.io/blog/post/security-incident-november-2026/",
-      "is_new": true
-    },
-    {
-      "title": "72-Hour Fasting Can Reset Your Immune System, USC Study Shows",
-      "link": "https://scienceinhand.com/72-hour-fasting-can-reset-your-entire-immune-system-usc-study-shows/",
-      "is_new": true
-    },
-    {
-      "title": "Britain's ghost stations",
-      "link": "https://spectator.com/article/britains-ghost-stations-are-fascinating/",
-      "is_new": true
-    },
-    {
-      "title": "I checked Clojure's core with Lean and found unreported bugs",
-      "link": "https://s.conao3.com/blog/2026/e4f733",
-      "is_new": true
-    },
-    {
-      "title": "The matrix multiplication exponent is nine fourths [pdf]",
-      "link": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
-      "is_new": false
-    },
-    {
-      "title": "Button Sounds – collection of professionally-recorded button clicks and presses",
-      "link": "https://buttons.joshwcomeau.com/",
-      "is_new": false
-    },
-    {
-      "title": "Porting Rockbox to an undocumented $9 AliExpress 'YP3' MP3 player with LLMs",
-      "link": "https://jayd.ml/2026/11/14/rockbox-on-yp3.html",
-      "is_new": true
-    },
-    {
-      "title": "A fast CAS with a focus on resolution of singularities",
-      "link": "https://github.com/pportilla/atlas",
-      "is_new": true
-    },
-    {
-      "title": "Predicting LoRA size for any dataset",
-      "link": "https://engram.com/blog/lora-size",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: An agent skill that optimizes code with falsifiable hypotheses",
-      "link": "https://chszlab.github.io/AgenticAlgorithmEngineering/",
-      "is_new": true
-    },
-    {
-      "title": "The undocumented 249-file limit for Googlebot rendering",
-      "link": "https://www.fullstackoptimization.com/a/googlebot-249-file-rendering-limit",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: Rchive – Every drive I've owned since the 90s, searchable in one window",
-      "link": "https://www.rchive.computer/",
-      "is_new": true
-    },
-    {
-      "title": "Smart people who give a shit use tools",
-      "link": "https://www.iankduncan.com/engineering/2026-11-19-smart-people-who-give-a-shit-use-tools",
-      "is_new": false
-    },
-    {
-      "title": "In C++, = default and {} are not the same constructor",
-      "link": "https://lemire.me/blog/2026/11/02/default-and-braces-are-not-the-same-constructor/",
-      "is_new": true
-    },
-    {
-      "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
-      "link": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
-      "is_new": false
-    },
-    {
-      "title": "Hazel (YC W24) Is Hiring a Product Designer",
-      "link": "https://www.ycombinator.com/companies/hazel-2/jobs/8EhsvYE-product-designer-contract",
-      "is_new": false
-    },
-    {
-      "title": "Rumors swirling that labs might have cracked Factoring in P",
-      "link": "https://www.reddit.com/r/singularity/comments/1y59ef1/rumor_that_openai_or_anthropic_found_a_way_to/",
       "is_new": true
     }
   ]
