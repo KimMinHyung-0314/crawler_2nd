@@ -1,10 +1,40 @@
 {
-  "crawled_at": "2026-11-27 15:32",
-  "prev_crawled_at": "2026-11-27 08:27",
+  "crawled_at": "2026-11-28 02:11",
+  "prev_crawled_at": "2026-11-27 15:32",
   "items": [
     {
-      "title": "The need for a formally verifiable mainstream programming language",
-      "link": "https://blainehansen.me/post/mainstream-verifiable-language/",
+      "title": "Show HN: bouncemarket – a live prediction market game for a bouncing ball",
+      "link": "https://bouncemarket.minhanhday.com/",
+      "is_new": true
+    },
+    {
+      "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
+      "link": "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer",
+      "is_new": true
+    },
+    {
+      "title": "First images of the impact of DART asteroid deflection experiment",
+      "link": "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/",
+      "is_new": true
+    },
+    {
+      "title": "False computer-checked proofs",
+      "link": "https://cr.yp.to/proofs/falseccp.html",
+      "is_new": true
+    },
+    {
+      "title": "Group chat where your AI talks behind your back",
+      "link": "https://construct22.com/",
+      "is_new": true
+    },
+    {
+      "title": "Kimi for Science: More scientific ideas, made possible",
+      "link": "https://www.kimi.ai/news/kimi-for-science-program",
+      "is_new": true
+    },
+    {
+      "title": "A Deterministic Subexponential-Time Algorithm for the Discrete Logarithm Problem [pdf]",
+      "link": "https://eprint.iacr.org/2026/3020.pdf",
       "is_new": true
     },
     {
@@ -13,18 +43,48 @@
       "is_new": false
     },
     {
-      "title": "Hard Drive pricing has gotten bad",
-      "link": "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/",
+      "title": "US Air Force's cloud computing platform hacked",
+      "link": "https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163",
       "is_new": true
     },
     {
-      "title": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
-      "link": "https://github.com/antonpictures/youtube-punisher",
+      "title": "The need for a formally verifiable mainstream programming language",
+      "link": "https://blainehansen.me/post/mainstream-verifiable-language/",
       "is_new": false
+    },
+    {
+      "title": "Making a 3D fantasy map like a 16th-Century atlas",
+      "link": "https://www.spritefusion.com/blog/making-a-fantasy-map-like-a-16th-century-atlas",
+      "is_new": true
+    },
+    {
+      "title": "GPT 6.2 Astra Solves a Historical Mystery",
+      "link": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
+      "is_new": true
+    },
+    {
+      "title": "New York and California age gating rules go into effect in the new year",
+      "link": "https://www.eff.org/deeplinks/2026/11/new-york-and-california-age-gating-rules-go-effect-new-year",
+      "is_new": true
+    },
+    {
+      "title": "Mental Health Resources and Political Engagement",
+      "link": "https://onlinelibrary.wiley.com/doi/abs/10.1111/ssqu.70219",
+      "is_new": true
+    },
+    {
+      "title": "Claude sabotaging ML research tasks?",
+      "link": "https://twitter.com/RealAstropulse/status/2126119408997466389",
+      "is_new": true
     },
     {
       "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
       "link": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
+      "is_new": false
+    },
+    {
+      "title": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
+      "link": "https://github.com/antonpictures/youtube-punisher",
       "is_new": false
     },
     {
@@ -38,6 +98,11 @@
       "is_new": false
     },
     {
+      "title": "Hard Drive pricing has gotten bad",
+      "link": "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/",
+      "is_new": false
+    },
+    {
       "title": "Intel One Mono font (2023)",
       "link": "https://github.com/intel/intel-one-mono",
       "is_new": false
@@ -45,13 +110,50 @@
     {
       "title": "Company Culture = Slack Emoji ÷ √Headcount",
       "link": "https://lia.mg/posts/measuring-company-culture-with-slack-emoji/",
+      "is_new": false
+    },
+    {
+      "title": "Norse Atlantic suspends all flights as it faces potential collapse",
+      "link": "https://www.bbc.com/news/articles/c9kgmd0ldy0lo",
+      "is_new": true
+    },
+    {
+      "title": "Buy Nothing Day – Friday November 27th 2026",
+      "link": "https://www.buynothingday.co.uk/",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: I restored Palm's last device, and brought its OS to other platforms",
+      "link": "https://www.webosarchive.org/pivot/2026/11/27/the-story-so-far/",
+      "is_new": true
+    },
+    {
+      "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
+      "link": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
+      "is_new": false
+    },
+    {
+      "title": "Pimalaya goes stable: Himalaya v3 and the pimdir standard",
+      "link": "https://blog.pimalaya.org/pimalaya-goes-stable/",
       "is_new": true
     },
     {
       "title": "An introduction to uncertainty in machine learning",
       "link": "https://chrhenning.com/blog/2026/introduction-to-uncertainty/",
+      "is_new": false
+    },
+    {
+      "title": "Nvidia CEO's comeback fuels debate on misogyny or impunity for rich and powerful",
+      "link": "https://www.pbs.org/newshour/nation/nvidia-ceos-comeback-fuels-debate-over-misogyny-and-impunity-for-the-rich-and-powerful",
       "is_new": true
     },
+    {
+      "title": "AI on brink of making online security useless, mathematicians fear",
+      "link": "https://www.thetimes.com/uk/technology-uk/article/ai-making-online-security-useless-smr73d3n8",
+      "is_new": true
+    }
+  ],
+  "removed": [
     {
       "title": "Novita, StreamLake, etc. are ByteDance Ark wrappers",
       "link": "https://kendell.dev/blog/arkwrapper/",
@@ -61,11 +163,6 @@
       "title": "\"What's Claude's Fursona?\" and Other Questions",
       "link": "https://herecomesthemoon.net/2026/11/whats-claudes-fursona/",
       "is_new": true
-    },
-    {
-      "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
-      "link": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
-      "is_new": false
     },
     {
       "title": "Largest 2D Chart library in the world using BUI: BlenderUI",
@@ -150,58 +247,6 @@
     {
       "title": "Discovery of curse ritual in trash dump surprises Egyptologist",
       "link": "https://phys.org/news/2026-11-discovery-curse-ritual-trash-dump.html",
-      "is_new": false
-    }
-  ],
-  "removed": [
-    {
-      "title": "Top-cited AI scientists at four US companies compared",
-      "link": "https://topcitedscientists.com/figures/ai-at-four-us-companies/",
-      "is_new": true
-    },
-    {
-      "title": "OpenAI may be in cost control mode",
-      "link": "https://micjm.com/blog/openai-is-in-cost-control-mode/",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: SimDrop – Running iOS simulators in the macOS Finder sidebar",
-      "link": "https://github.com/rxliuli/sim-drop",
-      "is_new": true
-    },
-    {
-      "title": "Lions' Commentary on Unix: Why It Was Secretly Copied for 20 Years",
-      "link": "https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/",
-      "is_new": false
-    },
-    {
-      "title": "IBM gives H-1B, green card holders 3 weeks to relocate from US or leave company",
-      "link": "https://economictimes.indiatimes.com/nri/work/ibm-gives-h-1b-green-card-holders-3-weeks-to-relocate-from-us-or-leave-company-december-31-deadline-set/articleshow/136180168.cms?from=mdr",
-      "is_new": true
-    },
-    {
-      "title": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
-      "link": "https://scottaaronson.blog/?p=10379",
-      "is_new": false
-    },
-    {
-      "title": "Head of Software Engineering – NOX Metals",
-      "link": "https://news.ycombinator.com/item?id=50654353",
-      "is_new": false
-    },
-    {
-      "title": "Collection of preserved UI style guides",
-      "link": "https://aresluna.org/ui-style-guides/",
-      "is_new": false
-    },
-    {
-      "title": "Minipg: PostgreSQL as a Single Executable",
-      "link": "https://progrium.github.io/minipg/",
-      "is_new": false
-    },
-    {
-      "title": "The history of civilization is the history of wheat",
-      "link": "https://asteriskmag.com/issues/16/marginal-grains",
       "is_new": false
     }
   ]
