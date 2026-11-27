@@ -1,36 +1,41 @@
 {
-  "crawled_at": "2026-11-27 08:27",
-  "prev_crawled_at": "2026-11-26 23:41",
+  "crawled_at": "2026-11-27 15:32",
+  "prev_crawled_at": "2026-11-27 08:27",
   "items": [
+    {
+      "title": "The need for a formally verifiable mainstream programming language",
+      "link": "https://blainehansen.me/post/mainstream-verifiable-language/",
+      "is_new": true
+    },
     {
       "title": "AI made self-hosting fun again",
       "link": "https://janlukas.blog/posts/ai-self-hosting",
-      "is_new": true
+      "is_new": false
     },
     {
-      "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
-      "link": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
-      "is_new": true
-    },
-    {
-      "title": "AMD-specific fork of llama.cpp",
-      "link": "https://devnull.land/amd-specific-llama-cpp",
+      "title": "Hard Drive pricing has gotten bad",
+      "link": "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/",
       "is_new": true
     },
     {
       "title": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
       "link": "https://github.com/antonpictures/youtube-punisher",
-      "is_new": true
+      "is_new": false
     },
     {
-      "title": "CTO of 'RansomwareHelp' Indicted for Wire Fraud",
+      "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
+      "link": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
+      "is_new": false
+    },
+    {
+      "title": "AMD-specific fork of llama.cpp",
+      "link": "https://devnull.land/amd-specific-llama-cpp",
+      "is_new": false
+    },
+    {
+      "title": "CTO of 'RansomwareHelp' indicted for wire fraud",
       "link": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
-      "is_new": true
-    },
-    {
-      "title": "Rvoip 0.5 the complete VoIP stack in Rust",
-      "link": "https://github.com/eisenzopf/rvoip",
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Intel One Mono font (2023)",
@@ -38,38 +43,125 @@
       "is_new": false
     },
     {
-      "title": "Show HN: Olumino, a Markdown notes and spaced repetition app",
-      "link": "https://olumino.app",
+      "title": "Company Culture = Slack Emoji ÷ √Headcount",
+      "link": "https://lia.mg/posts/measuring-company-culture-with-slack-emoji/",
       "is_new": true
     },
+    {
+      "title": "An introduction to uncertainty in machine learning",
+      "link": "https://chrhenning.com/blog/2026/introduction-to-uncertainty/",
+      "is_new": true
+    },
+    {
+      "title": "Novita, StreamLake, etc. are ByteDance Ark wrappers",
+      "link": "https://kendell.dev/blog/arkwrapper/",
+      "is_new": false
+    },
+    {
+      "title": "\"What's Claude's Fursona?\" and Other Questions",
+      "link": "https://herecomesthemoon.net/2026/11/whats-claudes-fursona/",
+      "is_new": true
+    },
+    {
+      "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
+      "link": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
+      "is_new": false
+    },
+    {
+      "title": "Largest 2D Chart library in the world using BUI: BlenderUI",
+      "link": "https://bui.preetham.top/charts/",
+      "is_new": false
+    },
+    {
+      "title": "Rvoip: VoIP stack in Rust",
+      "link": "https://github.com/eisenzopf/rvoip",
+      "is_new": false
+    },
+    {
+      "title": "Show HN: Olumino, a Markdown notes and spaced repetition app",
+      "link": "https://olumino.app",
+      "is_new": false
+    },
+    {
+      "title": "George Whitesides, 1939-2026",
+      "link": "https://www.science.org/content/blog-post/george-whitesides-1939-2026",
+      "is_new": false
+    },
+    {
+      "title": "The Cutthroat Business of Shipwrecks",
+      "link": "https://daily.jstor.org/the-cutthroat-business-of-shipwrecks/",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: I wrote an entire Vim manual over 4 years",
+      "link": "http://themouseless.dev/vim/",
+      "is_new": true
+    },
+    {
+      "title": "The USAID Files",
+      "link": "https://reclaimthenet.org/usaid-files",
+      "is_new": true
+    },
+    {
+      "title": "Curiosity Is No Solo Act",
+      "link": "https://thereader.mitpress.mit.edu/curiosity-is-no-solo-act/",
+      "is_new": false
+    },
+    {
+      "title": "An algebraic quantization of gravity from the null cone",
+      "link": "https://arxiv.org/abs/2611.34924",
+      "is_new": false
+    },
+    {
+      "title": "Moat: OpenRouter replacement",
+      "link": "https://commandcode.ai/moat",
+      "is_new": false
+    },
+    {
+      "title": "Tell HN: Happy Thanksgiving",
+      "link": "https://news.ycombinator.com/item?id=50655664",
+      "is_new": false
+    },
+    {
+      "title": "Nextcloud Office Desktop app",
+      "link": "https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/",
+      "is_new": false
+    },
+    {
+      "title": "1Password Security Incident",
+      "link": "https://1password.com/blog/update-on-nov-2026-security-incident",
+      "is_new": true
+    },
+    {
+      "title": "NormalScript: A perfectly normal scripting language",
+      "link": "https://psychoscript.com/",
+      "is_new": false
+    },
+    {
+      "title": "Google will show solo Android developers' phone numbers and addresses",
+      "link": "https://support.google.com/googleplay/android-developer/answer/17594752?hl=en",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: Three Linux VMs in a browser tab, each running a different browser",
+      "link": "https://michidk.github.io/sidebyside/",
+      "is_new": false
+    },
+    {
+      "title": "Discovery of curse ritual in trash dump surprises Egyptologist",
+      "link": "https://phys.org/news/2026-11-discovery-curse-ritual-trash-dump.html",
+      "is_new": false
+    }
+  ],
+  "removed": [
     {
       "title": "Top-cited AI scientists at four US companies compared",
       "link": "https://topcitedscientists.com/figures/ai-at-four-us-companies/",
       "is_new": true
     },
     {
-      "title": "George Whitesides, 1939-2026",
-      "link": "https://www.science.org/content/blog-post/george-whitesides-1939-2026",
-      "is_new": true
-    },
-    {
-      "title": "NormalScript: A perfectly normal scripting language",
-      "link": "https://psychoscript.com/",
-      "is_new": true
-    },
-    {
       "title": "OpenAI may be in cost control mode",
       "link": "https://micjm.com/blog/openai-is-in-cost-control-mode/",
-      "is_new": true
-    },
-    {
-      "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
-      "link": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: Three Linux VMs in a browser tab, each running a different browser",
-      "link": "https://michidk.github.io/sidebyside/",
       "is_new": true
     },
     {
@@ -83,53 +175,13 @@
       "is_new": false
     },
     {
-      "title": "Largest 2D Chart library in the world using BUI: BlenderUI",
-      "link": "https://bui.preetham.top/charts/",
-      "is_new": true
-    },
-    {
-      "title": "Novita, StreamLake, etc. are ByteDance Ark wrappers",
-      "link": "https://kendell.dev/blog/arkwrapper/",
-      "is_new": true
-    },
-    {
-      "title": "Curiosity Is No Solo Act",
-      "link": "https://thereader.mitpress.mit.edu/curiosity-is-no-solo-act/",
-      "is_new": true
-    },
-    {
-      "title": "Nextcloud Office Desktop app",
-      "link": "https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/",
-      "is_new": false
-    },
-    {
       "title": "IBM gives H-1B, green card holders 3 weeks to relocate from US or leave company",
       "link": "https://economictimes.indiatimes.com/nri/work/ibm-gives-h-1b-green-card-holders-3-weeks-to-relocate-from-us-or-leave-company-december-31-deadline-set/articleshow/136180168.cms?from=mdr",
       "is_new": true
     },
     {
-      "title": "Moat: OpenRouter replacement",
-      "link": "https://commandcode.ai/moat",
-      "is_new": false
-    },
-    {
       "title": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
       "link": "https://scottaaronson.blog/?p=10379",
-      "is_new": false
-    },
-    {
-      "title": "An algebraic quantization of gravity from the null cone",
-      "link": "https://arxiv.org/abs/2611.34924",
-      "is_new": false
-    },
-    {
-      "title": "Tell HN: Happy Thanksgiving",
-      "link": "https://news.ycombinator.com/item?id=50655664",
-      "is_new": true
-    },
-    {
-      "title": "Discovery of curse ritual in trash dump surprises Egyptologist",
-      "link": "https://phys.org/news/2026-11-discovery-curse-ritual-trash-dump.html",
       "is_new": false
     },
     {
@@ -151,103 +203,6 @@
       "title": "The history of civilization is the history of wheat",
       "link": "https://asteriskmag.com/issues/16/marginal-grains",
       "is_new": false
-    }
-  ],
-  "removed": [
-    {
-      "title": "1Password Security Incident",
-      "link": "https://1password.com/blog/update-on-nov-2026-security-incident",
-      "is_new": false
-    },
-    {
-      "title": "The New York Times warns photographers not to update Photoshop over AI features",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
-      "is_new": false
-    },
-    {
-      "title": "Tell HN: Lots of Ask HNs again",
-      "link": "https://news.ycombinator.com/item?id=50649864",
-      "is_new": false
-    },
-    {
-      "title": "Slow Ubuntu security response times",
-      "link": "https://www.openwall.com/lists/oss-security/2026/11/25/9",
-      "is_new": false
-    },
-    {
-      "title": "Show HN: Synth Patch Hero",
-      "link": "https://swarkentin.github.io/synth-patch-hero/",
-      "is_new": true
-    },
-    {
-      "title": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
-      "link": "https://bjin.github.io/go-codegolf-benchmark/#leaderboard",
-      "is_new": false
-    },
-    {
-      "title": "What VP ≠ VNP Means (In 3 Minutes)",
-      "link": "https://www.friedgil.com/vpvnp",
-      "is_new": false
-    },
-    {
-      "title": "Much shorter version of GRH Lean verification from Anthropic",
-      "link": "https://github.com/lsernau/grh-lean",
-      "is_new": false
-    },
-    {
-      "title": "The Great Automatic Grammatizator (By Roald Dahl), 1954 [pdf]",
-      "link": "https://gwern.net/doc/fiction/science-fiction/1953-dahl-thegreatautomaticgrammatizator.pdf",
-      "is_new": false
-    },
-    {
-      "title": "Nfs2root: A 12-year-old pre-auth remote root in the Linux kernel's NFS server",
-      "link": "https://opensec.in/blog/nfs2root-cve-2026-99362",
-      "is_new": false
-    },
-    {
-      "title": "Bare Metal Qwen",
-      "link": "https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os",
-      "is_new": false
-    },
-    {
-      "title": "MCP Gateway: How Snap Checks Both the Person and the Agent",
-      "link": "https://eng.snap.com/mcp-gateway",
-      "is_new": true
-    },
-    {
-      "title": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
-      "link": "https://twitter.com/thsottiaux/status/2125784147889393806",
-      "is_new": false
-    },
-    {
-      "title": "Deploying a payphone on a tiny Pacific Island for fun and zero profit",
-      "link": "https://nickvsnetworking.com/deploying-a-payphone-on-a-tiny-pacific-island-for-fun-and-zero-profit/",
-      "is_new": false
-    },
-    {
-      "title": "Qualcomm's Oryon 3 Reaches the Top",
-      "link": "https://chipsandcheese.com/p/qualcomms-oryon-3-reaches-the-top",
-      "is_new": false
-    },
-    {
-      "title": "SSH is a GUI framework",
-      "link": "https://zydra.sh/articles/ssh-is-a-gui-framework/",
-      "is_new": false
-    },
-    {
-      "title": "Unconditional Integer Factorization in Subexponential Time",
-      "link": "https://github.com/google-research/google-research/tree/4a7bc8ab0bc770e71a259b7966c500496b99010a/cogentic_research_papers/integer_factorization",
-      "is_new": true
-    },
-    {
-      "title": "The polynomial Hirsch conjecture is false [pdf]",
-      "link": "https://github.com/openai/math/blob/main/preprints/Superpolynomial-graph-diameter-of-simple-polytopes-November-24-2026/paper.pdf",
-      "is_new": false
-    },
-    {
-      "title": "I checked Clojure's core with Lean and found unreported bugs",
-      "link": "https://s.conao3.com/blog/2026/e4f733",
-      "is_new": true
     }
   ]
 }
