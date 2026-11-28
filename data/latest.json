@@ -1,27 +1,159 @@
 {
-  "crawled_at": "2026-11-28 02:11",
-  "prev_crawled_at": "2026-11-27 15:32",
+  "crawled_at": "2026-11-28 10:01",
+  "prev_crawled_at": "2026-11-28 02:11",
   "items": [
     {
-      "title": "Show HN: bouncemarket – a live prediction market game for a bouncing ball",
-      "link": "https://bouncemarket.minhanhday.com/",
+      "title": "GPT 6.2 Astra Solves a Historical Mystery",
+      "link": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
+      "is_new": false
+    },
+    {
+      "title": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
+      "link": "https://research.google/blog/supercharging-transformer-residual-connections/",
       "is_new": true
     },
     {
       "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
       "link": "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer",
+      "is_new": false
+    },
+    {
+      "title": "Convex skills send the user's app idea to a remote server without telling them",
+      "link": "https://github.com/convex/convex-backend-skill/issues/64",
+      "is_new": true
+    },
+    {
+      "title": "Source Control from Hell",
+      "link": "https://frantic.im/git/",
+      "is_new": true
+    },
+    {
+      "title": "9/UX: a Macintosh-inspired desktop for 9front",
+      "link": "https://progrium.github.io/9ux/",
+      "is_new": true
+    },
+    {
+      "title": "Citroën Hydraulic System",
+      "link": "https://www.citroenet.org.uk/miscellaneous/hydraulics/hydraulics-1.html",
+      "is_new": true
+    },
+    {
+      "title": "The Balatro Timeline",
+      "link": "https://localthunk.com/blog/balatro-timeline-3aarh",
+      "is_new": true
+    },
+    {
+      "title": "Build your own amp modeler: $78 DIY pedal kit from TONE3000",
+      "link": "https://www.guitarworld.com/gear/guitar-pedals/tone3000-daisy-audio-diy-pedal-kit",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: bouncemarket – a live prediction market game for a bouncing ball",
+      "link": "https://bouncemarket.minhanhday.com/",
+      "is_new": false
+    },
+    {
+      "title": "Tabernetes: A Kubernetes cluster whose nodes are browser tabs",
+      "link": "https://tabernet.es/",
+      "is_new": true
+    },
+    {
+      "title": "The AT&T Unix PC (3B1) VM",
+      "link": "https://virtuallyfun.com/2026/11/22/the-ultimate-att-unix-pc-3b1-vm-w-tcp-ip-and-apps/",
       "is_new": true
     },
     {
       "title": "First images of the impact of DART asteroid deflection experiment",
       "link": "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/",
+      "is_new": false
+    },
+    {
+      "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+      "link": "https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform",
+      "is_new": true
+    },
+    {
+      "title": "Rayshader 1.0: Exit the Matrix",
+      "link": "https://www.tylermw.com/posts/rayverse/rayshader-1-0-exit-the-matrix.html",
+      "is_new": true
+    },
+    {
+      "title": "Scrapheap America",
+      "link": "https://dansinker.com/posts/2026-11-20-scrapheap/",
+      "is_new": true
+    },
+    {
+      "title": "Michael Nielsen took down his book on neural nets",
+      "link": "https://neuralnetworksanddeeplearning.com/",
+      "is_new": true
+    },
+    {
+      "title": "Prospero: Bloat-free, native AI coding harness with ImGui",
+      "link": "https://github.com/skeeto/prospero",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: DragDropMath – Learn math by feel",
+      "link": "https://dragdropmath.com/",
+      "is_new": true
+    },
+    {
+      "title": "SessionGraph: Visualize all your coding agent sessions in one interactive graph",
+      "link": "https://sessiongraph.ai/",
+      "is_new": true
+    },
+    {
+      "title": "Lydian Chromatic Concept of Tonal Organization",
+      "link": "https://en.wikipedia.org/wiki/Lydian_Chromatic_Concept_of_Tonal_Organization",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: Analysis of Hacker News predictions since 2008",
+      "link": "https://hnpredictions.com/",
+      "is_new": true
+    },
+    {
+      "title": "Quad9 Blocks Nginx2root.com",
+      "link": "https://quad9.net/?url=nginx2root.com#domain-tester",
       "is_new": true
     },
     {
       "title": "False computer-checked proofs",
       "link": "https://cr.yp.to/proofs/falseccp.html",
+      "is_new": false
+    },
+    {
+      "title": "Atlantic 1866: information and shipping in the age of the telegraph",
+      "link": "https://atlantic-1866.com/",
       "is_new": true
     },
+    {
+      "title": "Painting 1990s anime scenes in Python",
+      "link": "https://www.fofr.ai/greenhouse-after-the-typhoon",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: Getting 101 tok/s from Inkling 2 Mini in vLLM on one GB10",
+      "link": "https://runtimenotes.com/blog/getting-101-tok-s-from-inkling-2-mini-in-vllm-on-one-gb10/",
+      "is_new": true
+    },
+    {
+      "title": "I am scared: Careless People – Sarah Wynn-Williams on living under a gag order",
+      "link": "https://www.theguardian.com/books/2026/nov/27/careless-people-author-sarah-wynn-williams-the-silence-is-mine-it-doesnt-have-to-be-yours",
+      "is_new": true
+    },
+    {
+      "title": "Making a 3D fantasy map like a 16th-Century atlas",
+      "link": "https://www.spritefusion.com/blog/making-a-fantasy-map-like-a-16th-century-atlas",
+      "is_new": false
+    },
+    {
+      "title": "Claude sabotaging ML research tasks?",
+      "link": "https://twitter.com/RealAstropulse/status/2126119408997466389",
+      "is_new": false
+    }
+  ],
+  "removed": [
     {
       "title": "Group chat where your AI talks behind your back",
       "link": "https://construct22.com/",
@@ -53,16 +185,6 @@
       "is_new": false
     },
     {
-      "title": "Making a 3D fantasy map like a 16th-Century atlas",
-      "link": "https://www.spritefusion.com/blog/making-a-fantasy-map-like-a-16th-century-atlas",
-      "is_new": true
-    },
-    {
-      "title": "GPT 6.2 Astra Solves a Historical Mystery",
-      "link": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
-      "is_new": true
-    },
-    {
       "title": "New York and California age gating rules go into effect in the new year",
       "link": "https://www.eff.org/deeplinks/2026/11/new-york-and-california-age-gating-rules-go-effect-new-year",
       "is_new": true
@@ -70,11 +192,6 @@
     {
       "title": "Mental Health Resources and Political Engagement",
       "link": "https://onlinelibrary.wiley.com/doi/abs/10.1111/ssqu.70219",
-      "is_new": true
-    },
-    {
-      "title": "Claude sabotaging ML research tasks?",
-      "link": "https://twitter.com/RealAstropulse/status/2126119408997466389",
       "is_new": true
     },
     {
@@ -151,103 +268,6 @@
       "title": "AI on brink of making online security useless, mathematicians fear",
       "link": "https://www.thetimes.com/uk/technology-uk/article/ai-making-online-security-useless-smr73d3n8",
       "is_new": true
-    }
-  ],
-  "removed": [
-    {
-      "title": "Novita, StreamLake, etc. are ByteDance Ark wrappers",
-      "link": "https://kendell.dev/blog/arkwrapper/",
-      "is_new": false
-    },
-    {
-      "title": "\"What's Claude's Fursona?\" and Other Questions",
-      "link": "https://herecomesthemoon.net/2026/11/whats-claudes-fursona/",
-      "is_new": true
-    },
-    {
-      "title": "Largest 2D Chart library in the world using BUI: BlenderUI",
-      "link": "https://bui.preetham.top/charts/",
-      "is_new": false
-    },
-    {
-      "title": "Rvoip: VoIP stack in Rust",
-      "link": "https://github.com/eisenzopf/rvoip",
-      "is_new": false
-    },
-    {
-      "title": "Show HN: Olumino, a Markdown notes and spaced repetition app",
-      "link": "https://olumino.app",
-      "is_new": false
-    },
-    {
-      "title": "George Whitesides, 1939-2026",
-      "link": "https://www.science.org/content/blog-post/george-whitesides-1939-2026",
-      "is_new": false
-    },
-    {
-      "title": "The Cutthroat Business of Shipwrecks",
-      "link": "https://daily.jstor.org/the-cutthroat-business-of-shipwrecks/",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: I wrote an entire Vim manual over 4 years",
-      "link": "http://themouseless.dev/vim/",
-      "is_new": true
-    },
-    {
-      "title": "The USAID Files",
-      "link": "https://reclaimthenet.org/usaid-files",
-      "is_new": true
-    },
-    {
-      "title": "Curiosity Is No Solo Act",
-      "link": "https://thereader.mitpress.mit.edu/curiosity-is-no-solo-act/",
-      "is_new": false
-    },
-    {
-      "title": "An algebraic quantization of gravity from the null cone",
-      "link": "https://arxiv.org/abs/2611.34924",
-      "is_new": false
-    },
-    {
-      "title": "Moat: OpenRouter replacement",
-      "link": "https://commandcode.ai/moat",
-      "is_new": false
-    },
-    {
-      "title": "Tell HN: Happy Thanksgiving",
-      "link": "https://news.ycombinator.com/item?id=50655664",
-      "is_new": false
-    },
-    {
-      "title": "Nextcloud Office Desktop app",
-      "link": "https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/",
-      "is_new": false
-    },
-    {
-      "title": "1Password Security Incident",
-      "link": "https://1password.com/blog/update-on-nov-2026-security-incident",
-      "is_new": true
-    },
-    {
-      "title": "NormalScript: A perfectly normal scripting language",
-      "link": "https://psychoscript.com/",
-      "is_new": false
-    },
-    {
-      "title": "Google will show solo Android developers' phone numbers and addresses",
-      "link": "https://support.google.com/googleplay/android-developer/answer/17594752?hl=en",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: Three Linux VMs in a browser tab, each running a different browser",
-      "link": "https://michidk.github.io/sidebyside/",
-      "is_new": false
-    },
-    {
-      "title": "Discovery of curse ritual in trash dump surprises Egyptologist",
-      "link": "https://phys.org/news/2026-11-discovery-curse-ritual-trash-dump.html",
-      "is_new": false
     }
   ]
 }
