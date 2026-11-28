@@ -1,15 +1,40 @@
 {
-  "crawled_at": "2026-11-28 10:01",
-  "prev_crawled_at": "2026-11-28 02:11",
+  "crawled_at": "2026-11-28 18:44",
+  "prev_crawled_at": "2026-11-28 10:01",
   "items": [
+    {
+      "title": "Unkernel: Real Linux kernel, compiled to WebAssembly",
+      "link": "https://unkernel.dev",
+      "is_new": true
+    },
+    {
+      "title": "Loom seamlessly combines weaving, knitting and braiding",
+      "link": "https://news.cornell.edu/stories/2026/11/loom-seamlessly-combines-weaving-knitting-and-braiding",
+      "is_new": true
+    },
+    {
+      "title": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
+      "link": "https://research.google/blog/supercharging-transformer-residual-connections/",
+      "is_new": false
+    },
+    {
+      "title": "The Balatro Timeline",
+      "link": "https://localthunk.com/blog/balatro-timeline-3aarh",
+      "is_new": false
+    },
     {
       "title": "GPT 6.2 Astra Solves a Historical Mystery",
       "link": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
       "is_new": false
     },
     {
-      "title": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
-      "link": "https://research.google/blog/supercharging-transformer-residual-connections/",
+      "title": "Knuth: Moratorium on Error Reports",
+      "link": "https://www-cs-faculty.stanford.edu/~knuth/moratorium.html",
+      "is_new": true
+    },
+    {
+      "title": "Paolo Soleri built a utopian eco-city in the Arizona desert",
+      "link": "https://www.worldofinteriors.com/story/paolo-soleri-arconsati-arizona",
       "is_new": true
     },
     {
@@ -18,34 +43,24 @@
       "is_new": false
     },
     {
+      "title": "Sydney Fire Ant Infestation",
+      "link": "https://www.abc.net.au/news/2026-11-25/nsw-government-ramps-up-efforts-to-respond-to-fire-ants-/107424812",
+      "is_new": true
+    },
+    {
       "title": "Convex skills send the user's app idea to a remote server without telling them",
       "link": "https://github.com/convex/convex-backend-skill/issues/64",
-      "is_new": true
+      "is_new": false
     },
     {
-      "title": "Source Control from Hell",
-      "link": "https://frantic.im/git/",
-      "is_new": true
-    },
-    {
-      "title": "9/UX: a Macintosh-inspired desktop for 9front",
-      "link": "https://progrium.github.io/9ux/",
+      "title": "What Is the Metabolism-First Theory for the Origin of Life?",
+      "link": "https://www.quantamagazine.org/what-is-the-metabolism-first-theory-for-the-origin-of-life-20261111/",
       "is_new": true
     },
     {
       "title": "Citroën Hydraulic System",
       "link": "https://www.citroenet.org.uk/miscellaneous/hydraulics/hydraulics-1.html",
-      "is_new": true
-    },
-    {
-      "title": "The Balatro Timeline",
-      "link": "https://localthunk.com/blog/balatro-timeline-3aarh",
-      "is_new": true
-    },
-    {
-      "title": "Build your own amp modeler: $78 DIY pedal kit from TONE3000",
-      "link": "https://www.guitarworld.com/gear/guitar-pedals/tone3000-daisy-audio-diy-pedal-kit",
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Show HN: bouncemarket – a live prediction market game for a bouncing ball",
@@ -53,8 +68,95 @@
       "is_new": false
     },
     {
+      "title": "9/UX: a Macintosh-inspired desktop for 9front",
+      "link": "https://progrium.github.io/9ux/",
+      "is_new": false
+    },
+    {
       "title": "Tabernetes: A Kubernetes cluster whose nodes are browser tabs",
       "link": "https://tabernet.es/",
+      "is_new": false
+    },
+    {
+      "title": "Build your own amp modeler: $78 DIY pedal kit from TONE3000",
+      "link": "https://www.guitarworld.com/gear/guitar-pedals/tone3000-daisy-audio-diy-pedal-kit",
+      "is_new": false
+    },
+    {
+      "title": "Michael Nielsen took down his book on neural nets",
+      "link": "https://neuralnetworksanddeeplearning.com/",
+      "is_new": false
+    },
+    {
+      "title": "First images of the impact of DART asteroid deflection experiment",
+      "link": "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/",
+      "is_new": false
+    },
+    {
+      "title": "FastLanes: Next-gen File Format [pdf]",
+      "link": "https://research.vu.nl/files/447013431/afroozehphdthesis%20-%2069280d90f0bfd.pdf",
+      "is_new": true
+    },
+    {
+      "title": "The Quantum Omelette Problem",
+      "link": "https://quantumfrontiers.com/2026/10/11/the-quantum-omelette-problem-how-much-energy-belongs-to-the-yolk/",
+      "is_new": true
+    },
+    {
+      "title": "Rayshader 1.0: Exit the Matrix",
+      "link": "https://www.tylermw.com/posts/rayverse/rayshader-1-0-exit-the-matrix.html",
+      "is_new": false
+    },
+    {
+      "title": "Cyberpunk Television Shows",
+      "link": "https://shellzine.net/cyberpunk-television/",
+      "is_new": true
+    },
+    {
+      "title": "Prospero: Bloat-free, native AI coding harness with ImGui",
+      "link": "https://github.com/skeeto/prospero",
+      "is_new": false
+    },
+    {
+      "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+      "link": "https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform",
+      "is_new": false
+    },
+    {
+      "title": "Atari Homebrew Awards Cancelled",
+      "link": "https://forums.atariage.com/topic/394894-atari-homebrew-awards-cancelled/",
+      "is_new": true
+    },
+    {
+      "title": "How WinHelp Files Work",
+      "link": "https://quin.fyi/posts/how-winhelp-files-work.html",
+      "is_new": true
+    },
+    {
+      "title": "Show HN: Analysis of Hacker News predictions since 2008",
+      "link": "https://hnpredictions.com/",
+      "is_new": false
+    },
+    {
+      "title": "Show HN: DragDropMath – Learn math by feel",
+      "link": "https://dragdropmath.com/",
+      "is_new": false
+    },
+    {
+      "title": "False computer-checked proofs",
+      "link": "https://cr.yp.to/proofs/falseccp.html",
+      "is_new": false
+    },
+    {
+      "title": "Same Streets, Different Empires: The Hidden Narrative of Map Copyright",
+      "link": "https://blogs.loc.gov/maps/2026/11/same-streets-different-empires/",
+      "is_new": true
+    }
+  ],
+  "removed": [
+    {
+      "title": "Source Control from Hell",
+      "link": "https://frantic.im/git/",
       "is_new": true
     },
     {
@@ -63,38 +165,8 @@
       "is_new": true
     },
     {
-      "title": "First images of the impact of DART asteroid deflection experiment",
-      "link": "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/",
-      "is_new": false
-    },
-    {
-      "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
-      "link": "https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform",
-      "is_new": true
-    },
-    {
-      "title": "Rayshader 1.0: Exit the Matrix",
-      "link": "https://www.tylermw.com/posts/rayverse/rayshader-1-0-exit-the-matrix.html",
-      "is_new": true
-    },
-    {
       "title": "Scrapheap America",
       "link": "https://dansinker.com/posts/2026-11-20-scrapheap/",
-      "is_new": true
-    },
-    {
-      "title": "Michael Nielsen took down his book on neural nets",
-      "link": "https://neuralnetworksanddeeplearning.com/",
-      "is_new": true
-    },
-    {
-      "title": "Prospero: Bloat-free, native AI coding harness with ImGui",
-      "link": "https://github.com/skeeto/prospero",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: DragDropMath – Learn math by feel",
-      "link": "https://dragdropmath.com/",
       "is_new": true
     },
     {
@@ -108,19 +180,9 @@
       "is_new": true
     },
     {
-      "title": "Show HN: Analysis of Hacker News predictions since 2008",
-      "link": "https://hnpredictions.com/",
-      "is_new": true
-    },
-    {
       "title": "Quad9 Blocks Nginx2root.com",
       "link": "https://quad9.net/?url=nginx2root.com#domain-tester",
       "is_new": true
-    },
-    {
-      "title": "False computer-checked proofs",
-      "link": "https://cr.yp.to/proofs/falseccp.html",
-      "is_new": false
     },
     {
       "title": "Atlantic 1866: information and shipping in the age of the telegraph",
@@ -151,123 +213,6 @@
       "title": "Claude sabotaging ML research tasks?",
       "link": "https://twitter.com/RealAstropulse/status/2126119408997466389",
       "is_new": false
-    }
-  ],
-  "removed": [
-    {
-      "title": "Group chat where your AI talks behind your back",
-      "link": "https://construct22.com/",
-      "is_new": true
-    },
-    {
-      "title": "Kimi for Science: More scientific ideas, made possible",
-      "link": "https://www.kimi.ai/news/kimi-for-science-program",
-      "is_new": true
-    },
-    {
-      "title": "A Deterministic Subexponential-Time Algorithm for the Discrete Logarithm Problem [pdf]",
-      "link": "https://eprint.iacr.org/2026/3020.pdf",
-      "is_new": true
-    },
-    {
-      "title": "AI made self-hosting fun again",
-      "link": "https://janlukas.blog/posts/ai-self-hosting",
-      "is_new": false
-    },
-    {
-      "title": "US Air Force's cloud computing platform hacked",
-      "link": "https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163",
-      "is_new": true
-    },
-    {
-      "title": "The need for a formally verifiable mainstream programming language",
-      "link": "https://blainehansen.me/post/mainstream-verifiable-language/",
-      "is_new": false
-    },
-    {
-      "title": "New York and California age gating rules go into effect in the new year",
-      "link": "https://www.eff.org/deeplinks/2026/11/new-york-and-california-age-gating-rules-go-effect-new-year",
-      "is_new": true
-    },
-    {
-      "title": "Mental Health Resources and Political Engagement",
-      "link": "https://onlinelibrary.wiley.com/doi/abs/10.1111/ssqu.70219",
-      "is_new": true
-    },
-    {
-      "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
-      "link": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
-      "is_new": false
-    },
-    {
-      "title": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
-      "link": "https://github.com/antonpictures/youtube-punisher",
-      "is_new": false
-    },
-    {
-      "title": "AMD-specific fork of llama.cpp",
-      "link": "https://devnull.land/amd-specific-llama-cpp",
-      "is_new": false
-    },
-    {
-      "title": "CTO of 'RansomwareHelp' indicted for wire fraud",
-      "link": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
-      "is_new": false
-    },
-    {
-      "title": "Hard Drive pricing has gotten bad",
-      "link": "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/",
-      "is_new": false
-    },
-    {
-      "title": "Intel One Mono font (2023)",
-      "link": "https://github.com/intel/intel-one-mono",
-      "is_new": false
-    },
-    {
-      "title": "Company Culture = Slack Emoji ÷ √Headcount",
-      "link": "https://lia.mg/posts/measuring-company-culture-with-slack-emoji/",
-      "is_new": false
-    },
-    {
-      "title": "Norse Atlantic suspends all flights as it faces potential collapse",
-      "link": "https://www.bbc.com/news/articles/c9kgmd0ldy0lo",
-      "is_new": true
-    },
-    {
-      "title": "Buy Nothing Day – Friday November 27th 2026",
-      "link": "https://www.buynothingday.co.uk/",
-      "is_new": true
-    },
-    {
-      "title": "Show HN: I restored Palm's last device, and brought its OS to other platforms",
-      "link": "https://www.webosarchive.org/pivot/2026/11/27/the-story-so-far/",
-      "is_new": true
-    },
-    {
-      "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
-      "link": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
-      "is_new": false
-    },
-    {
-      "title": "Pimalaya goes stable: Himalaya v3 and the pimdir standard",
-      "link": "https://blog.pimalaya.org/pimalaya-goes-stable/",
-      "is_new": true
-    },
-    {
-      "title": "An introduction to uncertainty in machine learning",
-      "link": "https://chrhenning.com/blog/2026/introduction-to-uncertainty/",
-      "is_new": false
-    },
-    {
-      "title": "Nvidia CEO's comeback fuels debate on misogyny or impunity for rich and powerful",
-      "link": "https://www.pbs.org/newshour/nation/nvidia-ceos-comeback-fuels-debate-over-misogyny-and-impunity-for-the-rich-and-powerful",
-      "is_new": true
-    },
-    {
-      "title": "AI on brink of making online security useless, mathematicians fear",
-      "link": "https://www.thetimes.com/uk/technology-uk/article/ai-making-online-security-useless-smr73d3n8",
-      "is_new": true
     }
   ]
 }
